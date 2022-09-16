@@ -1,0 +1,20 @@
+
+jdttx1.png
+size: 52, 52
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+ui_jdtc5
+  rotate: false
+  xy: 0, 10
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+ui_jdtc6
+  rotate: false
+  xy: 0, 0
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

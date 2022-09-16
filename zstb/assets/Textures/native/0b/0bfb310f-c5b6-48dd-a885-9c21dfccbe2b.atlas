@@ -1,0 +1,83 @@
+
+monster53.png
+size: 568, 568
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+gw53_arm1
+  rotate: true
+  xy: 0, 0
+  size: 122, 292
+  orig: 122, 292
+  offset: 0, 0
+  index: -1
+gw53_arm2
+  rotate: false
+  xy: 475, 113
+  size: 65, 155
+  orig: 65, 155
+  offset: 0, 0
+  index: -1
+gw53_arm3
+  rotate: false
+  xy: 393, 268
+  size: 96, 115
+  orig: 96, 115
+  offset: 0, 0
+  index: -1
+gw53_body
+  rotate: true
+  xy: 292, 383
+  size: 185, 221
+  orig: 185, 221
+  offset: 0, 0
+  index: -1
+gw53_head
+  rotate: true
+  xy: 292, 3
+  size: 182, 183
+  orig: 182, 183
+  offset: 0, 0
+  index: -1
+gw53_kl
+  rotate: false
+  xy: 152, 417
+  size: 138, 151
+  orig: 138, 151
+  offset: 0, 0
+  index: -1
+gw53_leg
+  rotate: false
+  xy: 152, 238
+  size: 84, 179
+  orig: 84, 179
+  offset: 0, 0
+  index: -1
+gw53_qb
+  rotate: false
+  xy: 291, 265
+  size: 102, 118
+  orig: 102, 118
+  offset: 0, 0
+  index: -1
+gw53_wq1
+  rotate: true
+  xy: 152, 185
+  size: 53, 323
+  orig: 53, 323
+  offset: 0, 0
+  index: -1
+gw53_wq2
+  rotate: false
+  xy: 0, 122
+  size: 152, 446
+  orig: 152, 446
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 236, 266
+  size: 151, 55
+  orig: 151, 55
+  offset: 0, 0
+  index: -1

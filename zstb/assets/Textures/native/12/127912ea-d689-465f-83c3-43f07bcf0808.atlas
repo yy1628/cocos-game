@@ -1,0 +1,90 @@
+
+skill_ccs.png
+size: 794, 794
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+chushou
+  rotate: false
+  xy: 241, 5
+  size: 68, 363
+  orig: 68, 363
+  offset: 0, 0
+  index: -1
+chushoumz1
+  rotate: true
+  xy: 434, 371
+  size: 38, 280
+  orig: 38, 280
+  offset: 0, 0
+  index: -1
+chushoumz10
+  rotate: false
+  xy: 241, 368
+  size: 193, 52
+  orig: 193, 52
+  offset: 0, 0
+  index: -1
+chushoumz2
+  rotate: false
+  xy: 653, 68
+  size: 82, 296
+  orig: 82, 296
+  offset: 0, 0
+  index: -1
+chushoumz3
+  rotate: false
+  xy: 531, 48
+  size: 122, 316
+  orig: 122, 316
+  offset: 0, 0
+  index: -1
+chushoumz4
+  rotate: true
+  xy: 451, 625
+  size: 169, 342
+  orig: 169, 342
+  offset: 0, 0
+  index: -1
+chushoumz5
+  rotate: false
+  xy: 238, 420
+  size: 213, 374
+  orig: 213, 374
+  offset: 0, 0
+  index: -1
+chushoumz6
+  rotate: false
+  xy: 0, 409
+  size: 238, 385
+  orig: 238, 385
+  offset: 0, 0
+  index: -1
+chushoumz7
+  rotate: false
+  xy: 0, 25
+  size: 241, 384
+  orig: 241, 384
+  offset: 0, 0
+  index: -1
+chushoumz8
+  rotate: false
+  xy: 309, 7
+  size: 222, 361
+  orig: 222, 361
+  offset: 0, 0
+  index: -1
+chushoumz9
+  rotate: true
+  xy: 451, 409
+  size: 216, 328
+  orig: 216, 328
+  offset: 0, 0
+  index: -1
+csxj
+  rotate: false
+  xy: 714, 364
+  size: 80, 45
+  orig: 80, 45
+  offset: 0, 0
+  index: -1

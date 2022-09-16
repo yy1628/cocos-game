@@ -1,0 +1,41 @@
+
+monster11.png
+size: 160, 160
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+gw6a
+  rotate: true
+  xy: 89, 31
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+gw6b
+  rotate: true
+  xy: 93, 17
+  size: 14, 55
+  orig: 14, 55
+  offset: 0, 0
+  index: -1
+gw6c
+  rotate: true
+  xy: 0, 23
+  size: 82, 89
+  orig: 82, 89
+  offset: 0, 0
+  index: -1
+gw6d
+  rotate: true
+  xy: 0, 3
+  size: 20, 93
+  orig: 20, 93
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 105
+  size: 151, 55
+  orig: 151, 55
+  offset: 0, 0
+  index: -1

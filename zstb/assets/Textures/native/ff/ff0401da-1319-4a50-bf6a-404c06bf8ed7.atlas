@@ -1,0 +1,27 @@
+
+cxxy.png
+size: 189, 189
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+fg1
+  rotate: true
+  xy: 0, 0
+  size: 82, 79
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+wk1
+  rotate: false
+  xy: 0, 82
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+xt1
+  rotate: false
+  xy: 79, 30
+  size: 10, 52
+  orig: 10, 52
+  offset: 0, 0
+  index: -1

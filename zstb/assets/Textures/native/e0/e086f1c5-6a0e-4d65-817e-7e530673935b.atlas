@@ -1,0 +1,55 @@
+
+juesefuhuo.png
+size: 728, 728
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+gz
+  rotate: false
+  xy: 0, 127
+  size: 222, 320
+  orig: 222, 320
+  offset: 0, 0
+  index: -1
+lg
+  rotate: true
+  xy: 222, 347
+  size: 205, 225
+  orig: 205, 225
+  offset: 0, 0
+  index: -1
+lvg1
+  rotate: true
+  xy: 222, 184
+  size: 163, 165
+  orig: 163, 165
+  offset: 0, 0
+  index: -1
+q1
+  rotate: false
+  xy: 447, 226
+  size: 221, 221
+  orig: 221, 221
+  offset: 0, 0
+  index: -1
+q2
+  rotate: false
+  xy: 474, 447
+  size: 254, 281
+  orig: 254, 281
+  offset: 0, 0
+  index: -1
+q3
+  rotate: false
+  xy: 0, 552
+  size: 474, 176
+  orig: 474, 176
+  offset: 0, 0
+  index: -1
+q4
+  rotate: false
+  xy: 0, 474
+  size: 219, 78
+  orig: 219, 78
+  offset: 0, 0
+  index: -1
