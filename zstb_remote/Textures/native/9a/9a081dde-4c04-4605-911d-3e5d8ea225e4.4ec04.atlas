@@ -1,0 +1,181 @@
+
+mount4.png
+size: 603, 603
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bzgg
+  rotate: true
+  xy: 0, 7
+  size: 139, 169
+  orig: 139, 169
+  offset: 0, 0
+  index: -1
+fgh1
+  rotate: true
+  xy: 548, 19
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+fgh2
+  rotate: false
+  xy: 0, 334
+  size: 255, 117
+  orig: 255, 117
+  offset: 0, 0
+  index: -1
+fgh3
+  rotate: false
+  xy: 500, 169
+  size: 88, 66
+  orig: 88, 66
+  offset: 0, 0
+  index: -1
+hz1
+  rotate: false
+  xy: 565, 449
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+hz2
+  rotate: false
+  xy: 391, 43
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+hz3
+  rotate: true
+  xy: 252, 0
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+hz4
+  rotate: false
+  xy: 255, 434
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+jgg
+  rotate: false
+  xy: 407, 28
+  size: 96, 132
+  orig: 96, 132
+  offset: 0, 0
+  index: -1
+leg1gg
+  rotate: true
+  xy: 169, 0
+  size: 61, 83
+  orig: 61, 83
+  offset: 0, 0
+  index: -1
+mount1_body
+  rotate: false
+  xy: 293, 418
+  size: 229, 125
+  orig: 229, 125
+  offset: 0, 0
+  index: -1
+mount1_bozi
+  rotate: false
+  xy: 361, 160
+  size: 139, 169
+  orig: 139, 169
+  offset: 0, 0
+  index: -1
+mount1_leg1
+  rotate: true
+  xy: 255, 329
+  size: 89, 231
+  orig: 89, 231
+  offset: 0, 0
+  index: -1
+mount1_leg2
+  rotate: true
+  xy: 184, 61
+  size: 98, 223
+  orig: 98, 223
+  offset: 0, 0
+  index: -1
+mount4_tail
+  rotate: false
+  xy: 0, 146
+  size: 184, 188
+  orig: 184, 188
+  offset: 0, 0
+  index: -1
+mount4_zm1
+  rotate: true
+  xy: 522, 421
+  size: 122, 43
+  orig: 122, 43
+  offset: 0, 0
+  index: -1
+mount4_zm2
+  rotate: false
+  xy: 252, 20
+  size: 139, 41
+  orig: 139, 41
+  offset: 0, 0
+  index: -1
+mount4_zm3
+  rotate: true
+  xy: 503, 43
+  size: 126, 45
+  orig: 126, 45
+  offset: 0, 0
+  index: -1
+mount4_zm4
+  rotate: true
+  xy: 548, 81
+  size: 88, 33
+  orig: 88, 33
+  offset: 0, 0
+  index: -1
+mount4_zm5
+  rotate: true
+  xy: 565, 466
+  size: 77, 32
+  orig: 77, 32
+  offset: 0, 0
+  index: -1
+mount_shadow
+  rotate: false
+  xy: 293, 543
+  size: 300, 60
+  orig: 300, 60
+  offset: 0, 0
+  index: -1
+mouth3_head
+  rotate: false
+  xy: 500, 235
+  size: 103, 183
+  orig: 103, 183
+  offset: 0, 0
+  index: -1
+szgg
+  rotate: false
+  xy: 0, 451
+  size: 293, 152
+  orig: 293, 152
+  offset: 0, 0
+  index: -1
+wbgg
+  rotate: false
+  xy: 184, 159
+  size: 177, 170
+  orig: 177, 170
+  offset: 0, 0
+  index: -1
+yjgg
+  rotate: false
+  xy: 503, 0
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1

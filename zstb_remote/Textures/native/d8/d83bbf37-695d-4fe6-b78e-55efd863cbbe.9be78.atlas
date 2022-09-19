@@ -1,0 +1,55 @@
+
+skill_shield.png
+size: 422, 422
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+hddise
+  rotate: false
+  xy: 284, 94
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+hdfgc
+  rotate: false
+  xy: 0, 12
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+hdgg1
+  rotate: false
+  xy: 284, 12
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+hdgg2
+  rotate: false
+  xy: 284, 42
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+hdwaiquan
+  rotate: false
+  xy: 0, 216
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+hdysc
+  rotate: false
+  xy: 206, 218
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+wddyz
+  rotate: true
+  xy: 204, 0
+  size: 216, 80
+  orig: 216, 80
+  offset: 0, 0
+  index: -1

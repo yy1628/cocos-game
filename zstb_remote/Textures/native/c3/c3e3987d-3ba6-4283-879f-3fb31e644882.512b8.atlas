@@ -1,0 +1,69 @@
+
+monster38.png
+size: 551, 551
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+gw5c
+  rotate: true
+  xy: 469, 249
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+gwzs3a
+  rotate: true
+  xy: 0, 162
+  size: 117, 469
+  orig: 117, 469
+  offset: 0, 0
+  index: -1
+gwzs3b
+  rotate: false
+  xy: 0, 0
+  size: 296, 162
+  orig: 296, 162
+  offset: 0, 0
+  index: -1
+gwzs3c
+  rotate: false
+  xy: 514, 402
+  size: 35, 149
+  orig: 35, 149
+  offset: 0, 0
+  index: -1
+gwzs3d
+  rotate: false
+  xy: 0, 279
+  size: 440, 272
+  orig: 440, 272
+  offset: 0, 0
+  index: -1
+gwzs3e
+  rotate: false
+  xy: 296, 32
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+gwzs3f
+  rotate: true
+  xy: 440, 279
+  size: 272, 58
+  orig: 272, 58
+  offset: 0, 0
+  index: -1
+gwzs3g
+  rotate: false
+  xy: 498, 298
+  size: 16, 253
+  orig: 16, 253
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 296, 107
+  size: 151, 55
+  orig: 151, 55
+  offset: 0, 0
+  index: -1

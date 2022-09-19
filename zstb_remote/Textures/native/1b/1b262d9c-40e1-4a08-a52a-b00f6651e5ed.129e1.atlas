@@ -1,0 +1,111 @@
+
+skill_lightning.png
+size: 974, 974
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+lightning1
+  rotate: true
+  xy: 0, 702
+  size: 74, 950
+  orig: 74, 950
+  offset: 0, 0
+  index: -1
+lightning2
+  rotate: true
+  xy: 0, 611
+  size: 91, 974
+  orig: 91, 974
+  offset: 0, 0
+  index: -1
+lightning3
+  rotate: true
+  xy: 0, 515
+  size: 96, 960
+  orig: 96, 960
+  offset: 0, 0
+  index: -1
+skill3_hit1
+  rotate: true
+  xy: 0, 949
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+skill3_hit10
+  rotate: true
+  xy: 757, 819
+  size: 155, 178
+  orig: 155, 178
+  offset: 0, 0
+  index: -1
+skill3_hit11
+  rotate: true
+  xy: 0, 356
+  size: 159, 181
+  orig: 159, 181
+  offset: 0, 0
+  index: -1
+skill3_hit12
+  rotate: true
+  xy: 181, 354
+  size: 161, 184
+  orig: 161, 184
+  offset: 0, 0
+  index: -1
+skill3_hit2
+  rotate: false
+  xy: 35, 940
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+skill3_hit3
+  rotate: false
+  xy: 90, 934
+  size: 114, 40
+  orig: 114, 40
+  offset: 0, 0
+  index: -1
+skill3_hit4
+  rotate: false
+  xy: 204, 920
+  size: 97, 54
+  orig: 97, 54
+  offset: 0, 0
+  index: -1
+skill3_hit5
+  rotate: false
+  xy: 301, 857
+  size: 135, 117
+  orig: 135, 117
+  offset: 0, 0
+  index: -1
+skill3_hit6
+  rotate: false
+  xy: 436, 836
+  size: 151, 138
+  orig: 151, 138
+  offset: 0, 0
+  index: -1
+skill3_hit7
+  rotate: true
+  xy: 587, 821
+  size: 153, 170
+  orig: 153, 170
+  offset: 0, 0
+  index: -1
+skill3_hit8
+  rotate: true
+  xy: 0, 776
+  size: 158, 173
+  orig: 158, 173
+  offset: 0, 0
+  index: -1
+skill3_hit9
+  rotate: true
+  xy: 365, 351
+  size: 164, 175
+  orig: 164, 175
+  offset: 0, 0
+  index: -1

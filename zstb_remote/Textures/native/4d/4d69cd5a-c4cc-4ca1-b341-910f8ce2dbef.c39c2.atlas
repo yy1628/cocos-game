@@ -1,0 +1,20 @@
+
+skill_shufu.png
+size: 228, 228
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+lssf1
+  rotate: false
+  xy: 17, 128
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+lssf2
+  rotate: false
+  xy: 0, 0
+  size: 17, 228
+  orig: 17, 228
+  offset: 0, 0
+  index: -1

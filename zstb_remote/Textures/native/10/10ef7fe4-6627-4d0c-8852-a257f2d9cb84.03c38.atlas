@@ -1,0 +1,83 @@
+
+tcdh.png
+size: 724, 724
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+g1
+  rotate: true
+  xy: 0, 580
+  size: 95, 243
+  orig: 95, 243
+  offset: 0, 0
+  index: -1
+gz
+  rotate: false
+  xy: 522, 595
+  size: 172, 129
+  orig: 172, 129
+  offset: 0, 0
+  index: -1
+hh1
+  rotate: false
+  xy: 198, 357
+  size: 221, 185
+  orig: 221, 185
+  offset: 0, 0
+  index: -1
+hh2
+  rotate: false
+  xy: 0, 418
+  size: 198, 162
+  orig: 198, 162
+  offset: 0, 0
+  index: -1
+hh3
+  rotate: true
+  xy: 462, 668
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+hy1
+  rotate: false
+  xy: 430, 453
+  size: 204, 142
+  orig: 204, 142
+  offset: 0, 0
+  index: -1
+hy2
+  rotate: false
+  xy: 243, 542
+  size: 187, 133
+  orig: 187, 133
+  offset: 0, 0
+  index: -1
+shuzhi1
+  rotate: true
+  xy: 25, 684
+  size: 40, 116
+  orig: 40, 116
+  offset: 0, 0
+  index: -1
+shuzhi2
+  rotate: true
+  xy: 141, 675
+  size: 49, 321
+  orig: 49, 321
+  offset: 0, 0
+  index: -1
+taizi
+  rotate: false
+  xy: 0, 51
+  size: 724, 306
+  orig: 724, 306
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 0, 699
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
