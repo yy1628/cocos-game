@@ -1,0 +1,55 @@
+
+bs_cb5.png
+size: 322, 322
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+duye01
+  rotate: true
+  xy: 225, 222
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+duye02
+  rotate: false
+  xy: 225, 265
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+duye03
+  rotate: false
+  xy: 267, 280
+  size: 17, 42
+  orig: 17, 42
+  offset: 0, 0
+  index: -1
+duye04
+  rotate: false
+  xy: 225, 194
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+guchi014
+  rotate: false
+  xy: 0, 147
+  size: 225, 175
+  orig: 225, 175
+  offset: 0, 0
+  index: -1
+zhuwang
+  rotate: true
+  xy: 214, 19
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: -1
+zwys
+  rotate: false
+  xy: 0, 11
+  size: 214, 136
+  orig: 214, 136
+  offset: 0, 0
+  index: -1

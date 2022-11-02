@@ -1,0 +1,20 @@
+
+bs_cb1.png
+size: 278, 278
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+chibang1
+  rotate: false
+  xy: 0, 85
+  size: 223, 193
+  orig: 223, 193
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 223, 201
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1

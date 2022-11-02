@@ -1,0 +1,90 @@
+
+bs_cb4.png
+size: 279, 279
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+baiguang01
+  rotate: true
+  xy: 220, 153
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+baiguang02
+  rotate: true
+  xy: 120, 27
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+baiguang03
+  rotate: true
+  xy: 57, 15
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+baiguang04
+  rotate: false
+  xy: 175, 44
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+heiwenli
+  rotate: true
+  xy: 212, 51
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+shandian01
+  rotate: false
+  xy: 0, 11
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+shandian02
+  rotate: true
+  xy: 0, 44
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+shandian03
+  rotate: true
+  xy: 120, 52
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+shandian04
+  rotate: true
+  xy: 57, 47
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+shandian05
+  rotate: true
+  xy: 220, 216
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+shandian06
+  rotate: true
+  xy: 220, 94
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+wing_moxie01
+  rotate: false
+  xy: 0, 95
+  size: 220, 184
+  orig: 220, 184
+  offset: 0, 0
+  index: -1

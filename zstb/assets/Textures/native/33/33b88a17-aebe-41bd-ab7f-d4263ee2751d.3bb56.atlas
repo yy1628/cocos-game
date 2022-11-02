@@ -1,0 +1,55 @@
+
+mount8.png
+size: 402, 402
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+mount7_xt
+  rotate: false
+  xy: 0, 392
+  size: 142, 10
+  orig: 142, 10
+  offset: 0, 0
+  index: -1
+mount7_xx1
+  rotate: false
+  xy: 142, 378
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+mount7_xx2
+  rotate: true
+  xy: 172, 378
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+mount7_xx3
+  rotate: false
+  xy: 200, 374
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+mount7_xx4
+  rotate: false
+  xy: 353, 368
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+mount81
+  rotate: false
+  xy: 0, 221
+  size: 402, 147
+  orig: 402, 147
+  offset: 0, 0
+  index: -1
+mount82
+  rotate: true
+  xy: 233, 373
+  size: 29, 120
+  orig: 29, 120
+  offset: 0, 0
+  index: -1

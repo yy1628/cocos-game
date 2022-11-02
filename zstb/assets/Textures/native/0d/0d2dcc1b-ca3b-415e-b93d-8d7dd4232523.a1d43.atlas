@@ -1,0 +1,13 @@
+
+bs_cb3.png
+size: 197, 197
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+chibang3
+  rotate: false
+  xy: 0, 50
+  size: 197, 147
+  orig: 197, 147
+  offset: 0, 0
+  index: -1

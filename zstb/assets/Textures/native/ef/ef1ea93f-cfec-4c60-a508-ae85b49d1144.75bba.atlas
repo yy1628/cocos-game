@@ -1,0 +1,69 @@
+
+mount10.png
+size: 336, 336
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+mount7_xt
+  rotate: true
+  xy: 320, 194
+  size: 142, 10
+  orig: 142, 10
+  offset: 0, 0
+  index: -1
+mount7_xx1
+  rotate: true
+  xy: 0, 196
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+mount7_xx2
+  rotate: true
+  xy: 35, 195
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+mount7_xx3
+  rotate: true
+  xy: 103, 203
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+mount7_xx4
+  rotate: false
+  xy: 250, 85
+  size: 86, 109
+  orig: 86, 109
+  offset: 0, 0
+  index: -1
+shuizhu
+  rotate: false
+  xy: 63, 211
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+yyz
+  rotate: false
+  xy: 0, 65
+  size: 142, 47
+  orig: 142, 47
+  offset: 0, 0
+  index: -1
+zfj1
+  rotate: false
+  xy: 0, 112
+  size: 250, 82
+  orig: 250, 82
+  offset: 0, 0
+  index: -1
+zfj2
+  rotate: false
+  xy: 0, 232
+  size: 320, 104
+  orig: 320, 104
+  offset: 0, 0
+  index: -1
