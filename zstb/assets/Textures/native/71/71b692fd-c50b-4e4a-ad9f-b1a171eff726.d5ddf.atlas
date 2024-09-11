@@ -1,0 +1,20 @@
+
+bs_cb7.png
+size: 262, 262
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+hsg
+  rotate: false
+  xy: 44, 91
+  size: 108, 171
+  orig: 108, 171
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: false
+  xy: 0, 0
+  size: 44, 262
+  orig: 44, 262
+  offset: 0, 0
+  index: -1

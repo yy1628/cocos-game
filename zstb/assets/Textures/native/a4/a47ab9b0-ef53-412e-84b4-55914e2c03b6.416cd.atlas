@@ -1,0 +1,62 @@
+
+bs_cb6.png
+size: 269, 269
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+cb6
+  rotate: false
+  xy: 0, 63
+  size: 229, 206
+  orig: 229, 206
+  offset: 0, 0
+  index: -1
+heiwenli
+  rotate: true
+  xy: 229, 226
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+shandian01
+  rotate: true
+  xy: 229, 191
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+shandian02
+  rotate: false
+  xy: 166, 6
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+shandian03
+  rotate: false
+  xy: 217, 8
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+shandian04
+  rotate: false
+  xy: 59, 0
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+shandian05
+  rotate: true
+  xy: 0, 0
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+shandian06
+  rotate: false
+  xy: 107, 5
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
