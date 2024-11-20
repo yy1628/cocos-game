@@ -1,0 +1,69 @@
+
+mount6.png
+size: 368,368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd
+  rotate: false
+  xy: 338, 184
+  size: 27, 27
+  orig: 35, 35
+  offset: 4, 4
+  index: -1
+jdy1
+  rotate: false
+  xy: 2, 182
+  size: 254, 183
+  orig: 254, 183
+  offset: 0, 0
+  index: -1
+jdy2
+  rotate: true
+  xy: 327, 213
+  size: 152, 35
+  orig: 152, 35
+  offset: 0, 0
+  index: -1
+jdy3
+  rotate: false
+  xy: 2, 36
+  size: 188, 144
+  orig: 188, 144
+  offset: 0, 0
+  index: -1
+jdy4
+  rotate: true
+  xy: 258, 175
+  size: 190, 67
+  orig: 195, 69
+  offset: 0, 2
+  index: -1
+shadow
+  rotate: true
+  xy: 192, 66
+  size: 114, 56
+  orig: 118, 60
+  offset: 2, 2
+  index: -1
+xc
+  rotate: false
+  xy: 250, 119
+  size: 75, 54
+  orig: 89, 64
+  offset: 6, 5
+  index: -1
+xt
+  rotate: true
+  xy: 327, 106
+  size: 105, 9
+  orig: 110, 13
+  offset: 2, 2
+  index: -1
+xx
+  rotate: false
+  xy: 250, 13
+  size: 91, 91
+  orig: 109, 109
+  offset: 8, 10
+  index: -1

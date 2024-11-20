@@ -1,0 +1,27 @@
+
+bs_cb8.png
+size: 352,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang6a
+  rotate: false
+  xy: 267, 232
+  size: 83, 118
+  orig: 83, 118
+  offset: 0, 0
+  index: -1
+chibang6b
+  rotate: false
+  xy: 2, 132
+  size: 263, 218
+  orig: 263, 218
+  offset: 0, 0
+  index: -1
+chibang6c
+  rotate: false
+  xy: 267, 179
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1

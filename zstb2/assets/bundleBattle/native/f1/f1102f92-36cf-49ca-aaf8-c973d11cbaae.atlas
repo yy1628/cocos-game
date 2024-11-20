@@ -1,0 +1,13 @@
+
+skill_garlic.png
+size: 518,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+babx
+  rotate: false
+  xy: 2, 2
+  size: 514, 514
+  orig: 520, 520
+  offset: 3, 3
+  index: -1

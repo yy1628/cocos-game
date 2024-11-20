@@ -1,0 +1,97 @@
+
+chushou.png
+size: 787,787
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chushou
+  rotate: false
+  xy: 670, 133
+  size: 57, 338
+  orig: 57, 338
+  offset: 0, 0
+  index: -1
+chushou2
+  rotate: false
+  xy: 234, 57
+  size: 54, 346
+  orig: 54, 346
+  offset: 0, 0
+  index: -1
+chushoumz1
+  rotate: false
+  xy: 729, 195
+  size: 34, 276
+  orig: 36, 278
+  offset: 1, 1
+  index: -1
+chushoumz10
+  rotate: false
+  xy: 234, 8
+  size: 189, 47
+  orig: 191, 50
+  offset: 1, 2
+  index: -1
+chushoumz2
+  rotate: true
+  xy: 456, 22
+  size: 78, 292
+  orig: 80, 294
+  offset: 1, 1
+  index: -1
+chushoumz3
+  rotate: false
+  xy: 668, 473
+  size: 117, 312
+  orig: 120, 314
+  offset: 1, 1
+  index: -1
+chushoumz4
+  rotate: false
+  xy: 290, 75
+  size: 164, 338
+  orig: 167, 340
+  offset: 1, 1
+  index: -1
+chushoumz5
+  rotate: false
+  xy: 240, 415
+  size: 207, 370
+  orig: 211, 372
+  offset: 2, 1
+  index: -1
+chushoumz6
+  rotate: false
+  xy: 2, 22
+  size: 230, 381
+  orig: 236, 383
+  offset: 5, 1
+  index: -1
+chushoumz7
+  rotate: false
+  xy: 2, 405
+  size: 236, 380
+  orig: 239, 382
+  offset: 1, 1
+  index: -1
+chushoumz8
+  rotate: false
+  xy: 449, 428
+  size: 217, 357
+  orig: 220, 359
+  offset: 1, 1
+  index: -1
+chushoumz9
+  rotate: false
+  xy: 456, 102
+  size: 212, 324
+  orig: 214, 326
+  offset: 1, 1
+  index: -1
+csxj
+  rotate: true
+  xy: 729, 117
+  size: 76, 41
+  orig: 80, 45
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,34 @@
+
+skill_ball.png
+size: 290, 290
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+gg
+  rotate: false
+  xy: 240, 166
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+yz
+  rotate: true
+  xy: 240, 192
+  size: 98, 50
+  orig: 98, 50
+  offset: 0, 0
+  index: -1
+zq
+  rotate: false
+  xy: 0, 152
+  size: 139, 138
+  orig: 139, 138
+  offset: 0, 0
+  index: -1
+zqam
+  rotate: true
+  xy: 139, 152
+  size: 138, 101
+  orig: 138, 101
+  offset: 0, 0
+  index: -1
