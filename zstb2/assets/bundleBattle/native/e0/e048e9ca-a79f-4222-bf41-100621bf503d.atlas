@@ -1,0 +1,90 @@
+
+zhw_jt.png
+size: 282, 282
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+arm1
+  rotate: true
+  xy: 79, 40
+  size: 58, 79
+  orig: 58, 79
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: true
+  xy: 158, 49
+  size: 49, 69
+  orig: 49, 69
+  offset: 0, 0
+  index: -1
+arm3
+  rotate: true
+  xy: 158, 0
+  size: 49, 69
+  orig: 49, 69
+  offset: 0, 0
+  index: -1
+arm4
+  rotate: true
+  xy: 0, 39
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 98
+  size: 107, 184
+  orig: 107, 184
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 107, 98
+  size: 107, 184
+  orig: 107, 184
+  offset: 0, 0
+  index: -1
+cj
+  rotate: false
+  xy: 129, 8
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 42, 13
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+mousth
+  rotate: true
+  xy: 227, 78
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+mousth1
+  rotate: true
+  xy: 79, 3
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+mousth2
+  rotate: true
+  xy: 0, 2
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 214, 131
+  size: 151, 55
+  orig: 151, 55
+  offset: 0, 0
+  index: -1

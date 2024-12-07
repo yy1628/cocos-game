@@ -1,0 +1,76 @@
+
+magic8.png
+size: 294, 294
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+magic8_1
+  rotate: false
+  xy: 209, 36
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+magic8_2
+  rotate: false
+  xy: 0, 70
+  size: 126, 224
+  orig: 126, 224
+  offset: 0, 0
+  index: -1
+magic8_3
+  rotate: false
+  xy: 0, 0
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+magic8_4
+  rotate: false
+  xy: 209, 65
+  size: 24, 229
+  orig: 24, 229
+  offset: 0, 0
+  index: -1
+magic8_byq
+  rotate: true
+  xy: 233, 166
+  size: 128, 60
+  orig: 128, 60
+  offset: 0, 0
+  index: -1
+magic8_dg
+  rotate: false
+  xy: 126, 117
+  size: 83, 177
+  orig: 83, 177
+  offset: 0, 0
+  index: -1
+magic8_sd1
+  rotate: false
+  xy: 233, 86
+  size: 50, 80
+  orig: 50, 80
+  offset: 0, 0
+  index: -1
+magic8_sd2
+  rotate: false
+  xy: 65, 6
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+magic8_sd3
+  rotate: false
+  xy: 185, 17
+  size: 24, 100
+  orig: 24, 100
+  offset: 0, 0
+  index: -1
+magic8_sd4
+  rotate: true
+  xy: 126, 89
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1

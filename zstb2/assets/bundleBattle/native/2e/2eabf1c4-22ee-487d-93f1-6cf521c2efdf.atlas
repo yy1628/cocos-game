@@ -1,0 +1,139 @@
+
+skill_cgs.png
+size: 963, 963
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bz1
+  rotate: true
+  xy: 730, 399
+  size: 85, 87
+  orig: 85, 87
+  offset: 0, 0
+  index: -1
+bz10
+  rotate: false
+  xy: 323, 466
+  size: 302, 270
+  orig: 302, 270
+  offset: 0, 0
+  index: -1
+bz11
+  rotate: false
+  xy: 0, 689
+  size: 323, 274
+  orig: 323, 274
+  offset: 0, 0
+  index: -1
+bz12
+  rotate: false
+  xy: 634, 686
+  size: 305, 277
+  orig: 305, 277
+  offset: 0, 0
+  index: -1
+bz2
+  rotate: true
+  xy: 823, 558
+  size: 128, 130
+  orig: 128, 130
+  offset: 0, 0
+  index: -1
+bz3
+  rotate: true
+  xy: 322, 252
+  size: 214, 193
+  orig: 214, 193
+  offset: 0, 0
+  index: -1
+bz4
+  rotate: true
+  xy: 233, 7
+  size: 240, 239
+  orig: 240, 239
+  offset: 0, 0
+  index: -1
+bz5
+  rotate: true
+  xy: 0, 0
+  size: 247, 233
+  orig: 247, 233
+  offset: 0, 0
+  index: -1
+bz6
+  rotate: false
+  xy: 625, 484
+  size: 198, 202
+  orig: 198, 202
+  offset: 0, 0
+  index: -1
+bz7
+  rotate: false
+  xy: 515, 255
+  size: 207, 211
+  orig: 207, 211
+  offset: 0, 0
+  index: -1
+bz8
+  rotate: false
+  xy: 472, 15
+  size: 258, 237
+  orig: 258, 237
+  offset: 0, 0
+  index: -1
+bz9
+  rotate: false
+  xy: 0, 247
+  size: 268, 244
+  orig: 268, 244
+  offset: 0, 0
+  index: -1
+dh1
+  rotate: true
+  xy: 268, 347
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+dh2
+  rotate: false
+  xy: 268, 386
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+dh3
+  rotate: true
+  xy: 268, 430
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1
+jrct
+  rotate: true
+  xy: 323, 736
+  size: 227, 311
+  orig: 227, 311
+  offset: 0, 0
+  index: -1
+xz
+  rotate: false
+  xy: 0, 491
+  size: 293, 198
+  orig: 293, 198
+  offset: 0, 0
+  index: -1
+za
+  rotate: true
+  xy: 823, 473
+  size: 85, 111
+  orig: 85, 111
+  offset: 0, 0
+  index: -1
+zdyz
+  rotate: true
+  xy: 268, 266
+  size: 81, 35
+  orig: 81, 35
+  offset: 0, 0
+  index: -1

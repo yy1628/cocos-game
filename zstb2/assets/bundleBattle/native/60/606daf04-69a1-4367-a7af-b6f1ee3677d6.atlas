@@ -1,0 +1,76 @@
+
+monster36.png
+size: 439, 439
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+gwzs1a
+  rotate: false
+  xy: 0, 189
+  size: 207, 250
+  orig: 207, 250
+  offset: 0, 0
+  index: -1
+gwzs1b
+  rotate: true
+  xy: 300, 201
+  size: 98, 91
+  orig: 98, 91
+  offset: 0, 0
+  index: -1
+gwzs1c
+  rotate: true
+  xy: 254, 64
+  size: 130, 134
+  orig: 130, 134
+  offset: 0, 0
+  index: -1
+gwzs1d
+  rotate: true
+  xy: 207, 194
+  size: 105, 93
+  orig: 105, 93
+  offset: 0, 0
+  index: -1
+gwzs1e
+  rotate: true
+  xy: 207, 299
+  size: 140, 169
+  orig: 140, 169
+  offset: 0, 0
+  index: -1
+gwzs1f
+  rotate: false
+  xy: 391, 292
+  size: 44, 147
+  orig: 44, 147
+  offset: 0, 0
+  index: -1
+gwzs1g
+  rotate: true
+  xy: 0, 11
+  size: 178, 254
+  orig: 178, 254
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 254, 9
+  size: 151, 55
+  orig: 151, 55
+  offset: 0, 0
+  index: -1
+wsgw6c
+  rotate: false
+  xy: 388, 113
+  size: 31, 88
+  orig: 31, 88
+  offset: 0, 0
+  index: -1
+wsgw6d
+  rotate: false
+  xy: 405, 41
+  size: 34, 72
+  orig: 34, 72
+  offset: 0, 0
+  index: -1

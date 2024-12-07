@@ -1,0 +1,118 @@
+
+fenghuang.png
+size: 1000,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 500
+  size: 369, 371
+  orig: 369, 371
+  offset: 0, 0
+  index: -1
+01a
+  rotate: true
+  xy: 297, 109
+  size: 389, 130
+  orig: 389, 130
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 716, 310
+  size: 71, 88
+  orig: 71, 88
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 716, 383
+  size: 88, 118
+  orig: 88, 118
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 429, 254
+  size: 332, 285
+  orig: 332, 285
+  offset: 0, 0
+  index: -1
+05a
+  rotate: false
+  xy: 2, 2
+  size: 272, 115
+  orig: 272, 115
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 806, 423
+  size: 81, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+07a
+  rotate: true
+  xy: 927, 296
+  size: 575, 71
+  orig: 575, 83
+  offset: 0, 5
+  index: -1
+08
+  rotate: false
+  xy: 429, 86
+  size: 298, 166
+  orig: 298, 166
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 744, 503
+  size: 368, 181
+  orig: 368, 181
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 729, 73
+  size: 236, 221
+  orig: 236, 221
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 276, 12
+  size: 329, 72
+  orig: 329, 72
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 373, 548
+  size: 40, 38
+  orig: 45, 41
+  offset: 2, 1
+  index: -1
+15
+  rotate: true
+  xy: 2, 119
+  size: 379, 293
+  orig: 412, 321
+  offset: 16, 13
+  index: -1
+mount_shadow
+  rotate: false
+  xy: 607, 11
+  size: 300, 60
+  orig: 300, 60
+  offset: 0, 0
+  index: -1
+tx
+  rotate: false
+  xy: 373, 588
+  size: 369, 283
+  orig: 369, 283
+  offset: 0, 0
+  index: -1

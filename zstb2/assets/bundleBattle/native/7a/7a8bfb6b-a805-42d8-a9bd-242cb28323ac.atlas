@@ -1,0 +1,90 @@
+
+long.png
+size: 668,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 58, 2
+  size: 150, 91
+  orig: 150, 91
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 321, 154
+  size: 180, 128
+  orig: 180, 128
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 451, 163
+  size: 171, 74
+  orig: 171, 74
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 527, 177
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 527, 243
+  size: 113, 91
+  orig: 113, 91
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 527, 7
+  size: 168, 88
+  orig: 168, 88
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 58, 95
+  size: 134, 239
+  orig: 134, 239
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 194, 110
+  size: 125, 224
+  orig: 125, 224
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 336
+  size: 662, 202
+  orig: 662, 202
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 210, 10
+  size: 98, 202
+  orig: 98, 202
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 414, 22
+  size: 130, 110
+  orig: 130, 110
+  offset: 0, 0
+  index: -1
+mount_shadow
+  rotate: true
+  xy: 2, 40
+  size: 294, 54
+  orig: 300, 60
+  offset: 3, 3
+  index: -1

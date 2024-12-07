@@ -1,0 +1,90 @@
+
+magic10.png
+size: 503, 503
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+magic10_1
+  rotate: false
+  xy: 0, 80
+  size: 188, 423
+  orig: 188, 423
+  offset: 0, 0
+  index: -1
+magic10_2
+  rotate: true
+  xy: 188, 262
+  size: 116, 138
+  orig: 116, 138
+  offset: 0, 0
+  index: -1
+magic10_3
+  rotate: true
+  xy: 136, 6
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1
+magic10_4
+  rotate: true
+  xy: 0, 12
+  size: 68, 136
+  orig: 68, 136
+  offset: 0, 0
+  index: -1
+magic10_bq
+  rotate: true
+  xy: 136, 22
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+magic10_cq
+  rotate: false
+  xy: 188, 144
+  size: 123, 118
+  orig: 123, 118
+  offset: 0, 0
+  index: -1
+magic10_lgq
+  rotate: true
+  xy: 289, 5
+  size: 106, 105
+  orig: 106, 105
+  offset: 0, 0
+  index: -1
+magic10_sd1
+  rotate: false
+  xy: 342, 310
+  size: 98, 193
+  orig: 98, 193
+  offset: 0, 0
+  index: -1
+magic10_sd2
+  rotate: false
+  xy: 191, 0
+  size: 98, 144
+  orig: 98, 144
+  offset: 0, 0
+  index: -1
+magic10_sd3
+  rotate: true
+  xy: 311, 111
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1
+magic10_sd4
+  rotate: true
+  xy: 326, 213
+  size: 97, 161
+  orig: 97, 161
+  offset: 0, 0
+  index: -1
+magic10_sd5
+  rotate: true
+  xy: 188, 378
+  size: 125, 154
+  orig: 125, 154
+  offset: 0, 0
+  index: -1

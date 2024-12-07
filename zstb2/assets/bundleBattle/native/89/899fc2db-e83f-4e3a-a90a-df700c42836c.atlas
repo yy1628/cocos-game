@@ -1,0 +1,132 @@
+
+mount1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bmzb1
+  rotate: true
+  xy: 211, 80
+  size: 95, 90
+  orig: 95, 90
+  offset: 0, 0
+  index: -1
+bmzb2
+  rotate: false
+  xy: 2, 285
+  size: 167, 169
+  orig: 167, 169
+  offset: 0, 0
+  index: -1
+bmzb3
+  rotate: false
+  xy: 211, 177
+  size: 90, 108
+  orig: 90, 109
+  offset: 0, 0
+  index: -1
+bmzb4
+  rotate: false
+  xy: 303, 131
+  size: 143, 153
+  orig: 143, 153
+  offset: 0, 0
+  index: -1
+bmzb5
+  rotate: false
+  xy: 448, 206
+  size: 45, 84
+  orig: 49, 88
+  offset: 2, 2
+  index: -1
+bmzb6
+  rotate: true
+  xy: 90, 2
+  size: 38, 63
+  orig: 42, 67
+  offset: 2, 2
+  index: -1
+bmzb7
+  rotate: true
+  xy: 448, 157
+  size: 47, 26
+  orig: 51, 30
+  offset: 2, 2
+  index: -1
+bmzb8
+  rotate: false
+  xy: 303, 14
+  size: 138, 115
+  orig: 138, 115
+  offset: 0, 0
+  index: -1
+mount1_body
+  rotate: true
+  xy: 2, 73
+  size: 210, 122
+  orig: 210, 122
+  offset: 0, 0
+  index: -1
+mount1_bozi
+  rotate: false
+  xy: 171, 287
+  size: 137, 167
+  orig: 137, 169
+  offset: 0, 2
+  index: -1
+mount1_ear
+  rotate: false
+  xy: 155, 9
+  size: 23, 31
+  orig: 28, 35
+  offset: 2, 2
+  index: -1
+mount1_head
+  rotate: false
+  xy: 126, 42
+  size: 83, 84
+  orig: 87, 88
+  offset: 2, 2
+  index: -1
+mount1_leg1
+  rotate: false
+  xy: 310, 286
+  size: 94, 224
+  orig: 94, 224
+  offset: 0, 0
+  index: -1
+mount1_leg2
+  rotate: false
+  xy: 406, 292
+  size: 95, 218
+  orig: 96, 218
+  offset: 0, 0
+  index: -1
+mount1_saddlea
+  rotate: false
+  xy: 2, 17
+  size: 86, 54
+  orig: 91, 58
+  offset: 2, 2
+  index: -1
+mount1_saddleb
+  rotate: true
+  xy: 211, 55
+  size: 23, 55
+  orig: 27, 60
+  offset: 2, 3
+  index: -1
+mount1_tail
+  rotate: false
+  xy: 126, 128
+  size: 83, 155
+  orig: 86, 155
+  offset: 0, 0
+  index: -1
+mount_shadow
+  rotate: false
+  xy: 2, 456
+  size: 294, 54
+  orig: 300, 60
+  offset: 3, 3
+  index: -1

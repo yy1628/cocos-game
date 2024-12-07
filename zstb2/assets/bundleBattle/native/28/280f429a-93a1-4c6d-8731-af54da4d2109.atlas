@@ -1,0 +1,20 @@
+
+chibang02.png
+size: 368,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 2
+  size: 239, 182
+  orig: 239, 182
+  offset: 0, 0
+  index: -1
+txtu_ (101)
+  rotate: false
+  xy: 243, 63
+  size: 121, 121
+  orig: 133, 133
+  offset: 6, 6
+  index: -1

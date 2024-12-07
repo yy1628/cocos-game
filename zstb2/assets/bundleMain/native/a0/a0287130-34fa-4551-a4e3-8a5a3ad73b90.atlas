@@ -1,0 +1,27 @@
+
+effect_main.png
+size: 291,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xt1
+  rotate: false
+  xy: 2, 2
+  size: 57, 287
+  orig: 65, 307
+  offset: 4, 12
+  index: -1
+xt2
+  rotate: false
+  xy: 111, 109
+  size: 41, 180
+  orig: 47, 200
+  offset: 3, 10
+  index: -1
+xt3
+  rotate: false
+  xy: 61, 47
+  size: 48, 242
+  orig: 53, 262
+  offset: 3, 11
+  index: -1
