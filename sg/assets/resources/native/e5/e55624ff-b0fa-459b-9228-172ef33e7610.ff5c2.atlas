@@ -1,0 +1,111 @@
+
+shenzhangfei_skill01_cx_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/fz/00000
+  rotate: true
+  xy: 2, 198
+  size: 117, 135
+  orig: 165, 165
+  offset: 24, 14
+  index: -1
+sk1/fz/00002
+  rotate: true
+  xy: 117, 337
+  size: 117, 135
+  orig: 165, 165
+  offset: 24, 15
+  index: -1
+sk1/fz/00004
+  rotate: true
+  xy: 2, 75
+  size: 121, 112
+  orig: 165, 165
+  offset: 25, 30
+  index: -1
+sk1/fz/00006
+  rotate: false
+  xy: 268, 10
+  size: 124, 100
+  orig: 165, 165
+  offset: 23, 32
+  index: -1
+sk1/fz/00008
+  rotate: false
+  xy: 372, 136
+  size: 131, 95
+  orig: 165, 165
+  offset: 18, 32
+  index: -1
+sk1/fz/00010
+  rotate: false
+  xy: 116, 2
+  size: 130, 94
+  orig: 165, 165
+  offset: 18, 33
+  index: -1
+sk1/fz/00012
+  rotate: true
+  xy: 268, 112
+  size: 119, 102
+  orig: 165, 165
+  offset: 21, 32
+  index: -1
+sk1/fz/00014
+  rotate: true
+  xy: 139, 98
+  size: 114, 127
+  orig: 165, 165
+  offset: 25, 17
+  index: -1
+sk1/fz/00016
+  rotate: false
+  xy: 2, 317
+  size: 113, 137
+  orig: 165, 165
+  offset: 26, 13
+  index: -1
+sk1/fz/00018
+  rotate: false
+  xy: 139, 214
+  size: 115, 121
+  orig: 165, 165
+  offset: 25, 25
+  index: -1
+sk1/fz/00020
+  rotate: false
+  xy: 256, 233
+  size: 125, 104
+  orig: 165, 165
+  offset: 25, 33
+  index: -1
+sk1/fz/00022
+  rotate: true
+  xy: 394, 6
+  size: 128, 97
+  orig: 165, 165
+  offset: 20, 32
+  index: -1
+sk1/fz/00024
+  rotate: false
+  xy: 374, 358
+  size: 131, 96
+  orig: 165, 165
+  offset: 18, 32
+  index: -1
+sk1/fz/00026
+  rotate: false
+  xy: 383, 258
+  size: 125, 98
+  orig: 165, 165
+  offset: 20, 32
+  index: -1
+sk1/fz/00028
+  rotate: false
+  xy: 254, 339
+  size: 118, 115
+  orig: 165, 165
+  offset: 23, 21
+  index: -1

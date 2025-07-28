@@ -1,0 +1,62 @@
+
+cacao_skill01_sf_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jzsh/fazhen/0000
+  rotate: false
+  xy: 162, 38
+  size: 103, 95
+  orig: 180, 180
+  offset: 38, 42
+  index: -1
+jzsh/fazhen/0002
+  rotate: false
+  xy: 2, 139
+  size: 164, 141
+  orig: 180, 180
+  offset: 8, 17
+  index: -1
+jzsh/fazhen/0004
+  rotate: false
+  xy: 344, 116
+  size: 166, 142
+  orig: 180, 180
+  offset: 7, 16
+  index: -1
+jzsh/fazhen/0006
+  rotate: false
+  xy: 175, 135
+  size: 167, 146
+  orig: 180, 180
+  offset: 6, 14
+  index: -1
+jzsh/fazhen/0008
+  rotate: true
+  xy: 348, 260
+  size: 169, 146
+  orig: 180, 180
+  offset: 5, 14
+  index: -1
+jzsh/fazhen/0010
+  rotate: false
+  xy: 2, 282
+  size: 171, 147
+  orig: 180, 180
+  offset: 4, 13
+  index: -1
+jzsh/fazhen/0012
+  rotate: false
+  xy: 175, 283
+  size: 171, 146
+  orig: 180, 180
+  offset: 4, 14
+  index: -1
+jzsh/fazhen/0014
+  rotate: false
+  xy: 2, 2
+  size: 158, 135
+  orig: 180, 180
+  offset: 10, 20
+  index: -1

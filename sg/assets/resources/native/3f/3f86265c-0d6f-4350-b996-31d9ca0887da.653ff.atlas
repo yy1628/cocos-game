@@ -1,0 +1,83 @@
+
+xiaoqiao_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sj/00000
+  rotate: false
+  xy: 120, 271
+  size: 115, 109
+  orig: 227, 227
+  offset: 60, 56
+  index: -1
+sj/00002
+  rotate: false
+  xy: 316, 2
+  size: 141, 137
+  orig: 227, 227
+  offset: 46, 43
+  index: -1
+sj/00004
+  rotate: false
+  xy: 158, 8
+  size: 156, 134
+  orig: 227, 227
+  offset: 43, 48
+  index: -1
+sj/00006
+  rotate: false
+  xy: 2, 14
+  size: 154, 130
+  orig: 227, 227
+  offset: 45, 48
+  index: -1
+sj/00008
+  rotate: true
+  xy: 383, 141
+  size: 122, 123
+  orig: 227, 227
+  offset: 54, 48
+  index: -1
+sj/00010
+  rotate: true
+  xy: 2, 152
+  size: 117, 124
+  orig: 227, 227
+  offset: 59, 47
+  index: -1
+sj/00012
+  rotate: true
+  xy: 256, 144
+  size: 119, 125
+  orig: 227, 227
+  offset: 58, 47
+  index: -1
+sj/00014
+  rotate: true
+  xy: 128, 146
+  size: 117, 126
+  orig: 227, 227
+  offset: 60, 47
+  index: -1
+sj/00016
+  rotate: true
+  xy: 237, 265
+  size: 115, 124
+  orig: 227, 227
+  offset: 62, 47
+  index: -1
+sj/00018
+  rotate: true
+  xy: 363, 265
+  size: 115, 121
+  orig: 227, 227
+  offset: 63, 47
+  index: -1
+sj/00020
+  rotate: true
+  xy: 2, 271
+  size: 109, 116
+  orig: 227, 227
+  offset: 66, 48
+  index: -1

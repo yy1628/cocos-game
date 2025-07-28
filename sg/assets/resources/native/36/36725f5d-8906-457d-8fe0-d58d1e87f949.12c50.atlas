@@ -1,0 +1,216 @@
+
+squareanimation.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+仙_00000
+  rotate: false
+  xy: 2, 69
+  size: 64, 64
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00001
+  rotate: false
+  xy: 68, 69
+  size: 64, 64
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00002
+  rotate: true
+  xy: 134, 69
+  size: 64, 65
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00003
+  rotate: true
+  xy: 201, 69
+  size: 64, 65
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00004
+  rotate: false
+  xy: 268, 69
+  size: 64, 64
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00005
+  rotate: true
+  xy: 334, 69
+  size: 64, 65
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00006
+  rotate: false
+  xy: 401, 69
+  size: 64, 64
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00007
+  rotate: false
+  xy: 467, 69
+  size: 64, 64
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00008
+  rotate: false
+  xy: 533, 69
+  size: 64, 64
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00009
+  rotate: true
+  xy: 599, 69
+  size: 64, 65
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00010
+  rotate: true
+  xy: 666, 69
+  size: 64, 65
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00011
+  rotate: false
+  xy: 733, 69
+  size: 64, 64
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00012
+  rotate: true
+  xy: 799, 69
+  size: 64, 65
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00013
+  rotate: false
+  xy: 866, 69
+  size: 64, 64
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00014
+  rotate: false
+  xy: 932, 69
+  size: 64, 64
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00015
+  rotate: false
+  xy: 2, 3
+  size: 64, 64
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00016
+  rotate: false
+  xy: 68, 3
+  size: 64, 64
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00017
+  rotate: true
+  xy: 134, 3
+  size: 64, 65
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00018
+  rotate: true
+  xy: 201, 3
+  size: 64, 65
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00019
+  rotate: false
+  xy: 268, 3
+  size: 64, 64
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00020
+  rotate: true
+  xy: 334, 3
+  size: 64, 65
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00021
+  rotate: false
+  xy: 401, 3
+  size: 64, 64
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00022
+  rotate: false
+  xy: 467, 3
+  size: 64, 64
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00023
+  rotate: false
+  xy: 533, 3
+  size: 64, 64
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00024
+  rotate: true
+  xy: 599, 3
+  size: 64, 65
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00025
+  rotate: false
+  xy: 865, 2
+  size: 65, 65
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00026
+  rotate: false
+  xy: 932, 2
+  size: 65, 65
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00027
+  rotate: true
+  xy: 666, 3
+  size: 64, 65
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00028
+  rotate: false
+  xy: 733, 3
+  size: 64, 64
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+仙_00029
+  rotate: false
+  xy: 799, 3
+  size: 64, 64
+  orig: 75, 75
+  offset: 6, 6
+  index: -1

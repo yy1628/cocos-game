@@ -1,0 +1,34 @@
+
+shenlvmeng_skill01_dd_up.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/dd/00000
+  rotate: false
+  xy: 250, 5
+  size: 116, 65
+  orig: 169, 91
+  offset: 30, 11
+  index: -1
+sk1/dd/00002
+  rotate: false
+  xy: 129, 2
+  size: 119, 68
+  orig: 169, 91
+  offset: 24, 10
+  index: -1
+sk1/dd/00004
+  rotate: false
+  xy: 368, 2
+  size: 113, 68
+  orig: 169, 91
+  offset: 30, 10
+  index: -1
+sk1/dd/00006
+  rotate: false
+  xy: 2, 2
+  size: 125, 68
+  orig: 169, 91
+  offset: 24, 10
+  index: -1

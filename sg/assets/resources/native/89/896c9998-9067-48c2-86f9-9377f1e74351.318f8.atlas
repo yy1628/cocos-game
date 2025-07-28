@@ -1,0 +1,76 @@
+
+jiaxu_skill03_buff_up.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qimou/00000
+  rotate: true
+  xy: 102, 85
+  size: 80, 97
+  orig: 150, 150
+  offset: 35, 30
+  index: -1
+qimou/00002
+  rotate: true
+  xy: 201, 85
+  size: 80, 98
+  orig: 150, 150
+  offset: 35, 30
+  index: -1
+qimou/00004
+  rotate: true
+  xy: 301, 85
+  size: 80, 97
+  orig: 150, 150
+  offset: 35, 31
+  index: -1
+qimou/00006
+  rotate: true
+  xy: 400, 85
+  size: 80, 97
+  orig: 150, 150
+  offset: 35, 32
+  index: -1
+qimou/00008
+  rotate: true
+  xy: 2, 3
+  size: 80, 97
+  orig: 150, 150
+  offset: 35, 32
+  index: -1
+qimou/00010
+  rotate: true
+  xy: 400, 2
+  size: 81, 98
+  orig: 150, 150
+  offset: 35, 32
+  index: -1
+qimou/00012
+  rotate: true
+  xy: 101, 3
+  size: 80, 98
+  orig: 150, 150
+  offset: 35, 32
+  index: -1
+qimou/00014
+  rotate: true
+  xy: 201, 3
+  size: 80, 97
+  orig: 150, 150
+  offset: 35, 32
+  index: -1
+qimou/00016
+  rotate: true
+  xy: 300, 3
+  size: 80, 98
+  orig: 150, 150
+  offset: 35, 31
+  index: -1
+qimou/00018
+  rotate: true
+  xy: 2, 85
+  size: 80, 98
+  orig: 150, 150
+  offset: 35, 30
+  index: -1

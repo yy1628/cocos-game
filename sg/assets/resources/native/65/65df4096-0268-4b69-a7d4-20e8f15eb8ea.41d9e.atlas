@@ -1,0 +1,90 @@
+
+simayi_skill03_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mingquan/shifa/00000
+  rotate: true
+  xy: 263, 120
+  size: 69, 73
+  orig: 210, 210
+  offset: 24, 87
+  index: -1
+mingquan/shifa/00002
+  rotate: true
+  xy: 369, 88
+  size: 91, 97
+  orig: 210, 210
+  offset: 25, 97
+  index: -1
+mingquan/shifa/00004
+  rotate: true
+  xy: 174, 191
+  size: 148, 155
+  orig: 210, 210
+  offset: 40, 52
+  index: -1
+mingquan/shifa/00006
+  rotate: true
+  xy: 2, 199
+  size: 143, 170
+  orig: 210, 210
+  offset: 46, 34
+  index: -1
+mingquan/shifa/00008
+  rotate: true
+  xy: 348, 181
+  size: 165, 156
+  orig: 210, 210
+  offset: 22, 34
+  index: -1
+mingquan/shifa/00010
+  rotate: false
+  xy: 2, 344
+  size: 172, 160
+  orig: 210, 210
+  offset: 22, 23
+  index: -1
+mingquan/shifa/00012
+  rotate: false
+  xy: 176, 341
+  size: 170, 163
+  orig: 210, 210
+  offset: 27, 30
+  index: -1
+mingquan/shifa/00014
+  rotate: false
+  xy: 348, 348
+  size: 162, 156
+  orig: 210, 210
+  offset: 31, 37
+  index: -1
+mingquan/shifa/00016
+  rotate: false
+  xy: 2, 63
+  size: 140, 134
+  orig: 210, 210
+  offset: 40, 50
+  index: -1
+mingquan/shifa/00018
+  rotate: true
+  xy: 144, 55
+  size: 124, 117
+  orig: 210, 210
+  offset: 48, 53
+  index: -1
+mingquan/shifa/00020
+  rotate: true
+  xy: 263, 2
+  size: 116, 104
+  orig: 210, 210
+  offset: 48, 55
+  index: -1
+mingquan/shifa/00022
+  rotate: false
+  xy: 506, 345
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

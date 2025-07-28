@@ -1,0 +1,139 @@
+
+taigu_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s/00000
+  rotate: true
+  xy: 2, 431
+  size: 52, 67
+  orig: 221, 253
+  offset: 77, 169
+  index: -1
+s/00002
+  rotate: true
+  xy: 71, 431
+  size: 52, 68
+  orig: 221, 253
+  offset: 79, 171
+  index: -1
+s/00004
+  rotate: true
+  xy: 141, 423
+  size: 60, 165
+  orig: 221, 253
+  offset: 81, 77
+  index: -1
+s/00006
+  rotate: true
+  xy: 308, 421
+  size: 62, 170
+  orig: 221, 253
+  offset: 80, 75
+  index: -1
+s/00008
+  rotate: true
+  xy: 80, 357
+  size: 64, 167
+  orig: 221, 253
+  offset: 79, 75
+  index: -1
+s/00010
+  rotate: true
+  xy: 249, 354
+  size: 65, 173
+  orig: 221, 253
+  offset: 79, 74
+  index: -1
+s/00012
+  rotate: true
+  xy: 2, 168
+  size: 111, 113
+  orig: 221, 253
+  offset: 33, 74
+  index: -1
+s/00014
+  rotate: true
+  xy: 384, 117
+  size: 133, 119
+  orig: 221, 253
+  offset: 44, 54
+  index: -1
+s/00016
+  rotate: false
+  xy: 2, 27
+  size: 140, 131
+  orig: 221, 253
+  offset: 42, 58
+  index: -1
+s/00018
+  rotate: false
+  xy: 144, 2
+  size: 135, 134
+  orig: 221, 253
+  offset: 44, 61
+  index: -1
+s/00020
+  rotate: true
+  xy: 117, 160
+  size: 111, 134
+  orig: 221, 253
+  offset: 55, 62
+  index: -1
+s/00022
+  rotate: true
+  xy: 253, 138
+  size: 112, 129
+  orig: 221, 253
+  offset: 55, 61
+  index: -1
+s/00024
+  rotate: false
+  xy: 357, 252
+  size: 108, 94
+  orig: 221, 253
+  offset: 56, 63
+  index: -1
+s/00026
+  rotate: false
+  xy: 258, 266
+  size: 97, 86
+  orig: 221, 253
+  offset: 65, 66
+  index: -1
+s/00028
+  rotate: false
+  xy: 163, 273
+  size: 93, 79
+  orig: 221, 253
+  offset: 67, 73
+  index: -1
+s/00030
+  rotate: true
+  xy: 82, 281
+  size: 74, 79
+  orig: 221, 253
+  offset: 78, 73
+  index: -1
+s/00032
+  rotate: true
+  xy: 2, 282
+  size: 73, 78
+  orig: 221, 253
+  offset: 78, 73
+  index: -1
+s/00034
+  rotate: true
+  xy: 424, 348
+  size: 71, 77
+  orig: 221, 253
+  offset: 78, 74
+  index: -1
+s/00036
+  rotate: true
+  xy: 2, 360
+  size: 69, 76
+  orig: 221, 253
+  offset: 78, 74
+  index: -1

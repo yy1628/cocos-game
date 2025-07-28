@@ -1,0 +1,538 @@
+
+yanliang.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_body
+  rotate: false
+  xy: 66, 2
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+b_hair
+  rotate: true
+  xy: 85, 148
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+b_head
+  rotate: true
+  xy: 2, 22
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+b_house_body
+  rotate: true
+  xy: 2, 188
+  size: 66, 44
+  orig: 66, 44
+  offset: 0, 0
+  index: -1
+b_house_hair
+  rotate: false
+  xy: 49, 145
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+b_house_head
+  rotate: false
+  xy: 2, 71
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+b_house_neck
+  rotate: false
+  xy: 113, 71
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+b_house_tail
+  rotate: true
+  xy: 180, 163
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+b_l_arm1
+  rotate: true
+  xy: 206, 31
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+b_l_arm2
+  rotate: true
+  xy: 179, 197
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+b_l_hand
+  rotate: true
+  xy: 238, 13
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+b_l_house_foreleg01
+  rotate: false
+  xy: 220, 198
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+b_l_house_foreleg02
+  rotate: false
+  xy: 255, 18
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+b_l_house_foreleg04
+  rotate: false
+  xy: 217, 148
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+b_l_house_rearleg01
+  rotate: false
+  xy: 84, 71
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+b_l_house_rearleg02
+  rotate: true
+  xy: 225, 126
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+b_l_house_rearleg04
+  rotate: true
+  xy: 221, 10
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+b_l_leg
+  rotate: false
+  xy: 226, 105
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+b_l_shoulder
+  rotate: true
+  xy: 127, 158
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+b_m_neck01
+  rotate: false
+  xy: 198, 3
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+b_r_arm1
+  rotate: true
+  xy: 226, 51
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+b_r_arm2
+  rotate: false
+  xy: 121, 2
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+b_r_house_foreleg02
+  rotate: false
+  xy: 255, 2
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+b_r_house_foreleg03
+  rotate: false
+  xy: 244, 163
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+b_r_house_foreleg04
+  rotate: false
+  xy: 234, 148
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+b_r_house_rearleg01
+  rotate: true
+  xy: 169, 3
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+b_r_house_rearleg02
+  rotate: true
+  xy: 218, 71
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+b_r_house_rearleg03
+  rotate: false
+  xy: 188, 71
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+b_r_house_rearleg04
+  rotate: true
+  xy: 244, 34
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+b_r_shoulder
+  rotate: true
+  xy: 212, 163
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+b_saddle
+  rotate: true
+  xy: 50, 27
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+b_skirt
+  rotate: false
+  xy: 2, 2
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+b_wq1
+  rotate: true
+  xy: 92, 27
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+b_wq2
+  rotate: true
+  xy: 206, 222
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+b_wq3
+  rotate: true
+  xy: 197, 118
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+b_wq4
+  rotate: false
+  xy: 189, 148
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+b_wq5
+  rotate: true
+  xy: 141, 219
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+b_zhuangshi
+  rotate: true
+  xy: 162, 148
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+f_body
+  rotate: false
+  xy: 219, 224
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+f_hair
+  rotate: true
+  xy: 89, 104
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: false
+  xy: 49, 97
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+f_house_body
+  rotate: true
+  xy: 2, 122
+  size: 64, 45
+  orig: 64, 45
+  offset: 0, 0
+  index: -1
+f_house_neck
+  rotate: false
+  xy: 174, 31
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+f_housetail
+  rotate: true
+  xy: 176, 220
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+f_l_arm1
+  rotate: false
+  xy: 140, 2
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+f_l_arm2
+  rotate: true
+  xy: 49, 71
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: true
+  xy: 201, 197
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+f_l_house_foreleg01
+  rotate: false
+  xy: 208, 125
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+f_l_house_foreleg02
+  rotate: false
+  xy: 271, 26
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+f_l_house_foreleg03
+  rotate: false
+  xy: 226, 93
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+f_l_house_foreleg04
+  rotate: true
+  xy: 176, 148
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+f_l_house_rearleg01
+  rotate: false
+  xy: 206, 50
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+f_l_house_rearleg02
+  rotate: true
+  xy: 245, 57
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+f_l_house_rearleg04
+  rotate: false
+  xy: 203, 71
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+f_l_shoulder
+  rotate: false
+  xy: 164, 114
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+f_m_head02
+  rotate: false
+  xy: 153, 196
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+f_m_horse_head
+  rotate: true
+  xy: 48, 194
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+f_m_neck01
+  rotate: false
+  xy: 249, 226
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+f_r_arm1
+  rotate: false
+  xy: 105, 195
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+f_r_arm2
+  rotate: true
+  xy: 94, 2
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+f_r_hand
+  rotate: true
+  xy: 226, 32
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+f_r_house_foreleg01
+  rotate: false
+  xy: 129, 195
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+f_r_house_foreleg02
+  rotate: false
+  xy: 236, 74
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+f_r_house_foreleg04
+  rotate: false
+  xy: 270, 2
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+f_r_house_rearleg01
+  rotate: false
+  xy: 241, 198
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+f_r_house_rearleg03
+  rotate: false
+  xy: 243, 111
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+f_r_house_rearleg04
+  rotate: false
+  xy: 260, 41
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+f_r_leg
+  rotate: false
+  xy: 244, 176
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+f_r_shoulder
+  rotate: false
+  xy: 105, 219
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+f_saddle
+  rotate: true
+  xy: 133, 29
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+f_skirt
+  rotate: true
+  xy: 162, 160
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+f_wq1
+  rotate: true
+  xy: 124, 107
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+f_wq2
+  rotate: true
+  xy: 205, 92
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+f_wq3
+  rotate: false
+  xy: 39, 2
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+f_wq4
+  rotate: true
+  xy: 188, 84
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+f_wq5
+  rotate: true
+  xy: 149, 71
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1

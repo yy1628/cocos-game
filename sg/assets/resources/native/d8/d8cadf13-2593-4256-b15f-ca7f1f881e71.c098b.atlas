@@ -1,0 +1,167 @@
+
+zhangji.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_body
+  rotate: true
+  xy: 611, 27
+  size: 112, 111
+  orig: 112, 111
+  offset: 0, 0
+  index: -1
+f_clock
+  rotate: false
+  xy: 2, 62
+  size: 144, 192
+  orig: 144, 192
+  offset: 0, 0
+  index: -1
+f_g_arrow
+  rotate: false
+  xy: 127, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+f_max_crossbow06
+  rotate: false
+  xy: 127, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: false
+  xy: 148, 70
+  size: 154, 184
+  orig: 154, 184
+  offset: 0, 0
+  index: -1
+f_l_arm01
+  rotate: false
+  xy: 59, 4
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+f_l_arm02
+  rotate: false
+  xy: 563, 89
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+f_l_foot
+  rotate: false
+  xy: 576, 29
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+f_l_head
+  rotate: true
+  xy: 696, 156
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+f_l_leg01
+  rotate: true
+  xy: 127, 5
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+f_l_leg02
+  rotate: false
+  xy: 724, 126
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+f_l_shoulder
+  rotate: true
+  xy: 404, 8
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+f_l_skirt
+  rotate: true
+  xy: 654, 204
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+f_r_arm01
+  rotate: false
+  xy: 240, 4
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+f_r_arm02
+  rotate: true
+  xy: 179, 2
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+f_r_foot
+  rotate: false
+  xy: 701, 223
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+f_r_head
+  rotate: true
+  xy: 654, 152
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+f_r_leg01
+  rotate: true
+  xy: 2, 2
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+f_r_leg02
+  rotate: false
+  xy: 576, 58
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+f_r_shoulder
+  rotate: true
+  xy: 563, 141
+  size: 113, 89
+  orig: 113, 89
+  offset: 0, 0
+  index: -1
+f_r_skirt
+  rotate: false
+  xy: 475, 13
+  size: 99, 67
+  orig: 99, 67
+  offset: 0, 0
+  index: -1
+f_wq1
+  rotate: false
+  xy: 304, 82
+  size: 257, 172
+  orig: 257, 172
+  offset: 0, 0
+  index: -1
+f_wq2
+  rotate: false
+  xy: 301, 6
+  size: 101, 62
+  orig: 101, 62
+  offset: 0, 0
+  index: -1

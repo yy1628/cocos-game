@@ -1,0 +1,111 @@
+
+red_idle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0000
+  rotate: true
+  xy: 2, 1675
+  size: 357, 538
+  orig: 487, 867
+  offset: 95, 185
+  index: -1
+0002
+  rotate: true
+  xy: 542, 1671
+  size: 361, 542
+  orig: 487, 867
+  offset: 94, 183
+  index: -1
+0004
+  rotate: true
+  xy: 1086, 1668
+  size: 364, 546
+  orig: 487, 867
+  offset: 93, 181
+  index: -1
+0006
+  rotate: true
+  xy: 2, 1301
+  size: 368, 550
+  orig: 487, 867
+  offset: 92, 179
+  index: -1
+0008
+  rotate: true
+  xy: 554, 1293
+  size: 373, 554
+  orig: 487, 867
+  offset: 90, 177
+  index: -1
+0010
+  rotate: false
+  xy: 1634, 1506
+  size: 376, 526
+  orig: 487, 867
+  offset: 90, 175
+  index: -1
+0012
+  rotate: false
+  xy: 1110, 1137
+  size: 379, 529
+  orig: 487, 867
+  offset: 89, 174
+  index: -1
+0014
+  rotate: true
+  xy: 1491, 1121
+  size: 383, 533
+  orig: 487, 867
+  offset: 88, 172
+  index: -1
+0016
+  rotate: true
+  xy: 1104, 733
+  size: 386, 537
+  orig: 487, 867
+  offset: 87, 171
+  index: -1
+0018
+  rotate: false
+  xy: 1643, 579
+  size: 389, 540
+  orig: 487, 867
+  offset: 87, 170
+  index: -1
+0020
+  rotate: true
+  xy: 2, 520
+  size: 392, 544
+  orig: 487, 867
+  offset: 86, 168
+  index: -1
+0022
+  rotate: true
+  xy: 2, 914
+  size: 385, 546
+  orig: 487, 867
+  offset: 95, 168
+  index: -1
+0024
+  rotate: true
+  xy: 548, 518
+  size: 386, 548
+  orig: 487, 867
+  offset: 95, 168
+  index: -1
+0026
+  rotate: true
+  xy: 1098, 189
+  size: 388, 551
+  orig: 487, 867
+  offset: 94, 167
+  index: -1
+0028
+  rotate: true
+  xy: 550, 906
+  size: 385, 552
+  orig: 487, 867
+  offset: 94, 168
+  index: -1

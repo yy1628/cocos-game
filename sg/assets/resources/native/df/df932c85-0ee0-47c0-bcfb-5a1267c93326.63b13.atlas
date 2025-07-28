@@ -1,0 +1,62 @@
+
+shenzhangfei_skill04_sj_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk4/sj/x/00000
+  rotate: false
+  xy: 2, 22
+  size: 102, 93
+  orig: 255, 255
+  offset: 77, 42
+  index: -1
+sk4/sj/x/00002
+  rotate: true
+  xy: 365, 276
+  size: 170, 144
+  orig: 255, 255
+  offset: 42, 14
+  index: -1
+sk4/sj/x/00004
+  rotate: false
+  xy: 330, 128
+  size: 171, 146
+  orig: 255, 255
+  offset: 42, 13
+  index: -1
+sk4/sj/x/00006
+  rotate: false
+  xy: 154, 145
+  size: 174, 148
+  orig: 255, 255
+  offset: 40, 12
+  index: -1
+sk4/sj/x/00008
+  rotate: true
+  xy: 2, 117
+  size: 176, 150
+  orig: 255, 255
+  offset: 39, 11
+  index: -1
+sk4/sj/x/00010
+  rotate: false
+  xy: 184, 295
+  size: 179, 151
+  orig: 255, 255
+  offset: 38, 10
+  index: -1
+sk4/sj/x/00012
+  rotate: false
+  xy: 2, 295
+  size: 180, 151
+  orig: 255, 255
+  offset: 37, 10
+  index: -1
+sk4/sj/x/00014
+  rotate: false
+  xy: 154, 2
+  size: 169, 141
+  orig: 255, 255
+  offset: 42, 15
+  index: -1

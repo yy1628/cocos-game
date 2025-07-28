@@ -1,0 +1,41 @@
+
+caopi_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit/0000
+  rotate: false
+  xy: 2, 220
+  size: 109, 107
+  orig: 300, 300
+  offset: 96, 96
+  index: -1
+hit/0002
+  rotate: true
+  xy: 176, 2
+  size: 177, 179
+  orig: 300, 300
+  offset: 61, 61
+  index: -1
+hit/0004
+  rotate: false
+  xy: 2, 32
+  size: 172, 171
+  orig: 300, 300
+  offset: 65, 65
+  index: -1
+hit/0006
+  rotate: false
+  xy: 266, 181
+  size: 158, 146
+  orig: 300, 300
+  offset: 79, 76
+  index: -1
+hit/0008
+  rotate: false
+  xy: 113, 205
+  size: 151, 122
+  orig: 300, 300
+  offset: 85, 91
+  index: -1

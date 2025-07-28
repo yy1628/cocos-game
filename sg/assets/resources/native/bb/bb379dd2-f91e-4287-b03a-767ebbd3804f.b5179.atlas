@@ -1,0 +1,97 @@
+
+zhangxingcai_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shifa/youxia/shifa_you (1)
+  rotate: true
+  xy: 451, 124
+  size: 70, 50
+  orig: 358, 358
+  offset: 148, 148
+  index: -1
+shifa/youxia/shifa_you (11)
+  rotate: true
+  xy: 339, 325
+  size: 115, 144
+  orig: 358, 358
+  offset: 128, 134
+  index: -1
+shifa/youxia/shifa_you (13)
+  rotate: true
+  xy: 180, 174
+  size: 122, 131
+  orig: 358, 358
+  offset: 133, 120
+  index: -1
+shifa/youxia/shifa_you (15)
+  rotate: false
+  xy: 2, 172
+  size: 112, 104
+  orig: 358, 358
+  offset: 122, 134
+  index: -1
+shifa/youxia/shifa_you (17)
+  rotate: false
+  xy: 2, 278
+  size: 176, 162
+  orig: 358, 358
+  offset: 83, 127
+  index: -1
+shifa/youxia/shifa_you (19)
+  rotate: false
+  xy: 180, 298
+  size: 157, 142
+  orig: 358, 358
+  offset: 95, 125
+  index: -1
+shifa/youxia/shifa_you (21)
+  rotate: false
+  xy: 2, 73
+  size: 100, 97
+  orig: 358, 358
+  offset: 142, 124
+  index: -1
+shifa/youxia/shifa_you (23)
+  rotate: true
+  xy: 227, 92
+  size: 80, 84
+  orig: 358, 358
+  offset: 162, 125
+  index: -1
+shifa/youxia/shifa_you (25)
+  rotate: true
+  xy: 227, 13
+  size: 77, 80
+  orig: 358, 358
+  offset: 163, 128
+  index: -1
+shifa/youxia/shifa_you (3)
+  rotate: false
+  xy: 116, 78
+  size: 109, 94
+  orig: 358, 358
+  offset: 150, 123
+  index: -1
+shifa/youxia/shifa_you (5)
+  rotate: true
+  xy: 313, 2
+  size: 99, 86
+  orig: 358, 358
+  offset: 143, 148
+  index: -1
+shifa/youxia/shifa_you (7)
+  rotate: true
+  xy: 313, 103
+  size: 91, 136
+  orig: 358, 358
+  offset: 145, 149
+  index: -1
+shifa/youxia/shifa_you (9)
+  rotate: true
+  xy: 339, 196
+  size: 127, 130
+  orig: 358, 358
+  offset: 103, 134
+  index: -1

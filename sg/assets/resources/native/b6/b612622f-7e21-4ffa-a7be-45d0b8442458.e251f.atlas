@@ -1,0 +1,104 @@
+
+beastsoullightdarkstar.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 118
+  size: 26, 42
+  orig: 27, 44
+  offset: 1, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 208
+  size: 26, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 30, 128
+  size: 23, 42
+  orig: 27, 44
+  offset: 2, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 74
+  size: 26, 42
+  orig: 27, 44
+  offset: 1, 0
+  index: -1
+6
+  rotate: false
+  xy: 30, 43
+  size: 24, 39
+  orig: 27, 44
+  offset: 2, 0
+  index: -1
+7
+  rotate: false
+  xy: 30, 213
+  size: 27, 39
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 55, 129
+  size: 22, 41
+  orig: 27, 44
+  offset: 3, 1
+  index: -1
+新建文件夹/1
+  rotate: false
+  xy: 2, 30
+  size: 26, 42
+  orig: 27, 44
+  offset: 1, 0
+  index: -1
+新建文件夹/2
+  rotate: false
+  xy: 2, 162
+  size: 26, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+新建文件夹/4
+  rotate: false
+  xy: 30, 84
+  size: 23, 42
+  orig: 27, 44
+  offset: 2, 0
+  index: -1
+新建文件夹/5
+  rotate: true
+  xy: 2, 2
+  size: 26, 42
+  orig: 27, 44
+  offset: 1, 0
+  index: -1
+新建文件夹/6
+  rotate: false
+  xy: 46, 2
+  size: 24, 39
+  orig: 27, 44
+  offset: 2, 0
+  index: -1
+新建文件夹/7
+  rotate: false
+  xy: 30, 172
+  size: 27, 39
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+新建文件夹/8
+  rotate: false
+  xy: 55, 86
+  size: 22, 41
+  orig: 27, 44
+  offset: 3, 1
+  index: -1

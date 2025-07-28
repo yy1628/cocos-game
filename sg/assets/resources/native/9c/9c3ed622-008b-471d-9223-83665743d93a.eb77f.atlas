@@ -1,0 +1,41 @@
+
+pangde_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shifa/sf (1)
+  rotate: false
+  xy: 2, 218
+  size: 224, 234
+  orig: 512, 512
+  offset: 131, 147
+  index: -1
+shifa/sf (3)
+  rotate: false
+  xy: 2, 2
+  size: 205, 214
+  orig: 512, 512
+  offset: 141, 150
+  index: -1
+shifa/sf (5)
+  rotate: false
+  xy: 228, 254
+  size: 188, 198
+  orig: 512, 512
+  offset: 151, 151
+  index: -1
+shifa/sf (7)
+  rotate: false
+  xy: 228, 106
+  size: 154, 146
+  orig: 512, 512
+  offset: 181, 170
+  index: -1
+shifa/sf (9)
+  rotate: false
+  xy: 209, 10
+  size: 94, 94
+  orig: 512, 512
+  offset: 209, 209
+  index: -1

@@ -1,0 +1,97 @@
+
+oneclickchallengespecialeffects.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+贴图/ray/ray-3/地面sparke_00000
+  rotate: false
+  xy: 248, 90
+  size: 56, 76
+  orig: 178, 178
+  offset: 75, 65
+  index: -1
+贴图/ray/ray-3/地面sparke_00001
+  rotate: false
+  xy: 406, 53
+  size: 88, 96
+  orig: 178, 178
+  offset: 65, 62
+  index: -1
+贴图/ray/ray-3/地面sparke_00002
+  rotate: false
+  xy: 124, 14
+  size: 97, 111
+  orig: 178, 178
+  offset: 24, 43
+  index: -1
+贴图/stone/石头type_00003
+  rotate: false
+  xy: 223, 22
+  size: 56, 66
+  orig: 154, 154
+  offset: 49, 44
+  index: -1
+贴图/sword/sword-03/sword3_00000
+  rotate: false
+  xy: 306, 60
+  size: 98, 89
+  orig: 307, 307
+  offset: 57, 126
+  index: -1
+贴图/sword/sword-03/sword3_00001
+  rotate: true
+  xy: 2, 36
+  size: 168, 120
+  orig: 307, 307
+  offset: 58, 102
+  index: -1
+贴图/sword/sword-03/sword3_00002
+  rotate: false
+  xy: 2, 358
+  size: 180, 136
+  orig: 307, 307
+  offset: 56, 104
+  index: -1
+贴图/sword/sword-03/sword3_00003
+  rotate: true
+  xy: 184, 315
+  size: 179, 153
+  orig: 307, 307
+  offset: 57, 85
+  index: -1
+贴图/sword/sword-03/sword3_00004
+  rotate: true
+  xy: 152, 168
+  size: 145, 153
+  orig: 307, 307
+  offset: 81, 84
+  index: -1
+贴图/sword/sword-03/sword3_00005
+  rotate: true
+  xy: 2, 206
+  size: 150, 148
+  orig: 307, 307
+  offset: 60, 90
+  index: -1
+贴图/sword/sword-03/sword3_00006
+  rotate: true
+  xy: 307, 151
+  size: 162, 108
+  orig: 307, 307
+  offset: 59, 102
+  index: -1
+贴图/sword/sword-03/sword3_00007
+  rotate: true
+  xy: 339, 333
+  size: 161, 100
+  orig: 307, 307
+  offset: 74, 105
+  index: -1
+贴图/sword/sword-03/sword3_00008
+  rotate: false
+  xy: 124, 127
+  size: 122, 39
+  orig: 307, 307
+  offset: 123, 153
+  index: -1

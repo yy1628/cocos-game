@@ -1,0 +1,139 @@
+
+sunjian_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/sj/d/d
+  rotate: true
+  xy: 308, 321
+  size: 61, 141
+  orig: 90, 180
+  offset: 15, 21
+  index: -1
+sk1/sj/dimian/00004
+  rotate: false
+  xy: 310, 2
+  size: 88, 68
+  orig: 180, 180
+  offset: 45, 31
+  index: -1
+sk1/sj/dimian/00006
+  rotate: false
+  xy: 387, 166
+  size: 114, 76
+  orig: 180, 180
+  offset: 32, 28
+  index: -1
+sk1/sj/dimian/00008
+  rotate: false
+  xy: 2, 174
+  size: 134, 88
+  orig: 180, 180
+  offset: 22, 19
+  index: -1
+sk1/sj/dimian/00010
+  rotate: false
+  xy: 2, 264
+  size: 136, 90
+  orig: 180, 180
+  offset: 21, 18
+  index: -1
+sk1/sj/dimian/00012
+  rotate: true
+  xy: 217, 47
+  size: 125, 91
+  orig: 180, 180
+  offset: 25, 17
+  index: -1
+sk1/sj/dimian/00014
+  rotate: false
+  xy: 263, 174
+  size: 122, 77
+  orig: 180, 180
+  offset: 28, 31
+  index: -1
+sk1/sj/dimian/00016
+  rotate: false
+  xy: 138, 174
+  size: 123, 77
+  orig: 180, 180
+  offset: 28, 31
+  index: -1
+sk1/sj/dimian/00018
+  rotate: false
+  xy: 387, 244
+  size: 120, 75
+  orig: 180, 180
+  offset: 29, 32
+  index: -1
+sk1/sj/dimian/00020
+  rotate: true
+  xy: 310, 72
+  size: 100, 71
+  orig: 180, 180
+  offset: 38, 32
+  index: -1
+sk1/sj/dimian/00022
+  rotate: false
+  xy: 400, 6
+  size: 96, 67
+  orig: 180, 180
+  offset: 39, 32
+  index: -1
+sk1/sj/s/00004
+  rotate: true
+  xy: 296, 254
+  size: 65, 77
+  orig: 180, 180
+  offset: 49, 42
+  index: -1
+sk1/sj/s/00006
+  rotate: false
+  xy: 308, 384
+  size: 143, 110
+  orig: 180, 180
+  offset: 22, 14
+  index: -1
+sk1/sj/s/00008
+  rotate: false
+  xy: 383, 75
+  size: 94, 89
+  orig: 180, 180
+  offset: 39, 43
+  index: -1
+sk1/sj/s/00010
+  rotate: false
+  xy: 155, 368
+  size: 151, 126
+  orig: 180, 180
+  offset: 17, 9
+  index: -1
+sk1/sj/s/00012
+  rotate: false
+  xy: 2, 356
+  size: 151, 138
+  orig: 180, 180
+  offset: 19, 4
+  index: -1
+sk1/sj/s/00014
+  rotate: true
+  xy: 2, 42
+  size: 130, 120
+  orig: 180, 180
+  offset: 22, 27
+  index: -1
+sk1/sj/s/00016
+  rotate: false
+  xy: 155, 253
+  size: 139, 113
+  orig: 180, 180
+  offset: 17, 24
+  index: -1
+sk1/sj/s/00018
+  rotate: true
+  xy: 124, 46
+  size: 126, 91
+  orig: 180, 180
+  offset: 11, 37
+  index: -1

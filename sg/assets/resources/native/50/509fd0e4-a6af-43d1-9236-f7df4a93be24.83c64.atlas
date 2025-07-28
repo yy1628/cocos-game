@@ -1,0 +1,76 @@
+
+molvbu_skill04_sf_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk4/sf/x/0000
+  rotate: true
+  xy: 419, 75
+  size: 70, 58
+  orig: 280, 280
+  offset: 110, 101
+  index: -1
+sk4/sf/x/0002
+  rotate: false
+  xy: 295, 43
+  size: 122, 102
+  orig: 280, 280
+  offset: 84, 78
+  index: -1
+sk4/sf/x/0004
+  rotate: false
+  xy: 149, 174
+  size: 172, 145
+  orig: 280, 280
+  offset: 59, 56
+  index: -1
+sk4/sf/x/0006
+  rotate: false
+  xy: 2, 349
+  size: 174, 146
+  orig: 280, 280
+  offset: 58, 56
+  index: -1
+sk4/sf/x/0008
+  rotate: true
+  xy: 178, 321
+  size: 174, 145
+  orig: 280, 280
+  offset: 58, 55
+  index: -1
+sk4/sf/x/0010
+  rotate: true
+  xy: 2, 173
+  size: 174, 145
+  orig: 280, 280
+  offset: 58, 55
+  index: -1
+sk4/sf/x/0012
+  rotate: true
+  xy: 323, 147
+  size: 172, 145
+  orig: 280, 280
+  offset: 59, 56
+  index: -1
+sk4/sf/x/0014
+  rotate: true
+  xy: 149, 2
+  size: 170, 144
+  orig: 280, 280
+  offset: 60, 57
+  index: -1
+sk4/sf/x/0016
+  rotate: true
+  xy: 2, 4
+  size: 167, 141
+  orig: 280, 280
+  offset: 62, 58
+  index: -1
+sk4/sf/x/0018
+  rotate: false
+  xy: 325, 365
+  size: 158, 130
+  orig: 280, 280
+  offset: 66, 63
+  index: -1

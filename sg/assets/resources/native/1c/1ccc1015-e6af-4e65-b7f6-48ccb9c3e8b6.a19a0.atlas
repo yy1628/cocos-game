@@ -1,0 +1,76 @@
+
+luxun_skill01_buff_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff/00000
+  rotate: false
+  xy: 141, 277
+  size: 135, 127
+  orig: 200, 200
+  offset: 30, 30
+  index: -1
+buff/00002
+  rotate: false
+  xy: 2, 142
+  size: 135, 130
+  orig: 200, 200
+  offset: 30, 31
+  index: -1
+buff/00004
+  rotate: false
+  xy: 2, 274
+  size: 137, 130
+  orig: 200, 200
+  offset: 29, 31
+  index: -1
+buff/00006
+  rotate: true
+  xy: 2, 2
+  size: 138, 123
+  orig: 200, 200
+  offset: 29, 37
+  index: -1
+buff/00008
+  rotate: true
+  xy: 127, 4
+  size: 136, 118
+  orig: 200, 200
+  offset: 31, 40
+  index: -1
+buff/00010
+  rotate: false
+  xy: 141, 156
+  size: 134, 119
+  orig: 200, 200
+  offset: 34, 40
+  index: -1
+buff/00012
+  rotate: false
+  xy: 247, 24
+  size: 129, 127
+  orig: 200, 200
+  offset: 38, 35
+  index: -1
+buff/00014
+  rotate: true
+  xy: 278, 275
+  size: 129, 130
+  orig: 200, 200
+  offset: 38, 32
+  index: -1
+buff/00016
+  rotate: true
+  xy: 378, 20
+  size: 131, 121
+  orig: 200, 200
+  offset: 36, 33
+  index: -1
+buff/00018
+  rotate: false
+  xy: 277, 153
+  size: 132, 120
+  orig: 200, 200
+  offset: 34, 33
+  index: -1

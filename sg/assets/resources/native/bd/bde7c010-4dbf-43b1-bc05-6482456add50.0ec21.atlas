@@ -1,0 +1,41 @@
+
+lidian_skill01_sf_up.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0000
+  rotate: false
+  xy: 2, 151
+  size: 254, 98
+  orig: 300, 200
+  offset: 8, 52
+  index: -1
+0002
+  rotate: false
+  xy: 2, 40
+  size: 232, 109
+  orig: 300, 200
+  offset: 33, 46
+  index: -1
+0004
+  rotate: false
+  xy: 258, 146
+  size: 213, 103
+  orig: 300, 200
+  offset: 43, 53
+  index: -1
+0006
+  rotate: false
+  xy: 236, 51
+  size: 205, 93
+  orig: 300, 200
+  offset: 48, 58
+  index: -1
+0008
+  rotate: false
+  xy: 2, 2
+  size: 176, 36
+  orig: 300, 200
+  offset: 69, 86
+  index: -1

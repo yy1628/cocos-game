@@ -1,0 +1,90 @@
+
+zhouyu_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/sf/00017
+  rotate: false
+  xy: 2, 335
+  size: 160, 148
+  orig: 175, 175
+  offset: 14, 7
+  index: -1
+sk1/sf/00019
+  rotate: true
+  xy: 164, 329
+  size: 154, 140
+  orig: 175, 175
+  offset: 17, 12
+  index: -1
+sk1/sf/00021
+  rotate: true
+  xy: 2, 198
+  size: 135, 116
+  orig: 175, 175
+  offset: 24, 30
+  index: -1
+sk1/sf/00023
+  rotate: false
+  xy: 241, 210
+  size: 115, 117
+  orig: 175, 175
+  offset: 27, 28
+  index: -1
+sk1/sf/00025
+  rotate: false
+  xy: 120, 211
+  size: 119, 116
+  orig: 175, 175
+  offset: 27, 28
+  index: -1
+sk1/sf/00027
+  rotate: false
+  xy: 306, 369
+  size: 119, 114
+  orig: 175, 175
+  offset: 28, 27
+  index: -1
+sk1/sf/00029
+  rotate: true
+  xy: 2, 77
+  size: 119, 113
+  orig: 175, 175
+  offset: 29, 27
+  index: -1
+sk1/sf/00031
+  rotate: true
+  xy: 120, 92
+  size: 117, 114
+  orig: 175, 175
+  offset: 30, 28
+  index: -1
+sk1/sf/00033
+  rotate: false
+  xy: 236, 95
+  size: 115, 113
+  orig: 175, 175
+  offset: 32, 29
+  index: -1
+sk1/sf/00035
+  rotate: false
+  xy: 353, 101
+  size: 105, 107
+  orig: 175, 175
+  offset: 36, 35
+  index: -1
+sk1/sf/00037
+  rotate: false
+  xy: 353, 4
+  size: 97, 95
+  orig: 175, 175
+  offset: 41, 40
+  index: -1
+sk1/sf/00039
+  rotate: false
+  xy: 236, 2
+  size: 88, 91
+  orig: 175, 175
+  offset: 44, 43
+  index: -1

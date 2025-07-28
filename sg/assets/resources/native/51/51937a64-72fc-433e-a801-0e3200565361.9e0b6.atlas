@@ -1,0 +1,90 @@
+
+sunce_skill04_cx_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill4/00000
+  rotate: false
+  xy: 369, 120
+  size: 128, 115
+  orig: 160, 160
+  offset: 26, 26
+  index: -1
+skill4/00002
+  rotate: false
+  xy: 237, 237
+  size: 127, 113
+  orig: 160, 160
+  offset: 25, 25
+  index: -1
+skill4/00004
+  rotate: false
+  xy: 2, 5
+  size: 116, 115
+  orig: 160, 160
+  offset: 23, 22
+  index: -1
+skill4/00006
+  rotate: true
+  xy: 120, 239
+  size: 111, 115
+  orig: 160, 160
+  offset: 23, 22
+  index: -1
+skill4/00008
+  rotate: false
+  xy: 120, 5
+  size: 120, 115
+  orig: 160, 160
+  offset: 18, 23
+  index: -1
+skill4/00010
+  rotate: false
+  xy: 370, 2
+  size: 127, 116
+  orig: 160, 160
+  offset: 11, 26
+  index: -1
+skill4/00012
+  rotate: false
+  xy: 242, 3
+  size: 126, 115
+  orig: 160, 160
+  offset: 28, 26
+  index: -1
+skill4/00014
+  rotate: false
+  xy: 366, 237
+  size: 127, 113
+  orig: 160, 160
+  offset: 25, 25
+  index: -1
+skill4/00016
+  rotate: false
+  xy: 2, 127
+  size: 113, 113
+  orig: 160, 160
+  offset: 23, 23
+  index: -1
+skill4/00018
+  rotate: true
+  xy: 2, 242
+  size: 108, 116
+  orig: 160, 160
+  offset: 26, 22
+  index: -1
+skill4/00020
+  rotate: false
+  xy: 237, 122
+  size: 130, 113
+  orig: 160, 160
+  offset: 8, 25
+  index: -1
+skill4/00022
+  rotate: false
+  xy: 117, 122
+  size: 118, 115
+  orig: 160, 160
+  offset: 21, 26
+  index: -1

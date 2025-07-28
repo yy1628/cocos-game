@@ -1,0 +1,20 @@
+
+tongyong_buff.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00005
+  rotate: false
+  xy: 2, 2
+  size: 41, 39
+  orig: 100, 100
+  offset: 30, 33
+  index: -1
+00015
+  rotate: true
+  xy: 45, 2
+  size: 39, 41
+  orig: 100, 100
+  offset: 36, 30
+  index: -1

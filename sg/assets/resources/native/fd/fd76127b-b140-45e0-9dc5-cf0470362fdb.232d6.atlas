@@ -1,0 +1,125 @@
+
+modiaochan_skill03_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd/00000
+  rotate: true
+  xy: 402, 262
+  size: 82, 17
+  orig: 146, 77
+  offset: 31, 32
+  index: -1
+dd/00002
+  rotate: false
+  xy: 402, 346
+  size: 91, 18
+  orig: 146, 77
+  offset: 22, 31
+  index: -1
+dd/00004
+  rotate: false
+  xy: 402, 469
+  size: 96, 18
+  orig: 146, 77
+  offset: 17, 31
+  index: -1
+dd/00006
+  rotate: false
+  xy: 402, 450
+  size: 96, 17
+  orig: 146, 77
+  offset: 17, 32
+  index: -1
+dd/00008
+  rotate: false
+  xy: 402, 489
+  size: 98, 18
+  orig: 146, 77
+  offset: 15, 31
+  index: -1
+dd/00010
+  rotate: false
+  xy: 402, 429
+  size: 95, 19
+  orig: 146, 77
+  offset: 18, 31
+  index: -1
+sf/00013
+  rotate: false
+  xy: 421, 306
+  size: 55, 38
+  orig: 270, 270
+  offset: 106, 115
+  index: -1
+sf/00015
+  rotate: false
+  xy: 402, 366
+  size: 92, 61
+  orig: 270, 270
+  offset: 82, 101
+  index: -1
+sf/00017
+  rotate: true
+  xy: 383, 94
+  size: 157, 109
+  orig: 270, 270
+  offset: 47, 75
+  index: -1
+sf/00019
+  rotate: false
+  xy: 196, 134
+  size: 185, 117
+  orig: 270, 270
+  offset: 39, 69
+  index: -1
+sf/00021
+  rotate: false
+  xy: 2, 132
+  size: 192, 120
+  orig: 270, 270
+  offset: 37, 68
+  index: -1
+sf/00023
+  rotate: false
+  xy: 2, 254
+  size: 196, 123
+  orig: 270, 270
+  offset: 36, 66
+  index: -1
+sf/00025
+  rotate: false
+  xy: 202, 381
+  size: 198, 126
+  orig: 270, 270
+  offset: 35, 64
+  index: -1
+sf/00027
+  rotate: false
+  xy: 202, 253
+  size: 198, 126
+  orig: 270, 270
+  offset: 35, 64
+  index: -1
+sf/00029
+  rotate: false
+  xy: 2, 379
+  size: 198, 128
+  orig: 270, 270
+  offset: 36, 62
+  index: -1
+sf/00031
+  rotate: false
+  xy: 2, 2
+  size: 191, 128
+  orig: 270, 270
+  offset: 43, 60
+  index: -1
+sf/00033
+  rotate: false
+  xy: 195, 7
+  size: 179, 123
+  orig: 270, 270
+  offset: 48, 59
+  index: -1

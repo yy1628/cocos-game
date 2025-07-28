@@ -1,0 +1,90 @@
+
+xiahouyuan_skill01_sf_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoyandanmu/shifa/00000
+  rotate: true
+  xy: 291, 165
+  size: 74, 67
+  orig: 195, 195
+  offset: 82, 81
+  index: -1
+huoyandanmu/shifa/00002
+  rotate: true
+  xy: 255, 17
+  size: 109, 94
+  orig: 195, 195
+  offset: 55, 53
+  index: -1
+huoyandanmu/shifa/00004
+  rotate: true
+  xy: 2, 7
+  size: 116, 103
+  orig: 195, 195
+  offset: 49, 43
+  index: -1
+huoyandanmu/shifa/00006
+  rotate: true
+  xy: 139, 2
+  size: 124, 114
+  orig: 195, 195
+  offset: 38, 35
+  index: -1
+huoyandanmu/shifa/00008
+  rotate: false
+  xy: 2, 125
+  size: 135, 114
+  orig: 195, 195
+  offset: 28, 35
+  index: -1
+huoyandanmu/shifa/00010
+  rotate: false
+  xy: 150, 247
+  size: 142, 121
+  orig: 195, 195
+  offset: 27, 34
+  index: -1
+huoyandanmu/shifa/00012
+  rotate: false
+  xy: 2, 241
+  size: 146, 127
+  orig: 195, 195
+  offset: 27, 30
+  index: -1
+huoyandanmu/shifa/00014
+  rotate: false
+  xy: 298, 241
+  size: 147, 130
+  orig: 195, 195
+  offset: 27, 28
+  index: -1
+huoyandanmu/shifa/00016
+  rotate: false
+  xy: 2, 370
+  size: 146, 134
+  orig: 195, 195
+  offset: 28, 27
+  index: -1
+huoyandanmu/shifa/00018
+  rotate: false
+  xy: 150, 370
+  size: 146, 134
+  orig: 195, 195
+  offset: 28, 27
+  index: -1
+huoyandanmu/shifa/00020
+  rotate: false
+  xy: 298, 373
+  size: 147, 131
+  orig: 195, 195
+  offset: 27, 28
+  index: -1
+huoyandanmu/shifa/00022
+  rotate: false
+  xy: 150, 128
+  size: 139, 117
+  orig: 195, 195
+  offset: 32, 34
+  index: -1

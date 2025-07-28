@@ -1,0 +1,83 @@
+
+zhanghong.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_ball
+  rotate: false
+  xy: 480, 138
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+f_body
+  rotate: true
+  xy: 99, 3
+  size: 75, 80
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: true
+  xy: 2, 80
+  size: 149, 204
+  orig: 149, 204
+  offset: 0, 0
+  index: -1
+f_hiar
+  rotate: false
+  xy: 208, 21
+  size: 123, 121
+  orig: 123, 121
+  offset: 0, 0
+  index: -1
+f_l_arm
+  rotate: true
+  xy: 2, 2
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: -1
+f_l_foot
+  rotate: false
+  xy: 480, 164
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: true
+  xy: 480, 193
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+f_leg
+  rotate: true
+  xy: 399, 46
+  size: 90, 85
+  orig: 90, 85
+  offset: 0, 0
+  index: -1
+f_r_arm
+  rotate: false
+  xy: 333, 20
+  size: 64, 122
+  orig: 64, 122
+  offset: 0, 0
+  index: -1
+f_r_foot
+  rotate: false
+  xy: 181, 50
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+f_weapon
+  rotate: true
+  xy: 208, 144
+  size: 85, 270
+  orig: 85, 270
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+liubei_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/shifa/s (10)
+  rotate: false
+  xy: 2, 376
+  size: 148, 117
+  orig: 263, 263
+  offset: 58, 75
+  index: -1
+skill1/shifa/s (12)
+  rotate: false
+  xy: 127, 227
+  size: 139, 118
+  orig: 263, 263
+  offset: 58, 71
+  index: -1
+skill1/shifa/s (14)
+  rotate: true
+  xy: 2, 104
+  size: 127, 113
+  orig: 263, 263
+  offset: 62, 71
+  index: -1
+skill1/shifa/s (16)
+  rotate: true
+  xy: 117, 2
+  size: 113, 100
+  orig: 263, 263
+  offset: 76, 76
+  index: -1
+skill1/shifa/s (18)
+  rotate: true
+  xy: 328, 113
+  size: 95, 88
+  orig: 263, 263
+  offset: 88, 86
+  index: -1
+skill1/shifa/s (2)
+  rotate: true
+  xy: 2, 4
+  size: 98, 94
+  orig: 263, 263
+  offset: 80, 85
+  index: -1
+skill1/shifa/s (20)
+  rotate: false
+  xy: 382, 221
+  size: 86, 70
+  orig: 263, 263
+  offset: 94, 99
+  index: -1
+skill1/shifa/s (22)
+  rotate: true
+  xy: 382, 293
+  size: 91, 88
+  orig: 263, 263
+  offset: 87, 86
+  index: -1
+skill1/shifa/s (24)
+  rotate: false
+  xy: 279, 386
+  size: 115, 107
+  orig: 263, 263
+  offset: 77, 77
+  index: -1
+skill1/shifa/s (26)
+  rotate: true
+  xy: 117, 117
+  size: 108, 104
+  orig: 263, 263
+  offset: 79, 78
+  index: -1
+skill1/shifa/s (28)
+  rotate: false
+  xy: 223, 107
+  size: 103, 101
+  orig: 263, 263
+  offset: 80, 79
+  index: -1
+skill1/shifa/s (30)
+  rotate: true
+  xy: 396, 406
+  size: 87, 90
+  orig: 263, 263
+  offset: 88, 83
+  index: -1
+skill1/shifa/s (32)
+  rotate: true
+  xy: 328, 47
+  size: 64, 71
+  orig: 263, 263
+  offset: 99, 93
+  index: -1
+skill1/shifa/s (34)
+  rotate: false
+  xy: 219, 44
+  size: 61, 61
+  orig: 263, 263
+  offset: 98, 101
+  index: -1
+skill1/shifa/s (36)
+  rotate: true
+  xy: 401, 49
+  size: 62, 59
+  orig: 263, 263
+  offset: 97, 103
+  index: -1
+skill1/shifa/s (38)
+  rotate: false
+  xy: 418, 160
+  size: 56, 59
+  orig: 263, 263
+  offset: 104, 103
+  index: -1
+skill1/shifa/s (4)
+  rotate: true
+  xy: 268, 210
+  size: 135, 112
+  orig: 263, 263
+  offset: 65, 65
+  index: -1
+skill1/shifa/s (40)
+  rotate: false
+  xy: 418, 113
+  size: 58, 45
+  orig: 263, 263
+  offset: 103, 103
+  index: -1
+skill1/shifa/s (42)
+  rotate: false
+  xy: 127, 351
+  size: 22, 23
+  orig: 263, 263
+  offset: 103, 117
+  index: -1
+skill1/shifa/s (6)
+  rotate: true
+  xy: 2, 233
+  size: 141, 123
+  orig: 263, 263
+  offset: 67, 65
+  index: -1
+skill1/shifa/s (8)
+  rotate: true
+  xy: 152, 347
+  size: 146, 125
+  orig: 263, 263
+  offset: 63, 67
+  index: -1

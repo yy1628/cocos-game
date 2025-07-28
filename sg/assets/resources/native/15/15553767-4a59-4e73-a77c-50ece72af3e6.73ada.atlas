@@ -1,0 +1,62 @@
+
+zhangliao_attack_dd_up.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/dandao/00000
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 100, 100
+  offset: 18, 18
+  index: -1
+attack/dandao/00002
+  rotate: false
+  xy: 2, 68
+  size: 66, 64
+  orig: 100, 100
+  offset: 16, 18
+  index: -1
+attack/dandao/00004
+  rotate: false
+  xy: 2, 134
+  size: 67, 64
+  orig: 100, 100
+  offset: 15, 18
+  index: -1
+attack/dandao/00006
+  rotate: false
+  xy: 70, 68
+  size: 64, 64
+  orig: 100, 100
+  offset: 18, 18
+  index: -1
+attack/dandao/00008
+  rotate: false
+  xy: 137, 134
+  size: 64, 64
+  orig: 100, 100
+  offset: 18, 18
+  index: -1
+attack/dandao/00010
+  rotate: false
+  xy: 68, 2
+  size: 64, 64
+  orig: 100, 100
+  offset: 18, 18
+  index: -1
+attack/dandao/00012
+  rotate: false
+  xy: 136, 68
+  size: 64, 64
+  orig: 100, 100
+  offset: 18, 18
+  index: -1
+attack/dandao/00014
+  rotate: false
+  xy: 71, 134
+  size: 64, 64
+  orig: 100, 100
+  offset: 18, 18
+  index: -1

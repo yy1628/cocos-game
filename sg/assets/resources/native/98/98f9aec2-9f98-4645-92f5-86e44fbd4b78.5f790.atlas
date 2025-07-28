@@ -1,0 +1,90 @@
+
+shendaodunbing_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0000
+  rotate: true
+  xy: 272, 380
+  size: 129, 136
+  orig: 210, 280
+  offset: 43, 125
+  index: -1
+0002
+  rotate: false
+  xy: 133, 242
+  size: 129, 136
+  orig: 210, 280
+  offset: 43, 68
+  index: -1
+0004
+  rotate: false
+  xy: 2, 372
+  size: 129, 137
+  orig: 210, 280
+  offset: 43, 39
+  index: -1
+0006
+  rotate: false
+  xy: 2, 233
+  size: 129, 137
+  orig: 210, 280
+  offset: 43, 39
+  index: -1
+0008
+  rotate: false
+  xy: 2, 94
+  size: 129, 137
+  orig: 210, 280
+  offset: 43, 39
+  index: -1
+0010
+  rotate: true
+  xy: 133, 380
+  size: 129, 137
+  orig: 210, 280
+  offset: 43, 39
+  index: -1
+0012
+  rotate: false
+  xy: 133, 105
+  size: 129, 135
+  orig: 210, 280
+  offset: 43, 40
+  index: -1
+0014
+  rotate: true
+  xy: 264, 251
+  size: 127, 133
+  orig: 210, 280
+  offset: 44, 41
+  index: -1
+0016
+  rotate: true
+  xy: 264, 124
+  size: 125, 129
+  orig: 210, 280
+  offset: 46, 43
+  index: -1
+0018
+  rotate: true
+  xy: 264, 2
+  size: 120, 125
+  orig: 210, 280
+  offset: 49, 45
+  index: -1
+0020
+  rotate: false
+  xy: 399, 263
+  size: 108, 115
+  orig: 210, 280
+  offset: 54, 50
+  index: -1
+0022
+  rotate: true
+  xy: 2, 41
+  size: 51, 46
+  orig: 210, 280
+  offset: 81, 68
+  index: -1

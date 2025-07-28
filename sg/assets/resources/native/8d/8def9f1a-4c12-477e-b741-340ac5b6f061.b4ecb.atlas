@@ -1,0 +1,286 @@
+
+caiwenji.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_b_decorate01
+  rotate: true
+  xy: 622, 166
+  size: 88, 121
+  orig: 88, 121
+  offset: 0, 0
+  index: -1
+f_b_decorate02
+  rotate: true
+  xy: 139, 82
+  size: 172, 106
+  orig: 172, 106
+  offset: 0, 0
+  index: -1
+f_b_skirt01
+  rotate: true
+  xy: 274, 6
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+f_b_skirt02
+  rotate: true
+  xy: 387, 94
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+f_body
+  rotate: false
+  xy: 570, 4
+  size: 114, 99
+  orig: 114, 99
+  offset: 0, 0
+  index: -1
+f_eye03
+  rotate: false
+  xy: 87, 7
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+f_f_skirt
+  rotate: false
+  xy: 686, 17
+  size: 63, 89
+  orig: 63, 89
+  offset: 0, 0
+  index: -1
+f_hair01
+  rotate: true
+  xy: 481, 165
+  size: 89, 139
+  orig: 89, 139
+  offset: 0, 0
+  index: -1
+f_hair02
+  rotate: false
+  xy: 408, 46
+  size: 46, 46
+  orig: 62, 151
+  offset: 8, 52
+  index: -1
+f_hair02-1
+  rotate: true
+  xy: 139, 47
+  size: 33, 132
+  orig: 33, 132
+  offset: 0, 0
+  index: -1
+f_hair02-2
+  rotate: true
+  xy: 456, 49
+  size: 53, 105
+  orig: 53, 105
+  offset: 0, 0
+  index: -1
+f_hair02-3
+  rotate: true
+  xy: 247, 87
+  size: 42, 84
+  orig: 42, 85
+  offset: 0, 1
+  index: -1
+f_hair03
+  rotate: false
+  xy: 371, 139
+  size: 108, 115
+  orig: 108, 115
+  offset: 0, 0
+  index: -1
+f_harp
+  rotate: false
+  xy: 2, 30
+  size: 135, 224
+  orig: 135, 224
+  offset: 0, 0
+  index: -1
+f_harp_decorate01
+  rotate: false
+  xy: 525, 117
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+f_harp_decorate02
+  rotate: false
+  xy: 481, 8
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: true
+  xy: 247, 131
+  size: 123, 122
+  orig: 123, 122
+  offset: 0, 0
+  index: -1
+f_l_arm02
+  rotate: true
+  xy: 273, 39
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+f_l_foot
+  rotate: true
+  xy: 551, 124
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: false
+  xy: 134, 4
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+f_l_leg01
+  rotate: true
+  xy: 448, 104
+  size: 33, 47
+  orig: 33, 78
+  offset: 0, 31
+  index: -1
+f_l_leg02
+  rotate: false
+  xy: 497, 108
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+f_l_skirt
+  rotate: false
+  xy: 343, 40
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+f_line01
+  rotate: true
+  xy: 2, 14
+  size: 14, 83
+  orig: 14, 83
+  offset: 0, 0
+  index: -1
+f_line02
+  rotate: true
+  xy: 139, 32
+  size: 13, 55
+  orig: 13, 55
+  offset: 0, 0
+  index: -1
+f_line03
+  rotate: true
+  xy: 196, 33
+  size: 12, 41
+  orig: 12, 41
+  offset: 0, 0
+  index: -1
+f_r_arm01
+  rotate: true
+  xy: 382, 2
+  size: 36, 46
+  orig: 36, 50
+  offset: 0, 2
+  index: -1
+f_r_arm02
+  rotate: true
+  xy: 652, 108
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+f_r_decorate01-1
+  rotate: true
+  xy: 171, 10
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+f_r_decorate01-2
+  rotate: true
+  xy: 513, 143
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+f_r_decorate02-1
+  rotate: true
+  xy: 542, 149
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+f_r_decorate02-2
+  rotate: true
+  xy: 551, 105
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+f_r_foot
+  rotate: true
+  xy: 481, 140
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+f_r_hand02
+  rotate: false
+  xy: 331, 3
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+f_r_head
+  rotate: true
+  xy: 512, 8
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+f_r_leg01
+  rotate: true
+  xy: 333, 91
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+f_r_leg02
+  rotate: false
+  xy: 543, 15
+  size: 25, 32
+  orig: 30, 45
+  offset: 0, 13
+  index: -1
+f_r_shoulder
+  rotate: false
+  xy: 213, 2
+  size: 59, 29
+  orig: 59, 29
+  offset: 0, 0
+  index: -1
+f_r_skirt
+  rotate: true
+  xy: 578, 108
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+f_thigh
+  rotate: false
+  xy: 430, 13
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+huaxiong_skill01_sj_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/hit/x/x (1)
+  rotate: true
+  xy: 2, 238
+  size: 119, 123
+  orig: 165, 198
+  offset: 23, 47
+  index: -1
+sk1/hit/x/x (13)
+  rotate: false
+  xy: 367, 251
+  size: 117, 115
+  orig: 165, 198
+  offset: 24, 47
+  index: -1
+sk1/hit/x/x (17)
+  rotate: true
+  xy: 367, 368
+  size: 117, 116
+  orig: 165, 198
+  offset: 24, 46
+  index: -1
+sk1/hit/x/x (21)
+  rotate: false
+  xy: 249, 130
+  size: 117, 117
+  orig: 165, 198
+  offset: 24, 46
+  index: -1
+sk1/hit/x/x (25)
+  rotate: false
+  xy: 249, 14
+  size: 118, 114
+  orig: 165, 198
+  offset: 23, 48
+  index: -1
+sk1/hit/x/x (29)
+  rotate: false
+  xy: 247, 368
+  size: 118, 117
+  orig: 165, 198
+  offset: 23, 48
+  index: -1
+sk1/hit/x/x (33)
+  rotate: true
+  xy: 127, 122
+  size: 118, 120
+  orig: 165, 198
+  offset: 23, 47
+  index: -1
+sk1/hit/x/x (37)
+  rotate: false
+  xy: 2, 359
+  size: 120, 126
+  orig: 165, 198
+  offset: 23, 47
+  index: -1
+sk1/hit/x/x (41)
+  rotate: true
+  xy: 124, 366
+  size: 119, 121
+  orig: 165, 198
+  offset: 24, 47
+  index: -1
+sk1/hit/x/x (45)
+  rotate: true
+  xy: 247, 249
+  size: 117, 118
+  orig: 165, 198
+  offset: 25, 48
+  index: -1
+sk1/hit/x/x (49)
+  rotate: false
+  xy: 368, 135
+  size: 118, 114
+  orig: 165, 198
+  offset: 24, 48
+  index: -1
+sk1/hit/x/x (5)
+  rotate: false
+  xy: 127, 242
+  size: 118, 122
+  orig: 165, 198
+  offset: 24, 47
+  index: -1
+sk1/hit/x/x (53)
+  rotate: true
+  xy: 122, 4
+  size: 116, 112
+  orig: 165, 198
+  offset: 25, 48
+  index: -1
+sk1/hit/x/x (57)
+  rotate: true
+  xy: 2, 2
+  size: 113, 105
+  orig: 165, 198
+  offset: 26, 49
+  index: -1
+sk1/hit/x/x (61)
+  rotate: true
+  xy: 369, 26
+  size: 107, 97
+  orig: 165, 198
+  offset: 29, 50
+  index: -1
+sk1/hit/x/x (9)
+  rotate: false
+  xy: 2, 117
+  size: 118, 119
+  orig: 165, 198
+  offset: 24, 47
+  index: -1

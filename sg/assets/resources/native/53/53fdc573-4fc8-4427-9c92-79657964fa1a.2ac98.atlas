@@ -1,0 +1,20 @@
+
+hangupprompt.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 3
+  rotate: false
+  xy: 2, 2
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+图层 4
+  rotate: false
+  xy: 41, 9
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1

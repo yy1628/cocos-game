@@ -1,0 +1,181 @@
+
+caiwenji_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/shifa/shifa_10
+  rotate: false
+  xy: 370, 383
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_12
+  rotate: false
+  xy: 2, 304
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_14
+  rotate: false
+  xy: 94, 304
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_16
+  rotate: false
+  xy: 186, 304
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_18
+  rotate: false
+  xy: 278, 304
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_2
+  rotate: false
+  xy: 94, 383
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_20
+  rotate: false
+  xy: 370, 304
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_22
+  rotate: false
+  xy: 2, 225
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_24
+  rotate: false
+  xy: 94, 225
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_26
+  rotate: false
+  xy: 186, 225
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_28
+  rotate: false
+  xy: 278, 225
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_30
+  rotate: false
+  xy: 370, 225
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_32
+  rotate: false
+  xy: 2, 146
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_34
+  rotate: false
+  xy: 94, 146
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_36
+  rotate: false
+  xy: 186, 146
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_38
+  rotate: false
+  xy: 278, 146
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_4
+  rotate: false
+  xy: 2, 383
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_40
+  rotate: false
+  xy: 370, 146
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_42
+  rotate: false
+  xy: 2, 67
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_44
+  rotate: false
+  xy: 94, 67
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_46
+  rotate: false
+  xy: 186, 67
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_48
+  rotate: false
+  xy: 278, 67
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_50
+  rotate: false
+  xy: 370, 67
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_6
+  rotate: false
+  xy: 186, 383
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+skill1/shifa/shifa_8
+  rotate: false
+  xy: 278, 383
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1

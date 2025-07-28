@@ -1,0 +1,118 @@
+
+mosimayi_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00010
+  rotate: true
+  xy: 385, 154
+  size: 90, 103
+  orig: 171, 171
+  offset: 43, 46
+  index: -1
+00012
+  rotate: false
+  xy: 385, 246
+  size: 122, 124
+  orig: 171, 171
+  offset: 25, 30
+  index: -1
+00014
+  rotate: false
+  xy: 292, 372
+  size: 140, 133
+  orig: 171, 171
+  offset: 16, 23
+  index: -1
+00016
+  rotate: false
+  xy: 2, 370
+  size: 144, 135
+  orig: 171, 171
+  offset: 14, 21
+  index: -1
+00018
+  rotate: false
+  xy: 148, 371
+  size: 142, 134
+  orig: 171, 171
+  offset: 14, 20
+  index: -1
+00020
+  rotate: true
+  xy: 2, 223
+  size: 145, 133
+  orig: 171, 171
+  offset: 13, 18
+  index: -1
+00022
+  rotate: true
+  xy: 128, 73
+  size: 148, 124
+  orig: 171, 171
+  offset: 12, 16
+  index: -1
+00024
+  rotate: true
+  xy: 2, 71
+  size: 150, 124
+  orig: 171, 171
+  offset: 11, 16
+  index: -1
+00026
+  rotate: true
+  xy: 260, 221
+  size: 148, 123
+  orig: 171, 171
+  offset: 12, 17
+  index: -1
+00028
+  rotate: true
+  xy: 137, 225
+  size: 143, 121
+  orig: 171, 171
+  offset: 14, 19
+  index: -1
+00030
+  rotate: true
+  xy: 254, 79
+  size: 140, 119
+  orig: 171, 171
+  offset: 16, 21
+  index: -1
+00032
+  rotate: true
+  xy: 2, 2
+  size: 67, 79
+  orig: 171, 171
+  offset: 69, 61
+  index: -1
+00034
+  rotate: false
+  xy: 434, 426
+  size: 67, 79
+  orig: 171, 171
+  offset: 69, 61
+  index: -1
+00036
+  rotate: true
+  xy: 375, 85
+  size: 67, 79
+  orig: 171, 171
+  offset: 69, 61
+  index: -1
+00038
+  rotate: true
+  xy: 83, 2
+  size: 67, 79
+  orig: 171, 171
+  offset: 69, 61
+  index: -1
+00040
+  rotate: true
+  xy: 164, 5
+  size: 66, 79
+  orig: 171, 171
+  offset: 70, 61
+  index: -1

@@ -1,0 +1,62 @@
+
+lvbu_skill01_buff_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff/0000
+  rotate: false
+  xy: 337, 168
+  size: 167, 152
+  orig: 250, 250
+  offset: 50, 41
+  index: -1
+buff/0002
+  rotate: true
+  xy: 2, 176
+  size: 161, 164
+  orig: 250, 250
+  offset: 52, 30
+  index: -1
+buff/0004
+  rotate: true
+  xy: 2, 339
+  size: 130, 164
+  orig: 250, 250
+  offset: 54, 29
+  index: -1
+buff/0006
+  rotate: true
+  xy: 168, 323
+  size: 146, 152
+  orig: 250, 250
+  offset: 58, 29
+  index: -1
+buff/0008
+  rotate: false
+  xy: 168, 169
+  size: 167, 151
+  orig: 250, 250
+  offset: 47, 28
+  index: -1
+buff/0010
+  rotate: false
+  xy: 173, 2
+  size: 170, 164
+  orig: 250, 250
+  offset: 46, 27
+  index: -1
+buff/0012
+  rotate: false
+  xy: 2, 6
+  size: 169, 161
+  orig: 250, 250
+  offset: 47, 30
+  index: -1
+buff/0014
+  rotate: false
+  xy: 322, 322
+  size: 166, 147
+  orig: 250, 250
+  offset: 51, 41
+  index: -1

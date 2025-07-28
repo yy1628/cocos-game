@@ -1,0 +1,1 @@
+[1,0,0,[["cc.AnimationClip",["_name","_duration","wrapMode","curveData"],-1]],[[0,0,1,2,3,5]],[[0,"animation_fadeinout_loop",1.6666666666666667,2,{"props":{"opacity":[{"frame":0,"value":255,"curve":"cubicIn"},{"frame":0.8333333333333334,"value":120},{"frame":1.6666666666666667,"value":255}]}}]],0,0,[],[],[]]

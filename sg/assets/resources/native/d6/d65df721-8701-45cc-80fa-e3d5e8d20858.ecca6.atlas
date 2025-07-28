@@ -1,0 +1,146 @@
+
+shengji.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Yuan012
+  rotate: true
+  xy: 43, 565
+  size: 226, 231
+  orig: 256, 256
+  offset: 14, 12
+  index: -1
+Yuan206
+  rotate: false
+  xy: 276, 399
+  size: 192, 192
+  orig: 256, 256
+  offset: 32, 32
+  index: -1
+diguang
+  rotate: false
+  xy: 711, 676
+  size: 116, 115
+  orig: 128, 128
+  offset: 6, 5
+  index: -1
+glow01
+  rotate: true
+  xy: 2, 2
+  size: 303, 418
+  orig: 305, 435
+  offset: 1, 11
+  index: -1
+line
+  rotate: true
+  xy: 43, 317
+  size: 25, 119
+  orig: 27, 126
+  offset: 1, 3
+  index: -1
+line01
+  rotate: true
+  xy: 276, 593
+  size: 198, 433
+  orig: 215, 444
+  offset: 9, 2
+  index: -1
+line02
+  rotate: false
+  xy: 2, 307
+  size: 39, 484
+  orig: 42, 494
+  offset: 2, 3
+  index: -1
+shengji_00001
+  rotate: false
+  xy: 470, 402
+  size: 129, 47
+  orig: 150, 250
+  offset: 10, 4
+  index: -1
+shengji_00002
+  rotate: true
+  xy: 829, 656
+  size: 135, 102
+  orig: 150, 250
+  offset: 8, 3
+  index: -1
+shengji_00003
+  rotate: true
+  xy: 422, 54
+  size: 134, 152
+  orig: 150, 250
+  offset: 10, 4
+  index: -1
+shengji_00004
+  rotate: true
+  xy: 560, 272
+  size: 128, 196
+  orig: 150, 250
+  offset: 15, 6
+  index: -1
+shengji_00005
+  rotate: false
+  xy: 43, 344
+  size: 139, 219
+  orig: 150, 250
+  offset: 4, 14
+  index: -1
+shengji_00006
+  rotate: true
+  xy: 470, 451
+  size: 140, 202
+  orig: 150, 250
+  offset: 3, 31
+  index: -1
+shengji_00007
+  rotate: false
+  xy: 422, 190
+  size: 136, 207
+  orig: 150, 250
+  offset: 3, 38
+  index: -1
+shengji_00008
+  rotate: true
+  xy: 674, 472
+  size: 119, 189
+  orig: 150, 250
+  offset: 5, 56
+  index: -1
+shengji_00009
+  rotate: false
+  xy: 184, 410
+  size: 89, 153
+  orig: 150, 250
+  offset: 25, 92
+  index: -1
+shengji_00010
+  rotate: true
+  xy: 264, 324
+  size: 73, 145
+  orig: 150, 250
+  offset: 40, 101
+  index: -1
+shengji_00011
+  rotate: true
+  xy: 711, 636
+  size: 38, 84
+  orig: 150, 250
+  offset: 41, 118
+  index: -1
+shengji_00012
+  rotate: true
+  xy: 797, 618
+  size: 36, 59
+  orig: 150, 250
+  offset: 43, 143
+  index: -1
+xingxing01
+  rotate: false
+  xy: 184, 330
+  size: 78, 78
+  orig: 84, 84
+  offset: 3, 3
+  index: -1

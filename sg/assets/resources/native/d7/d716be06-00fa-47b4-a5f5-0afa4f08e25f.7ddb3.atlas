@@ -1,0 +1,76 @@
+
+mocaocao_skill01_sj_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/sj/x/00002
+  rotate: true
+  xy: 2, 2
+  size: 169, 121
+  orig: 180, 180
+  offset: 11, 10
+  index: -1
+sk1/sj/x/00004
+  rotate: false
+  xy: 2, 209
+  size: 169, 121
+  orig: 180, 180
+  offset: 11, 10
+  index: -1
+sk1/sj/x/00006
+  rotate: false
+  xy: 179, 332
+  size: 173, 121
+  orig: 180, 180
+  offset: 7, 10
+  index: -1
+sk1/sj/x/00008
+  rotate: false
+  xy: 2, 332
+  size: 175, 121
+  orig: 180, 180
+  offset: 5, 10
+  index: -1
+sk1/sj/x/00010
+  rotate: true
+  xy: 354, 173
+  size: 170, 122
+  orig: 180, 180
+  offset: 10, 10
+  index: -1
+sk1/sj/x/00012
+  rotate: false
+  xy: 173, 209
+  size: 169, 121
+  orig: 180, 180
+  offset: 11, 10
+  index: -1
+sk1/sj/x/00014
+  rotate: true
+  xy: 125, 2
+  size: 169, 120
+  orig: 180, 180
+  offset: 11, 11
+  index: -1
+sk1/sj/x/00016
+  rotate: true
+  xy: 247, 5
+  size: 166, 118
+  orig: 180, 180
+  offset: 13, 12
+  index: -1
+sk1/sj/x/00018
+  rotate: true
+  xy: 367, 6
+  size: 165, 115
+  orig: 180, 180
+  offset: 14, 14
+  index: -1
+sk1/sj/x/00020
+  rotate: false
+  xy: 354, 345
+  size: 156, 108
+  orig: 180, 180
+  offset: 18, 19
+  index: -1

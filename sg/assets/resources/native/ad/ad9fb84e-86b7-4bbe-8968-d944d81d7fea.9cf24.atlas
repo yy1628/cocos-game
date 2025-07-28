@@ -1,0 +1,62 @@
+
+zhanghong_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sj/s/00006
+  rotate: true
+  xy: 148, 194
+  size: 113, 190
+  orig: 380, 475
+  offset: 134, 95
+  index: -1
+sj/s/00008
+  rotate: false
+  xy: 2, 174
+  size: 144, 305
+  orig: 380, 475
+  offset: 127, 100
+  index: -1
+sj/s/00010
+  rotate: true
+  xy: 2, 2
+  size: 170, 251
+  orig: 380, 475
+  offset: 104, 91
+  index: -1
+sj/s/00012
+  rotate: true
+  xy: 399, 68
+  size: 160, 95
+  orig: 380, 475
+  offset: 113, 88
+  index: -1
+sj/x/00006
+  rotate: true
+  xy: 148, 309
+  size: 170, 148
+  orig: 380, 475
+  offset: 103, 67
+  index: -1
+sj/x/00008
+  rotate: false
+  xy: 298, 334
+  size: 173, 145
+  orig: 380, 475
+  offset: 102, 69
+  index: -1
+sj/x/00010
+  rotate: true
+  xy: 255, 19
+  size: 173, 142
+  orig: 380, 475
+  offset: 103, 68
+  index: -1
+sj/x/00012
+  rotate: false
+  xy: 340, 230
+  size: 159, 102
+  orig: 380, 475
+  offset: 108, 98
+  index: -1

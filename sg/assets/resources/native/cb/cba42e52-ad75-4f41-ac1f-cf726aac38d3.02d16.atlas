@@ -1,0 +1,139 @@
+
+luxun_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/dd/00000
+  rotate: true
+  xy: 2, 29
+  size: 52, 104
+  orig: 180, 300
+  offset: 64, 26
+  index: -1
+sk1/dd/00002
+  rotate: true
+  xy: 256, 219
+  size: 52, 136
+  orig: 180, 300
+  offset: 64, 69
+  index: -1
+sk1/dd/00004
+  rotate: true
+  xy: 45, 326
+  size: 52, 172
+  orig: 180, 300
+  offset: 64, 83
+  index: -1
+sk1/dd/00006
+  rotate: false
+  xy: 394, 106
+  size: 46, 175
+  orig: 180, 300
+  offset: 68, 94
+  index: -1
+sk1/dd/00008
+  rotate: false
+  xy: 2, 313
+  size: 41, 180
+  orig: 180, 300
+  offset: 70, 94
+  index: -1
+sk1/dd/00010
+  rotate: false
+  xy: 307, 40
+  size: 38, 177
+  orig: 180, 300
+  offset: 72, 100
+  index: -1
+sk1/dd/00012
+  rotate: false
+  xy: 219, 201
+  size: 35, 178
+  orig: 180, 300
+  offset: 74, 100
+  index: -1
+sk1/dd/00014
+  rotate: false
+  xy: 115, 2
+  size: 29, 140
+  orig: 180, 300
+  offset: 76, 140
+  index: -1
+sk1/dd/00016
+  rotate: false
+  xy: 146, 5
+  size: 25, 137
+  orig: 180, 300
+  offset: 78, 142
+  index: -1
+sk1/sf/bao/00001
+  rotate: false
+  xy: 366, 283
+  size: 104, 104
+  orig: 180, 180
+  offset: 37, 38
+  index: -1
+sk1/sf/bao/00003
+  rotate: false
+  xy: 256, 273
+  size: 108, 106
+  orig: 180, 180
+  offset: 35, 37
+  index: -1
+sk1/sf/bao/00005
+  rotate: false
+  xy: 194, 89
+  size: 111, 110
+  orig: 180, 180
+  offset: 34, 35
+  index: -1
+sk1/sf/bao/00007
+  rotate: true
+  xy: 162, 381
+  size: 112, 115
+  orig: 180, 180
+  offset: 34, 33
+  index: -1
+sk1/sf/bao/00009
+  rotate: true
+  xy: 2, 198
+  size: 113, 116
+  orig: 180, 180
+  offset: 32, 33
+  index: -1
+sk1/sf/bao/00011
+  rotate: true
+  xy: 45, 380
+  size: 113, 115
+  orig: 180, 180
+  offset: 32, 33
+  index: -1
+sk1/sf/bao/00013
+  rotate: true
+  xy: 2, 83
+  size: 113, 111
+  orig: 180, 180
+  offset: 32, 35
+  index: -1
+sk1/sf/bao/00015
+  rotate: false
+  xy: 279, 389
+  size: 107, 104
+  orig: 180, 180
+  offset: 36, 38
+  index: -1
+sk1/sf/bao/00017
+  rotate: true
+  xy: 120, 227
+  size: 97, 89
+  orig: 180, 180
+  offset: 41, 44
+  index: -1
+sk1/sf/bao/00019
+  rotate: true
+  xy: 120, 144
+  size: 81, 72
+  orig: 180, 180
+  offset: 49, 53
+  index: -1

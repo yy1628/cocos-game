@@ -1,0 +1,83 @@
+
+shenzhangfei_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/sf/s/00022
+  rotate: false
+  xy: 2, 2
+  size: 53, 58
+  orig: 240, 240
+  offset: 99, 94
+  index: -1
+sk1/sf/s/00024
+  rotate: true
+  xy: 144, 2
+  size: 110, 120
+  orig: 240, 240
+  offset: 60, 56
+  index: -1
+sk1/sf/s/00026
+  rotate: false
+  xy: 323, 89
+  size: 142, 132
+  orig: 240, 240
+  offset: 29, 45
+  index: -1
+sk1/sf/s/00028
+  rotate: false
+  xy: 167, 221
+  size: 154, 138
+  orig: 240, 240
+  offset: 28, 43
+  index: -1
+sk1/sf/s/00030
+  rotate: true
+  xy: 2, 62
+  size: 159, 140
+  orig: 240, 240
+  offset: 26, 42
+  index: -1
+sk1/sf/s/00032
+  rotate: false
+  xy: 168, 361
+  size: 162, 141
+  orig: 240, 240
+  offset: 25, 41
+  index: -1
+sk1/sf/s/00034
+  rotate: false
+  xy: 2, 361
+  size: 164, 141
+  orig: 240, 240
+  offset: 24, 41
+  index: -1
+sk1/sf/s/00036
+  rotate: false
+  xy: 332, 363
+  size: 164, 139
+  orig: 240, 240
+  offset: 24, 43
+  index: -1
+sk1/sf/s/00038
+  rotate: false
+  xy: 332, 223
+  size: 164, 138
+  orig: 240, 240
+  offset: 24, 43
+  index: -1
+sk1/sf/s/00040
+  rotate: false
+  xy: 2, 223
+  size: 163, 136
+  orig: 240, 240
+  offset: 24, 44
+  index: -1
+sk1/sf/s/00042
+  rotate: false
+  xy: 144, 114
+  size: 162, 105
+  orig: 240, 240
+  offset: 25, 46
+  index: -1

@@ -1,0 +1,41 @@
+
+WJ-ZX-Skill1-dandao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dandao/dandao (1)
+  rotate: false
+  xy: 213, 39
+  size: 52, 187
+  orig: 300, 500
+  offset: 121, 122
+  index: -1
+dandao/dandao (3)
+  rotate: false
+  xy: 160, 18
+  size: 51, 208
+  orig: 300, 500
+  offset: 123, 122
+  index: -1
+dandao/dandao (5)
+  rotate: false
+  xy: 55, 6
+  size: 51, 220
+  orig: 300, 500
+  offset: 123, 122
+  index: -1
+dandao/dandao (7)
+  rotate: false
+  xy: 108, 7
+  size: 50, 219
+  orig: 300, 500
+  offset: 123, 122
+  index: -1
+dandao/dandao (9)
+  rotate: false
+  xy: 2, 2
+  size: 51, 224
+  orig: 300, 500
+  offset: 123, 122
+  index: -1

@@ -1,0 +1,76 @@
+
+mocaocao_skill01_buff_up.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff/00000
+  rotate: false
+  xy: 2, 2
+  size: 66, 94
+  orig: 99, 116
+  offset: 15, 11
+  index: -1
+buff/00002
+  rotate: false
+  xy: 70, 2
+  size: 66, 94
+  orig: 99, 116
+  offset: 15, 11
+  index: -1
+buff/00004
+  rotate: false
+  xy: 71, 98
+  size: 66, 94
+  orig: 99, 116
+  offset: 15, 11
+  index: -1
+buff/00006
+  rotate: false
+  xy: 138, 3
+  size: 67, 93
+  orig: 99, 116
+  offset: 14, 12
+  index: -1
+buff/00008
+  rotate: false
+  xy: 207, 5
+  size: 67, 92
+  orig: 99, 116
+  offset: 14, 13
+  index: -1
+buff/00010
+  rotate: false
+  xy: 208, 100
+  size: 67, 92
+  orig: 99, 116
+  offset: 14, 13
+  index: -1
+buff/00012
+  rotate: false
+  xy: 276, 6
+  size: 67, 92
+  orig: 99, 116
+  offset: 14, 12
+  index: -1
+buff/00014
+  rotate: false
+  xy: 277, 100
+  size: 67, 92
+  orig: 99, 116
+  offset: 14, 12
+  index: -1
+buff/00016
+  rotate: false
+  xy: 139, 99
+  size: 67, 93
+  orig: 99, 116
+  offset: 14, 11
+  index: -1
+buff/00018
+  rotate: false
+  xy: 2, 98
+  size: 67, 94
+  orig: 99, 116
+  offset: 14, 11
+  index: -1

@@ -1,0 +1,167 @@
+
+xuhuangpf01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 451, 70
+  size: 67, 104
+  orig: 75, 104
+  offset: 8, 0
+  index: -1
+b2_l_arm1
+  rotate: true
+  xy: 399, 286
+  size: 108, 63
+  orig: 108, 63
+  offset: 0, 0
+  index: -1
+f2_body
+  rotate: false
+  xy: 399, 396
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+f2_hair
+  rotate: false
+  xy: 248, 165
+  size: 149, 170
+  orig: 149, 170
+  offset: 0, 0
+  index: -1
+f2_head
+  rotate: false
+  xy: 248, 337
+  size: 149, 172
+  orig: 155, 172
+  offset: 6, 0
+  index: -1
+f2_l_arm1
+  rotate: true
+  xy: 248, 103
+  size: 60, 68
+  orig: 60, 74
+  offset: 0, 0
+  index: -1
+f2_l_foot
+  rotate: true
+  xy: 517, 295
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+f2_l_hand
+  rotate: false
+  xy: 172, 12
+  size: 75, 87
+  orig: 75, 88
+  offset: 0, 0
+  index: -1
+f2_l_leg
+  rotate: true
+  xy: 249, 56
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+f2_l_shoulder
+  rotate: true
+  xy: 464, 208
+  size: 83, 74
+  orig: 83, 74
+  offset: 0, 0
+  index: -1
+f2_r_arm1
+  rotate: true
+  xy: 399, 176
+  size: 108, 63
+  orig: 108, 63
+  offset: 0, 0
+  index: -1
+f2_r_arm2
+  rotate: false
+  xy: 520, 134
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+f2_r_foot
+  rotate: true
+  xy: 249, 2
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+f2_r_hand
+  rotate: true
+  xy: 2, 4
+  size: 95, 63
+  orig: 95, 63
+  offset: 0, 0
+  index: -1
+f2_r_leg
+  rotate: false
+  xy: 451, 12
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+f2_r_shoulder
+  rotate: false
+  xy: 67, 10
+  size: 103, 89
+  orig: 103, 89
+  offset: 0, 0
+  index: -1
+f2_skirt1
+  rotate: false
+  xy: 517, 344
+  size: 41, 77
+  orig: 41, 77
+  offset: 0, 0
+  index: -1
+f2_skirt2
+  rotate: true
+  xy: 504, 13
+  size: 55, 41
+  orig: 55, 41
+  offset: 0, 0
+  index: -1
+f2_skirt3
+  rotate: true
+  xy: 514, 423
+  size: 86, 70
+  orig: 86, 70
+  offset: 0, 0
+  index: -1
+f2_wq
+  rotate: true
+  xy: 2, 101
+  size: 408, 244
+  orig: 408, 256
+  offset: 0, 12
+  index: -1
+pifeng
+  rotate: true
+  xy: 318, 8
+  size: 155, 131
+  orig: 155, 131
+  offset: 0, 0
+  index: -1
+toukui1
+  rotate: true
+  xy: 464, 293
+  size: 101, 51
+  orig: 101, 51
+  offset: 0, 0
+  index: -1
+toukui2
+  rotate: true
+  xy: 464, 178
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1

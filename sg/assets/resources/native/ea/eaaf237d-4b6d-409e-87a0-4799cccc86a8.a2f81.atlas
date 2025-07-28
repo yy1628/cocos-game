@@ -1,0 +1,48 @@
+
+jiaxu_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit/0000
+  rotate: true
+  xy: 185, 335
+  size: 168, 175
+  orig: 238, 238
+  offset: 38, 30
+  index: -1
+hit/0002
+  rotate: false
+  xy: 2, 330
+  size: 181, 173
+  orig: 238, 238
+  offset: 30, 30
+  index: -1
+hit/0004
+  rotate: false
+  xy: 2, 155
+  size: 172, 173
+  orig: 238, 238
+  offset: 41, 28
+  index: -1
+hit/0006
+  rotate: false
+  xy: 176, 158
+  size: 168, 170
+  orig: 238, 238
+  offset: 43, 30
+  index: -1
+hit/0008
+  rotate: false
+  xy: 346, 167
+  size: 159, 166
+  orig: 238, 238
+  offset: 49, 30
+  index: -1
+hit/0010
+  rotate: false
+  xy: 2, 2
+  size: 150, 151
+  orig: 238, 238
+  offset: 56, 37
+  index: -1

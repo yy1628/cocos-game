@@ -1,0 +1,55 @@
+
+shenzhangfei_skill01_buff_up.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff/0000
+  rotate: false
+  xy: 2, 68
+  size: 62, 68
+  orig: 100, 100
+  offset: 20, 18
+  index: -1
+buff/0004
+  rotate: true
+  xy: 2, 2
+  size: 64, 67
+  orig: 100, 100
+  offset: 19, 18
+  index: -1
+buff/0010
+  rotate: true
+  xy: 2, 2
+  size: 64, 67
+  orig: 100, 100
+  offset: 19, 18
+  index: -1
+buff/0006
+  rotate: true
+  xy: 66, 72
+  size: 64, 67
+  orig: 100, 100
+  offset: 19, 18
+  index: -1
+buff/0008
+  rotate: true
+  xy: 66, 72
+  size: 64, 67
+  orig: 100, 100
+  offset: 19, 18
+  index: -1
+buff/0012
+  rotate: false
+  xy: 71, 3
+  size: 62, 67
+  orig: 100, 100
+  offset: 20, 18
+  index: -1
+buff/0002
+  rotate: false
+  xy: 71, 3
+  size: 62, 67
+  orig: 100, 100
+  offset: 20, 18
+  index: -1

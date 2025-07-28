@@ -1,0 +1,251 @@
+
+huatuo.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_knife
+  rotate: false
+  xy: 228, 3
+  size: 162, 106
+  orig: 162, 106
+  offset: 0, 0
+  index: -1
+b_l_hand01
+  rotate: true
+  xy: 559, 292
+  size: 98, 111
+  orig: 98, 111
+  offset: 0, 0
+  index: -1
+b_l_hand02
+  rotate: true
+  xy: 410, 286
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+b_needle
+  rotate: false
+  xy: 177, 111
+  size: 107, 165
+  orig: 107, 165
+  offset: 0, 0
+  index: -1
+b_r_hand01
+  rotate: true
+  xy: 71, 4
+  size: 80, 87
+  orig: 80, 87
+  offset: 0, 0
+  index: -1
+f_body
+  rotate: false
+  xy: 227, 279
+  size: 46, 46
+  orig: 91, 93
+  offset: 22, 23
+  index: -1
+f_box
+  rotate: false
+  xy: 390, 361
+  size: 134, 149
+  orig: 134, 149
+  offset: 0, 0
+  index: -1
+f_calabash
+  rotate: true
+  xy: 2, 277
+  size: 233, 167
+  orig: 233, 167
+  offset: 0, 0
+  index: -1
+f_foot
+  rotate: true
+  xy: 595, 2
+  size: 136, 83
+  orig: 136, 83
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: true
+  xy: 2, 86
+  size: 189, 173
+  orig: 189, 173
+  offset: 0, 0
+  index: -1
+f_j_l_arm01
+  rotate: false
+  xy: 650, 444
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+f_j_l_arm02
+  rotate: false
+  xy: 665, 232
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+f_j_l_corona
+  rotate: false
+  xy: 494, 2
+  size: 99, 133
+  orig: 99, 133
+  offset: 0, 0
+  index: -1
+f_j_l_gear
+  rotate: true
+  xy: 171, 278
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+f_j_l_hand
+  rotate: true
+  xy: 286, 114
+  size: 164, 130
+  orig: 164, 130
+  offset: 0, 0
+  index: -1
+f_j_l_sphere01
+  rotate: true
+  xy: 177, 86
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+f_j_l_sphere02
+  rotate: false
+  xy: 203, 86
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+f_j_l_sphere03
+  rotate: false
+  xy: 665, 206
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+f_j_r_arm01
+  rotate: true
+  xy: 340, 282
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+f_j_r_arm02
+  rotate: false
+  xy: 160, 8
+  size: 61, 76
+  orig: 61, 76
+  offset: 0, 0
+  index: -1
+f_j_r_corona
+  rotate: false
+  xy: 418, 137
+  size: 105, 147
+  orig: 105, 147
+  offset: 0, 0
+  index: -1
+f_j_r_gear
+  rotate: true
+  xy: 275, 280
+  size: 45, 53
+  orig: 45, 54
+  offset: 0, 1
+  index: -1
+f_j_r_hand
+  rotate: false
+  xy: 171, 327
+  size: 141, 183
+  orig: 141, 183
+  offset: 0, 0
+  index: -1
+f_j_r_sphere01
+  rotate: false
+  xy: 663, 414
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+f_j_r_sphere02
+  rotate: true
+  xy: 611, 392
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+f_j_r_sphere03
+  rotate: true
+  xy: 637, 394
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+f_l_arm01
+  rotate: true
+  xy: 481, 287
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+f_l_eyebrow
+  rotate: false
+  xy: 2, 3
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: false
+  xy: 314, 327
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+f_line
+  rotate: true
+  xy: 611, 421
+  size: 89, 37
+  orig: 89, 37
+  offset: 0, 0
+  index: -1
+f_r_arm01
+  rotate: true
+  xy: 392, 3
+  size: 109, 100
+  orig: 109, 100
+  offset: 0, 0
+  index: -1
+f_r_eyebrow
+  rotate: false
+  xy: 526, 392
+  size: 83, 118
+  orig: 83, 118
+  offset: 0, 0
+  index: -1
+f_r_hand
+  rotate: false
+  xy: 526, 362
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+f_scroll
+  rotate: false
+  xy: 525, 140
+  size: 138, 145
+  orig: 138, 145
+  offset: 0, 0
+  index: -1
+f_skirt
+  rotate: false
+  xy: 314, 358
+  size: 74, 152
+  orig: 74, 152
+  offset: 0, 0
+  index: -1

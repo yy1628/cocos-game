@@ -1,0 +1,76 @@
+
+sunjian_skill01_buff_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff/00000
+  rotate: true
+  xy: 262, 2
+  size: 119, 131
+  orig: 180, 180
+  offset: 30, 40
+  index: -1
+buff/00002
+  rotate: true
+  xy: 265, 123
+  size: 119, 135
+  orig: 180, 180
+  offset: 30, 36
+  index: -1
+buff/00004
+  rotate: true
+  xy: 269, 244
+  size: 120, 140
+  orig: 180, 180
+  offset: 29, 32
+  index: -1
+buff/00006
+  rotate: true
+  xy: 269, 366
+  size: 123, 138
+  orig: 180, 180
+  offset: 28, 35
+  index: -1
+buff/00008
+  rotate: false
+  xy: 135, 85
+  size: 125, 134
+  orig: 180, 180
+  offset: 27, 39
+  index: -1
+buff/00010
+  rotate: false
+  xy: 2, 356
+  size: 132, 133
+  orig: 180, 180
+  offset: 24, 41
+  index: -1
+buff/00012
+  rotate: true
+  xy: 2, 221
+  size: 133, 132
+  orig: 180, 180
+  offset: 23, 41
+  index: -1
+buff/00014
+  rotate: false
+  xy: 136, 357
+  size: 131, 132
+  orig: 180, 180
+  offset: 24, 41
+  index: -1
+buff/00016
+  rotate: false
+  xy: 2, 87
+  size: 131, 132
+  orig: 180, 180
+  offset: 23, 40
+  index: -1
+buff/00018
+  rotate: false
+  xy: 136, 223
+  size: 127, 132
+  orig: 180, 180
+  offset: 26, 40
+  index: -1

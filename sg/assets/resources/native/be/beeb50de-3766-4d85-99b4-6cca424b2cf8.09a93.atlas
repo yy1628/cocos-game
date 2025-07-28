@@ -1,0 +1,62 @@
+
+zhangxiu_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouji/shouji (1)
+  rotate: false
+  xy: 197, 131
+  size: 161, 162
+  orig: 240, 240
+  offset: 34, 35
+  index: -1
+shouji/shouji (11)
+  rotate: true
+  xy: 360, 2
+  size: 140, 120
+  orig: 240, 240
+  offset: 47, 61
+  index: -1
+shouji/shouji (13)
+  rotate: true
+  xy: 378, 359
+  size: 118, 99
+  orig: 240, 240
+  offset: 60, 78
+  index: -1
+shouji/shouji (15)
+  rotate: false
+  xy: 160, 62
+  size: 99, 67
+  orig: 240, 240
+  offset: 60, 82
+  index: -1
+shouji/shouji (3)
+  rotate: false
+  xy: 2, 289
+  size: 193, 188
+  orig: 240, 240
+  offset: 22, 25
+  index: -1
+shouji/shouji (5)
+  rotate: true
+  xy: 197, 295
+  size: 182, 179
+  orig: 240, 240
+  offset: 27, 35
+  index: -1
+shouji/shouji (7)
+  rotate: true
+  xy: 2, 124
+  size: 163, 156
+  orig: 240, 240
+  offset: 35, 44
+  index: -1
+shouji/shouji (9)
+  rotate: true
+  xy: 360, 144
+  size: 149, 124
+  orig: 240, 240
+  offset: 40, 61
+  index: -1

@@ -1,0 +1,90 @@
+
+liubei_skill01_buff_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/Buff/b (1)
+  rotate: false
+  xy: 2, 129
+  size: 126, 124
+  orig: 368, 368
+  offset: 120, 119
+  index: -1
+skill1/Buff/b (11)
+  rotate: false
+  xy: 258, 254
+  size: 125, 125
+  orig: 368, 368
+  offset: 120, 119
+  index: -1
+skill1/Buff/b (13)
+  rotate: false
+  xy: 130, 128
+  size: 125, 125
+  orig: 368, 368
+  offset: 120, 119
+  index: -1
+skill1/Buff/b (15)
+  rotate: false
+  xy: 2, 2
+  size: 125, 125
+  orig: 368, 368
+  offset: 120, 119
+  index: -1
+skill1/Buff/b (17)
+  rotate: false
+  xy: 257, 2
+  size: 125, 124
+  orig: 368, 368
+  offset: 120, 119
+  index: -1
+skill1/Buff/b (19)
+  rotate: false
+  xy: 129, 2
+  size: 126, 124
+  orig: 368, 368
+  offset: 119, 119
+  index: -1
+skill1/Buff/b (21)
+  rotate: false
+  xy: 2, 383
+  size: 127, 124
+  orig: 368, 368
+  offset: 119, 119
+  index: -1
+skill1/Buff/b (23)
+  rotate: false
+  xy: 129, 255
+  size: 127, 124
+  orig: 368, 368
+  offset: 119, 119
+  index: -1
+skill1/Buff/b (3)
+  rotate: false
+  xy: 257, 128
+  size: 126, 124
+  orig: 368, 368
+  offset: 120, 119
+  index: -1
+skill1/Buff/b (5)
+  rotate: true
+  xy: 2, 255
+  size: 126, 125
+  orig: 368, 368
+  offset: 119, 119
+  index: -1
+skill1/Buff/b (7)
+  rotate: true
+  xy: 258, 381
+  size: 126, 125
+  orig: 368, 368
+  offset: 119, 119
+  index: -1
+skill1/Buff/b (9)
+  rotate: true
+  xy: 131, 381
+  size: 126, 125
+  orig: 368, 368
+  offset: 119, 119
+  index: -1

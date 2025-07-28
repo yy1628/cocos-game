@@ -1,0 +1,125 @@
+
+huangzhong_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/shifa/di/d (1)
+  rotate: true
+  xy: 361, 215
+  size: 49, 39
+  orig: 487, 487
+  offset: 218, 203
+  index: -1
+skill1/shifa/di/d (11)
+  rotate: false
+  xy: 334, 443
+  size: 134, 63
+  orig: 487, 487
+  offset: 171, 194
+  index: -1
+skill1/shifa/di/d (13)
+  rotate: false
+  xy: 288, 50
+  size: 126, 60
+  orig: 487, 487
+  offset: 172, 195
+  index: -1
+skill1/shifa/di/d (15)
+  rotate: false
+  xy: 77, 2
+  size: 121, 53
+  orig: 487, 487
+  offset: 175, 198
+  index: -1
+skill1/shifa/di/d (17)
+  rotate: false
+  xy: 170, 60
+  size: 112, 43
+  orig: 487, 487
+  offset: 184, 205
+  index: -1
+skill1/shifa/di/d (3)
+  rotate: true
+  xy: 288, 112
+  size: 129, 71
+  orig: 487, 487
+  offset: 177, 194
+  index: -1
+skill1/shifa/di/d (5)
+  rotate: false
+  xy: 334, 367
+  size: 133, 74
+  orig: 487, 487
+  offset: 175, 192
+  index: -1
+skill1/shifa/di/d (7)
+  rotate: true
+  xy: 2, 34
+  size: 134, 73
+  orig: 487, 487
+  offset: 174, 192
+  index: -1
+skill1/shifa/di/d (9)
+  rotate: true
+  xy: 172, 211
+  size: 135, 69
+  orig: 487, 487
+  offset: 173, 192
+  index: -1
+skill1/shifa/tian/t (1)
+  rotate: false
+  xy: 243, 243
+  size: 103, 103
+  orig: 487, 487
+  offset: 204, 199
+  index: -1
+skill1/shifa/tian/t (11)
+  rotate: false
+  xy: 2, 170
+  size: 168, 165
+  orig: 487, 487
+  offset: 207, 215
+  index: -1
+skill1/shifa/tian/t (13)
+  rotate: false
+  xy: 2, 337
+  size: 163, 169
+  orig: 487, 487
+  offset: 212, 212
+  index: -1
+skill1/shifa/tian/t (15)
+  rotate: false
+  xy: 200, 8
+  size: 85, 50
+  orig: 487, 487
+  offset: 220, 238
+  index: -1
+skill1/shifa/tian/t (3)
+  rotate: true
+  xy: 172, 105
+  size: 104, 114
+  orig: 487, 487
+  offset: 205, 197
+  index: -1
+skill1/shifa/tian/t (5)
+  rotate: false
+  xy: 77, 57
+  size: 91, 111
+  orig: 487, 487
+  offset: 210, 198
+  index: -1
+skill1/shifa/tian/t (7)
+  rotate: true
+  xy: 348, 266
+  size: 99, 114
+  orig: 487, 487
+  offset: 209, 195
+  index: -1
+skill1/shifa/tian/t (9)
+  rotate: true
+  xy: 167, 348
+  size: 158, 165
+  orig: 487, 487
+  offset: 211, 210
+  index: -1

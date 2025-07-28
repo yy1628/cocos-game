@@ -1,0 +1,13 @@
+
+circularstreamer.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dqd
+  rotate: false
+  xy: 2, 2
+  size: 177, 183
+  orig: 223, 223
+  offset: 21, 21
+  index: -1

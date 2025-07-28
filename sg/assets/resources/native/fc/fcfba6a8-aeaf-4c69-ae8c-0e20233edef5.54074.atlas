@@ -1,0 +1,83 @@
+
+zhangjiao_skill03_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill3/fu (1)
+  rotate: false
+  xy: 2, 240
+  size: 236, 85
+  orig: 320, 160
+  offset: 28, 34
+  index: -1
+skill3/fu (11)
+  rotate: false
+  xy: 2, 416
+  size: 237, 86
+  orig: 320, 160
+  offset: 28, 34
+  index: -1
+skill3/fu (13)
+  rotate: false
+  xy: 240, 241
+  size: 236, 87
+  orig: 320, 160
+  offset: 28, 35
+  index: -1
+skill3/fu (15)
+  rotate: false
+  xy: 241, 330
+  size: 236, 88
+  orig: 320, 160
+  offset: 28, 36
+  index: -1
+skill3/fu (17)
+  rotate: true
+  xy: 89, 2
+  size: 236, 84
+  orig: 320, 160
+  offset: 28, 37
+  index: -1
+skill3/fu (19)
+  rotate: true
+  xy: 2, 2
+  size: 236, 85
+  orig: 320, 160
+  offset: 28, 36
+  index: -1
+skill3/fu (21)
+  rotate: true
+  xy: 175, 2
+  size: 236, 80
+  orig: 320, 160
+  offset: 28, 38
+  index: -1
+skill3/fu (3)
+  rotate: false
+  xy: 2, 327
+  size: 236, 87
+  orig: 320, 160
+  offset: 28, 35
+  index: -1
+skill3/fu (5)
+  rotate: true
+  xy: 257, 4
+  size: 235, 88
+  orig: 320, 160
+  offset: 29, 36
+  index: -1
+skill3/fu (7)
+  rotate: true
+  xy: 347, 5
+  size: 234, 82
+  orig: 320, 160
+  offset: 30, 38
+  index: -1
+skill3/fu (9)
+  rotate: false
+  xy: 241, 420
+  size: 237, 82
+  orig: 320, 160
+  offset: 28, 37
+  index: -1

@@ -1,0 +1,27 @@
+
+sunshangxiang_skill01_dd_up.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/dd/00002
+  rotate: false
+  xy: 143, 2
+  size: 139, 108
+  orig: 200, 200
+  offset: 30, 37
+  index: -1
+sk1/dd/00004
+  rotate: false
+  xy: 2, 2
+  size: 139, 108
+  orig: 200, 200
+  offset: 31, 37
+  index: -1
+sk1/dd/00000
+  rotate: false
+  xy: 2, 2
+  size: 139, 108
+  orig: 200, 200
+  offset: 31, 37
+  index: -1

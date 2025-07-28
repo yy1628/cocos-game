@@ -1,0 +1,160 @@
+
+chenqun.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_body
+  rotate: false
+  xy: 429, 38
+  size: 95, 101
+  orig: 95, 101
+  offset: 0, 0
+  index: -1
+f_hand
+  rotate: false
+  xy: 100, 95
+  size: 145, 159
+  orig: 145, 159
+  offset: 0, 0
+  index: -1
+f_l_arm1
+  rotate: false
+  xy: 81, 12
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+f_l_arm2
+  rotate: false
+  xy: 377, 97
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+f_l_foot
+  rotate: true
+  xy: 597, 65
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: true
+  xy: 526, 46
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+f_l_leg1
+  rotate: false
+  xy: 506, 5
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+f_l_leg2
+  rotate: true
+  xy: 383, 2
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+f_neck
+  rotate: false
+  xy: 156, 7
+  size: 153, 86
+  orig: 153, 86
+  offset: 0, 0
+  index: -1
+f_r_arm1
+  rotate: false
+  xy: 311, 22
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+f_r_arm2
+  rotate: false
+  xy: 383, 45
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+f_r_foot
+  rotate: true
+  xy: 564, 65
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+f_r_hand
+  rotate: false
+  xy: 564, 102
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+f_r_leg1
+  rotate: false
+  xy: 467, 4
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+f_r_leg2
+  rotate: true
+  xy: 424, 4
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+f_scroll1
+  rotate: true
+  xy: 2, 87
+  size: 167, 96
+  orig: 167, 96
+  offset: 0, 0
+  index: -1
+f_scroll2
+  rotate: false
+  xy: 526, 87
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+f_scroll3
+  rotate: false
+  xy: 547, 6
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+f_skirt1
+  rotate: true
+  xy: 247, 96
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+f_skirt2
+  rotate: false
+  xy: 2, 7
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+f_skirt3
+  rotate: true
+  xy: 313, 96
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+f_wq
+  rotate: true
+  xy: 247, 141
+  size: 113, 327
+  orig: 113, 327
+  offset: 0, 0
+  index: -1

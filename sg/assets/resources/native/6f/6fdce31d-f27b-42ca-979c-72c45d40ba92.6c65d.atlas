@@ -1,0 +1,90 @@
+
+zhaoyun_skill03_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk3/sf/sf3 (1)
+  rotate: false
+  xy: 182, 151
+  size: 117, 68
+  orig: 638, 638
+  offset: 260, 264
+  index: -1
+sk3/sf/sf3 (11)
+  rotate: false
+  xy: 2, 39
+  size: 165, 138
+  orig: 638, 638
+  offset: 229, 251
+  index: -1
+sk3/sf/sf3 (13)
+  rotate: true
+  xy: 357, 335
+  size: 156, 130
+  orig: 638, 638
+  offset: 230, 254
+  index: -1
+sk3/sf/sf3 (15)
+  rotate: false
+  xy: 347, 221
+  size: 131, 112
+  orig: 638, 638
+  offset: 252, 262
+  index: -1
+sk3/sf/sf3 (17)
+  rotate: false
+  xy: 169, 41
+  size: 116, 108
+  orig: 638, 638
+  offset: 259, 262
+  index: -1
+sk3/sf/sf3 (19)
+  rotate: false
+  xy: 301, 111
+  size: 114, 108
+  orig: 638, 638
+  offset: 260, 262
+  index: -1
+sk3/sf/sf3 (21)
+  rotate: false
+  xy: 287, 2
+  size: 107, 107
+  orig: 638, 638
+  offset: 260, 262
+  index: -1
+sk3/sf/sf3 (23)
+  rotate: true
+  xy: 417, 118
+  size: 101, 92
+  orig: 638, 638
+  offset: 265, 276
+  index: -1
+sk3/sf/sf3 (3)
+  rotate: false
+  xy: 184, 221
+  size: 161, 116
+  orig: 638, 638
+  offset: 241, 246
+  index: -1
+sk3/sf/sf3 (5)
+  rotate: false
+  xy: 2, 179
+  size: 178, 150
+  orig: 638, 638
+  offset: 231, 236
+  index: -1
+sk3/sf/sf3 (7)
+  rotate: false
+  xy: 2, 331
+  size: 180, 160
+  orig: 638, 638
+  offset: 231, 236
+  index: -1
+sk3/sf/sf3 (9)
+  rotate: false
+  xy: 184, 339
+  size: 171, 152
+  orig: 638, 638
+  offset: 235, 244
+  index: -1

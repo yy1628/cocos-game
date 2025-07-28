@@ -1,0 +1,34 @@
+
+zhoutai_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/dd/00000
+  rotate: false
+  xy: 218, 187
+  size: 212, 182
+  orig: 300, 300
+  offset: 45, 51
+  index: -1
+sk1/dd/00001
+  rotate: false
+  xy: 2, 4
+  size: 213, 183
+  orig: 300, 300
+  offset: 45, 51
+  index: -1
+sk1/dd/00002
+  rotate: false
+  xy: 217, 2
+  size: 215, 183
+  orig: 300, 300
+  offset: 43, 51
+  index: -1
+sk1/dd/00003
+  rotate: false
+  xy: 2, 189
+  size: 214, 180
+  orig: 300, 300
+  offset: 43, 52
+  index: -1

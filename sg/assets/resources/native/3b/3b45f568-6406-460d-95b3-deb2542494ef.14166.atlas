@@ -1,0 +1,34 @@
+
+muludawang_skill01_sj_up.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit/hit (1)
+  rotate: false
+  xy: 312, 15
+  size: 31, 40
+  orig: 300, 300
+  offset: 134, 126
+  index: -1
+hit/hit (3)
+  rotate: false
+  xy: 229, 5
+  size: 81, 50
+  orig: 300, 300
+  offset: 108, 121
+  index: -1
+hit/hit (5)
+  rotate: false
+  xy: 2, 2
+  size: 112, 53
+  orig: 300, 300
+  offset: 99, 119
+  index: -1
+hit/hit (7)
+  rotate: false
+  xy: 116, 2
+  size: 111, 53
+  orig: 300, 300
+  offset: 99, 119
+  index: -1

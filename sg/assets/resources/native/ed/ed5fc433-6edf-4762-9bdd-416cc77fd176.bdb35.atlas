@@ -1,0 +1,13 @@
+
+cangtian_sj_down.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x/00003
+  rotate: false
+  xy: 2, 2
+  size: 251, 98
+  orig: 442, 416
+  offset: 96, 29
+  index: -1

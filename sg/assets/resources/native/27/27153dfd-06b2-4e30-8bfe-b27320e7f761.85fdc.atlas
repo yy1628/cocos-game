@@ -1,0 +1,20 @@
+
+chestbounce.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_yjdq_baoxiang
+  rotate: false
+  xy: 2, 21
+  size: 46, 35
+  orig: 47, 37
+  offset: 0, 1
+  index: -1
+椭圆 1
+  rotate: false
+  xy: 2, 2
+  size: 47, 17
+  orig: 47, 17
+  offset: 0, 0
+  index: -1

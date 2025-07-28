@@ -1,0 +1,48 @@
+
+juedifanji_xia.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/juedi/juedi1_0
+  rotate: false
+  xy: 2, 236
+  size: 230, 115
+  orig: 230, 115
+  offset: 0, 0
+  index: -1
+effect/juedi/juedi1_10
+  rotate: false
+  xy: 234, 2
+  size: 230, 115
+  orig: 230, 115
+  offset: 0, 0
+  index: -1
+effect/juedi/juedi1_2
+  rotate: false
+  xy: 234, 236
+  size: 230, 115
+  orig: 230, 115
+  offset: 0, 0
+  index: -1
+effect/juedi/juedi1_4
+  rotate: false
+  xy: 2, 119
+  size: 230, 115
+  orig: 230, 115
+  offset: 0, 0
+  index: -1
+effect/juedi/juedi1_6
+  rotate: false
+  xy: 234, 119
+  size: 230, 115
+  orig: 230, 115
+  offset: 0, 0
+  index: -1
+effect/juedi/juedi1_8
+  rotate: false
+  xy: 2, 2
+  size: 230, 115
+  orig: 230, 115
+  offset: 0, 0
+  index: -1

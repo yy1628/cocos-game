@@ -1,0 +1,83 @@
+
+zhaoyun_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/shifa/sf (10)
+  rotate: false
+  xy: 2, 312
+  size: 198, 198
+  orig: 487, 487
+  offset: 152, 158
+  index: -1
+sk1/shifa/sf (12)
+  rotate: false
+  xy: 2, 115
+  size: 192, 195
+  orig: 487, 487
+  offset: 153, 157
+  index: -1
+sk1/shifa/sf (14)
+  rotate: false
+  xy: 202, 324
+  size: 178, 186
+  orig: 487, 487
+  offset: 159, 163
+  index: -1
+sk1/shifa/sf (16)
+  rotate: true
+  xy: 202, 171
+  size: 151, 174
+  orig: 487, 487
+  offset: 177, 177
+  index: -1
+sk1/shifa/sf (18)
+  rotate: false
+  xy: 382, 373
+  size: 128, 137
+  orig: 487, 487
+  offset: 190, 196
+  index: -1
+sk1/shifa/sf (2)
+  rotate: false
+  xy: 116, 100
+  size: 18, 13
+  orig: 487, 487
+  offset: 212, 209
+  index: -1
+sk1/shifa/sf (20)
+  rotate: true
+  xy: 2, 30
+  size: 83, 112
+  orig: 487, 487
+  offset: 210, 217
+  index: -1
+sk1/shifa/sf (22)
+  rotate: true
+  xy: 2, 2
+  size: 26, 98
+  orig: 487, 487
+  offset: 237, 231
+  index: -1
+sk1/shifa/sf (4)
+  rotate: false
+  xy: 382, 285
+  size: 88, 86
+  orig: 487, 487
+  offset: 194, 169
+  index: -1
+sk1/shifa/sf (6)
+  rotate: true
+  xy: 339, 25
+  size: 144, 134
+  orig: 487, 487
+  offset: 168, 159
+  index: -1
+sk1/shifa/sf (8)
+  rotate: true
+  xy: 196, 2
+  size: 167, 141
+  orig: 487, 487
+  offset: 160, 158
+  index: -1

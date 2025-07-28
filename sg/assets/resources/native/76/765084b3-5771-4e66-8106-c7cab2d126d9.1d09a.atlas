@@ -1,0 +1,76 @@
+
+jiangwei_skill03_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill3/hit/sj (1)
+  rotate: false
+  xy: 268, 80
+  size: 81, 81
+  orig: 375, 375
+  offset: 145, 148
+  index: -1
+skill3/hit/sj (11)
+  rotate: false
+  xy: 2, 342
+  size: 184, 159
+  orig: 375, 375
+  offset: 97, 133
+  index: -1
+skill3/hit/sj (13)
+  rotate: true
+  xy: 354, 158
+  size: 166, 143
+  orig: 375, 375
+  offset: 106, 146
+  index: -1
+skill3/hit/sj (15)
+  rotate: true
+  xy: 365, 359
+  size: 142, 115
+  orig: 375, 375
+  offset: 112, 169
+  index: -1
+skill3/hit/sj (17)
+  rotate: false
+  xy: 171, 80
+  size: 95, 81
+  orig: 375, 375
+  offset: 142, 197
+  index: -1
+skill3/hit/sj (19)
+  rotate: true
+  xy: 351, 75
+  size: 81, 66
+  orig: 375, 375
+  offset: 148, 210
+  index: -1
+skill3/hit/sj (3)
+  rotate: false
+  xy: 2, 2
+  size: 167, 161
+  orig: 375, 375
+  offset: 104, 108
+  index: -1
+skill3/hit/sj (5)
+  rotate: false
+  xy: 2, 165
+  size: 174, 175
+  orig: 375, 375
+  offset: 101, 105
+  index: -1
+skill3/hit/sj (7)
+  rotate: false
+  xy: 188, 326
+  size: 175, 175
+  orig: 375, 375
+  offset: 100, 115
+  index: -1
+skill3/hit/sj (9)
+  rotate: false
+  xy: 178, 163
+  size: 174, 161
+  orig: 375, 375
+  offset: 99, 128
+  index: -1

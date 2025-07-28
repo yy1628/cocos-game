@@ -1,0 +1,48 @@
+
+liufeng_attack_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/dandao/dandao (1)
+  rotate: true
+  xy: 341, 2
+  size: 308, 161
+  orig: 675, 675
+  offset: 164, 258
+  index: -1
+attack/dandao/dandao (11)
+  rotate: false
+  xy: 380, 480
+  size: 66, 12
+  orig: 675, 675
+  offset: 276, 328
+  index: -1
+attack/dandao/dandao (3)
+  rotate: false
+  xy: 2, 312
+  size: 376, 180
+  orig: 675, 675
+  offset: 167, 252
+  index: -1
+attack/dandao/dandao (5)
+  rotate: false
+  xy: 2, 146
+  size: 337, 164
+  orig: 675, 675
+  offset: 190, 254
+  index: -1
+attack/dandao/dandao (7)
+  rotate: false
+  xy: 2, 94
+  size: 214, 50
+  orig: 675, 675
+  offset: 263, 312
+  index: -1
+attack/dandao/dandao (9)
+  rotate: false
+  xy: 2, 72
+  size: 201, 20
+  orig: 675, 675
+  offset: 271, 327
+  index: -1

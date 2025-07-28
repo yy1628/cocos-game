@@ -1,0 +1,48 @@
+
+zhurong_skill01_dd_up.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dandao/dandao (1)
+  rotate: false
+  xy: 219, 168
+  size: 207, 80
+  orig: 750, 750
+  offset: 265, 341
+  index: -1
+dandao/dandao (11)
+  rotate: false
+  xy: 218, 9
+  size: 205, 77
+  orig: 750, 750
+  offset: 267, 343
+  index: -1
+dandao/dandao (3)
+  rotate: false
+  xy: 2, 2
+  size: 209, 82
+  orig: 750, 750
+  offset: 263, 341
+  index: -1
+dandao/dandao (5)
+  rotate: false
+  xy: 2, 86
+  size: 214, 80
+  orig: 750, 750
+  offset: 258, 342
+  index: -1
+dandao/dandao (7)
+  rotate: false
+  xy: 2, 168
+  size: 215, 80
+  orig: 750, 750
+  offset: 257, 341
+  index: -1
+dandao/dandao (9)
+  rotate: false
+  xy: 218, 88
+  size: 207, 78
+  orig: 750, 750
+  offset: 265, 342
+  index: -1

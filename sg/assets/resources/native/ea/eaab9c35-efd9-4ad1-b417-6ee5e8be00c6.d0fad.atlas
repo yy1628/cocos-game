@@ -1,0 +1,48 @@
+
+gongsunzan_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sf/youxia/sf (1)
+  rotate: false
+  xy: 2, 333
+  size: 209, 174
+  orig: 360, 297
+  offset: 101, 67
+  index: -1
+sf/youxia/sf (11)
+  rotate: true
+  xy: 2, 175
+  size: 156, 133
+  orig: 360, 297
+  offset: 129, 45
+  index: -1
+sf/youxia/sf (3)
+  rotate: true
+  xy: 213, 341
+  size: 166, 183
+  orig: 360, 297
+  offset: 144, 43
+  index: -1
+sf/youxia/sf (5)
+  rotate: true
+  xy: 213, 169
+  size: 170, 174
+  orig: 360, 297
+  offset: 139, 42
+  index: -1
+sf/youxia/sf (7)
+  rotate: false
+  xy: 2, 2
+  size: 171, 165
+  orig: 360, 297
+  offset: 135, 42
+  index: -1
+sf/youxia/sf (9)
+  rotate: false
+  xy: 175, 14
+  size: 169, 153
+  orig: 360, 297
+  offset: 130, 43
+  index: -1

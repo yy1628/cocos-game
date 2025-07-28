@@ -1,0 +1,34 @@
+
+jiangwei_skill01_dd_up.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/dandao/dd (1)
+  rotate: false
+  xy: 80, 2
+  size: 126, 77
+  orig: 750, 750
+  offset: 288, 336
+  index: -1
+skill1/dandao/dd (3)
+  rotate: true
+  xy: 2, 3
+  size: 136, 76
+  orig: 750, 750
+  offset: 278, 337
+  index: -1
+skill1/dandao/dd (5)
+  rotate: true
+  xy: 141, 81
+  size: 137, 77
+  orig: 750, 750
+  offset: 277, 337
+  index: -1
+skill1/dandao/dd (7)
+  rotate: false
+  xy: 2, 141
+  size: 137, 77
+  orig: 750, 750
+  offset: 277, 337
+  index: -1

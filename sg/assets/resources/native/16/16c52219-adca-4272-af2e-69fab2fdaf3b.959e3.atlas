@@ -1,0 +1,132 @@
+
+zhugejin.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_body
+  rotate: true
+  xy: 71, 9
+  size: 86, 95
+  orig: 86, 95
+  offset: 0, 0
+  index: -1
+f_cap
+  rotate: true
+  xy: 2, 97
+  size: 156, 115
+  orig: 157, 115
+  offset: 1, 0
+  index: -1
+f_hair
+  rotate: true
+  xy: 467, 122
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: false
+  xy: 232, 9
+  size: 110, 96
+  orig: 110, 96
+  offset: 0, 0
+  index: -1
+f_l_arm01
+  rotate: true
+  xy: 344, 2
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: true
+  xy: 467, 96
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+f_l_leg01
+  rotate: false
+  xy: 119, 153
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+f_l_leg02
+  rotate: false
+  xy: 119, 219
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+f_neck
+  rotate: true
+  xy: 168, 13
+  size: 82, 62
+  orig: 82, 62
+  offset: 0, 0
+  index: -1
+f_r_arm01
+  rotate: false
+  xy: 2, 8
+  size: 67, 87
+  orig: 67, 87
+  offset: 0, 0
+  index: -1
+f_r_hand
+  rotate: true
+  xy: 307, 111
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+f_r_leg01
+  rotate: true
+  xy: 238, 108
+  size: 42, 67
+  orig: 42, 67
+  offset: 0, 0
+  index: -1
+f_r_leg02
+  rotate: true
+  xy: 202, 107
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+f_ribbon01
+  rotate: false
+  xy: 344, 69
+  size: 59, 81
+  orig: 59, 81
+  offset: 0, 0
+  index: -1
+f_shoulder
+  rotate: true
+  xy: 406, 11
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+f_skirt01
+  rotate: false
+  xy: 405, 78
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+f_skirt02
+  rotate: true
+  xy: 119, 97
+  size: 53, 81
+  orig: 53, 81
+  offset: 0, 0
+  index: -1
+f_weapon
+  rotate: true
+  xy: 168, 152
+  size: 101, 336
+  orig: 101, 336
+  offset: 0, 0
+  index: -1

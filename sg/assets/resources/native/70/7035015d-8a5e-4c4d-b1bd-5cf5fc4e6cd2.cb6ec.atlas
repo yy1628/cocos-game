@@ -1,0 +1,111 @@
+
+jiangwei_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/shifa/d/d (1)
+  rotate: false
+  xy: 2, 127
+  size: 133, 191
+  orig: 487, 487
+  offset: 179, 153
+  index: -1
+skill1/shifa/d/d (11)
+  rotate: false
+  xy: 342, 165
+  size: 96, 78
+  orig: 487, 487
+  offset: 195, 197
+  index: -1
+skill1/shifa/d/d (13)
+  rotate: true
+  xy: 290, 377
+  size: 125, 87
+  orig: 487, 487
+  offset: 178, 198
+  index: -1
+skill1/shifa/d/d (15)
+  rotate: true
+  xy: 396, 357
+  size: 145, 97
+  orig: 487, 487
+  offset: 166, 197
+  index: -1
+skill1/shifa/d/d (17)
+  rotate: true
+  xy: 170, 2
+  size: 158, 102
+  orig: 487, 487
+  offset: 159, 198
+  index: -1
+skill1/shifa/d/d (19)
+  rotate: false
+  xy: 2, 19
+  size: 166, 106
+  orig: 487, 487
+  offset: 155, 199
+  index: -1
+skill1/shifa/d/d (21)
+  rotate: false
+  xy: 170, 322
+  size: 173, 42
+  orig: 487, 487
+  offset: 149, 256
+  index: -1
+skill1/shifa/d/d (23)
+  rotate: true
+  xy: 345, 245
+  size: 130, 37
+  orig: 487, 487
+  offset: 148, 261
+  index: -1
+skill1/shifa/d/d (3)
+  rotate: false
+  xy: 2, 320
+  size: 166, 182
+  orig: 487, 487
+  offset: 173, 159
+  index: -1
+skill1/shifa/d/d (5)
+  rotate: true
+  xy: 137, 162
+  size: 156, 143
+  orig: 487, 487
+  offset: 178, 175
+  index: -1
+skill1/shifa/d/d (7)
+  rotate: false
+  xy: 384, 258
+  size: 95, 97
+  orig: 487, 487
+  offset: 195, 194
+  index: -1
+skill1/shifa/d/d (9)
+  rotate: false
+  xy: 396, 87
+  size: 93, 76
+  orig: 487, 487
+  offset: 196, 197
+  index: -1
+skill1/shifa/t/t (1)
+  rotate: false
+  xy: 274, 26
+  size: 120, 134
+  orig: 487, 487
+  offset: 194, 211
+  index: -1
+skill1/shifa/t/t (3)
+  rotate: false
+  xy: 170, 366
+  size: 118, 136
+  orig: 487, 487
+  offset: 194, 213
+  index: -1
+skill1/shifa/t/t (5)
+  rotate: false
+  xy: 282, 192
+  size: 58, 128
+  orig: 487, 487
+  offset: 248, 221
+  index: -1

@@ -1,0 +1,216 @@
+
+daqiao_skill03_cx_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk3/s/0000
+  rotate: true
+  xy: 2, 292
+  size: 68, 109
+  orig: 102, 136
+  offset: 17, 22
+  index: -1
+sk3/s/0002
+  rotate: true
+  xy: 321, 429
+  size: 66, 107
+  orig: 102, 136
+  offset: 18, 24
+  index: -1
+sk3/s/0004
+  rotate: true
+  xy: 2, 364
+  size: 66, 105
+  orig: 102, 136
+  offset: 20, 26
+  index: -1
+sk3/s/0006
+  rotate: true
+  xy: 112, 431
+  size: 64, 97
+  orig: 102, 136
+  offset: 21, 30
+  index: -1
+sk3/s/0008
+  rotate: true
+  xy: 2, 432
+  size: 63, 108
+  orig: 102, 136
+  offset: 23, 22
+  index: -1
+sk3/s/0010
+  rotate: true
+  xy: 211, 430
+  size: 65, 108
+  orig: 102, 136
+  offset: 23, 23
+  index: -1
+sk3/s/0012
+  rotate: true
+  xy: 109, 362
+  size: 66, 106
+  orig: 102, 136
+  offset: 24, 26
+  index: -1
+sk3/s/0014
+  rotate: true
+  xy: 217, 361
+  size: 66, 105
+  orig: 102, 136
+  offset: 24, 27
+  index: -1
+sk3/s/0016
+  rotate: true
+  xy: 324, 359
+  size: 68, 93
+  orig: 102, 136
+  offset: 22, 23
+  index: -1
+sk3/s/0018
+  rotate: true
+  xy: 419, 334
+  size: 71, 91
+  orig: 102, 136
+  offset: 20, 25
+  index: -1
+sk3/s/0020
+  rotate: true
+  xy: 216, 288
+  size: 71, 89
+  orig: 102, 136
+  offset: 20, 28
+  index: -1
+sk3/s/0022
+  rotate: false
+  xy: 430, 407
+  size: 70, 88
+  orig: 102, 136
+  offset: 19, 33
+  index: -1
+sk3/s/0024
+  rotate: true
+  xy: 307, 285
+  size: 72, 101
+  orig: 102, 136
+  offset: 17, 24
+  index: -1
+sk3/s/0026
+  rotate: true
+  xy: 2, 218
+  size: 72, 101
+  orig: 102, 136
+  offset: 17, 26
+  index: -1
+sk3/s/0028
+  rotate: true
+  xy: 113, 290
+  size: 70, 101
+  orig: 102, 136
+  offset: 17, 28
+  index: -1
+sk3/x/0000
+  rotate: false
+  xy: 95, 39
+  size: 90, 83
+  orig: 102, 136
+  offset: 6, 8
+  index: -1
+sk3/x/0002
+  rotate: false
+  xy: 2, 134
+  size: 91, 82
+  orig: 102, 136
+  offset: 6, 8
+  index: -1
+sk3/x/0004
+  rotate: false
+  xy: 95, 124
+  size: 90, 82
+  orig: 102, 136
+  offset: 7, 8
+  index: -1
+sk3/x/0006
+  rotate: false
+  xy: 410, 252
+  size: 91, 80
+  orig: 102, 136
+  offset: 6, 9
+  index: -1
+sk3/x/0008
+  rotate: false
+  xy: 105, 208
+  size: 91, 80
+  orig: 102, 136
+  offset: 5, 9
+  index: -1
+sk3/x/0010
+  rotate: false
+  xy: 187, 122
+  size: 90, 82
+  orig: 102, 136
+  offset: 5, 8
+  index: -1
+sk3/x/0012
+  rotate: false
+  xy: 279, 119
+  size: 90, 82
+  orig: 102, 136
+  offset: 5, 8
+  index: -1
+sk3/x/0014
+  rotate: true
+  xy: 279, 26
+  size: 91, 83
+  orig: 102, 136
+  offset: 5, 8
+  index: -1
+sk3/x/0016
+  rotate: false
+  xy: 187, 37
+  size: 90, 83
+  orig: 102, 136
+  offset: 6, 8
+  index: -1
+sk3/x/0018
+  rotate: false
+  xy: 371, 86
+  size: 90, 82
+  orig: 102, 136
+  offset: 7, 8
+  index: -1
+sk3/x/0020
+  rotate: false
+  xy: 198, 206
+  size: 91, 80
+  orig: 102, 136
+  offset: 6, 9
+  index: -1
+sk3/x/0022
+  rotate: false
+  xy: 291, 203
+  size: 91, 80
+  orig: 102, 136
+  offset: 5, 9
+  index: -1
+sk3/x/0024
+  rotate: false
+  xy: 384, 170
+  size: 91, 80
+  orig: 102, 136
+  offset: 4, 9
+  index: -1
+sk3/x/0026
+  rotate: false
+  xy: 2, 50
+  size: 91, 82
+  orig: 102, 136
+  offset: 4, 8
+  index: -1
+sk3/x/0028
+  rotate: false
+  xy: 364, 2
+  size: 92, 82
+  orig: 102, 136
+  offset: 4, 8
+  index: -1

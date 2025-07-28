@@ -1,0 +1,34 @@
+
+panfeng_skill01_sf_up.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shifa/0008
+  rotate: false
+  xy: 2, 19
+  size: 65, 59
+  orig: 116, 135
+  offset: 17, 37
+  index: -1
+shifa/0010
+  rotate: true
+  xy: 174, 7
+  size: 71, 97
+  orig: 116, 135
+  offset: 19, 18
+  index: -1
+shifa/0012
+  rotate: true
+  xy: 273, 2
+  size: 76, 109
+  orig: 116, 135
+  offset: 22, 17
+  index: -1
+shifa/0014
+  rotate: true
+  xy: 69, 8
+  size: 70, 103
+  orig: 116, 135
+  offset: 26, 22
+  index: -1

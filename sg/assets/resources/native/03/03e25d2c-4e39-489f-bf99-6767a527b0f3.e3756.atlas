@@ -1,0 +1,181 @@
+
+zhangzhao.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloak3
+  rotate: false
+  xy: 610, 107
+  size: 110, 147
+  orig: 110, 147
+  offset: 0, 0
+  index: -1
+f_body
+  rotate: false
+  xy: 754, 25
+  size: 103, 104
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+f_bowl
+  rotate: true
+  xy: 268, 74
+  size: 180, 118
+  orig: 180, 118
+  offset: 0, 0
+  index: -1
+f_cap
+  rotate: true
+  xy: 388, 77
+  size: 177, 112
+  orig: 177, 112
+  offset: 0, 0
+  index: -1
+f_chahu1
+  rotate: false
+  xy: 623, 8
+  size: 129, 97
+  orig: 129, 97
+  offset: 0, 0
+  index: -1
+f_chahu2
+  rotate: true
+  xy: 911, 198
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+f_cloak1
+  rotate: false
+  xy: 502, 92
+  size: 106, 162
+  orig: 106, 162
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: false
+  xy: 2, 50
+  size: 142, 204
+  orig: 142, 204
+  offset: 0, 0
+  index: -1
+f_l_arm1
+  rotate: false
+  xy: 859, 2
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+f_l_arm2
+  rotate: false
+  xy: 820, 163
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+f_l_armg
+  rotate: true
+  xy: 304, 12
+  size: 60, 104
+  orig: 60, 104
+  offset: 0, 0
+  index: -1
+f_l_foot
+  rotate: false
+  xy: 951, 198
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: true
+  xy: 820, 137
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+f_l_hand2
+  rotate: true
+  xy: 921, 11
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+f_r_arm1
+  rotate: true
+  xy: 410, 2
+  size: 73, 90
+  orig: 73, 90
+  offset: 0, 0
+  index: -1
+f_r_arm2
+  rotate: false
+  xy: 937, 76
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+f_r_armg
+  rotate: false
+  xy: 859, 62
+  size: 76, 99
+  orig: 76, 99
+  offset: 0, 0
+  index: -1
+f_r_foot
+  rotate: true
+  xy: 937, 124
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+f_r_sholder
+  rotate: false
+  xy: 151, 7
+  size: 86, 50
+  orig: 86, 50
+  offset: 0, 0
+  index: -1
+f_scarf
+  rotate: false
+  xy: 146, 59
+  size: 120, 195
+  orig: 120, 195
+  offset: 0, 0
+  index: -1
+f_skill
+  rotate: true
+  xy: 722, 131
+  size: 123, 96
+  orig: 123, 96
+  offset: 0, 0
+  index: -1
+f_wan
+  rotate: false
+  xy: 239, 17
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+f_water
+  rotate: false
+  xy: 2, 4
+  size: 147, 44
+  orig: 147, 44
+  offset: 0, 0
+  index: -1
+gebo
+  rotate: true
+  xy: 502, 7
+  size: 83, 119
+  orig: 83, 119
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 911, 164
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1

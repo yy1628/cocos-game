@@ -1,0 +1,405 @@
+
+xiahoudun.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_g_weapon
+  rotate: true
+  xy: 2, 54
+  size: 128, 352
+  orig: 128, 352
+  offset: 0, 0
+  index: -1
+f_g_weapon_fx
+  rotate: true
+  xy: 171, 382
+  size: 128, 352
+  orig: 128, 352
+  offset: 0, 0
+  index: -1
+f_i_b_cloak01
+  rotate: true
+  xy: 668, 18
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+f_i_b_cloak02
+  rotate: false
+  xy: 621, 348
+  size: 46, 46
+  orig: 138, 122
+  offset: 46, 38
+  index: -1
+f_i_body
+  rotate: false
+  xy: 525, 396
+  size: 97, 114
+  orig: 97, 114
+  offset: 0, 0
+  index: -1
+f_i_hair01
+  rotate: true
+  xy: 512, 3
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+f_i_hair02
+  rotate: true
+  xy: 432, 201
+  size: 98, 122
+  orig: 98, 122
+  offset: 0, 0
+  index: -1
+f_i_head
+  rotate: false
+  xy: 302, 198
+  size: 128, 182
+  orig: 129, 182
+  offset: 1, 0
+  index: -1
+f_i_l_arm01
+  rotate: false
+  xy: 356, 56
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+f_i_l_arm02
+  rotate: false
+  xy: 330, 4
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+f_i_l_cloak
+  rotate: true
+  xy: 356, 108
+  size: 88, 184
+  orig: 88, 184
+  offset: 0, 0
+  index: -1
+f_i_l_decorate
+  rotate: false
+  xy: 794, 225
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+f_i_l_foot
+  rotate: false
+  xy: 807, 280
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+f_i_l_hand
+  rotate: false
+  xy: 470, 62
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+f_i_l_hand02
+  rotate: true
+  xy: 680, 258
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+f_i_l_hand_fx
+  rotate: false
+  xy: 396, 8
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+f_i_l_leg01
+  rotate: true
+  xy: 769, 470
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+f_i_l_leg02
+  rotate: false
+  xy: 765, 130
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+f_i_l_shoulder
+  rotate: true
+  xy: 669, 303
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+f_i_r_arm01
+  rotate: false
+  xy: 711, 73
+  size: 46, 45
+  orig: 47, 63
+  offset: 0, 9
+  index: -1
+f_i_r_arm02
+  rotate: false
+  xy: 458, 2
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+f_i_r_cloak01
+  rotate: true
+  xy: 166, 15
+  size: 37, 162
+  orig: 37, 162
+  offset: 0, 0
+  index: -1
+f_i_r_decorate
+  rotate: false
+  xy: 757, 219
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+f_i_r_foot
+  rotate: true
+  xy: 835, 315
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+f_i_r_hand
+  rotate: true
+  xy: 771, 269
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+f_i_r_leg01
+  rotate: true
+  xy: 803, 351
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+f_i_r_leg02
+  rotate: false
+  xy: 805, 472
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+f_i_r_shoulder
+  rotate: false
+  xy: 659, 120
+  size: 104, 79
+  orig: 105, 79
+  offset: 0, 0
+  index: -1
+f_i_skirt01
+  rotate: false
+  xy: 680, 210
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+f_i_skirt02
+  rotate: true
+  xy: 645, 73
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+f_i_weapon
+  rotate: true
+  xy: 2, 184
+  size: 326, 167
+  orig: 326, 167
+  offset: 0, 0
+  index: -1
+f_run_b_cloak01
+  rotate: true
+  xy: 721, 18
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+f_run_b_cloak02
+  rotate: false
+  xy: 721, 464
+  size: 46, 46
+  orig: 127, 126
+  offset: 41, 40
+  index: -1
+f_run_body
+  rotate: true
+  xy: 542, 109
+  size: 90, 115
+  orig: 90, 115
+  offset: 0, 0
+  index: -1
+f_run_hair01
+  rotate: true
+  xy: 590, 7
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+f_run_hair02
+  rotate: true
+  xy: 556, 201
+  size: 98, 122
+  orig: 98, 122
+  offset: 0, 0
+  index: -1
+f_run_head
+  rotate: false
+  xy: 171, 199
+  size: 129, 181
+  orig: 129, 181
+  offset: 0, 0
+  index: -1
+f_run_l_arm01
+  rotate: false
+  xy: 721, 416
+  size: 46, 46
+  orig: 56, 50
+  offset: 5, 2
+  index: -1
+f_run_l_arm02
+  rotate: false
+  xy: 416, 56
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+f_run_l_cloak01
+  rotate: true
+  xy: 2, 10
+  size: 42, 162
+  orig: 42, 162
+  offset: 0, 0
+  index: -1
+f_run_l_cloak02
+  rotate: true
+  xy: 621, 307
+  size: 39, 46
+  orig: 39, 111
+  offset: 0, 32
+  index: -1
+f_run_l_decorate
+  rotate: false
+  xy: 765, 172
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+f_run_l_foot
+  rotate: true
+  xy: 803, 313
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+f_run_l_leg01
+  rotate: true
+  xy: 769, 347
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+f_run_l_leg02
+  rotate: false
+  xy: 769, 428
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+f_run_l_shoulder
+  rotate: false
+  xy: 774, 5
+  size: 104, 79
+  orig: 105, 79
+  offset: 1, 0
+  index: -1
+f_run_r_arm01
+  rotate: true
+  xy: 588, 66
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+f_run_r_arm02
+  rotate: true
+  xy: 529, 66
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+f_run_r_cloak
+  rotate: true
+  xy: 432, 301
+  size: 79, 187
+  orig: 79, 187
+  offset: 0, 0
+  index: -1
+f_run_r_decorate
+  rotate: true
+  xy: 723, 266
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+f_run_r_foot
+  rotate: true
+  xy: 807, 392
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+f_run_r_hand
+  rotate: true
+  xy: 769, 389
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+f_run_r_leg01
+  rotate: true
+  xy: 769, 306
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+f_run_r_leg02
+  rotate: false
+  xy: 805, 430
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+f_run_r_shoulder
+  rotate: true
+  xy: 624, 404
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: -1
+f_run_skirt01
+  rotate: false
+  xy: 718, 212
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+f_run_skirt02
+  rotate: true
+  xy: 759, 86
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1

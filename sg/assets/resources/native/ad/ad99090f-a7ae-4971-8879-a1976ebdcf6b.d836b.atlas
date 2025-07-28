@@ -1,0 +1,62 @@
+
+xiaoqiao_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd/00000
+  rotate: true
+  xy: 147, 291
+  size: 142, 143
+  orig: 250, 250
+  offset: 54, 54
+  index: -1
+dd/00002
+  rotate: true
+  xy: 292, 291
+  size: 142, 143
+  orig: 250, 250
+  offset: 54, 54
+  index: -1
+dd/00004
+  rotate: true
+  xy: 2, 147
+  size: 142, 143
+  orig: 250, 250
+  offset: 54, 54
+  index: -1
+dd/00006
+  rotate: true
+  xy: 147, 147
+  size: 142, 144
+  orig: 250, 250
+  offset: 54, 54
+  index: -1
+dd/00008
+  rotate: true
+  xy: 293, 147
+  size: 142, 143
+  orig: 250, 250
+  offset: 54, 54
+  index: -1
+dd/00010
+  rotate: true
+  xy: 2, 3
+  size: 142, 143
+  orig: 250, 250
+  offset: 54, 54
+  index: -1
+dd/00012
+  rotate: false
+  xy: 147, 2
+  size: 144, 143
+  orig: 250, 250
+  offset: 52, 54
+  index: -1
+dd/00014
+  rotate: true
+  xy: 2, 291
+  size: 142, 143
+  orig: 250, 250
+  offset: 54, 54
+  index: -1

@@ -1,0 +1,34 @@
+
+machao_skill01_sj_up.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit/hit (1)
+  rotate: false
+  xy: 2, 9
+  size: 93, 108
+  orig: 750, 750
+  offset: 330, 321
+  index: -1
+hit/hit (3)
+  rotate: false
+  xy: 266, 2
+  size: 232, 122
+  orig: 750, 750
+  offset: 255, 319
+  index: -1
+hit/hit (5)
+  rotate: false
+  xy: 2, 119
+  size: 262, 130
+  orig: 750, 750
+  offset: 247, 315
+  index: -1
+hit/hit (7)
+  rotate: false
+  xy: 266, 126
+  size: 239, 123
+  orig: 750, 750
+  offset: 269, 321
+  index: -1

@@ -1,0 +1,83 @@
+
+zhangliao_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paohong/shifa/1/00000
+  rotate: false
+  xy: 451, 166
+  size: 40, 40
+  orig: 210, 210
+  offset: 85, 86
+  index: -1
+paohong/shifa/1/00002
+  rotate: false
+  xy: 335, 93
+  size: 114, 113
+  orig: 210, 210
+  offset: 48, 49
+  index: -1
+paohong/shifa/1/00004
+  rotate: true
+  xy: 180, 181
+  size: 154, 153
+  orig: 210, 210
+  offset: 28, 29
+  index: -1
+paohong/shifa/1/00006
+  rotate: false
+  xy: 152, 20
+  size: 158, 159
+  orig: 210, 210
+  offset: 26, 26
+  index: -1
+paohong/shifa/1/00008
+  rotate: false
+  xy: 358, 337
+  size: 148, 148
+  orig: 210, 210
+  offset: 31, 31
+  index: -1
+paohong/shifa/2/00000
+  rotate: false
+  xy: 312, 2
+  size: 101, 89
+  orig: 210, 210
+  offset: 71, 52
+  index: -1
+paohong/shifa/2/00002
+  rotate: false
+  xy: 335, 208
+  size: 150, 127
+  orig: 210, 210
+  offset: 48, 35
+  index: -1
+paohong/shifa/2/00004
+  rotate: false
+  xy: 2, 334
+  size: 176, 151
+  orig: 210, 210
+  offset: 26, 34
+  index: -1
+paohong/shifa/2/00006
+  rotate: false
+  xy: 2, 181
+  size: 173, 151
+  orig: 210, 210
+  offset: 18, 41
+  index: -1
+paohong/shifa/2/00008
+  rotate: false
+  xy: 180, 337
+  size: 176, 148
+  orig: 210, 210
+  offset: 16, 46
+  index: -1
+paohong/shifa/2/00010
+  rotate: true
+  xy: 2, 4
+  size: 175, 148
+  orig: 210, 210
+  offset: 16, 46
+  index: -1

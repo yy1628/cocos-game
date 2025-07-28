@@ -1,0 +1,146 @@
+
+molvbu_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/sf/s/0004
+  rotate: false
+  xy: 128, 211
+  size: 42, 41
+  orig: 244, 231
+  offset: 107, 113
+  index: -1
+sk1/sf/s/0006
+  rotate: false
+  xy: 110, 2
+  size: 63, 91
+  orig: 244, 231
+  offset: 117, 124
+  index: -1
+sk1/sf/s/0008
+  rotate: false
+  xy: 110, 95
+  size: 63, 107
+  orig: 244, 231
+  offset: 119, 109
+  index: -1
+sk1/sf/s/0010
+  rotate: true
+  xy: 317, 432
+  size: 71, 133
+  orig: 244, 231
+  offset: 121, 81
+  index: -1
+sk1/sf/s/0012
+  rotate: false
+  xy: 2, 364
+  size: 179, 139
+  orig: 244, 231
+  offset: 12, 74
+  index: -1
+sk1/sf/s/0014
+  rotate: true
+  xy: 183, 333
+  size: 170, 132
+  orig: 244, 231
+  offset: 18, 74
+  index: -1
+sk1/sf/s/0016
+  rotate: true
+  xy: 2, 204
+  size: 158, 124
+  orig: 244, 231
+  offset: 26, 76
+  index: -1
+sk1/sf/s/0018
+  rotate: true
+  xy: 180, 181
+  size: 150, 116
+  orig: 244, 231
+  offset: 32, 76
+  index: -1
+sk1/sf/s/0020
+  rotate: true
+  xy: 2, 66
+  size: 136, 106
+  orig: 244, 231
+  offset: 36, 80
+  index: -1
+sk1/sf/s/0022
+  rotate: false
+  xy: 175, 78
+  size: 126, 101
+  orig: 244, 231
+  offset: 43, 82
+  index: -1
+sk1/sf/s/0024
+  rotate: false
+  xy: 298, 240
+  size: 114, 91
+  orig: 244, 231
+  offset: 54, 84
+  index: -1
+sk1/sf/s/0026
+  rotate: false
+  xy: 317, 346
+  size: 104, 84
+  orig: 244, 231
+  offset: 63, 84
+  index: -1
+sk1/sf/s/0028
+  rotate: false
+  xy: 303, 102
+  size: 101, 78
+  orig: 244, 231
+  offset: 65, 86
+  index: -1
+sk1/sf/s/0030
+  rotate: false
+  xy: 303, 25
+  size: 101, 75
+  orig: 244, 231
+  offset: 65, 87
+  index: -1
+sk1/sf/s/0032
+  rotate: false
+  xy: 175, 3
+  size: 73, 73
+  orig: 244, 231
+  offset: 92, 89
+  index: -1
+sk1/sf/s/0034
+  rotate: false
+  xy: 2, 3
+  size: 64, 61
+  orig: 244, 231
+  offset: 92, 90
+  index: -1
+sk1/sf/s/0036
+  rotate: false
+  xy: 298, 182
+  size: 59, 56
+  orig: 244, 231
+  offset: 93, 93
+  index: -1
+sk1/sf/s/0038
+  rotate: true
+  xy: 128, 308
+  size: 54, 50
+  orig: 244, 231
+  offset: 94, 95
+  index: -1
+sk1/sf/s/0040
+  rotate: true
+  xy: 128, 254
+  size: 52, 45
+  orig: 244, 231
+  offset: 94, 99
+  index: -1
+sk1/sf/s/0042
+  rotate: false
+  xy: 68, 26
+  size: 38, 38
+  orig: 244, 231
+  offset: 107, 100
+  index: -1

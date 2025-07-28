@@ -1,0 +1,83 @@
+
+sunshangxiang_skill04_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk2/sf/sm/00010
+  rotate: false
+  xy: 349, 297
+  size: 140, 58
+  orig: 300, 300
+  offset: 107, 42
+  index: -1
+sk2/sf/sm/00012
+  rotate: false
+  xy: 2, 240
+  size: 136, 61
+  orig: 300, 300
+  offset: 122, 42
+  index: -1
+sk2/sf/sm/00014
+  rotate: false
+  xy: 140, 239
+  size: 175, 59
+  orig: 300, 300
+  offset: 85, 52
+  index: -1
+sk2/sf/sm/00016
+  rotate: false
+  xy: 317, 211
+  size: 184, 84
+  orig: 300, 300
+  offset: 65, 47
+  index: -1
+sk2/sf/sm/00018
+  rotate: false
+  xy: 246, 94
+  size: 226, 115
+  orig: 300, 300
+  offset: 31, 43
+  index: -1
+sk2/sf/sm/00020
+  rotate: false
+  xy: 173, 300
+  size: 174, 55
+  orig: 300, 300
+  offset: 76, 43
+  index: -1
+sk2/sf/sm/00022
+  rotate: false
+  xy: 2, 303
+  size: 169, 52
+  orig: 300, 300
+  offset: 75, 42
+  index: -1
+sk2/sf/yh/00007
+  rotate: true
+  xy: 2, 5
+  size: 119, 120
+  orig: 200, 200
+  offset: 40, 40
+  index: -1
+sk2/sf/yh/00008
+  rotate: true
+  xy: 124, 124
+  size: 113, 120
+  orig: 200, 200
+  offset: 43, 40
+  index: -1
+sk2/sf/yh/00009
+  rotate: false
+  xy: 124, 2
+  size: 120, 120
+  orig: 200, 200
+  offset: 40, 40
+  index: -1
+sk2/sf/yh/00010
+  rotate: false
+  xy: 2, 126
+  size: 120, 112
+  orig: 200, 200
+  offset: 40, 44
+  index: -1

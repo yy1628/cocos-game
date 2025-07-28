@@ -1,0 +1,104 @@
+
+zhurong_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shifa/shifa (1)
+  rotate: true
+  xy: 351, 355
+  size: 39, 40
+  orig: 450, 450
+  offset: 250, 214
+  index: -1
+shifa/shifa (11)
+  rotate: false
+  xy: 351, 396
+  size: 144, 99
+  orig: 450, 450
+  offset: 158, 185
+  index: -1
+shifa/shifa (13)
+  rotate: true
+  xy: 104, 87
+  size: 139, 102
+  orig: 450, 450
+  offset: 161, 178
+  index: -1
+shifa/shifa (15)
+  rotate: true
+  xy: 2, 76
+  size: 150, 100
+  orig: 450, 450
+  offset: 145, 181
+  index: -1
+shifa/shifa (17)
+  rotate: true
+  xy: 355, 109
+  size: 139, 99
+  orig: 450, 450
+  offset: 150, 186
+  index: -1
+shifa/shifa (19)
+  rotate: false
+  xy: 346, 250
+  size: 145, 99
+  orig: 450, 450
+  offset: 157, 183
+  index: -1
+shifa/shifa (21)
+  rotate: true
+  xy: 212, 200
+  size: 149, 132
+  orig: 450, 450
+  offset: 151, 165
+  index: -1
+shifa/shifa (23)
+  rotate: false
+  xy: 2, 346
+  size: 208, 149
+  orig: 450, 450
+  offset: 121, 160
+  index: -1
+shifa/shifa (25)
+  rotate: false
+  xy: 212, 351
+  size: 137, 144
+  orig: 450, 450
+  offset: 155, 168
+  index: -1
+shifa/shifa (27)
+  rotate: true
+  xy: 2, 228
+  size: 116, 105
+  orig: 450, 450
+  offset: 168, 178
+  index: -1
+shifa/shifa (3)
+  rotate: true
+  xy: 109, 247
+  size: 97, 61
+  orig: 450, 450
+  offset: 192, 187
+  index: -1
+shifa/shifa (5)
+  rotate: false
+  xy: 355, 24
+  size: 136, 83
+  orig: 450, 450
+  offset: 155, 183
+  index: -1
+shifa/shifa (7)
+  rotate: false
+  xy: 208, 2
+  size: 135, 94
+  orig: 450, 450
+  offset: 152, 183
+  index: -1
+shifa/shifa (9)
+  rotate: false
+  xy: 208, 98
+  size: 145, 100
+  orig: 450, 450
+  offset: 152, 185
+  index: -1

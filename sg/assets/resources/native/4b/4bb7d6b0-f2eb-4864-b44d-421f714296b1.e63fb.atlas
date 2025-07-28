@@ -1,0 +1,132 @@
+
+shenzhangfei_skill04_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk4/sj/s/00001
+  rotate: true
+  xy: 2, 324
+  size: 90, 93
+  orig: 180, 180
+  offset: 46, 30
+  index: -1
+sk4/sj/s/00003
+  rotate: true
+  xy: 213, 316
+  size: 98, 154
+  orig: 180, 180
+  offset: 39, 8
+  index: -1
+sk4/sj/s/00005
+  rotate: true
+  xy: 143, 213
+  size: 101, 166
+  orig: 180, 180
+  offset: 39, 8
+  index: -1
+sk4/sj/s/00007
+  rotate: true
+  xy: 151, 106
+  size: 102, 166
+  orig: 180, 180
+  offset: 39, 8
+  index: -1
+sk4/sj/s/00009
+  rotate: true
+  xy: 319, 106
+  size: 102, 165
+  orig: 180, 180
+  offset: 39, 10
+  index: -1
+sk4/sj/s/00011
+  rotate: true
+  xy: 2, 2
+  size: 102, 165
+  orig: 180, 180
+  offset: 39, 11
+  index: -1
+sk4/sj/s/00013
+  rotate: true
+  xy: 169, 2
+  size: 102, 159
+  orig: 180, 180
+  offset: 39, 16
+  index: -1
+sk4/sj/s/00015
+  rotate: true
+  xy: 311, 210
+  size: 101, 151
+  orig: 180, 180
+  offset: 40, 23
+  index: -1
+sk4/sj/s/00017
+  rotate: true
+  xy: 2, 110
+  size: 101, 147
+  orig: 180, 180
+  offset: 40, 24
+  index: -1
+sk4/sj/s/00019
+  rotate: true
+  xy: 2, 220
+  size: 100, 139
+  orig: 180, 180
+  offset: 41, 26
+  index: -1
+sk4/sj/s/00021
+  rotate: true
+  xy: 369, 313
+  size: 99, 132
+  orig: 180, 180
+  offset: 42, 30
+  index: -1
+sk4/sj/s/00023
+  rotate: true
+  xy: 97, 322
+  size: 92, 114
+  orig: 180, 180
+  offset: 42, 32
+  index: -1
+sk4/sj/s/00025
+  rotate: true
+  xy: 416, 414
+  size: 81, 87
+  orig: 180, 180
+  offset: 45, 33
+  index: -1
+sk4/sj/s/00027
+  rotate: true
+  xy: 73, 416
+  size: 79, 86
+  orig: 180, 180
+  offset: 46, 34
+  index: -1
+sk4/sj/s/00029
+  rotate: true
+  xy: 161, 416
+  size: 79, 85
+  orig: 180, 180
+  offset: 46, 36
+  index: -1
+sk4/sj/s/00031
+  rotate: true
+  xy: 248, 416
+  size: 79, 83
+  orig: 180, 180
+  offset: 46, 37
+  index: -1
+sk4/sj/s/00033
+  rotate: true
+  xy: 333, 416
+  size: 79, 81
+  orig: 180, 180
+  offset: 46, 39
+  index: -1
+sk4/sj/s/00035
+  rotate: true
+  xy: 2, 445
+  size: 50, 69
+  orig: 180, 180
+  offset: 75, 41
+  index: -1

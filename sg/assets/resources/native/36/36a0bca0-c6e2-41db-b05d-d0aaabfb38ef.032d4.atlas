@@ -1,0 +1,48 @@
+
+shenguanyu_skill01_sj_up.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/sj/0000
+  rotate: false
+  xy: 2, 2
+  size: 93, 95
+  orig: 300, 300
+  offset: 105, 105
+  index: -1
+sk1/sj/0002
+  rotate: false
+  xy: 265, 129
+  size: 129, 124
+  orig: 300, 300
+  offset: 82, 89
+  index: -1
+sk1/sj/0004
+  rotate: false
+  xy: 2, 99
+  size: 144, 154
+  orig: 300, 300
+  offset: 70, 67
+  index: -1
+sk1/sj/0006
+  rotate: false
+  xy: 148, 108
+  size: 115, 145
+  orig: 300, 300
+  offset: 97, 71
+  index: -1
+sk1/sj/0008
+  rotate: false
+  xy: 396, 130
+  size: 113, 123
+  orig: 300, 300
+  offset: 81, 89
+  index: -1
+sk1/sj/0010
+  rotate: true
+  xy: 265, 18
+  size: 109, 124
+  orig: 300, 300
+  offset: 83, 88
+  index: -1

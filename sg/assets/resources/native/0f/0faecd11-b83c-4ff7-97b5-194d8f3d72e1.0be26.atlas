@@ -1,0 +1,48 @@
+
+jiangwei_skill01_buff_up.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/Buff/b (1)
+  rotate: false
+  xy: 75, 2
+  size: 71, 71
+  orig: 487, 487
+  offset: 208, 208
+  index: -1
+skill1/Buff/b (11)
+  rotate: false
+  xy: 367, 2
+  size: 71, 71
+  orig: 487, 487
+  offset: 208, 208
+  index: -1
+skill1/Buff/b (3)
+  rotate: false
+  xy: 148, 2
+  size: 71, 71
+  orig: 487, 487
+  offset: 208, 208
+  index: -1
+skill1/Buff/b (5)
+  rotate: false
+  xy: 221, 2
+  size: 71, 71
+  orig: 487, 487
+  offset: 208, 208
+  index: -1
+skill1/Buff/b (7)
+  rotate: false
+  xy: 294, 2
+  size: 71, 71
+  orig: 487, 487
+  offset: 208, 208
+  index: -1
+skill1/Buff/b (9)
+  rotate: false
+  xy: 2, 2
+  size: 71, 71
+  orig: 487, 487
+  offset: 208, 208
+  index: -1

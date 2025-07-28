@@ -1,0 +1,195 @@
+
+generalbuff.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinliao
+  rotate: true
+  xy: 2, 43
+  size: 40, 35
+  orig: 50, 50
+  offset: 7, 8
+  index: -1
+tongyong_buff_addDEF
+  rotate: true
+  xy: 180, 90
+  size: 35, 33
+  orig: 50, 50
+  offset: 12, 7
+  index: -1
+tongyong_buff_addarmor
+  rotate: false
+  xy: 2, 2
+  size: 38, 39
+  orig: 50, 50
+  offset: 9, 6
+  index: -1
+tongyong_buff_addatk
+  rotate: false
+  xy: 2, 85
+  size: 40, 40
+  orig: 50, 50
+  offset: 7, 5
+  index: -1
+tongyong_buff_addatkspeed
+  rotate: true
+  xy: 44, 88
+  size: 37, 31
+  orig: 50, 50
+  offset: 10, 7
+  index: -1
+tongyong_buff_addbjl
+  rotate: true
+  xy: 132, 15
+  size: 35, 34
+  orig: 50, 50
+  offset: 12, 7
+  index: -1
+tongyong_buff_addbjsh
+  rotate: true
+  xy: 77, 88
+  size: 37, 31
+  orig: 50, 50
+  offset: 10, 7
+  index: -1
+tongyong_buff_addblood
+  rotate: true
+  xy: 236, 17
+  size: 34, 31
+  orig: 50, 50
+  offset: 13, 7
+  index: -1
+tongyong_buff_addcloak
+  rotate: false
+  xy: 112, 52
+  size: 35, 35
+  orig: 50, 50
+  offset: 12, 7
+  index: -1
+tongyong_buff_addhl
+  rotate: true
+  xy: 185, 53
+  size: 35, 32
+  orig: 50, 50
+  offset: 12, 7
+  index: -1
+tongyong_buff_addmk
+  rotate: true
+  xy: 251, 54
+  size: 34, 30
+  orig: 50, 50
+  offset: 13, 7
+  index: -1
+tongyong_buff_addms
+  rotate: false
+  xy: 143, 90
+  size: 35, 35
+  orig: 50, 50
+  offset: 12, 7
+  index: -1
+tongyong_buff_addmz
+  rotate: true
+  xy: 168, 16
+  size: 35, 33
+  orig: 50, 50
+  offset: 12, 7
+  index: -1
+tongyong_buff_addnlhf
+  rotate: true
+  xy: 281, 92
+  size: 33, 32
+  orig: 50, 50
+  offset: 14, 7
+  index: -1
+tongyong_buff_addsb
+  rotate: true
+  xy: 79, 50
+  size: 36, 31
+  orig: 50, 50
+  offset: 11, 7
+  index: -1
+tongyong_buff_cutDEF
+  rotate: true
+  xy: 219, 53
+  size: 35, 30
+  orig: 50, 50
+  offset: 12, 10
+  index: -1
+tongyong_buff_cutarmor
+  rotate: false
+  xy: 39, 44
+  size: 38, 39
+  orig: 50, 50
+  offset: 9, 6
+  index: -1
+tongyong_buff_cutatk
+  rotate: true
+  xy: 110, 89
+  size: 36, 31
+  orig: 50, 50
+  offset: 11, 10
+  index: -1
+tongyong_buff_cutatkspeed
+  rotate: true
+  xy: 42, 5
+  size: 37, 28
+  orig: 50, 50
+  offset: 10, 10
+  index: -1
+tongyong_buff_cutbjl
+  rotate: true
+  xy: 215, 90
+  size: 35, 32
+  orig: 50, 50
+  offset: 12, 9
+  index: -1
+tongyong_buff_cutbjsh
+  rotate: true
+  xy: 72, 5
+  size: 37, 28
+  orig: 50, 50
+  offset: 10, 10
+  index: -1
+tongyong_buff_cutcloak
+  rotate: true
+  xy: 149, 53
+  size: 35, 34
+  orig: 50, 50
+  offset: 12, 8
+  index: -1
+tongyong_buff_cutmz
+  rotate: true
+  xy: 249, 90
+  size: 35, 30
+  orig: 50, 50
+  offset: 12, 10
+  index: -1
+tongyong_buff_cutnlhf
+  rotate: true
+  xy: 269, 19
+  size: 33, 29
+  orig: 50, 50
+  offset: 14, 10
+  index: -1
+tongyong_buff_cutsb
+  rotate: true
+  xy: 102, 12
+  size: 36, 28
+  orig: 50, 50
+  offset: 11, 10
+  index: -1
+tongyong_buff_lucky
+  rotate: true
+  xy: 203, 16
+  size: 35, 31
+  orig: 50, 50
+  offset: 14, 5
+  index: -1
+tongyong_buff_unlucky
+  rotate: true
+  xy: 283, 57
+  size: 33, 26
+  orig: 50, 50
+  offset: 14, 10
+  index: -1

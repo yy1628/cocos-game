@@ -1,0 +1,62 @@
+
+xiahoudun_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yuanyuehengsao/dandao/00000
+  rotate: false
+  xy: 147, 295
+  size: 136, 142
+  orig: 300, 200
+  offset: 115, 37
+  index: -1
+yuanyuehengsao/dandao/00002
+  rotate: false
+  xy: 2, 2
+  size: 137, 143
+  orig: 300, 200
+  offset: 114, 36
+  index: -1
+yuanyuehengsao/dandao/00004
+  rotate: false
+  xy: 2, 147
+  size: 139, 143
+  orig: 300, 200
+  offset: 112, 36
+  index: -1
+yuanyuehengsao/dandao/00006
+  rotate: false
+  xy: 141, 3
+  size: 138, 142
+  orig: 300, 200
+  offset: 113, 37
+  index: -1
+yuanyuehengsao/dandao/00008
+  rotate: false
+  xy: 2, 292
+  size: 143, 145
+  orig: 300, 200
+  offset: 108, 35
+  index: -1
+yuanyuehengsao/dandao/00010
+  rotate: false
+  xy: 143, 148
+  size: 137, 142
+  orig: 300, 200
+  offset: 114, 37
+  index: -1
+yuanyuehengsao/dandao/00012
+  rotate: false
+  xy: 281, 10
+  size: 129, 136
+  orig: 300, 200
+  offset: 121, 40
+  index: -1
+yuanyuehengsao/dandao/00014
+  rotate: false
+  xy: 282, 160
+  size: 117, 133
+  orig: 300, 200
+  offset: 133, 42
+  index: -1

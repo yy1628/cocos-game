@@ -1,0 +1,83 @@
+
+lvbu_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/hit/cj1/0001
+  rotate: false
+  xy: 207, 26
+  size: 62, 89
+  orig: 120, 371
+  offset: 24, 251
+  index: -1
+skill1/hit/cj1/0003
+  rotate: false
+  xy: 2, 251
+  size: 88, 259
+  orig: 120, 371
+  offset: 16, 43
+  index: -1
+skill1/hit/cj1/0005
+  rotate: false
+  xy: 2, 31
+  size: 80, 218
+  orig: 120, 371
+  offset: 18, 12
+  index: -1
+skill1/hit/cj1/0007
+  rotate: false
+  xy: 84, 57
+  size: 64, 192
+  orig: 120, 371
+  offset: 22, 11
+  index: -1
+skill1/hit/cj1/0009
+  rotate: true
+  xy: 96, 2
+  size: 53, 109
+  orig: 120, 371
+  offset: 26, 11
+  index: -1
+skill1/hit/cj1/0011
+  rotate: true
+  xy: 2, 3
+  size: 26, 92
+  orig: 120, 371
+  offset: 44, 11
+  index: -1
+skill1/hit/cj2/0000
+  rotate: false
+  xy: 201, 368
+  size: 95, 142
+  orig: 135, 210
+  offset: 20, 16
+  index: -1
+skill1/hit/cj2/0002
+  rotate: false
+  xy: 92, 357
+  size: 107, 153
+  orig: 135, 210
+  offset: 12, 34
+  index: -1
+skill1/hit/cj2/0004
+  rotate: true
+  xy: 92, 251
+  size: 104, 147
+  orig: 135, 210
+  offset: 11, 43
+  index: -1
+skill1/hit/cj2/0006
+  rotate: false
+  xy: 150, 117
+  size: 86, 132
+  orig: 135, 210
+  offset: 19, 53
+  index: -1
+skill1/hit/ji
+  rotate: true
+  xy: 207, 4
+  size: 20, 72
+  orig: 32, 83
+  offset: 6, 5
+  index: -1

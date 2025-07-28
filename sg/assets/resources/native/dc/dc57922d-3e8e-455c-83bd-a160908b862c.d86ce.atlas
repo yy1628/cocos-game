@@ -1,0 +1,300 @@
+
+zhangzhao.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_beizi
+  rotate: true
+  xy: 214, 29
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+f_wan
+  rotate: true
+  xy: 214, 29
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+b_body
+  rotate: false
+  xy: 248, 59
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+b_cap
+  rotate: true
+  xy: 70, 20
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+b_chahu1
+  rotate: true
+  xy: 184, 88
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+b_chahu2
+  rotate: true
+  xy: 70, 2
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+b_cloak1
+  rotate: false
+  xy: 115, 83
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+b_cloak2
+  rotate: false
+  xy: 39, 11
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+b_head
+  rotate: false
+  xy: 212, 90
+  size: 32, 36
+  orig: 32, 44
+  offset: 0, 6
+  index: -1
+b_l_arm
+  rotate: false
+  xy: 152, 44
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+b_l_foot
+  rotate: false
+  xy: 192, 28
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+b_l_hand
+  rotate: true
+  xy: 137, 26
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+b_l_shoulder
+  rotate: false
+  xy: 165, 28
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+f_r_sholder
+  rotate: false
+  xy: 165, 28
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+b_r_arm
+  rotate: true
+  xy: 155, 2
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+b_r_foot
+  rotate: false
+  xy: 203, 28
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+b_r_shoulder
+  rotate: false
+  xy: 284, 49
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+f_r_arm2
+  rotate: false
+  xy: 284, 49
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+b_scarf
+  rotate: false
+  xy: 109, 2
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+b_skill
+  rotate: true
+  xy: 218, 53
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+cloak3
+  rotate: false
+  xy: 150, 84
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+f_body
+  rotate: false
+  xy: 276, 96
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+f_bowl
+  rotate: true
+  xy: 45, 74
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+f_cap
+  rotate: true
+  xy: 81, 75
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+f_chahu1
+  rotate: true
+  xy: 188, 49
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+f_chahu2
+  rotate: true
+  xy: 83, 2
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+f_cloak1
+  rotate: false
+  xy: 104, 26
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: false
+  xy: 2, 67
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+f_l_arm1
+  rotate: false
+  xy: 257, 12
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+f_l_arm2
+  rotate: false
+  xy: 256, 31
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+f_l_armg
+  rotate: false
+  xy: 280, 64
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+f_l_foot
+  rotate: false
+  xy: 96, 2
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: true
+  xy: 39, 2
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+f_l_hand2
+  rotate: false
+  xy: 276, 15
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+f_r_arm1
+  rotate: true
+  xy: 228, 30
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+f_r_armg
+  rotate: true
+  xy: 227, 5
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+f_r_foot
+  rotate: false
+  xy: 152, 26
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+f_scarf
+  rotate: false
+  xy: 2, 9
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+f_skill
+  rotate: true
+  xy: 246, 91
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+f_water
+  rotate: true
+  xy: 137, 38
+  size: 43, 13
+  orig: 43, 13
+  offset: 0, 0
+  index: -1
+gebo
+  rotate: true
+  xy: 191, 2
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 276, 4
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1

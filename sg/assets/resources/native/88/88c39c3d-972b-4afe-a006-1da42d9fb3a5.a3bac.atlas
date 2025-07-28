@@ -1,0 +1,279 @@
+
+haozhao.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_body
+  rotate: false
+  xy: 96, 27
+  size: 51, 35
+  orig: 51, 35
+  offset: 0, 0
+  index: -1
+b_head
+  rotate: false
+  xy: 49, 17
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+b_l_arm1
+  rotate: true
+  xy: 336, 20
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+b_l_arm2
+  rotate: false
+  xy: 373, 44
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+b_l_foot
+  rotate: false
+  xy: 35, 4
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+b_l_hand
+  rotate: false
+  xy: 20, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+b_l_leg1
+  rotate: false
+  xy: 310, 20
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+b_l_leg2
+  rotate: true
+  xy: 392, 50
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+b_l_shoulder
+  rotate: true
+  xy: 214, 2
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+b_r_arm1
+  rotate: true
+  xy: 375, 24
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+b_r_arm2
+  rotate: true
+  xy: 356, 22
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+b_r_foot
+  rotate: false
+  xy: 288, 3
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+b_r_leg1
+  rotate: true
+  xy: 315, 40
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+b_r_leg2
+  rotate: false
+  xy: 305, 2
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+b_r_shoulder
+  rotate: false
+  xy: 288, 15
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+f_l_shoulder
+  rotate: false
+  xy: 288, 15
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+b_shield
+  rotate: true
+  xy: 235, 34
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+b_skirt1
+  rotate: false
+  xy: 112, 4
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+b_skirt2
+  rotate: false
+  xy: 52, 2
+  size: 41, 13
+  orig: 41, 13
+  offset: 0, 0
+  index: -1
+b_weapon
+  rotate: true
+  xy: 271, 39
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+f_body
+  rotate: false
+  xy: 149, 28
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: false
+  xy: 2, 16
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+f_l_arm1
+  rotate: false
+  xy: 353, 43
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+f_l_arm2
+  rotate: false
+  xy: 320, 3
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+f_l_foot
+  rotate: true
+  xy: 389, 9
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: false
+  xy: 353, 5
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+f_l_leg1
+  rotate: true
+  xy: 334, 41
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+f_l_leg2
+  rotate: true
+  xy: 405, 51
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+f_r_arm1
+  rotate: false
+  xy: 368, 3
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+f_r_arm2
+  rotate: true
+  xy: 337, 3
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+f_r_foot
+  rotate: true
+  xy: 394, 35
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+f_r_hand
+  rotate: true
+  xy: 95, 2
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+f_r_leg1
+  rotate: true
+  xy: 295, 39
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+f_r_leg2
+  rotate: false
+  xy: 394, 24
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+f_r_shoulder
+  rotate: false
+  xy: 239, 9
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+f_shield
+  rotate: true
+  xy: 203, 29
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+f_skirt1
+  rotate: false
+  xy: 162, 2
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+f_skirt2
+  rotate: false
+  xy: 2, 3
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+f_weapon
+  rotate: false
+  xy: 264, 8
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1

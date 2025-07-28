@@ -1,0 +1,195 @@
+
+simayi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_body
+  rotate: false
+  xy: 349, 389
+  size: 76, 120
+  orig: 76, 120
+  offset: 0, 0
+  index: -1
+f_hair
+  rotate: false
+  xy: 523, 103
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: true
+  xy: 2, 4
+  size: 148, 195
+  orig: 148, 195
+  offset: 0, 0
+  index: -1
+f_hip
+  rotate: false
+  xy: 485, 11
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+f_l_arm02
+  rotate: false
+  xy: 459, 101
+  size: 62, 81
+  orig: 62, 81
+  offset: 0, 0
+  index: -1
+f_l_clothing
+  rotate: false
+  xy: 349, 274
+  size: 43, 113
+  orig: 43, 113
+  offset: 0, 0
+  index: -1
+f_l_feather01
+  rotate: false
+  xy: 559, 2
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+f_l_foot
+  rotate: true
+  xy: 579, 67
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: true
+  xy: 502, 59
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+f_l_leg01
+  rotate: false
+  xy: 537, 198
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+f_l_leg02
+  rotate: true
+  xy: 381, 5
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+f_l_ribbon
+  rotate: false
+  xy: 498, 308
+  size: 71, 93
+  orig: 71, 93
+  offset: 0, 0
+  index: -1
+f_l_shoulder
+  rotate: false
+  xy: 537, 233
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+f_r_arm01
+  rotate: false
+  xy: 437, 5
+  size: 46, 46
+  orig: 64, 98
+  offset: 9, 26
+  index: -1
+f_r_arm02
+  rotate: true
+  xy: 394, 281
+  size: 106, 102
+  orig: 106, 102
+  offset: 0, 0
+  index: -1
+f_r_clothing
+  rotate: false
+  xy: 312, 31
+  size: 67, 121
+  orig: 67, 121
+  offset: 0, 0
+  index: -1
+f_r_feather01
+  rotate: false
+  xy: 444, 184
+  size: 91, 95
+  orig: 91, 95
+  offset: 0, 0
+  index: -1
+f_r_feather02
+  rotate: true
+  xy: 349, 160
+  size: 112, 93
+  orig: 112, 93
+  offset: 0, 0
+  index: -1
+f_r_feather03
+  rotate: true
+  xy: 199, 10
+  size: 142, 111
+  orig: 142, 111
+  offset: 0, 0
+  index: -1
+f_r_foot
+  rotate: true
+  xy: 312, 2
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+f_r_hand02
+  rotate: true
+  xy: 459, 54
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+f_r_leg01
+  rotate: false
+  xy: 542, 65
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+f_r_leg02
+  rotate: false
+  xy: 571, 364
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+f_r_ribbon
+  rotate: false
+  xy: 522, 423
+  size: 71, 86
+  orig: 71, 86
+  offset: 0, 0
+  index: -1
+f_r_shoulder
+  rotate: true
+  xy: 381, 53
+  size: 105, 76
+  orig: 105, 76
+  offset: 0, 0
+  index: -1
+f_r_shoulder02
+  rotate: false
+  xy: 427, 403
+  size: 93, 106
+  orig: 93, 106
+  offset: 0, 0
+  index: -1
+f_weapon
+  rotate: false
+  xy: 2, 154
+  size: 345, 355
+  orig: 345, 355
+  offset: 0, 0
+  index: -1

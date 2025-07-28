@@ -1,0 +1,62 @@
+
+simayi_skill03_cx_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mingquan/chixushifa/00000
+  rotate: false
+  xy: 2, 184
+  size: 177, 149
+  orig: 240, 240
+  offset: 33, 38
+  index: -1
+mingquan/chixushifa/00002
+  rotate: false
+  xy: 186, 338
+  size: 181, 144
+  orig: 240, 240
+  offset: 32, 42
+  index: -1
+mingquan/chixushifa/00004
+  rotate: true
+  xy: 2, 4
+  size: 178, 148
+  orig: 240, 240
+  offset: 32, 39
+  index: -1
+mingquan/chixushifa/00006
+  rotate: true
+  xy: 152, 2
+  size: 180, 143
+  orig: 240, 240
+  offset: 31, 41
+  index: -1
+mingquan/chixushifa/00008
+  rotate: true
+  xy: 369, 300
+  size: 182, 137
+  orig: 240, 240
+  offset: 31, 46
+  index: -1
+mingquan/chixushifa/00010
+  rotate: false
+  xy: 186, 192
+  size: 181, 144
+  orig: 240, 240
+  offset: 31, 42
+  index: -1
+mingquan/chixushifa/00012
+  rotate: true
+  xy: 297, 11
+  size: 179, 145
+  orig: 240, 240
+  offset: 34, 41
+  index: -1
+mingquan/chixushifa/00014
+  rotate: false
+  xy: 2, 335
+  size: 182, 147
+  orig: 240, 240
+  offset: 32, 40
+  index: -1

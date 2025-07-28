@@ -1,0 +1,125 @@
+
+mobulianshi_skill01_sj_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/sj/00000
+  rotate: false
+  xy: 2, 9
+  size: 118, 115
+  orig: 140, 140
+  offset: 11, 17
+  index: -1
+sk1/sj/00002
+  rotate: false
+  xy: 362, 373
+  size: 118, 114
+  orig: 140, 140
+  offset: 11, 18
+  index: -1
+sk1/sj/00004
+  rotate: false
+  xy: 122, 16
+  size: 118, 113
+  orig: 140, 140
+  offset: 11, 18
+  index: -1
+sk1/sj/00006
+  rotate: false
+  xy: 122, 131
+  size: 118, 115
+  orig: 140, 140
+  offset: 11, 17
+  index: -1
+sk1/sj/00008
+  rotate: false
+  xy: 2, 126
+  size: 118, 118
+  orig: 140, 140
+  offset: 11, 16
+  index: -1
+sk1/sj/00010
+  rotate: false
+  xy: 2, 246
+  size: 118, 119
+  orig: 140, 140
+  offset: 11, 16
+  index: -1
+sk1/sj/00012
+  rotate: false
+  xy: 2, 367
+  size: 118, 120
+  orig: 140, 140
+  offset: 11, 16
+  index: -1
+sk1/sj/00014
+  rotate: false
+  xy: 122, 368
+  size: 118, 119
+  orig: 140, 140
+  offset: 11, 17
+  index: -1
+sk1/sj/00016
+  rotate: false
+  xy: 122, 248
+  size: 118, 118
+  orig: 140, 140
+  offset: 11, 18
+  index: -1
+sk1/sj/00018
+  rotate: false
+  xy: 242, 370
+  size: 118, 117
+  orig: 140, 140
+  offset: 11, 18
+  index: -1
+sk1/sj/00020
+  rotate: false
+  xy: 242, 253
+  size: 118, 115
+  orig: 140, 140
+  offset: 11, 18
+  index: -1
+sk1/sj/00022
+  rotate: true
+  xy: 242, 132
+  size: 119, 111
+  orig: 140, 140
+  offset: 9, 18
+  index: -1
+sk1/sj/00024
+  rotate: false
+  xy: 362, 261
+  size: 116, 110
+  orig: 140, 140
+  offset: 11, 20
+  index: -1
+sk1/sj/00026
+  rotate: true
+  xy: 242, 16
+  size: 114, 109
+  orig: 140, 140
+  offset: 13, 20
+  index: -1
+sk1/sj/00028
+  rotate: false
+  xy: 362, 172
+  size: 112, 87
+  orig: 140, 140
+  offset: 14, 21
+  index: -1
+sk1/sj/00030
+  rotate: false
+  xy: 355, 85
+  size: 110, 85
+  orig: 140, 140
+  offset: 15, 22
+  index: -1
+sk1/sj/00032
+  rotate: false
+  xy: 353, 2
+  size: 106, 81
+  orig: 140, 140
+  offset: 16, 24
+  index: -1

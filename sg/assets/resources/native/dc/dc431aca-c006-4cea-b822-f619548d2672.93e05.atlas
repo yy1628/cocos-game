@@ -1,0 +1,55 @@
+
+liuefeng_attack_sf_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/shifa/sf (1)
+  rotate: true
+  xy: 145, 9
+  size: 155, 154
+  orig: 375, 375
+  offset: 126, 98
+  index: -1
+attack/shifa/sf (11)
+  rotate: true
+  xy: 159, 379
+  size: 119, 89
+  orig: 375, 375
+  offset: 148, 125
+  index: -1
+attack/shifa/sf (13)
+  rotate: true
+  xy: 250, 392
+  size: 106, 68
+  orig: 375, 375
+  offset: 154, 132
+  index: -1
+attack/shifa/sf (3)
+  rotate: false
+  xy: 2, 2
+  size: 141, 162
+  orig: 375, 375
+  offset: 137, 109
+  index: -1
+attack/shifa/sf (5)
+  rotate: false
+  xy: 2, 166
+  size: 153, 164
+  orig: 375, 375
+  offset: 132, 105
+  index: -1
+attack/shifa/sf (7)
+  rotate: false
+  xy: 2, 332
+  size: 155, 166
+  orig: 375, 375
+  offset: 131, 105
+  index: -1
+attack/shifa/sf (9)
+  rotate: true
+  xy: 157, 182
+  size: 148, 115
+  orig: 375, 375
+  offset: 133, 109
+  index: -1

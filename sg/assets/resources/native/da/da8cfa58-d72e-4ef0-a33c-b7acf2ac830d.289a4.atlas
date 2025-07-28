@@ -1,0 +1,76 @@
+
+machao_skill01_buff_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff/buff (1)
+  rotate: true
+  xy: 2, 393
+  size: 50, 54
+  orig: 487, 487
+  offset: 218, 225
+  index: -1
+buff/buff (11)
+  rotate: true
+  xy: 144, 174
+  size: 143, 147
+  orig: 487, 487
+  offset: 175, 180
+  index: -1
+buff/buff (13)
+  rotate: true
+  xy: 2, 185
+  size: 139, 140
+  orig: 487, 487
+  offset: 177, 180
+  index: -1
+buff/buff (15)
+  rotate: false
+  xy: 317, 312
+  size: 136, 131
+  orig: 487, 487
+  offset: 178, 187
+  index: -1
+buff/buff (17)
+  rotate: true
+  xy: 183, 319
+  size: 124, 132
+  orig: 487, 487
+  offset: 182, 188
+  index: -1
+buff/buff (19)
+  rotate: true
+  xy: 58, 326
+  size: 117, 123
+  orig: 487, 487
+  offset: 183, 189
+  index: -1
+buff/buff (3)
+  rotate: true
+  xy: 334, 2
+  size: 157, 163
+  orig: 487, 487
+  offset: 164, 187
+  index: -1
+buff/buff (5)
+  rotate: true
+  xy: 168, 3
+  size: 156, 164
+  orig: 487, 487
+  offset: 165, 185
+  index: -1
+buff/buff (7)
+  rotate: true
+  xy: 2, 19
+  size: 153, 164
+  orig: 487, 487
+  offset: 168, 181
+  index: -1
+buff/buff (9)
+  rotate: true
+  xy: 293, 161
+  size: 149, 157
+  orig: 487, 487
+  offset: 171, 181
+  index: -1

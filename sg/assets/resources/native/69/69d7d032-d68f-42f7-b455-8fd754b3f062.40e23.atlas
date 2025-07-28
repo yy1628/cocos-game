@@ -1,0 +1,97 @@
+
+wenchou_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sf/00012
+  rotate: true
+  xy: 2, 416
+  size: 40, 45
+  orig: 240, 240
+  offset: 121, 54
+  index: -1
+sf/00014
+  rotate: false
+  xy: 2, 315
+  size: 97, 92
+  orig: 240, 240
+  offset: 64, 65
+  index: -1
+sf/00016
+  rotate: true
+  xy: 101, 307
+  size: 92, 113
+  orig: 240, 240
+  offset: 63, 82
+  index: -1
+sf/00018
+  rotate: true
+  xy: 409, 396
+  size: 60, 80
+  orig: 240, 240
+  offset: 66, 114
+  index: -1
+sf/00021
+  rotate: false
+  xy: 339, 400
+  size: 68, 56
+  orig: 240, 240
+  offset: 84, 48
+  index: -1
+sf/00023
+  rotate: true
+  xy: 2, 189
+  size: 116, 152
+  orig: 240, 240
+  offset: 59, 40
+  index: -1
+sf/00025
+  rotate: true
+  xy: 156, 151
+  size: 137, 182
+  orig: 240, 240
+  offset: 50, 33
+  index: -1
+sf/00027
+  rotate: false
+  xy: 340, 54
+  size: 143, 187
+  orig: 240, 240
+  offset: 47, 30
+  index: -1
+sf/00029
+  rotate: true
+  xy: 2, 2
+  size: 147, 191
+  orig: 240, 240
+  offset: 45, 28
+  index: -1
+sf/00031
+  rotate: true
+  xy: 369, 243
+  size: 151, 118
+  orig: 240, 240
+  offset: 43, 28
+  index: -1
+sf/00033
+  rotate: false
+  xy: 216, 290
+  size: 151, 108
+  orig: 240, 240
+  offset: 43, 28
+  index: -1
+sf/00035
+  rotate: false
+  xy: 190, 401
+  size: 147, 55
+  orig: 240, 240
+  offset: 43, 28
+  index: -1
+sf/00037
+  rotate: false
+  xy: 49, 409
+  size: 139, 47
+  orig: 240, 240
+  offset: 48, 29
+  index: -1

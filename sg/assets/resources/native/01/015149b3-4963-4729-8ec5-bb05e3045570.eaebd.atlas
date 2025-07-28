@@ -1,0 +1,132 @@
+
+panfeng_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit/0000
+  rotate: false
+  xy: 435, 254
+  size: 58, 66
+  orig: 170, 155
+  offset: 55, 82
+  index: -1
+hit/0002
+  rotate: false
+  xy: 287, 398
+  size: 96, 108
+  orig: 170, 155
+  offset: 37, 18
+  index: -1
+hit/0004
+  rotate: false
+  xy: 2, 104
+  size: 116, 126
+  orig: 170, 155
+  offset: 26, 8
+  index: -1
+hit/0006
+  rotate: false
+  xy: 151, 370
+  size: 134, 136
+  orig: 170, 155
+  offset: 17, 0
+  index: -1
+hit/0008
+  rotate: false
+  xy: 2, 232
+  size: 137, 136
+  orig: 170, 155
+  offset: 15, 1
+  index: -1
+hit/0010
+  rotate: false
+  xy: 2, 370
+  size: 147, 136
+  orig: 170, 155
+  offset: 11, 1
+  index: -1
+hit/0012
+  rotate: false
+  xy: 141, 252
+  size: 106, 116
+  orig: 170, 155
+  offset: 28, 18
+  index: -1
+hit/0014
+  rotate: false
+  xy: 2, 5
+  size: 93, 97
+  orig: 170, 155
+  offset: 40, 18
+  index: -1
+hit/0016
+  rotate: false
+  xy: 385, 415
+  size: 99, 91
+  orig: 170, 155
+  offset: 35, 18
+  index: -1
+hit/0018
+  rotate: true
+  xy: 249, 276
+  size: 92, 91
+  orig: 170, 155
+  offset: 41, 18
+  index: -1
+hit/0020
+  rotate: true
+  xy: 97, 10
+  size: 92, 91
+  orig: 170, 155
+  offset: 41, 18
+  index: -1
+hit/0022
+  rotate: true
+  xy: 120, 138
+  size: 92, 91
+  orig: 170, 155
+  offset: 41, 18
+  index: -1
+hit/0024
+  rotate: false
+  xy: 385, 322
+  size: 92, 91
+  orig: 170, 155
+  offset: 41, 18
+  index: -1
+hit/0026
+  rotate: false
+  xy: 342, 229
+  size: 91, 91
+  orig: 170, 155
+  offset: 41, 18
+  index: -1
+hit/0028
+  rotate: false
+  xy: 342, 136
+  size: 91, 91
+  orig: 170, 155
+  offset: 41, 18
+  index: -1
+hit/0030
+  rotate: false
+  xy: 213, 93
+  size: 91, 91
+  orig: 170, 155
+  offset: 41, 18
+  index: -1
+hit/0032
+  rotate: true
+  xy: 190, 2
+  size: 89, 91
+  orig: 170, 155
+  offset: 42, 18
+  index: -1
+hit/0034
+  rotate: true
+  xy: 249, 186
+  size: 88, 91
+  orig: 170, 155
+  offset: 42, 18
+  index: -1

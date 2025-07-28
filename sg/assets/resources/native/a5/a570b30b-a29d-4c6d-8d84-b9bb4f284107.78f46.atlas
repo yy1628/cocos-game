@@ -1,0 +1,118 @@
+
+muludawang_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shifa/sk1 (1)
+  rotate: false
+  xy: 2, 298
+  size: 143, 150
+  orig: 300, 300
+  offset: 70, 118
+  index: -1
+shifa/sk1 (11)
+  rotate: true
+  xy: 153, 44
+  size: 128, 130
+  orig: 300, 300
+  offset: 83, 121
+  index: -1
+shifa/sk1 (13)
+  rotate: false
+  xy: 285, 52
+  size: 118, 120
+  orig: 300, 300
+  offset: 86, 122
+  index: -1
+shifa/sk1 (15)
+  rotate: false
+  xy: 286, 197
+  size: 113, 113
+  orig: 300, 300
+  offset: 91, 124
+  index: -1
+shifa/sk1 (17)
+  rotate: true
+  xy: 290, 350
+  size: 98, 115
+  orig: 300, 300
+  offset: 102, 116
+  index: -1
+shifa/sk1 (19)
+  rotate: false
+  xy: 401, 240
+  size: 96, 108
+  orig: 300, 300
+  offset: 103, 117
+  index: -1
+shifa/sk1 (21)
+  rotate: true
+  xy: 407, 389
+  size: 59, 100
+  orig: 300, 300
+  offset: 120, 117
+  index: -1
+shifa/sk1 (23)
+  rotate: true
+  xy: 401, 177
+  size: 61, 101
+  orig: 300, 300
+  offset: 119, 117
+  index: -1
+shifa/sk1 (25)
+  rotate: true
+  xy: 285, 3
+  size: 47, 52
+  orig: 300, 300
+  offset: 127, 117
+  index: -1
+shifa/sk1 (27)
+  rotate: false
+  xy: 128, 2
+  size: 47, 40
+  orig: 300, 300
+  offset: 127, 117
+  index: -1
+shifa/sk1 (29)
+  rotate: false
+  xy: 407, 359
+  size: 47, 28
+  orig: 300, 300
+  offset: 127, 117
+  index: -1
+shifa/sk1 (3)
+  rotate: true
+  xy: 2, 158
+  size: 138, 149
+  orig: 300, 300
+  offset: 72, 115
+  index: -1
+shifa/sk1 (31)
+  rotate: true
+  xy: 128, 110
+  size: 46, 18
+  orig: 300, 300
+  offset: 127, 117
+  index: -1
+shifa/sk1 (5)
+  rotate: true
+  xy: 147, 312
+  size: 136, 141
+  orig: 300, 300
+  offset: 74, 119
+  index: -1
+shifa/sk1 (7)
+  rotate: false
+  xy: 153, 174
+  size: 131, 136
+  orig: 300, 300
+  offset: 76, 120
+  index: -1
+shifa/sk1 (9)
+  rotate: false
+  xy: 2, 26
+  size: 124, 130
+  orig: 300, 300
+  offset: 80, 120
+  index: -1

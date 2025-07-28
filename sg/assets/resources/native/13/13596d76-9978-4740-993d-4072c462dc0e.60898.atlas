@@ -1,0 +1,76 @@
+
+huangyueying_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouji/hit1 (1)
+  rotate: true
+  xy: 363, 53
+  size: 129, 109
+  orig: 307, 307
+  offset: 103, 93
+  index: -1
+shouji/hit1 (11)
+  rotate: true
+  xy: 218, 44
+  size: 125, 143
+  orig: 307, 307
+  offset: 104, 98
+  index: -1
+shouji/hit1 (13)
+  rotate: false
+  xy: 353, 334
+  size: 121, 148
+  orig: 307, 307
+  offset: 106, 99
+  index: -1
+shouji/hit1 (15)
+  rotate: false
+  xy: 362, 184
+  size: 115, 148
+  orig: 307, 307
+  offset: 109, 100
+  index: -1
+shouji/hit1 (17)
+  rotate: false
+  xy: 363, 2
+  size: 102, 49
+  orig: 307, 307
+  offset: 116, 103
+  index: -1
+shouji/hit1 (19)
+  rotate: false
+  xy: 158, 300
+  size: 50, 23
+  orig: 307, 307
+  offset: 142, 116
+  index: -1
+shouji/hit1 (3)
+  rotate: false
+  xy: 2, 265
+  size: 154, 217
+  orig: 307, 307
+  offset: 86, 81
+  index: -1
+shouji/hit1 (5)
+  rotate: true
+  xy: 2, 103
+  size: 160, 214
+  orig: 307, 307
+  offset: 85, 83
+  index: -1
+shouji/hit1 (7)
+  rotate: true
+  xy: 158, 325
+  size: 157, 193
+  orig: 307, 307
+  offset: 85, 94
+  index: -1
+shouji/hit1 (9)
+  rotate: true
+  xy: 218, 171
+  size: 152, 142
+  orig: 307, 307
+  offset: 87, 96
+  index: -1

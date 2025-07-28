@@ -1,0 +1,41 @@
+
+gongsunzan_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd/dd_00000
+  rotate: false
+  xy: 98, 8
+  size: 94, 439
+  orig: 240, 480
+  offset: 73, 21
+  index: -1
+dd/dd_00002
+  rotate: false
+  xy: 194, 16
+  size: 97, 431
+  orig: 240, 480
+  offset: 73, 21
+  index: -1
+dd/dd_00004
+  rotate: false
+  xy: 387, 22
+  size: 94, 425
+  orig: 240, 480
+  offset: 73, 21
+  index: -1
+dd/dd_00006
+  rotate: false
+  xy: 293, 12
+  size: 92, 435
+  orig: 240, 480
+  offset: 74, 21
+  index: -1
+dd/dd_00008
+  rotate: false
+  xy: 2, 2
+  size: 94, 445
+  orig: 240, 480
+  offset: 72, 21
+  index: -1

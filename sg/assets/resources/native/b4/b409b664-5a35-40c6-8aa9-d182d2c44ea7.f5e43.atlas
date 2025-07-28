@@ -1,0 +1,48 @@
+
+sunshangxiang_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/sj/00020
+  rotate: false
+  xy: 2, 310
+  size: 209, 195
+  orig: 270, 270
+  offset: 22, 45
+  index: -1
+sk1/sj/00022
+  rotate: false
+  xy: 2, 125
+  size: 193, 183
+  orig: 270, 270
+  offset: 33, 50
+  index: -1
+sk1/sj/00024
+  rotate: false
+  xy: 213, 328
+  size: 215, 177
+  orig: 270, 270
+  offset: 30, 59
+  index: -1
+sk1/sj/00026
+  rotate: false
+  xy: 213, 157
+  size: 213, 169
+  orig: 270, 270
+  offset: 32, 63
+  index: -1
+sk1/sj/00028
+  rotate: true
+  xy: 197, 2
+  size: 153, 152
+  orig: 270, 270
+  offset: 50, 69
+  index: -1
+sk1/sj/00030
+  rotate: false
+  xy: 351, 15
+  size: 138, 140
+  orig: 270, 270
+  offset: 57, 74
+  index: -1

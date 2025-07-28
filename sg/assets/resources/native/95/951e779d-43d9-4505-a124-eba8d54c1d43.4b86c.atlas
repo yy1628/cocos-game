@@ -1,0 +1,55 @@
+
+xiahouyuan_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoyandanmu/hit/00000
+  rotate: true
+  xy: 212, 342
+  size: 165, 170
+  orig: 300, 300
+  offset: 68, 65
+  index: -1
+huoyandanmu/hit/00002
+  rotate: false
+  xy: 2, 170
+  size: 193, 170
+  orig: 300, 300
+  offset: 50, 65
+  index: -1
+huoyandanmu/hit/00004
+  rotate: false
+  xy: 2, 342
+  size: 208, 165
+  orig: 300, 300
+  offset: 47, 65
+  index: -1
+huoyandanmu/hit/00006
+  rotate: false
+  xy: 174, 6
+  size: 170, 162
+  orig: 300, 300
+  offset: 68, 65
+  index: -1
+huoyandanmu/hit/00008
+  rotate: false
+  xy: 2, 2
+  size: 170, 166
+  orig: 300, 300
+  offset: 68, 65
+  index: -1
+huoyandanmu/hit/00010
+  rotate: false
+  xy: 197, 172
+  size: 166, 168
+  orig: 300, 300
+  offset: 72, 65
+  index: -1
+huoyandanmu/hit/00012
+  rotate: false
+  xy: 346, 12
+  size: 152, 158
+  orig: 300, 300
+  offset: 79, 72
+  index: -1

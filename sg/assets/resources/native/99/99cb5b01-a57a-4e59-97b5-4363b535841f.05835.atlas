@@ -1,0 +1,132 @@
+
+shenzhoutai_skill01_buff_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff/00000
+  rotate: false
+  xy: 144, 22
+  size: 147, 169
+  orig: 210, 210
+  offset: 24, 25
+  index: -1
+buff/00018
+  rotate: false
+  xy: 144, 22
+  size: 147, 169
+  orig: 210, 210
+  offset: 24, 25
+  index: -1
+buff/00002
+  rotate: false
+  xy: 356, 153
+  size: 150, 164
+  orig: 210, 210
+  offset: 15, 25
+  index: -1
+buff/00020
+  rotate: false
+  xy: 356, 153
+  size: 150, 164
+  orig: 210, 210
+  offset: 15, 25
+  index: -1
+buff/00004
+  rotate: false
+  xy: 2, 343
+  size: 185, 153
+  orig: 210, 210
+  offset: 11, 30
+  index: -1
+buff/00022
+  rotate: false
+  xy: 2, 343
+  size: 185, 153
+  orig: 210, 210
+  offset: 11, 30
+  index: -1
+buff/00006
+  rotate: true
+  xy: 2, 6
+  size: 185, 140
+  orig: 210, 210
+  offset: 12, 33
+  index: -1
+buff/00024
+  rotate: true
+  xy: 2, 6
+  size: 185, 140
+  orig: 210, 210
+  offset: 12, 33
+  index: -1
+buff/00008
+  rotate: true
+  xy: 373, 319
+  size: 177, 136
+  orig: 210, 210
+  offset: 20, 36
+  index: -1
+buff/00026
+  rotate: true
+  xy: 373, 319
+  size: 177, 136
+  orig: 210, 210
+  offset: 20, 36
+  index: -1
+buff/00010
+  rotate: false
+  xy: 2, 193
+  size: 180, 148
+  orig: 210, 210
+  offset: 20, 40
+  index: -1
+buff/00028
+  rotate: false
+  xy: 2, 193
+  size: 180, 148
+  orig: 210, 210
+  offset: 20, 40
+  index: -1
+buff/00013
+  rotate: false
+  xy: 189, 351
+  size: 182, 145
+  orig: 210, 210
+  offset: 13, 42
+  index: -1
+buff/00031
+  rotate: false
+  xy: 189, 351
+  size: 182, 145
+  orig: 210, 210
+  offset: 13, 42
+  index: -1
+buff/00015
+  rotate: false
+  xy: 293, 2
+  size: 161, 149
+  orig: 210, 210
+  offset: 20, 38
+  index: -1
+buff/00033
+  rotate: false
+  xy: 293, 2
+  size: 161, 149
+  orig: 210, 210
+  offset: 20, 38
+  index: -1
+buff/00035
+  rotate: true
+  xy: 189, 196
+  size: 153, 165
+  orig: 210, 210
+  offset: 24, 20
+  index: -1
+buff/00017
+  rotate: true
+  xy: 189, 196
+  size: 153, 165
+  orig: 210, 210
+  offset: 24, 20
+  index: -1

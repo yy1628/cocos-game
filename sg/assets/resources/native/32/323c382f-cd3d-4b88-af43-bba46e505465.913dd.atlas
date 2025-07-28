@@ -1,0 +1,34 @@
+
+huaxiong_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/sf/sf (1)
+  rotate: false
+  xy: 180, 184
+  size: 176, 176
+  orig: 250, 250
+  offset: 37, 37
+  index: -1
+sk1/sf/sf (2)
+  rotate: false
+  xy: 2, 2
+  size: 182, 180
+  orig: 250, 250
+  offset: 34, 35
+  index: -1
+sk1/sf/sf (3)
+  rotate: false
+  xy: 186, 2
+  size: 180, 180
+  orig: 250, 250
+  offset: 35, 35
+  index: -1
+sk1/sf/sf (4)
+  rotate: false
+  xy: 2, 184
+  size: 176, 176
+  orig: 250, 250
+  offset: 37, 37
+  index: -1

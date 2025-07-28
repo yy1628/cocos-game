@@ -1,0 +1,132 @@
+
+cacao_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jzsh/dg/youxia/0022
+  rotate: true
+  xy: 196, 311
+  size: 90, 108
+  orig: 180, 180
+  offset: 16, 49
+  index: -1
+jzsh/dg/youxia/0024
+  rotate: true
+  xy: 220, 112
+  size: 98, 132
+  orig: 180, 180
+  offset: 70, 20
+  index: -1
+jzsh/dg/youxia/0026
+  rotate: false
+  xy: 143, 2
+  size: 144, 108
+  orig: 180, 180
+  offset: 19, 17
+  index: -1
+jzsh/dg/youxia/0028
+  rotate: false
+  xy: 2, 13
+  size: 139, 101
+  orig: 180, 180
+  offset: 19, 17
+  index: -1
+jzsh/dg/youxia/0030
+  rotate: false
+  xy: 303, 212
+  size: 134, 96
+  orig: 180, 180
+  offset: 20, 17
+  index: -1
+jzsh/dg/youxia/0032
+  rotate: false
+  xy: 306, 310
+  size: 133, 90
+  orig: 180, 180
+  offset: 21, 17
+  index: -1
+jzsh/dg/youxia/0034
+  rotate: false
+  xy: 315, 402
+  size: 131, 80
+  orig: 180, 180
+  offset: 23, 19
+  index: -1
+jzsh/dg/youxia/0036
+  rotate: false
+  xy: 2, 420
+  size: 123, 62
+  orig: 180, 180
+  offset: 30, 30
+  index: -1
+jzsh/hit/0002
+  rotate: false
+  xy: 221, 403
+  size: 92, 79
+  orig: 135, 135
+  offset: 22, 40
+  index: -1
+jzsh/hit/0004
+  rotate: false
+  xy: 2, 337
+  size: 98, 81
+  orig: 135, 135
+  offset: 22, 38
+  index: -1
+jzsh/hit/0006
+  rotate: false
+  xy: 194, 215
+  size: 107, 94
+  orig: 135, 135
+  offset: 18, 31
+  index: -1
+jzsh/hit/0008
+  rotate: false
+  xy: 2, 132
+  size: 108, 96
+  orig: 135, 135
+  offset: 17, 31
+  index: -1
+jzsh/hit/0010
+  rotate: false
+  xy: 354, 112
+  size: 107, 98
+  orig: 135, 135
+  offset: 18, 30
+  index: -1
+jzsh/hit/0012
+  rotate: false
+  xy: 112, 116
+  size: 106, 97
+  orig: 135, 135
+  offset: 19, 31
+  index: -1
+jzsh/hit/0014
+  rotate: true
+  xy: 96, 230
+  size: 93, 96
+  orig: 135, 135
+  offset: 21, 32
+  index: -1
+jzsh/hit/0016
+  rotate: false
+  xy: 2, 243
+  size: 92, 92
+  orig: 135, 135
+  offset: 22, 35
+  index: -1
+jzsh/hit/0018
+  rotate: false
+  xy: 102, 325
+  size: 92, 83
+  orig: 135, 135
+  offset: 22, 38
+  index: -1
+jzsh/hit/0020
+  rotate: false
+  xy: 127, 410
+  size: 92, 72
+  orig: 135, 135
+  offset: 22, 42
+  index: -1

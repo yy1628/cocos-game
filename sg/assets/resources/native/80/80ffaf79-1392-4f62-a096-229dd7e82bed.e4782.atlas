@@ -1,0 +1,125 @@
+
+zhangfei_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill2/sf/d/d (1)
+  rotate: false
+  xy: 2, 417
+  size: 70, 44
+  orig: 375, 375
+  offset: 151, 167
+  index: -1
+skill2/sf/d/d (11)
+  rotate: false
+  xy: 254, 322
+  size: 126, 72
+  orig: 375, 375
+  offset: 129, 149
+  index: -1
+skill2/sf/d/d (13)
+  rotate: false
+  xy: 2, 339
+  size: 112, 68
+  orig: 375, 375
+  offset: 135, 150
+  index: -1
+skill2/sf/d/d (15)
+  rotate: false
+  xy: 344, 396
+  size: 102, 65
+  orig: 375, 375
+  offset: 139, 151
+  index: -1
+skill2/sf/d/d (17)
+  rotate: false
+  xy: 74, 409
+  size: 76, 52
+  orig: 375, 375
+  offset: 158, 157
+  index: -1
+skill2/sf/d/d (3)
+  rotate: false
+  xy: 209, 398
+  size: 133, 63
+  orig: 375, 375
+  offset: 124, 160
+  index: -1
+skill2/sf/d/d (5)
+  rotate: false
+  xy: 116, 324
+  size: 136, 72
+  orig: 375, 375
+  offset: 123, 154
+  index: -1
+skill2/sf/d/d (7)
+  rotate: false
+  xy: 140, 245
+  size: 139, 75
+  orig: 375, 375
+  offset: 121, 151
+  index: -1
+skill2/sf/d/d (9)
+  rotate: false
+  xy: 2, 248
+  size: 136, 74
+  orig: 375, 375
+  offset: 123, 150
+  index: -1
+skill2/sf/t/t (1)
+  rotate: false
+  xy: 152, 408
+  size: 55, 53
+  orig: 375, 375
+  offset: 166, 205
+  index: -1
+skill2/sf/t/t (11)
+  rotate: false
+  xy: 376, 30
+  size: 122, 122
+  orig: 375, 375
+  offset: 133, 171
+  index: -1
+skill2/sf/t/t (13)
+  rotate: true
+  xy: 281, 154
+  size: 119, 124
+  orig: 375, 375
+  offset: 134, 172
+  index: -1
+skill2/sf/t/t (15)
+  rotate: true
+  xy: 2, 127
+  size: 119, 123
+  orig: 375, 375
+  offset: 133, 173
+  index: -1
+skill2/sf/t/t (3)
+  rotate: false
+  xy: 2, 2
+  size: 123, 123
+  orig: 375, 375
+  offset: 132, 169
+  index: -1
+skill2/sf/t/t (5)
+  rotate: false
+  xy: 382, 275
+  size: 120, 119
+  orig: 375, 375
+  offset: 133, 171
+  index: -1
+skill2/sf/t/t (7)
+  rotate: false
+  xy: 127, 123
+  size: 121, 120
+  orig: 375, 375
+  offset: 132, 171
+  index: -1
+skill2/sf/t/t (9)
+  rotate: false
+  xy: 250, 32
+  size: 124, 120
+  orig: 375, 375
+  offset: 131, 172
+  index: -1

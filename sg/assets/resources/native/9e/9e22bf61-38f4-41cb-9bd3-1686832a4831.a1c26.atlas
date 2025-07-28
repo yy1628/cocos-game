@@ -1,0 +1,20 @@
+
+taigu_sj_down.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x/00013
+  rotate: true
+  xy: 2, 14
+  size: 225, 155
+  orig: 442, 506
+  offset: 111, 102
+  index: -1
+x/00014
+  rotate: true
+  xy: 159, 2
+  size: 237, 142
+  orig: 442, 506
+  offset: 109, 106
+  index: -1

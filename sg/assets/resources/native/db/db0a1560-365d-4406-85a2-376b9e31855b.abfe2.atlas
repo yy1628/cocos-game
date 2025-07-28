@@ -1,0 +1,41 @@
+
+yuanshao_skill04_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk4/dd/00000
+  rotate: false
+  xy: 268, 2
+  size: 240, 133
+  orig: 360, 270
+  offset: 80, 56
+  index: -1
+sk4/dd/00002
+  rotate: false
+  xy: 2, 7
+  size: 264, 135
+  orig: 360, 270
+  offset: 58, 55
+  index: -1
+sk4/dd/00004
+  rotate: true
+  xy: 291, 137
+  size: 276, 134
+  orig: 360, 270
+  offset: 44, 56
+  index: -1
+sk4/dd/00006
+  rotate: false
+  xy: 2, 144
+  size: 279, 132
+  orig: 360, 270
+  offset: 43, 57
+  index: -1
+sk4/dd/00008
+  rotate: false
+  xy: 2, 278
+  size: 287, 135
+  orig: 360, 270
+  offset: 33, 55
+  index: -1

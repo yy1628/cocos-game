@@ -1,0 +1,188 @@
+
+caohong.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_b_r_foot1
+  rotate: false
+  xy: 356, 17
+  size: 59, 86
+  orig: 59, 86
+  offset: 0, 0
+  index: -1
+f_b_r_foot2
+  rotate: true
+  xy: 705, 309
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+f_b_r_foot3
+  rotate: false
+  xy: 603, 33
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+f_body
+  rotate: true
+  xy: 447, 108
+  size: 163, 171
+  orig: 163, 171
+  offset: 0, 0
+  index: -1
+f_f_r_hand1
+  rotate: true
+  xy: 249, 10
+  size: 92, 105
+  orig: 92, 105
+  offset: 0, 0
+  index: -1
+f_f_r_hand2
+  rotate: false
+  xy: 706, 367
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+f_f_r_hand3
+  rotate: false
+  xy: 749, 314
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: false
+  xy: 620, 151
+  size: 148, 154
+  orig: 148, 154
+  offset: 0, 0
+  index: -1
+f_l_arm1
+  rotate: false
+  xy: 723, 442
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+f_l_arm2
+  rotate: false
+  xy: 650, 309
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: false
+  xy: 774, 464
+  size: 46, 46
+  orig: 48, 47
+  offset: 1, 0
+  index: -1
+f_l_shoulder
+  rotate: true
+  xy: 2, 5
+  size: 97, 75
+  orig: 97, 75
+  offset: 0, 0
+  index: -1
+f_piaodai
+  rotate: true
+  xy: 650, 364
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1
+f_r_arm1
+  rotate: false
+  xy: 417, 21
+  size: 75, 82
+  orig: 75, 82
+  offset: 0, 0
+  index: -1
+f_r_arm2
+  rotate: false
+  xy: 767, 376
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+f_r_foot
+  rotate: true
+  xy: 603, 3
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+f_r_fur
+  rotate: false
+  xy: 305, 105
+  size: 140, 166
+  orig: 140, 166
+  offset: 0, 0
+  index: -1
+f_r_hand
+  rotate: true
+  xy: 770, 267
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+f_r_leg1
+  rotate: true
+  xy: 650, 438
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+f_r_leg2
+  rotate: true
+  xy: 620, 111
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+f_r_shoulder
+  rotate: true
+  xy: 494, 2
+  size: 104, 107
+  orig: 104, 107
+  offset: 0, 0
+  index: -1
+f_saddle
+  rotate: false
+  xy: 79, 7
+  size: 168, 95
+  orig: 168, 95
+  offset: 0, 0
+  index: -1
+f_tail
+  rotate: true
+  xy: 669, 15
+  size: 134, 123
+  orig: 134, 123
+  offset: 0, 0
+  index: -1
+f_tiger_body
+  rotate: true
+  xy: 305, 273
+  size: 237, 150
+  orig: 237, 150
+  offset: 0, 0
+  index: -1
+f_tiger_head
+  rotate: false
+  xy: 457, 307
+  size: 191, 203
+  orig: 191, 203
+  offset: 0, 0
+  index: -1
+f_wq
+  rotate: true
+  xy: 2, 104
+  size: 406, 301
+  orig: 406, 301
+  offset: 0, 0
+  index: -1

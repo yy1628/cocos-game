@@ -1,0 +1,13 @@
+
+WJ-diaochan-SKILL-BUFFOX-UP.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff/xin
+  rotate: false
+  xy: 2, 16
+  size: 69, 55
+  orig: 86, 71
+  offset: 6, 6
+  index: -1

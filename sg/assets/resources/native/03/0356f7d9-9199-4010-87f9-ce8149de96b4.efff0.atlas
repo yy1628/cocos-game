@@ -1,0 +1,69 @@
+
+battlefieldeffects.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dwadw
+  rotate: false
+  xy: 189, 42
+  size: 183, 100
+  orig: 225, 142
+  offset: 20, 23
+  index: -1
+拆分/1
+  rotate: true
+  xy: 458, 59
+  size: 17, 18
+  orig: 17, 23
+  offset: 0, 4
+  index: -1
+拆分/2
+  rotate: false
+  xy: 374, 53
+  size: 82, 89
+  orig: 114, 90
+  offset: 4, 0
+  index: -1
+拆分/3
+  rotate: false
+  xy: 374, 12
+  size: 37, 39
+  orig: 41, 40
+  offset: 2, 0
+  index: -1
+拆分/4
+  rotate: true
+  xy: 448, 2
+  size: 49, 29
+  orig: 50, 31
+  offset: 0, 1
+  index: -1
+拆分/5
+  rotate: false
+  xy: 458, 78
+  size: 27, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+拆分/6
+  rotate: false
+  xy: 413, 3
+  size: 33, 48
+  orig: 46, 49
+  offset: 2, 0
+  index: -1
+拆分/7
+  rotate: false
+  xy: 2, 3
+  size: 185, 139
+  orig: 205, 141
+  offset: 11, 1
+  index: -1
+拆分/8
+  rotate: true
+  xy: 458, 100
+  size: 42, 29
+  orig: 45, 31
+  offset: 0, 1
+  index: -1

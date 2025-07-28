@@ -1,0 +1,146 @@
+
+hanxiandi_skill01_buff_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff/ss/00000
+  rotate: true
+  xy: 333, 295
+  size: 82, 64
+  orig: 171, 171
+  offset: 41, 32
+  index: -1
+buff/ss/00002
+  rotate: true
+  xy: 424, 383
+  size: 80, 63
+  orig: 171, 171
+  offset: 42, 32
+  index: -1
+buff/ss/00004
+  rotate: true
+  xy: 399, 298
+  size: 81, 63
+  orig: 171, 171
+  offset: 41, 32
+  index: -1
+buff/ss/00006
+  rotate: false
+  xy: 331, 94
+  size: 82, 63
+  orig: 171, 171
+  offset: 40, 32
+  index: -1
+buff/ss/00008
+  rotate: true
+  xy: 356, 209
+  size: 84, 61
+  orig: 171, 171
+  offset: 40, 32
+  index: -1
+buff/ss/00010
+  rotate: true
+  xy: 224, 156
+  size: 85, 63
+  orig: 171, 171
+  offset: 39, 32
+  index: -1
+buff/ss/00012
+  rotate: true
+  xy: 292, 379
+  size: 84, 64
+  orig: 171, 171
+  offset: 40, 32
+  index: -1
+buff/ss/00014
+  rotate: true
+  xy: 225, 380
+  size: 83, 65
+  orig: 171, 171
+  offset: 41, 32
+  index: -1
+buff/ss/00016
+  rotate: true
+  xy: 289, 159
+  size: 82, 65
+  orig: 171, 171
+  offset: 41, 32
+  index: -1
+buff/ss/00018
+  rotate: true
+  xy: 358, 381
+  size: 82, 64
+  orig: 171, 171
+  offset: 41, 32
+  index: -1
+buff/xx/00000
+  rotate: false
+  xy: 113, 234
+  size: 109, 112
+  orig: 171, 171
+  offset: 27, 18
+  index: -1
+buff/xx/00002
+  rotate: false
+  xy: 2, 2
+  size: 110, 111
+  orig: 171, 171
+  offset: 27, 17
+  index: -1
+buff/xx/00004
+  rotate: false
+  xy: 114, 12
+  size: 107, 109
+  orig: 171, 171
+  offset: 29, 21
+  index: -1
+buff/xx/00006
+  rotate: false
+  xy: 114, 352
+  size: 109, 111
+  orig: 171, 171
+  offset: 27, 21
+  index: -1
+buff/xx/00008
+  rotate: false
+  xy: 2, 115
+  size: 109, 113
+  orig: 171, 171
+  offset: 27, 20
+  index: -1
+buff/xx/00010
+  rotate: false
+  xy: 2, 230
+  size: 109, 116
+  orig: 171, 171
+  offset: 27, 18
+  index: -1
+buff/xx/00012
+  rotate: false
+  xy: 2, 348
+  size: 110, 115
+  orig: 171, 171
+  offset: 27, 17
+  index: -1
+buff/xx/00014
+  rotate: false
+  xy: 224, 243
+  size: 107, 107
+  orig: 171, 171
+  offset: 29, 21
+  index: -1
+buff/xx/00016
+  rotate: true
+  xy: 223, 12
+  size: 109, 106
+  orig: 171, 171
+  offset: 27, 21
+  index: -1
+buff/xx/00018
+  rotate: false
+  xy: 113, 123
+  size: 109, 109
+  orig: 171, 171
+  offset: 27, 20
+  index: -1

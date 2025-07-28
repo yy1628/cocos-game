@@ -1,0 +1,139 @@
+
+shenhuang_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s/00000
+  rotate: false
+  xy: 2, 470
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+s/00002
+  rotate: false
+  xy: 2, 470
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+s/00004
+  rotate: true
+  xy: 96, 420
+  size: 51, 80
+  orig: 200, 227
+  offset: 78, 76
+  index: -1
+s/00006
+  rotate: true
+  xy: 346, 379
+  size: 92, 129
+  orig: 200, 227
+  offset: 59, 58
+  index: -1
+s/00008
+  rotate: true
+  xy: 2, 326
+  size: 92, 130
+  orig: 200, 227
+  offset: 59, 58
+  index: -1
+s/00010
+  rotate: true
+  xy: 237, 285
+  size: 92, 130
+  orig: 200, 227
+  offset: 59, 58
+  index: -1
+s/00012
+  rotate: true
+  xy: 369, 285
+  size: 92, 130
+  orig: 200, 227
+  offset: 59, 58
+  index: -1
+s/00014
+  rotate: true
+  xy: 332, 2
+  size: 122, 161
+  orig: 200, 227
+  offset: 40, 28
+  index: -1
+s/00016
+  rotate: true
+  xy: 168, 46
+  size: 120, 162
+  orig: 200, 227
+  offset: 38, 35
+  index: -1
+s/00018
+  rotate: true
+  xy: 2, 66
+  size: 117, 164
+  orig: 200, 227
+  offset: 40, 38
+  index: -1
+s/00020
+  rotate: false
+  xy: 383, 126
+  size: 122, 157
+  orig: 200, 227
+  offset: 41, 45
+  index: -1
+s/00022
+  rotate: true
+  xy: 236, 168
+  size: 115, 145
+  orig: 200, 227
+  offset: 45, 51
+  index: -1
+s/00024
+  rotate: false
+  xy: 119, 185
+  size: 115, 129
+  orig: 200, 227
+  offset: 42, 61
+  index: -1
+s/00026
+  rotate: true
+  xy: 2, 214
+  size: 110, 115
+  orig: 200, 227
+  offset: 41, 70
+  index: -1
+s/00028
+  rotate: true
+  xy: 134, 316
+  size: 96, 101
+  orig: 200, 227
+  offset: 42, 79
+  index: -1
+s/00030
+  rotate: false
+  xy: 253, 403
+  size: 91, 68
+  orig: 200, 227
+  offset: 43, 106
+  index: -1
+s/00032
+  rotate: false
+  xy: 178, 414
+  size: 73, 57
+  orig: 200, 227
+  offset: 46, 115
+  index: -1
+s/00034
+  rotate: false
+  xy: 36, 428
+  size: 58, 43
+  orig: 200, 227
+  offset: 49, 124
+  index: -1
+s/00036
+  rotate: false
+  xy: 5, 442
+  size: 29, 29
+  orig: 200, 227
+  offset: 55, 132
+  index: -1

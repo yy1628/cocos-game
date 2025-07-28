@@ -1,0 +1,160 @@
+
+yuji.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_body
+  rotate: true
+  xy: 636, 72
+  size: 124, 118
+  orig: 124, 118
+  offset: 0, 0
+  index: -1
+f_fx
+  rotate: false
+  xy: 695, 3
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+f_guancai1
+  rotate: true
+  xy: 376, 303
+  size: 207, 182
+  orig: 207, 182
+  offset: 0, 0
+  index: -1
+f_guancai2
+  rotate: false
+  xy: 560, 319
+  size: 175, 191
+  orig: 175, 191
+  offset: 0, 0
+  index: -1
+f_guancaisp
+  rotate: true
+  xy: 517, 9
+  size: 61, 109
+  orig: 61, 109
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: false
+  xy: 180, 288
+  size: 194, 222
+  orig: 194, 222
+  offset: 0, 0
+  index: -1
+f_l_arm1
+  rotate: true
+  xy: 247, 10
+  size: 162, 153
+  orig: 162, 153
+  offset: 0, 0
+  index: -1
+f_l_foot
+  rotate: true
+  xy: 105, 8
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+f_l_kushou1
+  rotate: false
+  xy: 628, 2
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+f_l_kushou2
+  rotate: true
+  xy: 756, 88
+  size: 108, 98
+  orig: 108, 98
+  offset: 0, 0
+  index: -1
+f_r_arm1
+  rotate: true
+  xy: 620, 198
+  size: 119, 173
+  orig: 119, 173
+  offset: 0, 0
+  index: -1
+f_r_foot
+  rotate: false
+  xy: 53, 16
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+f_r_hand
+  rotate: true
+  xy: 737, 404
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: -1
+f_r_hand_r
+  rotate: true
+  xy: 2, 3
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+f_r_shoulder
+  rotate: true
+  xy: 795, 289
+  size: 113, 89
+  orig: 113, 89
+  offset: 0, 0
+  index: -1
+f_skirt
+  rotate: false
+  xy: 426, 190
+  size: 192, 111
+  orig: 192, 111
+  offset: 0, 0
+  index: -1
+f_sp
+  rotate: true
+  xy: 402, 10
+  size: 60, 113
+  orig: 60, 113
+  offset: 0, 0
+  index: -1
+f_wq
+  rotate: false
+  xy: 2, 171
+  size: 176, 339
+  orig: 176, 339
+  offset: 0, 0
+  index: -1
+guancai1
+  rotate: true
+  xy: 402, 72
+  size: 100, 232
+  orig: 100, 232
+  offset: 0, 0
+  index: -1
+guancai2
+  rotate: true
+  xy: 2, 50
+  size: 119, 243
+  orig: 119, 243
+  offset: 0, 0
+  index: -1
+guancai3
+  rotate: true
+  xy: 180, 174
+  size: 112, 244
+  orig: 112, 244
+  offset: 0, 0
+  index: -1
+shoubi
+  rotate: false
+  xy: 756, 5
+  size: 107, 81
+  orig: 107, 81
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+xuhuang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 407, 443
+  size: 67, 103
+  orig: 75, 103
+  offset: 8, 0
+  index: -1
+b_l_arm1
+  rotate: false
+  xy: 428, 192
+  size: 82, 55
+  orig: 82, 55
+  offset: 0, 0
+  index: -1
+f_body
+  rotate: false
+  xy: 245, 132
+  size: 112, 111
+  orig: 112, 111
+  offset: 0, 0
+  index: -1
+f_hair
+  rotate: false
+  xy: 152, 109
+  size: 91, 134
+  orig: 91, 134
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: false
+  xy: 2, 65
+  size: 148, 178
+  orig: 148, 178
+  offset: 0, 0
+  index: -1
+f_l_arm1
+  rotate: true
+  xy: 225, 7
+  size: 50, 60
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+f_l_foot
+  rotate: true
+  xy: 287, 6
+  size: 51, 42
+  orig: 52, 42
+  offset: 1, 0
+  index: -1
+f_l_hand
+  rotate: false
+  xy: 359, 152
+  size: 67, 91
+  orig: 67, 91
+  offset: 0, 0
+  index: -1
+f_l_leg
+  rotate: true
+  xy: 151, 8
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+f_l_shoulder
+  rotate: false
+  xy: 407, 249
+  size: 75, 89
+  orig: 76, 93
+  offset: 1, 1
+  index: -1
+f_r_arm1
+  rotate: false
+  xy: 428, 135
+  size: 82, 55
+  orig: 82, 55
+  offset: 0, 0
+  index: -1
+f_r_arm2
+  rotate: true
+  xy: 83, 2
+  size: 61, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+f_r_foot
+  rotate: true
+  xy: 331, 12
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+f_r_hand
+  rotate: false
+  xy: 2, 2
+  size: 79, 61
+  orig: 81, 61
+  offset: 0, 0
+  index: -1
+f_r_leg
+  rotate: false
+  xy: 324, 68
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+f_r_shoulder
+  rotate: false
+  xy: 407, 340
+  size: 99, 101
+  orig: 99, 103
+  offset: 0, 0
+  index: -1
+f_skirt1
+  rotate: true
+  xy: 152, 60
+  size: 47, 84
+  orig: 47, 84
+  offset: 0, 0
+  index: -1
+f_skirt2
+  rotate: false
+  xy: 383, 102
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+f_skirt3
+  rotate: false
+  xy: 245, 59
+  size: 77, 71
+  orig: 77, 71
+  offset: 0, 0
+  index: -1
+f_wq
+  rotate: false
+  xy: 2, 245
+  size: 403, 265
+  orig: 406, 267
+  offset: 0, 2
+  index: -1

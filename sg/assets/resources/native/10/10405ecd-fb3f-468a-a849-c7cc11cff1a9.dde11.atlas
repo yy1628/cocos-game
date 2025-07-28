@@ -1,0 +1,118 @@
+
+liufeng.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_body
+  rotate: true
+  xy: 328, 308
+  size: 170, 166
+  orig: 170, 166
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: false
+  xy: 130, 163
+  size: 136, 163
+  orig: 136, 163
+  offset: 0, 0
+  index: -1
+f_l_arm1
+  rotate: true
+  xy: 130, 5
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1
+f_l_arm2
+  rotate: true
+  xy: 268, 133
+  size: 69, 95
+  orig: 69, 95
+  offset: 0, 0
+  index: -1
+f_l_foot
+  rotate: false
+  xy: 365, 198
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+f_l_leg1
+  rotate: false
+  xy: 263, 72
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+f_l_leg2
+  rotate: false
+  xy: 333, 62
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+f_r_arm1
+  rotate: false
+  xy: 353, 234
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+f_r_arm2
+  rotate: true
+  xy: 130, 88
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+f_r_foot
+  rotate: false
+  xy: 333, 96
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+f_r_hand
+  rotate: true
+  xy: 199, 21
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+f_r_leg1
+  rotate: true
+  xy: 200, 79
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+f_r_leg2
+  rotate: false
+  xy: 365, 163
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+f_r_shoulder
+  rotate: true
+  xy: 268, 204
+  size: 102, 83
+  orig: 102, 83
+  offset: 0, 0
+  index: -1
+f_wq1
+  rotate: false
+  xy: 2, 328
+  size: 324, 150
+  orig: 324, 150
+  offset: 0, 0
+  index: -1
+f_wq2
+  rotate: false
+  xy: 2, 2
+  size: 126, 324
+  orig: 126, 324
+  offset: 0, 0
+  index: -1

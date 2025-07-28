@@ -1,0 +1,132 @@
+
+chengong_skill01_sj_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit2/xia/0000
+  rotate: false
+  xy: 232, 431
+  size: 121, 72
+  orig: 220, 220
+  offset: 59, 35
+  index: -1
+hit2/xia/0002
+  rotate: false
+  xy: 362, 345
+  size: 109, 84
+  orig: 220, 220
+  offset: 62, 29
+  index: -1
+hit2/xia/0004
+  rotate: true
+  xy: 139, 2
+  size: 138, 114
+  orig: 220, 220
+  offset: 41, 13
+  index: -1
+hit2/xia/0006
+  rotate: true
+  xy: 398, 213
+  size: 130, 101
+  orig: 220, 220
+  offset: 46, 18
+  index: -1
+hit2/xia/0008
+  rotate: false
+  xy: 2, 149
+  size: 131, 100
+  orig: 220, 220
+  offset: 49, 20
+  index: -1
+hit2/xia/0010
+  rotate: false
+  xy: 135, 142
+  size: 135, 103
+  orig: 220, 220
+  offset: 45, 19
+  index: -1
+hit2/xia/0012
+  rotate: false
+  xy: 2, 36
+  size: 135, 104
+  orig: 220, 220
+  offset: 45, 18
+  index: -1
+hit2/xia/0014
+  rotate: true
+  xy: 272, 112
+  size: 133, 108
+  orig: 220, 220
+  offset: 47, 16
+  index: -1
+hit2/xia/0016
+  rotate: true
+  xy: 382, 77
+  size: 134, 108
+  orig: 220, 220
+  offset: 46, 16
+  index: -1
+hit2/xia/0018
+  rotate: false
+  xy: 266, 247
+  size: 130, 96
+  orig: 220, 220
+  offset: 50, 29
+  index: -1
+hit2/xia/0020
+  rotate: false
+  xy: 132, 251
+  size: 132, 95
+  orig: 220, 220
+  offset: 48, 29
+  index: -1
+hit2/xia/0022
+  rotate: false
+  xy: 2, 258
+  size: 128, 94
+  orig: 220, 220
+  offset: 52, 29
+  index: -1
+hit2/xia/0024
+  rotate: false
+  xy: 238, 348
+  size: 122, 81
+  orig: 220, 220
+  offset: 58, 34
+  index: -1
+hit2/xia/0026
+  rotate: false
+  xy: 2, 356
+  size: 116, 75
+  orig: 220, 220
+  offset: 64, 34
+  index: -1
+hit2/xia/0028
+  rotate: false
+  xy: 120, 354
+  size: 116, 75
+  orig: 220, 220
+  offset: 64, 34
+  index: -1
+hit2/xia/0030
+  rotate: false
+  xy: 355, 431
+  size: 116, 72
+  orig: 220, 220
+  offset: 64, 34
+  index: -1
+hit2/xia/0032
+  rotate: false
+  xy: 115, 433
+  size: 115, 70
+  orig: 220, 220
+  offset: 65, 34
+  index: -1
+hit2/xia/0034
+  rotate: false
+  xy: 2, 433
+  size: 111, 70
+  orig: 220, 220
+  offset: 65, 34
+  index: -1

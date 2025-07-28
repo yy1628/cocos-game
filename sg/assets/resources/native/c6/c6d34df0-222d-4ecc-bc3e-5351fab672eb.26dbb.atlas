@@ -1,0 +1,181 @@
+
+yuanshao_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk4/sf/s/00000
+  rotate: false
+  xy: 460, 443
+  size: 45, 51
+  orig: 150, 150
+  offset: 50, 34
+  index: -1
+sk4/sf/s/00002
+  rotate: false
+  xy: 432, 106
+  size: 75, 67
+  orig: 150, 150
+  offset: 32, 32
+  index: -1
+sk4/sf/s/00004
+  rotate: false
+  xy: 285, 3
+  size: 77, 96
+  orig: 150, 150
+  offset: 22, 33
+  index: -1
+sk4/sf/s/00006
+  rotate: true
+  xy: 113, 206
+  size: 81, 109
+  orig: 150, 150
+  offset: 21, 34
+  index: -1
+sk4/sf/s/00008
+  rotate: true
+  xy: 109, 7
+  size: 93, 98
+  orig: 150, 150
+  offset: 23, 34
+  index: -1
+sk4/sf/s/00010
+  rotate: false
+  xy: 347, 389
+  size: 111, 105
+  orig: 150, 150
+  offset: 21, 26
+  index: -1
+sk4/sf/s/00012
+  rotate: false
+  xy: 338, 175
+  size: 108, 106
+  orig: 150, 150
+  offset: 18, 26
+  index: -1
+sk4/sf/s/00014
+  rotate: false
+  xy: 116, 289
+  size: 109, 107
+  orig: 150, 150
+  offset: 18, 26
+  index: -1
+sk4/sf/s/00016
+  rotate: true
+  xy: 346, 283
+  size: 104, 109
+  orig: 150, 150
+  offset: 24, 26
+  index: -1
+sk4/sf/s/00018
+  rotate: true
+  xy: 224, 101
+  size: 106, 108
+  orig: 150, 150
+  offset: 23, 28
+  index: -1
+sk4/sf/s/00020
+  rotate: false
+  xy: 2, 195
+  size: 109, 106
+  orig: 150, 150
+  offset: 21, 30
+  index: -1
+sk4/sf/s/00022
+  rotate: false
+  xy: 227, 209
+  size: 109, 104
+  orig: 150, 150
+  offset: 20, 33
+  index: -1
+sk4/sf/s/00024
+  rotate: false
+  xy: 113, 102
+  size: 108, 102
+  orig: 150, 150
+  offset: 20, 34
+  index: -1
+sk4/sf/x/00000
+  rotate: true
+  xy: 457, 240
+  size: 62, 51
+  orig: 150, 150
+  offset: 39, 30
+  index: -1
+sk4/sf/x/00002
+  rotate: true
+  xy: 432, 21
+  size: 83, 68
+  orig: 150, 150
+  offset: 28, 20
+  index: -1
+sk4/sf/x/00004
+  rotate: true
+  xy: 209, 2
+  size: 97, 74
+  orig: 150, 150
+  offset: 23, 17
+  index: -1
+sk4/sf/x/00006
+  rotate: false
+  xy: 2, 109
+  size: 106, 84
+  orig: 150, 150
+  offset: 19, 12
+  index: -1
+sk4/sf/x/00008
+  rotate: false
+  xy: 233, 315
+  size: 111, 89
+  orig: 150, 150
+  offset: 18, 8
+  index: -1
+sk4/sf/x/00010
+  rotate: false
+  xy: 2, 303
+  size: 112, 95
+  orig: 150, 150
+  offset: 18, 5
+  index: -1
+sk4/sf/x/00012
+  rotate: false
+  xy: 118, 398
+  size: 113, 96
+  orig: 150, 150
+  offset: 17, 5
+  index: -1
+sk4/sf/x/00014
+  rotate: false
+  xy: 2, 400
+  size: 114, 94
+  orig: 150, 150
+  offset: 16, 6
+  index: -1
+sk4/sf/x/00016
+  rotate: false
+  xy: 233, 406
+  size: 112, 88
+  orig: 150, 150
+  offset: 17, 9
+  index: -1
+sk4/sf/x/00018
+  rotate: false
+  xy: 2, 26
+  size: 105, 81
+  orig: 150, 150
+  offset: 21, 12
+  index: -1
+sk4/sf/x/00020
+  rotate: false
+  xy: 334, 103
+  size: 96, 70
+  orig: 150, 150
+  offset: 25, 18
+  index: -1
+sk4/sf/x/00022
+  rotate: true
+  xy: 457, 304
+  size: 83, 53
+  orig: 150, 150
+  offset: 29, 28
+  index: -1

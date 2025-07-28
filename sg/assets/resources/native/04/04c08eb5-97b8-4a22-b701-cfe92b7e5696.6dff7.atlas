@@ -1,0 +1,132 @@
+
+pangtong_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shifa/sk1 (1)
+  rotate: true
+  xy: 267, 380
+  size: 28, 30
+  orig: 375, 375
+  offset: 178, 166
+  index: -1
+shifa/sk1 (11)
+  rotate: false
+  xy: 2, 391
+  size: 138, 115
+  orig: 375, 375
+  offset: 121, 151
+  index: -1
+shifa/sk1 (13)
+  rotate: true
+  xy: 117, 149
+  size: 133, 94
+  orig: 375, 375
+  offset: 115, 156
+  index: -1
+shifa/sk1 (15)
+  rotate: true
+  xy: 351, 123
+  size: 130, 91
+  orig: 375, 375
+  offset: 121, 153
+  index: -1
+shifa/sk1 (17)
+  rotate: true
+  xy: 2, 136
+  size: 132, 92
+  orig: 375, 375
+  offset: 115, 154
+  index: -1
+shifa/sk1 (19)
+  rotate: false
+  xy: 213, 165
+  size: 136, 88
+  orig: 375, 375
+  offset: 115, 157
+  index: -1
+shifa/sk1 (21)
+  rotate: false
+  xy: 117, 284
+  size: 136, 93
+  orig: 375, 375
+  offset: 114, 153
+  index: -1
+shifa/sk1 (23)
+  rotate: true
+  xy: 2, 2
+  size: 132, 88
+  orig: 375, 375
+  offset: 122, 154
+  index: -1
+shifa/sk1 (25)
+  rotate: true
+  xy: 96, 13
+  size: 134, 89
+  orig: 375, 375
+  offset: 115, 157
+  index: -1
+shifa/sk1 (27)
+  rotate: true
+  xy: 213, 28
+  size: 135, 84
+  orig: 375, 375
+  offset: 114, 158
+  index: -1
+shifa/sk1 (29)
+  rotate: true
+  xy: 367, 276
+  size: 132, 86
+  orig: 375, 375
+  offset: 122, 155
+  index: -1
+shifa/sk1 (3)
+  rotate: true
+  xy: 2, 270
+  size: 119, 113
+  orig: 375, 375
+  offset: 131, 140
+  index: -1
+shifa/sk1 (31)
+  rotate: false
+  xy: 299, 48
+  size: 105, 73
+  orig: 375, 375
+  offset: 137, 163
+  index: -1
+shifa/sk1 (33)
+  rotate: false
+  xy: 377, 424
+  size: 102, 82
+  orig: 375, 375
+  offset: 140, 162
+  index: -1
+shifa/sk1 (35)
+  rotate: true
+  xy: 406, 20
+  size: 101, 68
+  orig: 375, 375
+  offset: 140, 165
+  index: -1
+shifa/sk1 (5)
+  rotate: true
+  xy: 142, 379
+  size: 127, 123
+  orig: 375, 375
+  offset: 105, 135
+  index: -1
+shifa/sk1 (7)
+  rotate: false
+  xy: 255, 255
+  size: 110, 122
+  orig: 375, 375
+  offset: 119, 125
+  index: -1
+shifa/sk1 (9)
+  rotate: false
+  xy: 267, 410
+  size: 108, 96
+  orig: 375, 375
+  offset: 133, 140
+  index: -1

@@ -1,0 +1,153 @@
+
+daofushou.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a-body
+  rotate: false
+  xy: 394, 125
+  size: 121, 129
+  orig: 121, 129
+  offset: 0, 0
+  index: -1
+a-dun
+  rotate: false
+  xy: 142, 105
+  size: 124, 149
+  orig: 124, 149
+  offset: 0, 0
+  index: -1
+a-head
+  rotate: false
+  xy: 2, 90
+  size: 138, 164
+  orig: 138, 164
+  offset: 0, 0
+  index: -1
+a-larm1
+  rotate: false
+  xy: 356, 87
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+a-larm2
+  rotate: true
+  xy: 273, 75
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+a-lhand
+  rotate: false
+  xy: 422, 3
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+a-lleg1
+  rotate: false
+  xy: 349, 36
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+a-lleg2
+  rotate: true
+  xy: 123, 2
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+a-lshoulder
+  rotate: false
+  xy: 306, 31
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+a-rarm1
+  rotate: true
+  xy: 123, 33
+  size: 55, 50
+  orig: 58, 50
+  offset: 3, 0
+  index: -1
+a-rarm2
+  rotate: true
+  xy: 2, 19
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1
+a-rhand
+  rotate: true
+  xy: 388, 48
+  size: 37, 32
+  orig: 38, 32
+  offset: 1, 0
+  index: -1
+a-rleg1
+  rotate: false
+  xy: 68, 31
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+a-rleg2
+  rotate: false
+  xy: 175, 49
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+a-rshoulder
+  rotate: false
+  xy: 222, 54
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+a-skirt
+  rotate: true
+  xy: 349, 3
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+b-body
+  rotate: false
+  xy: 268, 125
+  size: 124, 129
+  orig: 124, 129
+  offset: 0, 0
+  index: -1
+b-lleg-2
+  rotate: true
+  xy: 195, 2
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+b-rleg-1
+  rotate: false
+  xy: 316, 81
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+b-rleg-2
+  rotate: true
+  xy: 159, 3
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+b-skirt2
+  rotate: true
+  xy: 247, 17
+  size: 35, 57
+  orig: 35, 57
+  offset: 0, 0
+  index: -1

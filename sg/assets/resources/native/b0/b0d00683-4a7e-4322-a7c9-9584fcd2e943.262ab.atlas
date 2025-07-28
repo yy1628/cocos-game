@@ -1,0 +1,62 @@
+
+wenchou_skill01_buff_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff/00000
+  rotate: false
+  xy: 2, 331
+  size: 185, 152
+  orig: 240, 240
+  offset: 23, 30
+  index: -1
+buff/00002
+  rotate: true
+  xy: 183, 2
+  size: 178, 158
+  orig: 240, 240
+  offset: 26, 30
+  index: -1
+buff/00004
+  rotate: true
+  xy: 374, 304
+  size: 179, 136
+  orig: 240, 240
+  offset: 28, 30
+  index: -1
+buff/00006
+  rotate: false
+  xy: 2, 43
+  size: 179, 139
+  orig: 240, 240
+  offset: 27, 30
+  index: -1
+buff/00008
+  rotate: false
+  xy: 189, 182
+  size: 183, 148
+  orig: 240, 240
+  offset: 24, 30
+  index: -1
+buff/00010
+  rotate: true
+  xy: 343, 2
+  size: 178, 147
+  orig: 240, 240
+  offset: 26, 30
+  index: -1
+buff/00012
+  rotate: false
+  xy: 2, 184
+  size: 181, 145
+  orig: 240, 240
+  offset: 25, 30
+  index: -1
+buff/00014
+  rotate: false
+  xy: 189, 332
+  size: 183, 151
+  orig: 240, 240
+  offset: 24, 30
+  index: -1

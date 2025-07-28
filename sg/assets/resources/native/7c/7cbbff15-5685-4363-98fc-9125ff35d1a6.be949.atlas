@@ -1,0 +1,251 @@
+
+diaochanpf01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f2_b2_piaodai
+  rotate: true
+  xy: 2, 289
+  size: 221, 98
+  orig: 221, 98
+  offset: 0, 0
+  index: -1
+f2_body
+  rotate: true
+  xy: 643, 26
+  size: 77, 104
+  orig: 77, 104
+  offset: 0, 0
+  index: -1
+f2_cap
+  rotate: true
+  xy: 212, 354
+  size: 156, 114
+  orig: 156, 114
+  offset: 0, 0
+  index: -1
+f2_hair1
+  rotate: true
+  xy: 328, 355
+  size: 155, 104
+  orig: 155, 104
+  offset: 0, 0
+  index: -1
+f2_hair2
+  rotate: false
+  xy: 102, 351
+  size: 108, 159
+  orig: 108, 159
+  offset: 0, 0
+  index: -1
+f2_hair3
+  rotate: true
+  xy: 87, 4
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+f2_hair4
+  rotate: true
+  xy: 652, 207
+  size: 106, 104
+  orig: 106, 104
+  offset: 0, 0
+  index: -1
+f2_head
+  rotate: true
+  xy: 584, 385
+  size: 125, 123
+  orig: 125, 123
+  offset: 0, 0
+  index: -1
+f2_l_arm1
+  rotate: false
+  xy: 157, 290
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+f2_l_arm2
+  rotate: true
+  xy: 195, 7
+  size: 93, 62
+  orig: 93, 62
+  offset: 0, 0
+  index: -1
+f2_l_hand
+  rotate: false
+  xy: 612, 104
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+f2_l_leg
+  rotate: true
+  xy: 491, 307
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1
+f2_l_piaodai1
+  rotate: true
+  xy: 496, 16
+  size: 84, 145
+  orig: 84, 145
+  offset: 0, 0
+  index: -1
+f2_l_piaodai2
+  rotate: false
+  xy: 385, 299
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+f2_l_piaodai3
+  rotate: false
+  xy: 612, 125
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+f2_r_arm1
+  rotate: true
+  xy: 361, 11
+  size: 89, 86
+  orig: 89, 86
+  offset: 0, 0
+  index: -1
+f2_r_arm2
+  rotate: true
+  xy: 569, 176
+  size: 129, 81
+  orig: 129, 81
+  offset: 0, 0
+  index: -1
+f2_r_hand
+  rotate: true
+  xy: 616, 347
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+f2_r_leg
+  rotate: false
+  xy: 449, 12
+  size: 45, 88
+  orig: 45, 88
+  offset: 0, 0
+  index: -1
+f2_r_piaodai1
+  rotate: true
+  xy: 434, 360
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+f2_r_piaodai2
+  rotate: false
+  xy: 249, 294
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+f2_r_piaodai3
+  rotate: false
+  xy: 102, 289
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+f2_skirt1
+  rotate: true
+  xy: 569, 103
+  size: 71, 41
+  orig: 71, 41
+  offset: 0, 0
+  index: -1
+f2_skirt2
+  rotate: false
+  xy: 2, 2
+  size: 83, 98
+  orig: 83, 98
+  offset: 0, 0
+  index: -1
+f2_skirt3
+  rotate: false
+  xy: 259, 9
+  size: 100, 91
+  orig: 100, 91
+  offset: 0, 0
+  index: -1
+f2_xiong
+  rotate: true
+  xy: 440, 305
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+f2_yingbi
+  rotate: true
+  xy: 643, 2
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+gongji_shoubi
+  rotate: false
+  xy: 636, 105
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+gongji_shouzhang
+  rotate: true
+  xy: 616, 312
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+qianzuomao
+  rotate: false
+  xy: 309, 296
+  size: 74, 56
+  orig: 74, 56
+  offset: 0, 0
+  index: -1
+shouhuang
+  rotate: false
+  xy: 645, 354
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+xiubai1
+  rotate: false
+  xy: 2, 102
+  size: 565, 185
+  orig: 565, 185
+  offset: 0, 0
+  index: -1
+zs1
+  rotate: false
+  xy: 214, 290
+  size: 33, 62
+  orig: 33, 62
+  offset: 0, 0
+  index: -1
+zs11
+  rotate: false
+  xy: 642, 315
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+zs211
+  rotate: true
+  xy: 570, 308
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1

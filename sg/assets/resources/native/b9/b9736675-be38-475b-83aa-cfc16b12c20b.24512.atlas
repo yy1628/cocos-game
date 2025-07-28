@@ -1,0 +1,83 @@
+
+diaochan_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/shifa/shifa (1)
+  rotate: false
+  xy: 324, 365
+  size: 163, 142
+  orig: 385, 463
+  offset: 110, 172
+  index: -1
+skill1/shifa/shifa (11)
+  rotate: false
+  xy: 324, 230
+  size: 141, 133
+  orig: 385, 463
+  offset: 116, 204
+  index: -1
+skill1/shifa/shifa (13)
+  rotate: true
+  xy: 150, 49
+  size: 140, 132
+  orig: 385, 463
+  offset: 117, 206
+  index: -1
+skill1/shifa/shifa (15)
+  rotate: true
+  xy: 145, 191
+  size: 141, 133
+  orig: 385, 463
+  offset: 116, 207
+  index: -1
+skill1/shifa/shifa (17)
+  rotate: false
+  xy: 284, 109
+  size: 138, 119
+  orig: 385, 463
+  offset: 118, 217
+  index: -1
+skill1/shifa/shifa (19)
+  rotate: false
+  xy: 284, 5
+  size: 123, 102
+  orig: 385, 463
+  offset: 125, 221
+  index: -1
+skill1/shifa/shifa (21)
+  rotate: false
+  xy: 424, 136
+  size: 69, 92
+  orig: 385, 463
+  offset: 153, 225
+  index: -1
+skill1/shifa/shifa (3)
+  rotate: false
+  xy: 162, 343
+  size: 160, 164
+  orig: 385, 463
+  offset: 112, 159
+  index: -1
+skill1/shifa/shifa (5)
+  rotate: false
+  xy: 2, 334
+  size: 158, 173
+  orig: 385, 463
+  offset: 109, 159
+  index: -1
+skill1/shifa/shifa (7)
+  rotate: false
+  xy: 2, 159
+  size: 141, 173
+  orig: 385, 463
+  offset: 116, 161
+  index: -1
+skill1/shifa/shifa (9)
+  rotate: false
+  xy: 2, 2
+  size: 146, 155
+  orig: 385, 463
+  offset: 116, 180
+  index: -1

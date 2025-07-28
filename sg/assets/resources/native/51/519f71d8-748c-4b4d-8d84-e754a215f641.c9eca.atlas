@@ -1,0 +1,97 @@
+
+jiaxu_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shifa/0014
+  rotate: false
+  xy: 286, 2
+  size: 98, 99
+  orig: 200, 200
+  offset: 51, 51
+  index: -1
+shifa/0016
+  rotate: false
+  xy: 300, 238
+  size: 136, 133
+  orig: 200, 200
+  offset: 32, 34
+  index: -1
+shifa/0018
+  rotate: false
+  xy: 2, 58
+  size: 148, 148
+  orig: 200, 200
+  offset: 26, 27
+  index: -1
+shifa/0020
+  rotate: false
+  xy: 2, 359
+  size: 148, 149
+  orig: 200, 200
+  offset: 26, 26
+  index: -1
+shifa/0022
+  rotate: false
+  xy: 2, 208
+  size: 148, 149
+  orig: 200, 200
+  offset: 26, 26
+  index: -1
+shifa/0024
+  rotate: false
+  xy: 152, 363
+  size: 146, 145
+  orig: 200, 200
+  offset: 27, 28
+  index: -1
+shifa/0026
+  rotate: false
+  xy: 300, 373
+  size: 136, 135
+  orig: 200, 200
+  offset: 32, 33
+  index: -1
+shifa/0028
+  rotate: false
+  xy: 152, 228
+  size: 134, 133
+  orig: 200, 200
+  offset: 33, 34
+  index: -1
+shifa/0030
+  rotate: false
+  xy: 288, 103
+  size: 134, 133
+  orig: 200, 200
+  offset: 33, 34
+  index: -1
+shifa/0032
+  rotate: false
+  xy: 152, 95
+  size: 132, 131
+  orig: 200, 200
+  offset: 34, 35
+  index: -1
+shifa/0034
+  rotate: false
+  xy: 386, 7
+  size: 94, 94
+  orig: 200, 200
+  offset: 53, 55
+  index: -1
+shifa/0036
+  rotate: false
+  xy: 152, 2
+  size: 91, 91
+  orig: 200, 200
+  offset: 55, 56
+  index: -1
+shifa/0038
+  rotate: true
+  xy: 424, 153
+  size: 83, 84
+  orig: 200, 200
+  offset: 59, 60
+  index: -1

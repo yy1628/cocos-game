@@ -1,0 +1,153 @@
+
+chengong_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang/youxia/0019
+  rotate: false
+  xy: 350, 314
+  size: 96, 89
+  orig: 240, 240
+  offset: 35, 50
+  index: -1
+daoguang/youxia/0021
+  rotate: false
+  xy: 2, 224
+  size: 135, 135
+  orig: 240, 240
+  offset: 70, 52
+  index: -1
+daoguang/youxia/0023
+  rotate: false
+  xy: 2, 361
+  size: 128, 136
+  orig: 240, 240
+  offset: 77, 52
+  index: -1
+daoguang/youxia/0025
+  rotate: true
+  xy: 132, 384
+  size: 113, 130
+  orig: 240, 240
+  offset: 92, 58
+  index: -1
+daoguang/youxia/0027
+  rotate: false
+  xy: 139, 261
+  size: 108, 121
+  orig: 240, 240
+  offset: 96, 66
+  index: -1
+daoguang/youxia/0029
+  rotate: true
+  xy: 139, 154
+  size: 105, 116
+  orig: 240, 240
+  offset: 95, 69
+  index: -1
+daoguang/youxia/0031
+  rotate: false
+  xy: 264, 405
+  size: 98, 92
+  orig: 240, 240
+  offset: 96, 89
+  index: -1
+daoguang/youxia/0033
+  rotate: false
+  xy: 81, 23
+  size: 81, 40
+  orig: 240, 240
+  offset: 103, 133
+  index: -1
+hit/0020
+  rotate: false
+  xy: 351, 264
+  size: 53, 48
+  orig: 116, 114
+  offset: 29, 31
+  index: -1
+hit/0022
+  rotate: false
+  xy: 257, 109
+  size: 91, 84
+  orig: 116, 114
+  offset: 6, 9
+  index: -1
+hit/0024
+  rotate: true
+  xy: 101, 65
+  size: 87, 80
+  orig: 116, 114
+  offset: 8, 11
+  index: -1
+juqi/0000
+  rotate: true
+  xy: 183, 66
+  size: 86, 67
+  orig: 120, 120
+  offset: 13, 45
+  index: -1
+juqi/0002
+  rotate: false
+  xy: 257, 195
+  size: 92, 92
+  orig: 120, 120
+  offset: 16, 20
+  index: -1
+juqi/0004
+  rotate: false
+  xy: 2, 121
+  size: 97, 101
+  orig: 120, 120
+  offset: 15, 10
+  index: -1
+juqi/0006
+  rotate: false
+  xy: 249, 289
+  size: 99, 93
+  orig: 120, 120
+  offset: 13, 11
+  index: -1
+juqi/0008
+  rotate: false
+  xy: 364, 412
+  size: 97, 85
+  orig: 120, 120
+  offset: 14, 14
+  index: -1
+juqi/0010
+  rotate: true
+  xy: 2, 32
+  size: 87, 77
+  orig: 120, 120
+  offset: 14, 21
+  index: -1
+juqi/0012
+  rotate: true
+  xy: 350, 106
+  size: 87, 77
+  orig: 120, 120
+  offset: 14, 21
+  index: -1
+juqi/0014
+  rotate: true
+  xy: 252, 27
+  size: 80, 77
+  orig: 120, 120
+  offset: 19, 21
+  index: -1
+juqi/0016
+  rotate: true
+  xy: 183, 2
+  size: 62, 58
+  orig: 120, 120
+  offset: 24, 39
+  index: -1
+juqi/0018
+  rotate: true
+  xy: 406, 254
+  size: 58, 45
+  orig: 120, 120
+  offset: 26, 43
+  index: -1

@@ -1,0 +1,55 @@
+
+huangzhong_skill04_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill4/hit/hit (1)
+  rotate: true
+  xy: 392, 166
+  size: 120, 105
+  orig: 675, 675
+  offset: 280, 288
+  index: -1
+skill4/hit/hit (11)
+  rotate: false
+  xy: 229, 285
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+skill4/hit/hit (13)
+  rotate: false
+  xy: 232, 2
+  size: 161, 111
+  orig: 675, 675
+  offset: 264, 292
+  index: -1
+skill4/hit/hit (3)
+  rotate: true
+  xy: 229, 288
+  size: 212, 216
+  orig: 675, 675
+  offset: 235, 227
+  index: -1
+skill4/hit/hit (5)
+  rotate: false
+  xy: 2, 270
+  size: 225, 230
+  orig: 675, 675
+  offset: 225, 225
+  index: -1
+skill4/hit/hit (7)
+  rotate: true
+  xy: 2, 54
+  size: 214, 228
+  orig: 675, 675
+  offset: 229, 231
+  index: -1
+skill4/hit/hit (9)
+  rotate: true
+  xy: 232, 115
+  size: 171, 158
+  orig: 675, 675
+  offset: 257, 265
+  index: -1

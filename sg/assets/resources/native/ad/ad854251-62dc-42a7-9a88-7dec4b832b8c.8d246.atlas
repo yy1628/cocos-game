@@ -1,0 +1,41 @@
+
+zhangliao_attack_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/shouji/00000
+  rotate: true
+  xy: 195, 2
+  size: 194, 197
+  orig: 200, 200
+  offset: 5, 3
+  index: -1
+attack/shouji/00002
+  rotate: true
+  xy: 300, 198
+  size: 161, 163
+  orig: 200, 200
+  offset: 23, 21
+  index: -1
+attack/shouji/00004
+  rotate: true
+  xy: 139, 211
+  size: 148, 159
+  orig: 200, 200
+  offset: 30, 21
+  index: -1
+attack/shouji/00006
+  rotate: false
+  xy: 2, 29
+  size: 191, 180
+  orig: 200, 200
+  offset: 7, 16
+  index: -1
+attack/shouji/00008
+  rotate: false
+  xy: 2, 255
+  size: 135, 104
+  orig: 200, 200
+  offset: 27, 60
+  index: -1

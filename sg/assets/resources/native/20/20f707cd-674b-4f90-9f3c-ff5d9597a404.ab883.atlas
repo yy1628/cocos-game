@@ -1,0 +1,111 @@
+
+zhenji_skill01_buff_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff/s/00000
+  rotate: true
+  xy: 357, 201
+  size: 100, 139
+  orig: 225, 225
+  offset: 63, 56
+  index: -1
+buff/s/00002
+  rotate: false
+  xy: 129, 261
+  size: 102, 140
+  orig: 225, 225
+  offset: 62, 55
+  index: -1
+buff/s/00004
+  rotate: false
+  xy: 2, 369
+  size: 104, 140
+  orig: 225, 225
+  offset: 61, 55
+  index: -1
+buff/s/00006
+  rotate: true
+  xy: 233, 303
+  size: 104, 123
+  orig: 225, 225
+  offset: 61, 54
+  index: -1
+buff/s/00008
+  rotate: true
+  xy: 108, 403
+  size: 106, 123
+  orig: 225, 225
+  offset: 60, 52
+  index: -1
+buff/s/00010
+  rotate: true
+  xy: 2, 260
+  size: 107, 125
+  orig: 225, 225
+  offset: 60, 51
+  index: -1
+buff/s/00012
+  rotate: true
+  xy: 129, 154
+  size: 105, 123
+  orig: 225, 225
+  offset: 60, 53
+  index: -1
+buff/s/00014
+  rotate: false
+  xy: 2, 133
+  size: 104, 125
+  orig: 225, 225
+  offset: 60, 55
+  index: -1
+buff/s/00016
+  rotate: false
+  xy: 2, 2
+  size: 101, 129
+  orig: 225, 225
+  offset: 61, 55
+  index: -1
+buff/s/00018
+  rotate: true
+  xy: 358, 306
+  size: 101, 134
+  orig: 225, 225
+  offset: 61, 54
+  index: -1
+buff/s/00020
+  rotate: false
+  xy: 254, 164
+  size: 101, 137
+  orig: 225, 225
+  offset: 61, 54
+  index: -1
+buff/s/00022
+  rotate: true
+  xy: 254, 61
+  size: 101, 137
+  orig: 225, 225
+  offset: 62, 54
+  index: -1
+buff/s/00024
+  rotate: true
+  xy: 233, 409
+  size: 100, 140
+  orig: 225, 225
+  offset: 63, 54
+  index: -1
+buff/s/00026
+  rotate: false
+  xy: 393, 61
+  size: 100, 138
+  orig: 225, 225
+  offset: 63, 56
+  index: -1
+buff/s/00028
+  rotate: false
+  xy: 108, 14
+  size: 100, 138
+  orig: 225, 225
+  offset: 63, 57
+  index: -1

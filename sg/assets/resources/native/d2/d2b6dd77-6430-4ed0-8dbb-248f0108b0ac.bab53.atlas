@@ -1,0 +1,62 @@
+
+taverncarddrawing.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/222
+  rotate: false
+  xy: 2, 490
+  size: 242, 511
+  orig: 265, 584
+  offset: 13, 12
+  index: -1
+images/3333
+  rotate: true
+  xy: 2, 246
+  size: 242, 511
+  orig: 265, 584
+  offset: 13, 12
+  index: -1
+images/4444
+  rotate: true
+  xy: 246, 759
+  size: 242, 511
+  orig: 265, 584
+  offset: 13, 12
+  index: -1
+images/5555
+  rotate: true
+  xy: 246, 515
+  size: 242, 511
+  orig: 265, 584
+  offset: 13, 12
+  index: -1
+images/66666
+  rotate: false
+  xy: 515, 2
+  size: 242, 511
+  orig: 265, 584
+  offset: 13, 12
+  index: -1
+images/gy_01
+  rotate: false
+  xy: 759, 511
+  size: 78, 78
+  orig: 102, 102
+  offset: 12, 12
+  index: -1
+images/图层 2
+  rotate: true
+  xy: 2, 2
+  size: 242, 511
+  orig: 265, 584
+  offset: 13, 12
+  index: -1
+images/抽卡界面
+  rotate: false
+  xy: 759, 591
+  size: 181, 410
+  orig: 181, 410
+  offset: 0, 0
+  index: -1

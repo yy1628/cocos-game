@@ -1,0 +1,62 @@
+
+mobulianshi_skill01_cx2_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/m2/00000
+  rotate: true
+  xy: 323, 15
+  size: 127, 179
+  orig: 166, 249
+  offset: 15, 21
+  index: -1
+sk1/m2/00002
+  rotate: true
+  xy: 329, 267
+  size: 130, 181
+  orig: 166, 249
+  offset: 13, 21
+  index: -1
+sk1/m2/00004
+  rotate: true
+  xy: 130, 142
+  size: 129, 191
+  orig: 166, 249
+  offset: 13, 21
+  index: -1
+sk1/m2/00006
+  rotate: false
+  xy: 2, 202
+  size: 126, 195
+  orig: 166, 249
+  offset: 13, 22
+  index: -1
+sk1/m2/00008
+  rotate: false
+  xy: 2, 2
+  size: 123, 198
+  orig: 166, 249
+  offset: 17, 24
+  index: -1
+sk1/m2/00010
+  rotate: true
+  xy: 130, 273
+  size: 124, 197
+  orig: 166, 249
+  offset: 15, 22
+  index: -1
+sk1/m2/00012
+  rotate: true
+  xy: 127, 16
+  size: 124, 186
+  orig: 166, 249
+  offset: 15, 22
+  index: -1
+sk1/m2/00014
+  rotate: true
+  xy: 323, 144
+  size: 121, 186
+  orig: 166, 249
+  offset: 19, 22
+  index: -1

@@ -1,0 +1,27 @@
+
+xiahoudun_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yuanyuehengsao/shouji/00010
+  rotate: true
+  xy: 2, 201
+  size: 155, 164
+  orig: 300, 300
+  offset: 75, 72
+  index: -1
+yuanyuehengsao/shouji/00012
+  rotate: true
+  xy: 2, 2
+  size: 194, 214
+  orig: 300, 300
+  offset: 55, 47
+  index: -1
+yuanyuehengsao/shouji/00014
+  rotate: true
+  xy: 168, 198
+  size: 158, 179
+  orig: 300, 300
+  offset: 76, 67
+  index: -1

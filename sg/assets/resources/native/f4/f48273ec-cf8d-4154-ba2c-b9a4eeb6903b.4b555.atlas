@@ -1,0 +1,27 @@
+
+vanguasummoneffect.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line01
+  rotate: false
+  xy: 63, 20
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+图层 1
+  rotate: false
+  xy: 2, 2
+  size: 59, 51
+  orig: 60, 53
+  offset: 1, 0
+  index: -1
+矩形 533 拷贝
+  rotate: false
+  xy: 63, 28
+  size: 25, 25
+  orig: 30, 30
+  offset: 2, 2
+  index: -1

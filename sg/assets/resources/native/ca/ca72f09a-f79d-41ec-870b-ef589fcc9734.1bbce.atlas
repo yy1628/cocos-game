@@ -1,0 +1,111 @@
+
+zhangliao_skill04_buff_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wanjun/shang/00000
+  rotate: true
+  xy: 135, 285
+  size: 91, 153
+  orig: 150, 180
+  offset: 29, 8
+  index: -1
+wanjun/shang/00002
+  rotate: true
+  xy: 2, 379
+  size: 87, 153
+  orig: 150, 180
+  offset: 32, 8
+  index: -1
+wanjun/shang/00004
+  rotate: true
+  xy: 157, 378
+  size: 88, 152
+  orig: 150, 180
+  offset: 32, 8
+  index: -1
+wanjun/shang/00006
+  rotate: true
+  xy: 311, 377
+  size: 89, 131
+  orig: 150, 180
+  offset: 31, 29
+  index: -1
+wanjun/shang/00008
+  rotate: true
+  xy: 2, 288
+  size: 89, 131
+  orig: 150, 180
+  offset: 31, 29
+  index: -1
+wanjun/shang/00010
+  rotate: true
+  xy: 290, 284
+  size: 91, 134
+  orig: 150, 180
+  offset: 30, 26
+  index: -1
+wanjun/shang/00012
+  rotate: true
+  xy: 2, 192
+  size: 91, 134
+  orig: 150, 180
+  offset: 30, 26
+  index: -1
+wanjun/shang/00014
+  rotate: true
+  xy: 138, 192
+  size: 91, 138
+  orig: 150, 180
+  offset: 30, 22
+  index: -1
+wanjun/shang/00016
+  rotate: true
+  xy: 311, 97
+  size: 92, 142
+  orig: 150, 180
+  offset: 29, 18
+  index: -1
+wanjun/shang/00018
+  rotate: true
+  xy: 306, 2
+  size: 93, 147
+  orig: 150, 180
+  offset: 28, 14
+  index: -1
+wanjun/shang/00020
+  rotate: true
+  xy: 2, 5
+  size: 92, 150
+  orig: 150, 180
+  offset: 28, 11
+  index: -1
+wanjun/shang/00022
+  rotate: true
+  xy: 154, 4
+  size: 92, 150
+  orig: 150, 180
+  offset: 28, 11
+  index: -1
+wanjun/shang/00024
+  rotate: true
+  xy: 278, 191
+  size: 91, 152
+  orig: 150, 180
+  offset: 29, 9
+  index: -1
+wanjun/shang/00026
+  rotate: true
+  xy: 2, 99
+  size: 91, 152
+  orig: 150, 180
+  offset: 29, 9
+  index: -1
+wanjun/shang/00028
+  rotate: true
+  xy: 156, 98
+  size: 91, 153
+  orig: 150, 180
+  offset: 29, 8
+  index: -1

@@ -1,0 +1,335 @@
+
+meinv_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+下摆1
+  rotate: false
+  xy: 681, 653
+  size: 208, 358
+  orig: 208, 358
+  offset: 0, 0
+  index: -1
+下摆2
+  rotate: false
+  xy: 585, 146
+  size: 85, 166
+  orig: 85, 166
+  offset: 0, 0
+  index: -1
+下摆3
+  rotate: false
+  xy: 494, 351
+  size: 94, 243
+  orig: 94, 252
+  offset: 0, 9
+  index: -1
+下摆4
+  rotate: true
+  xy: 290, 816
+  size: 195, 389
+  orig: 281, 389
+  offset: 0, 0
+  index: -1
+下摆5
+  rotate: true
+  xy: 290, 596
+  size: 218, 310
+  orig: 218, 310
+  offset: 0, 0
+  index: -1
+右大腿
+  rotate: true
+  xy: 864, 244
+  size: 161, 137
+  orig: 161, 137
+  offset: 0, 0
+  index: -1
+右手
+  rotate: true
+  xy: 213, 552
+  size: 98, 54
+  orig: 98, 54
+  offset: 0, 0
+  index: -1
+大腿2
+  rotate: false
+  xy: 590, 314
+  size: 85, 222
+  orig: 85, 222
+  offset: 0, 0
+  index: -1
+大腿布
+  rotate: true
+  xy: 128, 243
+  size: 83, 89
+  orig: 87, 89
+  offset: 0, 0
+  index: -1
+大腿布后
+  rotate: false
+  xy: 862, 561
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+头发1
+  rotate: false
+  xy: 213, 465
+  size: 49, 85
+  orig: 49, 85
+  offset: 0, 0
+  index: -1
+头发2
+  rotate: true
+  xy: 926, 26
+  size: 107, 84
+  orig: 107, 84
+  offset: 0, 0
+  index: -1
+头发3
+  rotate: false
+  xy: 238, 246
+  size: 98, 85
+  orig: 98, 85
+  offset: 0, 0
+  index: -1
+头发4
+  rotate: false
+  xy: 199, 331
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+头发5
+  rotate: false
+  xy: 862, 614
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+头发6
+  rotate: true
+  xy: 135, 419
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+头发7
+  rotate: false
+  xy: 821, 215
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+头发8
+  rotate: false
+  xy: 1005, 661
+  size: 16, 49
+  orig: 16, 49
+  offset: 0, 0
+  index: -1
+头发9
+  rotate: true
+  xy: 219, 164
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+头饰
+  rotate: false
+  xy: 857, 135
+  size: 130, 107
+  orig: 130, 110
+  offset: 0, 3
+  index: -1
+小腿1
+  rotate: false
+  xy: 2, 233
+  size: 91, 170
+  orig: 91, 170
+  offset: 0, 0
+  index: -1
+小腿2
+  rotate: false
+  xy: 602, 538
+  size: 73, 276
+  orig: 73, 276
+  offset: 0, 0
+  index: -1
+左手
+  rotate: true
+  xy: 213, 652
+  size: 88, 61
+  orig: 88, 61
+  offset: 0, 0
+  index: -1
+手臂
+  rotate: false
+  xy: 488, 199
+  size: 95, 150
+  orig: 95, 150
+  offset: 0, 0
+  index: -1
+手镯
+  rotate: true
+  xy: 95, 316
+  size: 87, 31
+  orig: 87, 31
+  offset: 0, 0
+  index: -1
+手镯2
+  rotate: true
+  xy: 169, 331
+  size: 86, 28
+  orig: 86, 28
+  offset: 0, 0
+  index: -1
+手镯3
+  rotate: false
+  xy: 135, 328
+  size: 32, 89
+  orig: 35, 89
+  offset: 3, 0
+  index: -1
+流苏1
+  rotate: false
+  xy: 862, 582
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+流苏2
+  rotate: false
+  xy: 1005, 638
+  size: 16, 21
+  orig: 41, 34
+  offset: 7, 13
+  index: -1
+流苏3
+  rotate: true
+  xy: 135, 472
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+肩带1
+  rotate: true
+  xy: 269, 435
+  size: 159, 223
+  orig: 201, 223
+  offset: 0, 0
+  index: -1
+肩带2
+  rotate: false
+  xy: 672, 2
+  size: 82, 163
+  orig: 82, 163
+  offset: 0, 0
+  index: -1
+肩带3
+  rotate: false
+  xy: 2, 742
+  size: 286, 269
+  orig: 286, 269
+  offset: 0, 0
+  index: -1
+肩带4
+  rotate: true
+  xy: 338, 282
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+肩带5
+  rotate: true
+  xy: 891, 407
+  size: 303, 112
+  orig: 303, 116
+  offset: 0, 0
+  index: -1
+肩带6
+  rotate: false
+  xy: 2, 536
+  size: 209, 204
+  orig: 209, 204
+  offset: 0, 0
+  index: -1
+肩带球1
+  rotate: false
+  xy: 394, 276
+  size: 92, 157
+  orig: 140, 157
+  offset: 48, 0
+  index: -1
+肩带球2
+  rotate: true
+  xy: 672, 167
+  size: 95, 147
+  orig: 121, 147
+  offset: 0, 0
+  index: -1
+脚1
+  rotate: false
+  xy: 201, 386
+  size: 39, 77
+  orig: 39, 77
+  offset: 0, 0
+  index: -1
+脸
+  rotate: false
+  xy: 338, 191
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+腰带
+  rotate: true
+  xy: 756, 29
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1
+袖子1
+  rotate: true
+  xy: 891, 712
+  size: 299, 130
+  orig: 299, 187
+  offset: 0, 38
+  index: -1
+袖子2
+  rotate: false
+  xy: 677, 414
+  size: 183, 237
+  orig: 295, 275
+  offset: 37, 12
+  index: -1
+身体
+  rotate: true
+  xy: 677, 264
+  size: 148, 185
+  orig: 148, 185
+  offset: 0, 0
+  index: -1
+马尾1
+  rotate: false
+  xy: 242, 333
+  size: 150, 100
+  orig: 152, 129
+  offset: 0, 29
+  index: -1
+马尾2
+  rotate: true
+  xy: 838, 17
+  size: 116, 86
+  orig: 197, 117
+  offset: 81, 0
+  index: -1
+马尾3
+  rotate: false
+  xy: 2, 405
+  size: 131, 129
+  orig: 131, 138
+  offset: 0, 0
+  index: -1

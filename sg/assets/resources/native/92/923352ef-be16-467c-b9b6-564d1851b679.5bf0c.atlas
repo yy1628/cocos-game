@@ -1,0 +1,90 @@
+
+xushu_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/hit/hit (1)
+  rotate: false
+  xy: 148, 124
+  size: 126, 120
+  orig: 563, 563
+  offset: 220, 220
+  index: -1
+skill1/hit/hit (11)
+  rotate: false
+  xy: 2, 244
+  size: 144, 127
+  orig: 563, 563
+  offset: 212, 211
+  index: -1
+skill1/hit/hit (13)
+  rotate: false
+  xy: 148, 246
+  size: 134, 125
+  orig: 563, 563
+  offset: 217, 215
+  index: -1
+skill1/hit/hit (15)
+  rotate: true
+  xy: 251, 4
+  size: 118, 124
+  orig: 563, 563
+  offset: 225, 217
+  index: -1
+skill1/hit/hit (17)
+  rotate: true
+  xy: 126, 2
+  size: 120, 123
+  orig: 563, 563
+  offset: 220, 217
+  index: -1
+skill1/hit/hit (19)
+  rotate: true
+  xy: 2, 121
+  size: 121, 122
+  orig: 563, 563
+  offset: 219, 216
+  index: -1
+skill1/hit/hit (21)
+  rotate: false
+  xy: 2, 5
+  size: 112, 114
+  orig: 563, 563
+  offset: 230, 224
+  index: -1
+skill1/hit/hit (23)
+  rotate: true
+  xy: 276, 128
+  size: 112, 93
+  orig: 563, 563
+  offset: 231, 225
+  index: -1
+skill1/hit/hit (3)
+  rotate: false
+  xy: 2, 373
+  size: 150, 137
+  orig: 563, 563
+  offset: 210, 210
+  index: -1
+skill1/hit/hit (5)
+  rotate: false
+  xy: 154, 373
+  size: 149, 137
+  orig: 563, 563
+  offset: 209, 209
+  index: -1
+skill1/hit/hit (7)
+  rotate: false
+  xy: 305, 375
+  size: 151, 135
+  orig: 563, 563
+  offset: 206, 207
+  index: -1
+skill1/hit/hit (9)
+  rotate: false
+  xy: 305, 242
+  size: 150, 131
+  orig: 563, 563
+  offset: 207, 209
+  index: -1

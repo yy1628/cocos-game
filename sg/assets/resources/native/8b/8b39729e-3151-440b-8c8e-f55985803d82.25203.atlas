@@ -1,0 +1,202 @@
+
+zhouyu_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/sj/s/00000
+  rotate: false
+  xy: 2, 377
+  size: 144, 111
+  orig: 172, 172
+  offset: 10, 41
+  index: -1
+sk1/sj/s/00002
+  rotate: false
+  xy: 148, 374
+  size: 134, 114
+  orig: 172, 172
+  offset: 15, 42
+  index: -1
+sk1/sj/s/00004
+  rotate: false
+  xy: 2, 261
+  size: 130, 114
+  orig: 172, 172
+  offset: 19, 44
+  index: -1
+sk1/sj/s/00006
+  rotate: false
+  xy: 284, 383
+  size: 128, 105
+  orig: 172, 172
+  offset: 20, 46
+  index: -1
+sk1/sj/s/00008
+  rotate: false
+  xy: 284, 273
+  size: 124, 108
+  orig: 172, 172
+  offset: 22, 47
+  index: -1
+sk1/sj/s/00010
+  rotate: true
+  xy: 414, 367
+  size: 121, 96
+  orig: 172, 172
+  offset: 23, 49
+  index: -1
+sk1/sj/s/00012
+  rotate: true
+  xy: 410, 242
+  size: 123, 86
+  orig: 172, 172
+  offset: 18, 49
+  index: -1
+sk1/sj/s/00014
+  rotate: false
+  xy: 134, 284
+  size: 117, 88
+  orig: 172, 172
+  offset: 20, 50
+  index: -1
+sk1/sj/s/00016
+  rotate: false
+  xy: 2, 180
+  size: 111, 79
+  orig: 172, 172
+  offset: 25, 52
+  index: -1
+sk1/sj/s/00018
+  rotate: false
+  xy: 134, 199
+  size: 115, 83
+  orig: 172, 172
+  offset: 22, 55
+  index: -1
+sk1/sj/s/00020
+  rotate: false
+  xy: 251, 196
+  size: 93, 75
+  orig: 172, 172
+  offset: 35, 59
+  index: -1
+sk1/sj/s/00022
+  rotate: true
+  xy: 336, 99
+  size: 86, 67
+  orig: 172, 172
+  offset: 42, 62
+  index: -1
+sk1/sj/s/00024
+  rotate: true
+  xy: 346, 187
+  size: 84, 58
+  orig: 172, 172
+  offset: 43, 68
+  index: -1
+sk1/sj/s/00026
+  rotate: true
+  xy: 203, 111
+  size: 86, 45
+  orig: 172, 172
+  offset: 40, 77
+  index: -1
+sk1/sj/x/00000
+  rotate: false
+  xy: 460, 2
+  size: 43, 37
+  orig: 172, 172
+  offset: 61, 58
+  index: -1
+sk1/sj/x/00002
+  rotate: true
+  xy: 460, 41
+  size: 51, 44
+  orig: 172, 172
+  offset: 57, 54
+  index: -1
+sk1/sj/x/00004
+  rotate: false
+  xy: 76, 9
+  size: 65, 54
+  orig: 172, 172
+  offset: 50, 49
+  index: -1
+sk1/sj/x/00006
+  rotate: false
+  xy: 2, 56
+  size: 72, 57
+  orig: 172, 172
+  offset: 48, 46
+  index: -1
+sk1/sj/x/00008
+  rotate: true
+  xy: 393, 11
+  size: 81, 65
+  orig: 172, 172
+  offset: 44, 42
+  index: -1
+sk1/sj/x/00010
+  rotate: false
+  xy: 405, 94
+  size: 84, 69
+  orig: 172, 172
+  offset: 43, 39
+  index: -1
+sk1/sj/x/00012
+  rotate: true
+  xy: 250, 33
+  size: 85, 72
+  orig: 172, 172
+  offset: 43, 37
+  index: -1
+sk1/sj/x/00014
+  rotate: false
+  xy: 250, 120
+  size: 84, 74
+  orig: 172, 172
+  offset: 44, 36
+  index: -1
+sk1/sj/x/00016
+  rotate: false
+  xy: 406, 165
+  size: 86, 75
+  orig: 172, 172
+  offset: 43, 36
+  index: -1
+sk1/sj/x/00018
+  rotate: false
+  xy: 115, 124
+  size: 86, 73
+  orig: 172, 172
+  offset: 43, 37
+  index: -1
+sk1/sj/x/00020
+  rotate: true
+  xy: 324, 13
+  size: 84, 67
+  orig: 172, 172
+  offset: 43, 40
+  index: -1
+sk1/sj/x/00022
+  rotate: false
+  xy: 2, 115
+  size: 80, 63
+  orig: 172, 172
+  offset: 46, 41
+  index: -1
+sk1/sj/x/00024
+  rotate: false
+  xy: 84, 65
+  size: 75, 57
+  orig: 172, 172
+  offset: 48, 44
+  index: -1
+sk1/sj/x/00026
+  rotate: false
+  xy: 161, 55
+  size: 71, 54
+  orig: 172, 172
+  offset: 50, 45
+  index: -1

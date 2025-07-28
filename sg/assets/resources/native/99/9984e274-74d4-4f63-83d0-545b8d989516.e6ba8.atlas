@@ -1,0 +1,55 @@
+
+zhugeliang_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/hit/hit (1)
+  rotate: false
+  xy: 107, 191
+  size: 111, 111
+  orig: 750, 750
+  offset: 325, 320
+  index: -1
+skill1/hit/hit (11)
+  rotate: false
+  xy: 220, 188
+  size: 129, 114
+  orig: 750, 750
+  offset: 321, 317
+  index: -1
+skill1/hit/hit (13)
+  rotate: true
+  xy: 2, 221
+  size: 81, 103
+  orig: 750, 750
+  offset: 328, 320
+  index: -1
+skill1/hit/hit (3)
+  rotate: false
+  xy: 295, 2
+  size: 182, 178
+  orig: 750, 750
+  offset: 288, 285
+  index: -1
+skill1/hit/hit (5)
+  rotate: false
+  xy: 351, 182
+  size: 134, 120
+  orig: 750, 750
+  offset: 306, 313
+  index: -1
+skill1/hit/hit (7)
+  rotate: true
+  xy: 152, 52
+  size: 134, 141
+  orig: 750, 750
+  offset: 316, 296
+  index: -1
+skill1/hit/hit (9)
+  rotate: false
+  xy: 2, 65
+  size: 148, 124
+  orig: 750, 750
+  offset: 300, 313
+  index: -1

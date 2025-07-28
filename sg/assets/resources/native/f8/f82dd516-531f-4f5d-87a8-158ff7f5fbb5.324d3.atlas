@@ -1,0 +1,90 @@
+
+machao_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shifa/you/sk1 (1)
+  rotate: true
+  xy: 409, 55
+  size: 65, 66
+  orig: 487, 487
+  offset: 153, 249
+  index: -1
+shifa/you/sk1 (11)
+  rotate: false
+  xy: 173, 189
+  size: 165, 107
+  orig: 487, 487
+  offset: 158, 213
+  index: -1
+shifa/you/sk1 (13)
+  rotate: true
+  xy: 90, 19
+  size: 102, 72
+  orig: 487, 487
+  offset: 160, 221
+  index: -1
+shifa/you/sk1 (15)
+  rotate: false
+  xy: 308, 69
+  size: 99, 51
+  orig: 487, 487
+  offset: 170, 225
+  index: -1
+shifa/you/sk1 (19)
+  rotate: true
+  xy: 90, 123
+  size: 142, 78
+  orig: 487, 487
+  offset: 189, 269
+  index: -1
+shifa/you/sk1 (21)
+  rotate: true
+  xy: 173, 298
+  size: 128, 179
+  orig: 487, 487
+  offset: 225, 162
+  index: -1
+shifa/you/sk1 (23)
+  rotate: false
+  xy: 2, 267
+  size: 169, 159
+  orig: 487, 487
+  offset: 181, 159
+  index: -1
+shifa/you/sk1 (25)
+  rotate: true
+  xy: 354, 233
+  size: 193, 116
+  orig: 487, 487
+  offset: 150, 161
+  index: -1
+shifa/you/sk1 (3)
+  rotate: false
+  xy: 2, 2
+  size: 79, 74
+  orig: 487, 487
+  offset: 150, 248
+  index: -1
+shifa/you/sk1 (5)
+  rotate: true
+  xy: 2, 78
+  size: 187, 86
+  orig: 487, 487
+  offset: 151, 245
+  index: -1
+shifa/you/sk1 (7)
+  rotate: false
+  xy: 170, 70
+  size: 136, 117
+  orig: 487, 487
+  offset: 205, 214
+  index: -1
+shifa/you/sk1 (9)
+  rotate: false
+  xy: 340, 122
+  size: 152, 109
+  orig: 487, 487
+  offset: 188, 210
+  index: -1

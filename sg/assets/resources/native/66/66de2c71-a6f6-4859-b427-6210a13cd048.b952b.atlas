@@ -1,0 +1,83 @@
+
+guanyu_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd/youxia/youxia (1)
+  rotate: false
+  xy: 141, 131
+  size: 155, 137
+  orig: 338, 338
+  offset: 110, 92
+  index: -1
+dd/youxia/youxia (11)
+  rotate: false
+  xy: 355, 283
+  size: 80, 64
+  orig: 338, 338
+  offset: 163, 107
+  index: -1
+dd/youxia/youxia (3)
+  rotate: false
+  xy: 2, 319
+  size: 200, 151
+  orig: 338, 338
+  offset: 114, 77
+  index: -1
+dd/youxia/youxia (5)
+  rotate: true
+  xy: 204, 270
+  size: 200, 149
+  orig: 338, 338
+  offset: 116, 78
+  index: -1
+dd/youxia/youxia (7)
+  rotate: true
+  xy: 2, 151
+  size: 166, 137
+  orig: 338, 338
+  offset: 150, 80
+  index: -1
+dd/youxia/youxia (9)
+  rotate: true
+  xy: 374, 2
+  size: 127, 83
+  orig: 338, 338
+  offset: 161, 89
+  index: -1
+sf/sf (1)
+  rotate: false
+  xy: 2, 8
+  size: 133, 141
+  orig: 338, 338
+  offset: 94, 126
+  index: -1
+sf/sf (2)
+  rotate: false
+  xy: 298, 131
+  size: 130, 137
+  orig: 338, 338
+  offset: 97, 123
+  index: -1
+sf/sf (4)
+  rotate: false
+  xy: 355, 349
+  size: 120, 121
+  orig: 338, 338
+  offset: 104, 131
+  index: -1
+sf/sf (6)
+  rotate: false
+  xy: 137, 10
+  size: 121, 119
+  orig: 338, 338
+  offset: 108, 128
+  index: -1
+sf/sf (8)
+  rotate: true
+  xy: 260, 21
+  size: 108, 112
+  orig: 338, 338
+  offset: 116, 133
+  index: -1

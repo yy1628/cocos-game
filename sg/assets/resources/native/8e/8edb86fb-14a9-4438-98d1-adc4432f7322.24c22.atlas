@@ -1,0 +1,286 @@
+
+bulianshi.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beihouchoudai-a
+  rotate: false
+  xy: 365, 90
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+choudai-b
+  rotate: false
+  xy: 222, 93
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+fa1-a
+  rotate: false
+  xy: 417, 92
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+fa1-b
+  rotate: true
+  xy: 373, 8
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+fa2-a
+  rotate: true
+  xy: 195, 30
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fa2-b
+  rotate: true
+  xy: 286, 93
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+fa3-a
+  rotate: true
+  xy: 322, 82
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+fa3-b
+  rotate: true
+  xy: 172, 30
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+fa4-a
+  rotate: true
+  xy: 217, 31
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+fa4-b
+  rotate: true
+  xy: 269, 38
+  size: 6, 20
+  orig: 6, 20
+  offset: 0, 0
+  index: -1
+face-a
+  rotate: true
+  xy: 359, 53
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+face-b
+  rotate: false
+  xy: 449, 4
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+fashi1-a
+  rotate: true
+  xy: 222, 76
+  size: 15, 38
+  orig: 15, 38
+  offset: 0, 0
+  index: -1
+fashi2-a
+  rotate: true
+  xy: 262, 76
+  size: 15, 37
+  orig: 15, 37
+  offset: 0, 0
+  index: -1
+piaodai1-a
+  rotate: true
+  xy: 175, 76
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+piaodai1-l-b
+  rotate: false
+  xy: 66, 28
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+piaodai1-r-b
+  rotate: false
+  xy: 479, 109
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+piaodai2-a
+  rotate: false
+  xy: 58, 2
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+piaodai3-a
+  rotate: true
+  xy: 239, 30
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+shengti-a
+  rotate: true
+  xy: 293, 47
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+shenti-b
+  rotate: true
+  xy: 458, 104
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+shou-l-a
+  rotate: false
+  xy: 269, 31
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+shou-r-a
+  rotate: false
+  xy: 291, 34
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 416, 30
+  size: 58, 87
+  orig: 58, 87
+  offset: 0, 0
+  index: -1
+xiashen-b
+  rotate: false
+  xy: 256, 4
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+yaoshi-b
+  rotate: false
+  xy: 293, 9
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+yifu1-a
+  rotate: false
+  xy: 2, 3
+  size: 54, 21
+  orig: 54, 21
+  offset: 0, 0
+  index: -1
+yifu1-l-a
+  rotate: false
+  xy: 160, 4
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+yifu1-l-b
+  rotate: false
+  xy: 237, 46
+  size: 54, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+yifu1-r-b
+  rotate: false
+  xy: 416, 9
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+yifu2-a
+  rotate: false
+  xy: 118, 30
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+yifu2-l-a
+  rotate: true
+  xy: 385, 57
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+yifu2-l-b
+  rotate: true
+  xy: 329, 2
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+yifu2-r-b
+  rotate: false
+  xy: 210, 6
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+yifu3-a
+  rotate: false
+  xy: 106, 2
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+yifu3-l-a
+  rotate: false
+  xy: 474, 10
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+yifu3-l-b
+  rotate: false
+  xy: 172, 40
+  size: 63, 34
+  orig: 63, 34
+  offset: 0, 0
+  index: -1
+yifu3-r-b
+  rotate: true
+  xy: 332, 50
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+yumao-a
+  rotate: false
+  xy: 66, 76
+  size: 107, 50
+  orig: 107, 50
+  offset: 0, 0
+  index: -1
+yumao-b
+  rotate: true
+  xy: 2, 26
+  size: 100, 62
+  orig: 100, 62
+  offset: 0, 0
+  index: -1

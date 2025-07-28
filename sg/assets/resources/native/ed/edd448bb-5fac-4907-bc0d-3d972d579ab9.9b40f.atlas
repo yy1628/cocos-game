@@ -1,0 +1,76 @@
+
+zhangjiao_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/hit/shang/s (1)
+  rotate: false
+  xy: 112, 7
+  size: 72, 244
+  orig: 177, 320
+  offset: 52, 66
+  index: -1
+skill1/hit/shang/s (11)
+  rotate: false
+  xy: 236, 258
+  size: 124, 224
+  orig: 177, 320
+  offset: 25, 61
+  index: -1
+skill1/hit/shang/s (13)
+  rotate: false
+  xy: 362, 253
+  size: 117, 229
+  orig: 177, 320
+  offset: 28, 62
+  index: -1
+skill1/hit/shang/s (15)
+  rotate: false
+  xy: 111, 253
+  size: 123, 229
+  orig: 177, 320
+  offset: 23, 62
+  index: -1
+skill1/hit/shang/s (17)
+  rotate: false
+  xy: 342, 150
+  size: 123, 101
+  orig: 177, 320
+  offset: 24, 59
+  index: -1
+skill1/hit/shang/s (19)
+  rotate: false
+  xy: 342, 66
+  size: 115, 82
+  orig: 177, 320
+  offset: 18, 70
+  index: -1
+skill1/hit/shang/s (3)
+  rotate: false
+  xy: 186, 7
+  size: 72, 244
+  orig: 177, 320
+  offset: 52, 66
+  index: -1
+skill1/hit/shang/s (5)
+  rotate: false
+  xy: 260, 31
+  size: 80, 225
+  orig: 177, 320
+  offset: 40, 63
+  index: -1
+skill1/hit/shang/s (7)
+  rotate: false
+  xy: 2, 236
+  size: 107, 246
+  orig: 177, 320
+  offset: 35, 56
+  index: -1
+skill1/hit/shang/s (9)
+  rotate: false
+  xy: 2, 2
+  size: 108, 232
+  orig: 177, 320
+  offset: 32, 66
+  index: -1

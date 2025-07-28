@@ -1,0 +1,90 @@
+
+mosimazhao_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0000
+  rotate: false
+  xy: 2, 97
+  size: 130, 97
+  orig: 200, 200
+  offset: 36, 54
+  index: -1
+0002
+  rotate: true
+  xy: 399, 266
+  size: 121, 96
+  orig: 200, 200
+  offset: 45, 55
+  index: -1
+0004
+  rotate: true
+  xy: 414, 141
+  size: 123, 96
+  orig: 200, 200
+  offset: 43, 55
+  index: -1
+0006
+  rotate: false
+  xy: 139, 292
+  size: 127, 95
+  orig: 200, 200
+  offset: 39, 55
+  index: -1
+0008
+  rotate: false
+  xy: 268, 292
+  size: 129, 95
+  orig: 200, 200
+  offset: 36, 55
+  index: -1
+0010
+  rotate: false
+  xy: 2, 196
+  size: 134, 95
+  orig: 200, 200
+  offset: 32, 55
+  index: -1
+0012
+  rotate: false
+  xy: 134, 97
+  size: 137, 96
+  orig: 200, 200
+  offset: 29, 55
+  index: -1
+0014
+  rotate: false
+  xy: 138, 195
+  size: 136, 95
+  orig: 200, 200
+  offset: 30, 55
+  index: -1
+0016
+  rotate: false
+  xy: 2, 293
+  size: 135, 94
+  orig: 200, 200
+  offset: 31, 55
+  index: -1
+0018
+  rotate: false
+  xy: 276, 169
+  size: 136, 95
+  orig: 200, 200
+  offset: 30, 55
+  index: -1
+0020
+  rotate: false
+  xy: 273, 69
+  size: 137, 98
+  orig: 200, 200
+  offset: 29, 55
+  index: -1
+0022
+  rotate: true
+  xy: 412, 2
+  size: 137, 98
+  orig: 200, 200
+  offset: 29, 54
+  index: -1

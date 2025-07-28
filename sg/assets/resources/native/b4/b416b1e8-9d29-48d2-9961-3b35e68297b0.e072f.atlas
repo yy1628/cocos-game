@@ -1,0 +1,34 @@
+
+shenzhoutai_skill01_sj_up.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sj/00000
+  rotate: true
+  xy: 2, 56
+  size: 192, 150
+  orig: 265, 232
+  offset: 34, 46
+  index: -1
+sj/00002
+  rotate: true
+  xy: 154, 58
+  size: 190, 146
+  orig: 265, 232
+  offset: 35, 48
+  index: -1
+sj/00004
+  rotate: false
+  xy: 302, 118
+  size: 173, 130
+  orig: 265, 232
+  offset: 44, 57
+  index: -1
+sj/00006
+  rotate: false
+  xy: 302, 2
+  size: 163, 114
+  orig: 265, 232
+  offset: 50, 67
+  index: -1

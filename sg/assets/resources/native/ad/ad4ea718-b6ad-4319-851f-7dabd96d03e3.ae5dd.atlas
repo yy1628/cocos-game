@@ -1,0 +1,125 @@
+
+battlebeginsanimation.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gy_01
+  rotate: false
+  xy: 189, 77
+  size: 98, 100
+  orig: 128, 128
+  offset: 15, 14
+  index: -1
+gy_02
+  rotate: true
+  xy: 372, 120
+  size: 82, 84
+  orig: 128, 128
+  offset: 23, 22
+  index: -1
+light/yellow_lightning_3_sheet_new_02
+  rotate: true
+  xy: 482, 215
+  size: 52, 216
+  orig: 64, 256
+  offset: 7, 22
+  index: -1
+light/yellow_lightning_3_sheet_new_06
+  rotate: false
+  xy: 436, 269
+  size: 56, 241
+  orig: 64, 256
+  offset: 5, 6
+  index: -1
+light/yellow_lightning_3_sheet_new_15
+  rotate: false
+  xy: 2, 29
+  size: 61, 148
+  orig: 64, 256
+  offset: 1, 66
+  index: -1
+ray1_00000
+  rotate: true
+  xy: 65, 49
+  size: 128, 122
+  orig: 128, 128
+  offset: 0, 2
+  index: -1
+ray3_00000
+  rotate: false
+  xy: 289, 116
+  size: 81, 86
+  orig: 128, 128
+  offset: 26, 23
+  index: -1
+ray4_00008
+  rotate: false
+  xy: 468, 2
+  size: 198, 200
+  orig: 314, 314
+  offset: 58, 58
+  index: -1
+zdks_01_00000
+  rotate: true
+  xy: 494, 289
+  size: 221, 92
+  orig: 393, 184
+  offset: 94, 52
+  index: -1
+zdks_02_00000
+  rotate: true
+  xy: 2, 179
+  size: 331, 122
+  orig: 393, 184
+  offset: 38, 25
+  index: -1
+zdks_text
+  rotate: true
+  xy: 126, 179
+  size: 331, 122
+  orig: 331, 122
+  offset: 0, 0
+  index: -1
+切割1/切割_00001
+  rotate: false
+  xy: 189, 44
+  size: 242, 31
+  orig: 275, 134
+  offset: 17, 52
+  index: -1
+切割1/切割_00002
+  rotate: false
+  xy: 2, 2
+  size: 232, 25
+  orig: 275, 134
+  offset: 23, 55
+  index: -1
+切割1/切割_00003
+  rotate: false
+  xy: 236, 19
+  size: 230, 23
+  orig: 275, 134
+  offset: 24, 56
+  index: -1
+切割1/切割_00004
+  rotate: false
+  xy: 250, 204
+  size: 230, 23
+  orig: 275, 134
+  offset: 24, 56
+  index: -1
+块1
+  rotate: true
+  xy: 350, 232
+  size: 278, 84
+  orig: 358, 118
+  offset: 25, 32
+  index: -1
+块2
+  rotate: true
+  xy: 250, 229
+  size: 281, 98
+  orig: 358, 118
+  offset: 76, 2
+  index: -1

@@ -1,0 +1,209 @@
+
+zhangxingcai.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_body
+  rotate: false
+  xy: 177, 3
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+b_head
+  rotate: false
+  xy: 82, 11
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+b_l_arm
+  rotate: false
+  xy: 206, 34
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+b_l_leg1
+  rotate: false
+  xy: 290, 34
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+b_l_leg2
+  rotate: true
+  xy: 131, 2
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+b_r_arm1
+  rotate: false
+  xy: 301, 38
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+b_r_arm2
+  rotate: false
+  xy: 159, 2
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+b_r_hand
+  rotate: true
+  xy: 96, 3
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+b_r_leg1
+  rotate: false
+  xy: 301, 26
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+b_r_leg2
+  rotate: true
+  xy: 146, 2
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+b_skirt1
+  rotate: true
+  xy: 263, 22
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+b_skirt2
+  rotate: true
+  xy: 177, 30
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+b_weapon1
+  rotate: true
+  xy: 2, 5
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+f_body
+  rotate: false
+  xy: 200, 3
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: false
+  xy: 131, 12
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+f_hip
+  rotate: true
+  xy: 279, 48
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+f_l_arm1
+  rotate: false
+  xy: 306, 51
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+f_l_arm2
+  rotate: false
+  xy: 293, 51
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+f_l_leg1
+  rotate: false
+  xy: 278, 25
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+f_l_leg2
+  rotate: true
+  xy: 82, 2
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+f_r_arm
+  rotate: false
+  xy: 223, 4
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+f_r_arm2
+  rotate: true
+  xy: 242, 6
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+f_r_hand2
+  rotate: true
+  xy: 302, 14
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+f_r_leg1
+  rotate: false
+  xy: 274, 5
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+f_r_leg2
+  rotate: false
+  xy: 263, 4
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+f_skirt1
+  rotate: false
+  xy: 231, 35
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+f_skirt2
+  rotate: false
+  xy: 287, 10
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+f_skirt3
+  rotate: false
+  xy: 257, 42
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: true
+  xy: 44, 5
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1

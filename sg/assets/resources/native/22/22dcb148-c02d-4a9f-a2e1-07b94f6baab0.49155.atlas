@@ -1,0 +1,237 @@
+
+rewardreceivingtips.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dwa
+  rotate: false
+  xy: 2, 484
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+skeleton-animation_00
+  rotate: false
+  xy: 352, 369
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+skeleton-animation_01
+  rotate: false
+  xy: 2, 316
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+skeleton-animation_02
+  rotate: false
+  xy: 91, 316
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+skeleton-animation_03
+  rotate: false
+  xy: 180, 311
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+skeleton-animation_04
+  rotate: false
+  xy: 269, 280
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+skeleton-animation_05
+  rotate: false
+  xy: 358, 280
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+skeleton-animation_06
+  rotate: false
+  xy: 2, 227
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+skeleton-animation_07
+  rotate: false
+  xy: 91, 227
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+skeleton-animation_08
+  rotate: false
+  xy: 180, 222
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+skeleton-animation_09
+  rotate: false
+  xy: 269, 191
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+skeleton-animation_10
+  rotate: false
+  xy: 358, 191
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+skeleton-animation_11
+  rotate: false
+  xy: 2, 138
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+skeleton-animation_12
+  rotate: false
+  xy: 91, 138
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+skeleton-animation_13
+  rotate: false
+  xy: 180, 133
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+skeleton-animation_14
+  rotate: false
+  xy: 269, 102
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+skeleton-animation_15
+  rotate: false
+  xy: 358, 102
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+skeleton-animation_16
+  rotate: false
+  xy: 2, 49
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+skeleton-animation_17
+  rotate: false
+  xy: 91, 49
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+skeleton-animation_18
+  rotate: false
+  xy: 180, 44
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+skeleton-animation_19
+  rotate: false
+  xy: 269, 13
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+新建文件夹/qrangeitemboxeffect-animation_00
+  rotate: true
+  xy: 72, 405
+  size: 58, 69
+  orig: 79, 94
+  offset: 15, 16
+  index: -1
+新建文件夹/qrangeitemboxeffect-animation_01
+  rotate: true
+  xy: 282, 394
+  size: 65, 68
+  orig: 79, 94
+  offset: 9, 21
+  index: -1
+新建文件夹/qrangeitemboxeffect-animation_02
+  rotate: false
+  xy: 313, 461
+  size: 66, 49
+  orig: 79, 94
+  offset: 9, 26
+  index: -1
+新建文件夹/qrangeitemboxeffect-animation_03
+  rotate: false
+  xy: 213, 400
+  size: 67, 62
+  orig: 79, 94
+  offset: 8, 16
+  index: -1
+新建文件夹/qrangeitemboxeffect-animation_04
+  rotate: true
+  xy: 450, 442
+  size: 68, 60
+  orig: 79, 94
+  offset: 8, 19
+  index: -1
+新建文件夹/qrangeitemboxeffect-animation_05
+  rotate: false
+  xy: 108, 465
+  size: 68, 45
+  orig: 79, 94
+  offset: 8, 23
+  index: -1
+新建文件夹/qrangeitemboxeffect-animation_06
+  rotate: false
+  xy: 178, 465
+  size: 68, 45
+  orig: 79, 94
+  offset: 8, 27
+  index: -1
+新建文件夹/qrangeitemboxeffect-animation_07
+  rotate: false
+  xy: 47, 471
+  size: 59, 39
+  orig: 79, 94
+  offset: 16, 25
+  index: -1
+新建文件夹/qrangeitemboxeffect-animation_08
+  rotate: true
+  xy: 248, 464
+  size: 46, 63
+  orig: 79, 94
+  offset: 17, 4
+  index: -1
+新建文件夹/qrangeitemboxeffect-animation_09
+  rotate: true
+  xy: 381, 458
+  size: 52, 67
+  orig: 79, 94
+  offset: 15, 6
+  index: -1
+新建文件夹/qrangeitemboxeffect-animation_10
+  rotate: true
+  xy: 2, 413
+  size: 56, 68
+  orig: 79, 94
+  offset: 15, 10
+  index: -1
+新建文件夹/qrangeitemboxeffect-animation_11
+  rotate: true
+  xy: 143, 405
+  size: 58, 68
+  orig: 79, 94
+  offset: 15, 15
+  index: -1

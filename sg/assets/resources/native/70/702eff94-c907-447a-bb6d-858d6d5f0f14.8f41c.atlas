@@ -1,0 +1,34 @@
+
+yuji_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sj/00000
+  rotate: false
+  xy: 270, 202
+  size: 221, 219
+  orig: 300, 300
+  offset: 40, 27
+  index: -1
+sj/00002
+  rotate: false
+  xy: 2, 198
+  size: 266, 223
+  orig: 300, 300
+  offset: 21, 36
+  index: -1
+sj/00004
+  rotate: true
+  xy: 270, 2
+  size: 198, 211
+  orig: 300, 300
+  offset: 49, 33
+  index: -1
+sj/00006
+  rotate: false
+  xy: 2, 6
+  size: 191, 190
+  orig: 300, 300
+  offset: 60, 49
+  index: -1

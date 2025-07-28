@@ -1,0 +1,251 @@
+
+guojia.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_fan
+  rotate: false
+  xy: 466, 67
+  size: 54, 85
+  orig: 54, 85
+  offset: 0, 0
+  index: -1
+b_g_ribbon2
+  rotate: false
+  xy: 437, 154
+  size: 55, 100
+  orig: 55, 100
+  offset: 0, 0
+  index: -1
+f_bone
+  rotate: false
+  xy: 484, 2
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+f_fan1
+  rotate: true
+  xy: 327, 15
+  size: 112, 81
+  orig: 112, 81
+  offset: 0, 0
+  index: -1
+f_fan2
+  rotate: true
+  xy: 647, 91
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+f_fan3
+  rotate: true
+  xy: 133, 101
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+f_i_body
+  rotate: true
+  xy: 2, 9
+  size: 90, 104
+  orig: 90, 104
+  offset: 0, 0
+  index: -1
+f_i_cloak1
+  rotate: false
+  xy: 256, 129
+  size: 109, 125
+  orig: 109, 125
+  offset: 0, 0
+  index: -1
+f_i_cloak2
+  rotate: false
+  xy: 170, 9
+  size: 99, 115
+  orig: 99, 115
+  offset: 0, 0
+  index: -1
+f_i_hair1
+  rotate: false
+  xy: 410, 47
+  size: 54, 102
+  orig: 54, 102
+  offset: 0, 0
+  index: -1
+f_i_hair2
+  rotate: false
+  xy: 601, 11
+  size: 53, 78
+  orig: 53, 78
+  offset: 0, 0
+  index: -1
+f_i_hair3
+  rotate: false
+  xy: 133, 126
+  size: 121, 128
+  orig: 121, 128
+  offset: 0, 0
+  index: -1
+f_i_head
+  rotate: false
+  xy: 2, 101
+  size: 129, 153
+  orig: 129, 153
+  offset: 0, 0
+  index: -1
+f_i_hip
+  rotate: false
+  xy: 410, 2
+  size: 72, 43
+  orig: 72, 43
+  offset: 0, 0
+  index: -1
+f_i_l_arm1
+  rotate: true
+  xy: 604, 191
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+f_i_l_arm2-1
+  rotate: false
+  xy: 550, 9
+  size: 49, 80
+  orig: 49, 80
+  offset: 0, 0
+  index: -1
+f_i_l_arm2-2
+  rotate: false
+  xy: 694, 2
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+f_i_l_decorate
+  rotate: true
+  xy: 656, 37
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+f_i_l_foot
+  rotate: false
+  xy: 705, 223
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+f_i_l_hand
+  rotate: false
+  xy: 734, 106
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+f_i_l_leg1
+  rotate: false
+  xy: 655, 199
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+f_i_l_leg2
+  rotate: false
+  xy: 700, 91
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+f_i_l_shoulder
+  rotate: true
+  xy: 494, 173
+  size: 81, 38
+  orig: 81, 38
+  offset: 0, 0
+  index: -1
+f_i_r_arm1
+  rotate: false
+  xy: 647, 131
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+f_i_r_arm2
+  rotate: false
+  xy: 534, 174
+  size: 68, 80
+  orig: 68, 80
+  offset: 0, 0
+  index: -1
+f_i_r_foot
+  rotate: true
+  xy: 731, 4
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+f_i_r_hand
+  rotate: true
+  xy: 736, 223
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+f_i_r_leg1
+  rotate: false
+  xy: 703, 147
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+f_i_r_leg2
+  rotate: true
+  xy: 656, 2
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+f_i_r_shoulder
+  rotate: false
+  xy: 702, 38
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+f_i_ribbon1
+  rotate: false
+  xy: 271, 14
+  size: 54, 113
+  orig: 54, 113
+  offset: 0, 0
+  index: -1
+f_i_ribbon2
+  rotate: false
+  xy: 367, 151
+  size: 68, 103
+  orig: 68, 103
+  offset: 0, 0
+  index: -1
+f_i_skirt1
+  rotate: false
+  xy: 108, 14
+  size: 60, 85
+  orig: 60, 85
+  offset: 0, 0
+  index: -1
+f_i_skirt2
+  rotate: false
+  xy: 522, 91
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+f_i_skirt3
+  rotate: false
+  xy: 602, 102
+  size: 43, 70
+  orig: 43, 70
+  offset: 0, 0
+  index: -1

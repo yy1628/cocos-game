@@ -1,0 +1,41 @@
+
+zhangliao_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paohong/hit/00000
+  rotate: false
+  xy: 223, 156
+  size: 204, 169
+  orig: 320, 320
+  offset: 58, 73
+  index: -1
+paohong/hit/00002
+  rotate: false
+  xy: 2, 114
+  size: 214, 189
+  orig: 320, 320
+  offset: 53, 65
+  index: -1
+paohong/hit/00004
+  rotate: false
+  xy: 2, 305
+  size: 219, 205
+  orig: 320, 320
+  offset: 50, 57
+  index: -1
+paohong/hit/00006
+  rotate: false
+  xy: 223, 327
+  size: 214, 183
+  orig: 320, 320
+  offset: 52, 67
+  index: -1
+paohong/hit/00008
+  rotate: true
+  xy: 218, 2
+  size: 152, 136
+  orig: 320, 320
+  offset: 78, 87
+  index: -1

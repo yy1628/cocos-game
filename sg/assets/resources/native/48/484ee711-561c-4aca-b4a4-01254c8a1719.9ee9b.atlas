@@ -1,0 +1,48 @@
+
+xuchu_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuiji/shifa/juqi/0006
+  rotate: true
+  xy: 2, 162
+  size: 161, 166
+  orig: 260, 195
+  offset: 48, 16
+  index: -1
+chuiji/shifa/juqi/0008
+  rotate: true
+  xy: 2, 2
+  size: 158, 159
+  orig: 260, 195
+  offset: 51, 18
+  index: -1
+chuiji/shifa/juqi/0010
+  rotate: false
+  xy: 163, 8
+  size: 150, 152
+  orig: 260, 195
+  offset: 53, 23
+  index: -1
+chuiji/shifa/juqi/0012
+  rotate: false
+  xy: 2, 325
+  size: 224, 185
+  orig: 260, 195
+  offset: 18, 8
+  index: -1
+chuiji/shifa/juqi/0014
+  rotate: false
+  xy: 228, 355
+  size: 214, 155
+  orig: 260, 195
+  offset: 23, 23
+  index: -1
+chuiji/shifa/juqi/0016
+  rotate: false
+  xy: 228, 263
+  size: 187, 90
+  orig: 260, 195
+  offset: 37, 58
+  index: -1

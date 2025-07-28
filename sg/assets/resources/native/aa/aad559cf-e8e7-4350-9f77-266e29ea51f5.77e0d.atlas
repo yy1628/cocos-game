@@ -1,0 +1,48 @@
+
+zhangfei_skill01_buff_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Buff/bf (1)
+  rotate: false
+  xy: 2, 338
+  size: 173, 171
+  orig: 600, 600
+  offset: 222, 207
+  index: -1
+Buff/bf (11)
+  rotate: true
+  xy: 177, 338
+  size: 171, 169
+  orig: 600, 600
+  offset: 223, 207
+  index: -1
+Buff/bf (3)
+  rotate: false
+  xy: 2, 169
+  size: 170, 167
+  orig: 600, 600
+  offset: 224, 207
+  index: -1
+Buff/bf (5)
+  rotate: false
+  xy: 173, 2
+  size: 168, 165
+  orig: 600, 600
+  offset: 226, 207
+  index: -1
+Buff/bf (7)
+  rotate: false
+  xy: 2, 2
+  size: 169, 165
+  orig: 600, 600
+  offset: 225, 207
+  index: -1
+Buff/bf (9)
+  rotate: false
+  xy: 174, 169
+  size: 170, 167
+  orig: 600, 600
+  offset: 224, 207
+  index: -1

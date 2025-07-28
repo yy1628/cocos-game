@@ -1,0 +1,62 @@
+
+thebattlefailed.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+944
+  rotate: false
+  xy: 629, 2
+  size: 321, 281
+  orig: 330, 311
+  offset: 4, 15
+  index: -1
+qi
+  rotate: false
+  xy: 511, 310
+  size: 159, 129
+  orig: 160, 129
+  offset: 0, 0
+  index: -1
+qi2
+  rotate: false
+  xy: 672, 309
+  size: 143, 130
+  orig: 154, 132
+  offset: 11, 2
+  index: -1
+sl01
+  rotate: false
+  xy: 2, 117
+  size: 232, 228
+  orig: 232, 228
+  offset: 0, 0
+  index: -1
+sl02
+  rotate: false
+  xy: 817, 285
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+流光/流光_00014
+  rotate: false
+  xy: 236, 77
+  size: 391, 231
+  orig: 512, 512
+  offset: 62, 155
+  index: -1
+组 20
+  rotate: false
+  xy: 315, 332
+  size: 194, 107
+  orig: 199, 111
+  offset: 4, 4
+  index: -1
+组 35 拷贝 6
+  rotate: false
+  xy: 2, 347
+  size: 311, 92
+  orig: 311, 92
+  offset: 0, 0
+  index: -1

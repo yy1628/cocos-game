@@ -1,0 +1,97 @@
+
+zhangjiao_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/shifa/dianqiu/qiu (1)
+  rotate: false
+  xy: 389, 225
+  size: 93, 104
+  orig: 280, 280
+  offset: 88, 89
+  index: -1
+skill1/shifa/dianqiu/qiu (2)
+  rotate: false
+  xy: 292, 97
+  size: 94, 99
+  orig: 280, 280
+  offset: 87, 91
+  index: -1
+skill1/shifa/dianqiu/qiu (3)
+  rotate: false
+  xy: 313, 331
+  size: 107, 97
+  orig: 280, 280
+  offset: 85, 88
+  index: -1
+skill1/shifa/dianqiu/qiu (4)
+  rotate: false
+  xy: 292, 2
+  size: 107, 93
+  orig: 280, 280
+  offset: 85, 90
+  index: -1
+skill1/shifa/dianqiu/qiu (5)
+  rotate: false
+  xy: 388, 103
+  size: 106, 93
+  orig: 280, 280
+  offset: 86, 92
+  index: -1
+skill1/shifa/dianqiu/qiu (6)
+  rotate: true
+  xy: 2, 2
+  size: 109, 98
+  orig: 280, 280
+  offset: 85, 94
+  index: -1
+skill1/shifa/shifang/shifang (10)
+  rotate: true
+  xy: 157, 36
+  size: 109, 133
+  orig: 280, 280
+  offset: 78, 85
+  index: -1
+skill1/shifa/shifang/shifang (12)
+  rotate: true
+  xy: 286, 198
+  size: 98, 101
+  orig: 280, 280
+  offset: 83, 94
+  index: -1
+skill1/shifa/shifang/shifang (14)
+  rotate: false
+  xy: 422, 342
+  size: 86, 86
+  orig: 280, 280
+  offset: 85, 104
+  index: -1
+skill1/shifa/shifang/shifang (2)
+  rotate: true
+  xy: 2, 113
+  size: 148, 153
+  orig: 280, 280
+  offset: 73, 50
+  index: -1
+skill1/shifa/shifang/shifang (4)
+  rotate: false
+  xy: 2, 263
+  size: 148, 165
+  orig: 280, 280
+  offset: 57, 58
+  index: -1
+skill1/shifa/shifang/shifang (6)
+  rotate: false
+  xy: 157, 147
+  size: 127, 149
+  orig: 280, 280
+  offset: 66, 77
+  index: -1
+skill1/shifa/shifang/shifang (8)
+  rotate: true
+  xy: 152, 298
+  size: 130, 159
+  orig: 280, 280
+  offset: 69, 74
+  index: -1

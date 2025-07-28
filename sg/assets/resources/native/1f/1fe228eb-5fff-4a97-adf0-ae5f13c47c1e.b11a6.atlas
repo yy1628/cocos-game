@@ -1,0 +1,62 @@
+
+zhaoyun_skill04_sj_up.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk4/sj/hit4 (1)
+  rotate: true
+  xy: 321, 80
+  size: 80, 79
+  orig: 750, 750
+  offset: 329, 328
+  index: -1
+sk4/sj/hit4 (11)
+  rotate: true
+  xy: 111, 19
+  size: 100, 87
+  orig: 750, 750
+  offset: 315, 328
+  index: -1
+sk4/sj/hit4 (13)
+  rotate: true
+  xy: 270, 162
+  size: 92, 69
+  orig: 750, 750
+  offset: 319, 332
+  index: -1
+sk4/sj/hit4 (15)
+  rotate: false
+  xy: 321, 12
+  size: 93, 66
+  orig: 750, 750
+  offset: 319, 332
+  index: -1
+sk4/sj/hit4 (3)
+  rotate: false
+  xy: 2, 121
+  size: 132, 133
+  orig: 750, 750
+  offset: 302, 302
+  index: -1
+sk4/sj/hit4 (5)
+  rotate: false
+  xy: 136, 122
+  size: 132, 132
+  orig: 750, 750
+  offset: 303, 303
+  index: -1
+sk4/sj/hit4 (7)
+  rotate: false
+  xy: 200, 2
+  size: 119, 118
+  orig: 750, 750
+  offset: 309, 308
+  index: -1
+sk4/sj/hit4 (9)
+  rotate: true
+  xy: 2, 9
+  size: 110, 107
+  orig: 750, 750
+  offset: 315, 313
+  index: -1

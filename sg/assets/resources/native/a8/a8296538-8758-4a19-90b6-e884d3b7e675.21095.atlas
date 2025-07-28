@@ -1,0 +1,104 @@
+
+jiuyou_sj_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x/00014
+  rotate: true
+  xy: 413, 224
+  size: 107, 93
+  orig: 276, 302
+  offset: 76, 69
+  index: -1
+x/00016
+  rotate: true
+  xy: 399, 2
+  size: 114, 105
+  orig: 276, 302
+  offset: 72, 68
+  index: -1
+x/00018
+  rotate: true
+  xy: 287, 333
+  size: 131, 130
+  orig: 276, 302
+  offset: 70, 57
+  index: -1
+x/00020
+  rotate: false
+  xy: 150, 325
+  size: 135, 139
+  orig: 276, 302
+  offset: 67, 57
+  index: -1
+x/00022
+  rotate: false
+  xy: 2, 16
+  size: 143, 149
+  orig: 276, 302
+  offset: 63, 52
+  index: -1
+x/00024
+  rotate: false
+  xy: 2, 316
+  size: 146, 148
+  orig: 276, 302
+  offset: 63, 50
+  index: -1
+x/00026
+  rotate: false
+  xy: 2, 167
+  size: 145, 147
+  orig: 276, 302
+  offset: 63, 49
+  index: -1
+x/00028
+  rotate: false
+  xy: 147, 19
+  size: 144, 146
+  orig: 276, 302
+  offset: 63, 51
+  index: -1
+x/00030
+  rotate: true
+  xy: 149, 171
+  size: 143, 139
+  orig: 276, 302
+  offset: 63, 52
+  index: -1
+x/00032
+  rotate: true
+  xy: 290, 203
+  size: 128, 121
+  orig: 276, 302
+  offset: 71, 63
+  index: -1
+x/00034
+  rotate: true
+  xy: 293, 81
+  size: 120, 104
+  orig: 276, 302
+  offset: 75, 67
+  index: -1
+x/00036
+  rotate: true
+  xy: 419, 350
+  size: 114, 87
+  orig: 276, 302
+  offset: 79, 68
+  index: -1
+x/00038
+  rotate: true
+  xy: 413, 118
+  size: 104, 77
+  orig: 276, 302
+  offset: 82, 73
+  index: -1
+x/00040
+  rotate: false
+  xy: 293, 14
+  size: 103, 65
+  orig: 276, 302
+  offset: 83, 85
+  index: -1

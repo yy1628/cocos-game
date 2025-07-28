@@ -1,0 +1,62 @@
+
+molvbu_skill04_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk4/sf/s/0000
+  rotate: false
+  xy: 2, 305
+  size: 254, 168
+  orig: 280, 280
+  offset: 20, 25
+  index: -1
+sk4/sf/s/0002
+  rotate: false
+  xy: 2, 107
+  size: 223, 196
+  orig: 280, 280
+  offset: 51, 28
+  index: -1
+sk4/sf/s/0004
+  rotate: false
+  xy: 258, 299
+  size: 197, 174
+  orig: 280, 280
+  offset: 74, 54
+  index: -1
+sk4/sf/s/0006
+  rotate: false
+  xy: 2, 2
+  size: 224, 103
+  orig: 280, 280
+  offset: 24, 125
+  index: -1
+sk4/sf/s/0008
+  rotate: false
+  xy: 227, 144
+  size: 154, 153
+  orig: 280, 280
+  offset: 19, 68
+  index: -1
+sk4/sf/s/0010
+  rotate: true
+  xy: 228, 33
+  size: 109, 145
+  orig: 280, 280
+  offset: 20, 70
+  index: -1
+sk4/sf/s/0012
+  rotate: false
+  xy: 383, 163
+  size: 71, 134
+  orig: 280, 280
+  offset: 22, 70
+  index: -1
+sk4/sf/s/0014
+  rotate: false
+  xy: 457, 357
+  size: 42, 116
+  orig: 280, 280
+  offset: 33, 74
+  index: -1

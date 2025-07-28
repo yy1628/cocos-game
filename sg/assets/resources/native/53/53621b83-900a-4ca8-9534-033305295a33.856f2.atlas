@@ -1,0 +1,125 @@
+
+sunce_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/sf/qh/00000
+  rotate: true
+  xy: 428, 148
+  size: 44, 48
+  orig: 70, 70
+  offset: 8, 12
+  index: -1
+skill1/sf/qh/00001
+  rotate: false
+  xy: 429, 194
+  size: 51, 43
+  orig: 70, 70
+  offset: 6, 16
+  index: -1
+skill1/sf/qh/00002
+  rotate: false
+  xy: 433, 336
+  size: 54, 44
+  orig: 70, 70
+  offset: 7, 15
+  index: -1
+skill1/sf/qh/00003
+  rotate: false
+  xy: 433, 382
+  size: 52, 48
+  orig: 70, 70
+  offset: 9, 12
+  index: -1
+skill1/sf/qh/00004
+  rotate: false
+  xy: 428, 105
+  size: 41, 41
+  orig: 70, 70
+  offset: 7, 15
+  index: -1
+skill1/sf/s/00001
+  rotate: true
+  xy: 170, 345
+  size: 159, 130
+  orig: 210, 210
+  offset: 20, 10
+  index: -1
+skill1/sf/s/00003
+  rotate: false
+  xy: 2, 144
+  size: 149, 185
+  orig: 210, 210
+  offset: 20, 15
+  index: -1
+skill1/sf/s/00005
+  rotate: false
+  xy: 2, 331
+  size: 166, 173
+  orig: 210, 210
+  offset: 22, 29
+  index: -1
+skill1/sf/s/00007
+  rotate: true
+  xy: 153, 171
+  size: 158, 151
+  orig: 210, 210
+  offset: 27, 52
+  index: -1
+skill1/sf/s/00009
+  rotate: false
+  xy: 2, 6
+  size: 157, 136
+  orig: 210, 210
+  offset: 22, 67
+  index: -1
+skill1/sf/s/00011
+  rotate: true
+  xy: 302, 360
+  size: 144, 129
+  orig: 210, 210
+  offset: 22, 74
+  index: -1
+skill1/sf/s/00013
+  rotate: true
+  xy: 306, 228
+  size: 130, 121
+  orig: 210, 210
+  offset: 22, 82
+  index: -1
+skill1/sf/s/00015
+  rotate: false
+  xy: 306, 108
+  size: 120, 118
+  orig: 210, 210
+  offset: 24, 86
+  index: -1
+skill1/sf/s/00017
+  rotate: false
+  xy: 161, 61
+  size: 117, 108
+  orig: 210, 210
+  offset: 27, 96
+  index: -1
+skill1/sf/s/00019
+  rotate: true
+  xy: 280, 2
+  size: 104, 92
+  orig: 210, 210
+  offset: 39, 111
+  index: -1
+skill1/sf/s/00021
+  rotate: true
+  xy: 429, 239
+  size: 95, 80
+  orig: 210, 210
+  offset: 48, 123
+  index: -1
+skill1/sf/s/00023
+  rotate: true
+  xy: 433, 432
+  size: 72, 77
+  orig: 210, 210
+  offset: 70, 124
+  index: -1

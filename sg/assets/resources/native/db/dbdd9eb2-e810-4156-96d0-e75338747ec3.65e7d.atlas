@@ -1,0 +1,76 @@
+
+xunyu_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/dandao/0000
+  rotate: false
+  xy: 2, 212
+  size: 196, 96
+  orig: 300, 200
+  offset: 56, 51
+  index: -1
+skill1/dandao/0002
+  rotate: false
+  xy: 220, 405
+  size: 202, 94
+  orig: 300, 200
+  offset: 51, 51
+  index: -1
+skill1/dandao/0004
+  rotate: false
+  xy: 2, 310
+  size: 210, 95
+  orig: 300, 200
+  offset: 43, 51
+  index: -1
+skill1/dandao/0006
+  rotate: false
+  xy: 212, 2
+  size: 218, 102
+  orig: 300, 200
+  offset: 36, 45
+  index: -1
+skill1/dandao/0008
+  rotate: false
+  xy: 2, 407
+  size: 216, 92
+  orig: 300, 200
+  offset: 37, 49
+  index: -1
+skill1/dandao/0010
+  rotate: false
+  xy: 200, 209
+  size: 208, 96
+  orig: 300, 200
+  offset: 45, 44
+  index: -1
+skill1/dandao/0012
+  rotate: false
+  xy: 217, 106
+  size: 204, 101
+  orig: 300, 200
+  offset: 49, 42
+  index: -1
+skill1/dandao/0014
+  rotate: false
+  xy: 2, 108
+  size: 213, 99
+  orig: 300, 200
+  offset: 40, 50
+  index: -1
+skill1/dandao/0016
+  rotate: false
+  xy: 2, 3
+  size: 208, 103
+  orig: 300, 200
+  offset: 45, 46
+  index: -1
+skill1/dandao/0018
+  rotate: false
+  xy: 214, 307
+  size: 202, 96
+  orig: 300, 200
+  offset: 50, 51
+  index: -1

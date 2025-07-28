@@ -1,0 +1,20 @@
+
+newclothessweeping.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line01
+  rotate: false
+  xy: 68, 5
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+txt_dl_xinfu_lang
+  rotate: false
+  xy: 2, 2
+  size: 64, 31
+  orig: 64, 31
+  offset: 0, 0
+  index: -1

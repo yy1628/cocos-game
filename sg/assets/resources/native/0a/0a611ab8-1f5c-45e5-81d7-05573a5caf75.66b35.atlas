@@ -1,0 +1,160 @@
+
+bulianshi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beihouchoudai-a
+  rotate: true
+  xy: 537, 337
+  size: 172, 125
+  orig: 172, 125
+  offset: 0, 0
+  index: -1
+fa1-a
+  rotate: true
+  xy: 2, 2
+  size: 135, 118
+  orig: 135, 118
+  offset: 0, 0
+  index: -1
+fa2-a
+  rotate: true
+  xy: 653, 33
+  size: 26, 71
+  orig: 26, 71
+  offset: 0, 0
+  index: -1
+fa3-a
+  rotate: true
+  xy: 508, 3
+  size: 151, 143
+  orig: 151, 143
+  offset: 0, 0
+  index: -1
+fa4-a
+  rotate: false
+  xy: 379, 248
+  size: 23, 71
+  orig: 23, 71
+  offset: 0, 0
+  index: -1
+face-a
+  rotate: true
+  xy: 723, 76
+  size: 92, 81
+  orig: 92, 81
+  offset: 0, 0
+  index: -1
+fashi1-a
+  rotate: false
+  xy: 122, 6
+  size: 53, 131
+  orig: 53, 131
+  offset: 0, 0
+  index: -1
+fashi2-a
+  rotate: false
+  xy: 177, 13
+  size: 53, 128
+  orig: 53, 128
+  offset: 0, 0
+  index: -1
+piaodai1-a
+  rotate: true
+  xy: 482, 156
+  size: 171, 156
+  orig: 171, 156
+  offset: 0, 0
+  index: -1
+piaodai2-a
+  rotate: true
+  xy: 405, 159
+  size: 160, 75
+  orig: 160, 75
+  offset: 0, 0
+  index: -1
+piaodai3-a
+  rotate: true
+  xy: 273, 156
+  size: 50, 96
+  orig: 50, 96
+  offset: 0, 0
+  index: -1
+shengti-a
+  rotate: false
+  xy: 232, 15
+  size: 93, 126
+  orig: 93, 126
+  offset: 0, 0
+  index: -1
+shou-l-a
+  rotate: true
+  xy: 379, 214
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+shou-r-a
+  rotate: false
+  xy: 371, 172
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 176, 208
+  size: 201, 301
+  orig: 201, 301
+  offset: 0, 0
+  index: -1
+yifu1-a
+  rotate: true
+  xy: 379, 321
+  size: 188, 72
+  orig: 188, 72
+  offset: 0, 0
+  index: -1
+yifu1-l-a
+  rotate: true
+  xy: 640, 170
+  size: 165, 85
+  orig: 165, 85
+  offset: 0, 0
+  index: -1
+yifu2-a
+  rotate: false
+  xy: 327, 2
+  size: 179, 152
+  orig: 179, 152
+  offset: 0, 0
+  index: -1
+yifu2-l-a
+  rotate: true
+  xy: 653, 61
+  size: 107, 68
+  orig: 107, 68
+  offset: 0, 0
+  index: -1
+yifu3-a
+  rotate: true
+  xy: 453, 329
+  size: 180, 82
+  orig: 180, 82
+  offset: 0, 0
+  index: -1
+yifu3-l-a
+  rotate: false
+  xy: 176, 143
+  size: 95, 63
+  orig: 96, 63
+  offset: 0, 0
+  index: -1
+yumao-a
+  rotate: true
+  xy: 2, 139
+  size: 370, 172
+  orig: 370, 172
+  offset: 0, 0
+  index: -1

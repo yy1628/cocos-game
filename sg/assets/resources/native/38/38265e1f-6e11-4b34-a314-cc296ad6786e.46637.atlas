@@ -1,0 +1,76 @@
+
+simayi_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mingguang/00000
+  rotate: false
+  xy: 235, 99
+  size: 237, 95
+  orig: 270, 135
+  offset: 22, 21
+  index: -1
+mingguang/00002
+  rotate: false
+  xy: 2, 2
+  size: 237, 95
+  orig: 270, 135
+  offset: 22, 21
+  index: -1
+mingguang/00004
+  rotate: false
+  xy: 2, 105
+  size: 231, 95
+  orig: 270, 135
+  offset: 28, 21
+  index: -1
+mingguang/00006
+  rotate: false
+  xy: 241, 2
+  size: 238, 95
+  orig: 270, 135
+  offset: 21, 21
+  index: -1
+mingguang/00008
+  rotate: false
+  xy: 238, 196
+  size: 239, 77
+  orig: 270, 135
+  offset: 20, 29
+  index: -1
+mingguang/00010
+  rotate: false
+  xy: 235, 275
+  size: 239, 69
+  orig: 270, 135
+  offset: 20, 32
+  index: -1
+mingguang/00012
+  rotate: false
+  xy: 2, 202
+  size: 234, 71
+  orig: 270, 135
+  offset: 25, 32
+  index: -1
+mingguang/00014
+  rotate: false
+  xy: 2, 279
+  size: 231, 65
+  orig: 270, 135
+  offset: 28, 33
+  index: -1
+mingguang/00016
+  rotate: false
+  xy: 177, 346
+  size: 206, 41
+  orig: 270, 135
+  offset: 52, 39
+  index: -1
+mingguang/00018
+  rotate: false
+  xy: 2, 358
+  size: 173, 29
+  orig: 270, 135
+  offset: 64, 46
+  index: -1

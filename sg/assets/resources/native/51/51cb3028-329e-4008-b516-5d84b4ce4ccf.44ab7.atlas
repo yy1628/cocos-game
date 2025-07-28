@@ -1,0 +1,13 @@
+
+zhurong_attack_dd_up.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_wq
+  rotate: false
+  xy: 2, 2
+  size: 65, 69
+  orig: 65, 69
+  offset: 0, 0
+  index: -1

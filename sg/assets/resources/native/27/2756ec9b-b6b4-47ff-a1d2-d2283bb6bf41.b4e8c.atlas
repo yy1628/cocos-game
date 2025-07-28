@@ -1,0 +1,76 @@
+
+liushan_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shifa/sk1 (1)
+  rotate: false
+  xy: 114, 286
+  size: 133, 110
+  orig: 375, 375
+  offset: 112, 142
+  index: -1
+shifa/sk1 (11)
+  rotate: true
+  xy: 134, 155
+  size: 126, 138
+  orig: 375, 375
+  offset: 119, 125
+  index: -1
+shifa/sk1 (13)
+  rotate: true
+  xy: 2, 164
+  size: 120, 130
+  orig: 375, 375
+  offset: 124, 129
+  index: -1
+shifa/sk1 (15)
+  rotate: true
+  xy: 249, 283
+  size: 113, 120
+  orig: 375, 375
+  offset: 128, 134
+  index: -1
+shifa/sk1 (17)
+  rotate: false
+  xy: 371, 281
+  size: 124, 115
+  orig: 375, 375
+  offset: 123, 135
+  index: -1
+shifa/sk1 (19)
+  rotate: false
+  xy: 2, 300
+  size: 110, 96
+  orig: 375, 375
+  offset: 130, 143
+  index: -1
+shifa/sk1 (3)
+  rotate: false
+  xy: 2, 17
+  size: 137, 136
+  orig: 375, 375
+  offset: 113, 121
+  index: -1
+shifa/sk1 (5)
+  rotate: true
+  xy: 300, 2
+  size: 148, 158
+  orig: 375, 375
+  offset: 107, 112
+  index: -1
+shifa/sk1 (7)
+  rotate: true
+  xy: 141, 14
+  size: 136, 157
+  orig: 375, 375
+  offset: 113, 113
+  index: -1
+shifa/sk1 (9)
+  rotate: true
+  xy: 274, 152
+  size: 127, 147
+  orig: 375, 375
+  offset: 118, 119
+  index: -1

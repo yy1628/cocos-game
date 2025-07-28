@@ -1,0 +1,20 @@
+
+qrangeitemboxeffect.png
+size: 64,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+新建文件夹/xingxing
+  rotate: true
+  xy: 15, 2
+  size: 19, 21
+  orig: 23, 33
+  offset: 1, 7
+  index: -1
+新建文件夹/xingxingd
+  rotate: false
+  xy: 2, 10
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

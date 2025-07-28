@@ -1,0 +1,230 @@
+
+equipmentwearinganimation.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+强化/强化_00000
+  rotate: false
+  xy: 2, 127
+  size: 110, 127
+  orig: 250, 250
+  offset: 70, 60
+  index: -1
+强化/强化_00002
+  rotate: true
+  xy: 2, 17
+  size: 108, 125
+  orig: 250, 250
+  offset: 71, 60
+  index: -1
+强化/强化_00004
+  rotate: false
+  xy: 114, 131
+  size: 108, 123
+  orig: 250, 250
+  offset: 71, 61
+  index: -1
+强化/强化_00006
+  rotate: false
+  xy: 129, 15
+  size: 101, 114
+  orig: 250, 250
+  offset: 75, 66
+  index: -1
+强化/强化_00008
+  rotate: false
+  xy: 407, 105
+  size: 72, 73
+  orig: 250, 250
+  offset: 88, 92
+  index: -1
+强化/强化_00010
+  rotate: true
+  xy: 576, 2
+  size: 55, 59
+  orig: 250, 250
+  offset: 95, 98
+  index: -1
+强化/强化_00011
+  rotate: false
+  xy: 641, 65
+  size: 54, 59
+  orig: 250, 250
+  offset: 95, 98
+  index: -1
+强化/强化_00012
+  rotate: false
+  xy: 619, 208
+  size: 46, 46
+  orig: 250, 250
+  offset: 102, 102
+  index: -1
+强化/换装_00000
+  rotate: false
+  xy: 224, 156
+  size: 98, 98
+  orig: 250, 250
+  offset: 77, 76
+  index: -1
+强化/换装_00001
+  rotate: false
+  xy: 232, 43
+  size: 90, 90
+  orig: 250, 250
+  offset: 81, 80
+  index: -1
+强化/换装_00002
+  rotate: false
+  xy: 324, 53
+  size: 81, 82
+  orig: 250, 250
+  offset: 85, 84
+  index: -1
+强化/换装_00003
+  rotate: false
+  xy: 401, 180
+  size: 74, 74
+  orig: 250, 250
+  offset: 89, 88
+  index: -1
+强化/换装_00004
+  rotate: false
+  xy: 477, 182
+  size: 71, 72
+  orig: 250, 250
+  offset: 90, 89
+  index: -1
+强化/换装_00005
+  rotate: false
+  xy: 324, 178
+  size: 75, 76
+  orig: 250, 250
+  offset: 88, 87
+  index: -1
+强化/换装_00006
+  rotate: true
+  xy: 481, 109
+  size: 71, 70
+  orig: 250, 250
+  offset: 90, 90
+  index: -1
+强化/换装_00007
+  rotate: false
+  xy: 550, 187
+  size: 67, 67
+  orig: 250, 250
+  offset: 92, 91
+  index: -1
+强化/换装_00008
+  rotate: false
+  xy: 553, 123
+  size: 61, 62
+  orig: 250, 250
+  offset: 95, 94
+  index: -1
+强化/换装_00009
+  rotate: true
+  xy: 637, 2
+  size: 56, 60
+  orig: 250, 250
+  offset: 98, 95
+  index: -1
+强化/换装_00010
+  rotate: false
+  xy: 616, 126
+  size: 55, 59
+  orig: 250, 250
+  offset: 99, 95
+  index: -1
+强化/换装_00011
+  rotate: false
+  xy: 579, 60
+  size: 60, 61
+  orig: 250, 250
+  offset: 96, 94
+  index: -1
+强化/换装_00012
+  rotate: true
+  xy: 452, 2
+  size: 52, 61
+  orig: 250, 250
+  offset: 98, 94
+  index: -1
+强化/换装_00013
+  rotate: true
+  xy: 407, 56
+  size: 47, 61
+  orig: 250, 250
+  offset: 98, 94
+  index: -1
+强化/换装_00014
+  rotate: true
+  xy: 328, 3
+  size: 48, 60
+  orig: 250, 250
+  offset: 96, 94
+  index: -1
+强化/换装_00015
+  rotate: true
+  xy: 390, 3
+  size: 48, 60
+  orig: 250, 250
+  offset: 96, 95
+  index: -1
+强化/换装_00016
+  rotate: true
+  xy: 515, 6
+  size: 48, 59
+  orig: 250, 250
+  offset: 96, 95
+  index: -1
+强化/换装_00017
+  rotate: true
+  xy: 520, 59
+  size: 48, 57
+  orig: 250, 250
+  offset: 96, 96
+  index: -1
+强化/换装_00018
+  rotate: false
+  xy: 470, 56
+  size: 48, 47
+  orig: 250, 250
+  offset: 96, 104
+  index: -1
+强化/换装_00019
+  rotate: true
+  xy: 232, 10
+  size: 31, 46
+  orig: 250, 250
+  offset: 109, 106
+  index: -1
+强化/换装_00020
+  rotate: true
+  xy: 280, 11
+  size: 30, 46
+  orig: 250, 250
+  offset: 110, 105
+  index: -1
+强化/换装_00021
+  rotate: true
+  xy: 224, 135
+  size: 19, 46
+  orig: 250, 250
+  offset: 119, 105
+  index: -1
+强化/换装_00022
+  rotate: true
+  xy: 272, 135
+  size: 19, 44
+  orig: 250, 250
+  offset: 118, 106
+  index: -1
+强化/换装_00023
+  rotate: true
+  xy: 318, 137
+  size: 17, 43
+  orig: 250, 250
+  offset: 119, 108
+  index: -1

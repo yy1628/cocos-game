@@ -1,0 +1,62 @@
+
+zhurong_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit/hit (1)
+  rotate: false
+  xy: 216, 71
+  size: 135, 135
+  orig: 750, 750
+  offset: 307, 308
+  index: -1
+hit/hit (11)
+  rotate: false
+  xy: 214, 224
+  size: 47, 45
+  orig: 750, 750
+  offset: 372, 331
+  index: -1
+hit/hit (13)
+  rotate: false
+  xy: 263, 231
+  size: 43, 38
+  orig: 750, 750
+  offset: 376, 333
+  index: -1
+hit/hit (15)
+  rotate: true
+  xy: 214, 208
+  size: 14, 24
+  orig: 750, 750
+  offset: 385, 347
+  index: -1
+hit/hit (3)
+  rotate: false
+  xy: 2, 204
+  size: 210, 220
+  orig: 750, 750
+  offset: 270, 268
+  index: -1
+hit/hit (5)
+  rotate: true
+  xy: 2, 10
+  size: 192, 212
+  orig: 750, 750
+  offset: 277, 275
+  index: -1
+hit/hit (7)
+  rotate: true
+  xy: 214, 271
+  size: 153, 162
+  orig: 750, 750
+  offset: 292, 309
+  index: -1
+hit/hit (9)
+  rotate: true
+  xy: 216, 2
+  size: 67, 69
+  orig: 750, 750
+  offset: 362, 324
+  index: -1

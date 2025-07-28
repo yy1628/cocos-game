@@ -1,0 +1,27 @@
+
+shenzhangfei_skill03_buff_up.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenzhangfei_skill03_buffd_up
+  rotate: false
+  xy: 90, 4
+  size: 31, 35
+  orig: 50, 50
+  offset: 10, 8
+  index: -1
+shenzhangfei_skill03_buffg_up
+  rotate: true
+  xy: 2, 2
+  size: 37, 44
+  orig: 50, 50
+  offset: 7, 3
+  index: -1
+shenzhangfei_skill03_buffs_up
+  rotate: true
+  xy: 48, 7
+  size: 32, 40
+  orig: 50, 50
+  offset: 9, 5
+  index: -1

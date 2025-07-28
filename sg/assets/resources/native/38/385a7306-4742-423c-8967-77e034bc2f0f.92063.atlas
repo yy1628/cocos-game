@@ -1,0 +1,55 @@
+
+zhoutai_skill04_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk4/s/00007
+  rotate: false
+  xy: 2, 6
+  size: 126, 133
+  orig: 270, 270
+  offset: 45, 58
+  index: -1
+sk4/s/00009
+  rotate: false
+  xy: 2, 141
+  size: 199, 181
+  orig: 270, 270
+  offset: 43, 55
+  index: -1
+sk4/s/00011
+  rotate: false
+  xy: 215, 321
+  size: 202, 189
+  orig: 270, 270
+  offset: 45, 54
+  index: -1
+sk4/s/00013
+  rotate: false
+  xy: 2, 324
+  size: 211, 186
+  orig: 270, 270
+  offset: 37, 59
+  index: -1
+sk4/s/00015
+  rotate: false
+  xy: 203, 151
+  size: 209, 168
+  orig: 270, 270
+  offset: 34, 72
+  index: -1
+sk4/s/00017
+  rotate: false
+  xy: 287, 2
+  size: 190, 147
+  orig: 270, 270
+  offset: 40, 81
+  index: -1
+sk4/s/00019
+  rotate: false
+  xy: 130, 34
+  size: 155, 105
+  orig: 270, 270
+  offset: 57, 110
+  index: -1

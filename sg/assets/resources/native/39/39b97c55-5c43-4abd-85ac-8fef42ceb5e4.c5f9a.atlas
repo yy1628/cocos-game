@@ -1,0 +1,405 @@
+
+liushan.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_bead01
+  rotate: true
+  xy: 94, 66
+  size: 16, 22
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+b_bead02
+  rotate: false
+  xy: 248, 17
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+b_belt
+  rotate: false
+  xy: 292, 48
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+b_belt01
+  rotate: false
+  xy: 2, 65
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+b_belt02
+  rotate: false
+  xy: 67, 84
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+b_body
+  rotate: false
+  xy: 166, 2
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+b_cap
+  rotate: true
+  xy: 45, 16
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+b_foot
+  rotate: true
+  xy: 174, 34
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+b_head
+  rotate: true
+  xy: 113, 24
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+b_l_arm01_1
+  rotate: false
+  xy: 272, 28
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+b_l_arm01_2
+  rotate: false
+  xy: 217, 63
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+b_l_arm02
+  rotate: false
+  xy: 251, 100
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+b_l_hand_1
+  rotate: false
+  xy: 290, 34
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+b_l_hand_2
+  rotate: true
+  xy: 291, 77
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+b_l_shoulder
+  rotate: true
+  xy: 145, 2
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+b_r_arm01
+  rotate: false
+  xy: 199, 2
+  size: 18, 29
+  orig: 26, 30
+  offset: 8, 1
+  index: -1
+b_r_arm02
+  rotate: false
+  xy: 197, 33
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+b_r_hand_1
+  rotate: false
+  xy: 304, 85
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+b_r_hand_2
+  rotate: false
+  xy: 279, 12
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+b_r_shoulder
+  rotate: true
+  xy: 66, 2
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+b_skirt
+  rotate: true
+  xy: 217, 33
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+f_Sword
+  rotate: false
+  xy: 196, 95
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+f_Sword_2
+  rotate: true
+  xy: 197, 63
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+f_ball
+  rotate: false
+  xy: 219, 4
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+f_bead01
+  rotate: false
+  xy: 158, 67
+  size: 11, 19
+  orig: 23, 24
+  offset: 4, 1
+  index: -1
+f_bead02
+  rotate: true
+  xy: 45, 2
+  size: 12, 19
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+f_belt01
+  rotate: false
+  xy: 2, 3
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+f_belt02
+  rotate: false
+  xy: 72, 23
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+f_body
+  rotate: true
+  xy: 164, 95
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+f_cap
+  rotate: true
+  xy: 43, 76
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+f_foot
+  rotate: false
+  xy: 115, 2
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: true
+  xy: 101, 88
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+f_l_arm01_1
+  rotate: true
+  xy: 67, 66
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+f_l_arm01_2
+  rotate: false
+  xy: 118, 66
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+f_l_hand_1
+  rotate: true
+  xy: 293, 97
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+f_l_hand_3
+  rotate: true
+  xy: 290, 112
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+f_l_shoulder
+  rotate: true
+  xy: 248, 2
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+f_r_arm01_1
+  rotate: false
+  xy: 234, 71
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+f_r_arm01_1_2
+  rotate: false
+  xy: 259, 76
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+f_r_arm01_2
+  rotate: false
+  xy: 149, 33
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+f_r_arm02_1
+  rotate: false
+  xy: 256, 47
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+f_r_arm02_2
+  rotate: false
+  xy: 277, 93
+  size: 14, 14
+  orig: 21, 29
+  offset: 4, 7
+  index: -1
+f_r_hand_1
+  rotate: false
+  xy: 43, 66
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+f_r_hand_2
+  rotate: true
+  xy: 294, 64
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+f_r_hand_3
+  rotate: true
+  xy: 277, 77
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+f_r_hand_4
+  rotate: true
+  xy: 280, 47
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+f_r_shoulder
+  rotate: false
+  xy: 135, 67
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+f_skirt
+  rotate: false
+  xy: 271, 109
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+f_skirt01
+  rotate: true
+  xy: 237, 43
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+fx_ball01
+  rotate: false
+  xy: 171, 67
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+fx_ball02
+  rotate: false
+  xy: 226, 99
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+fx_ball03
+  rotate: true
+  xy: 137, 88
+  size: 38, 25
+  orig: 39, 27
+  offset: 0, 1
+  index: -1
+手1
+  rotate: true
+  xy: 304, 114
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+手腕
+  rotate: false
+  xy: 305, 102
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+拍球手
+  rotate: true
+  xy: 280, 61
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+拍球手2
+  rotate: true
+  xy: 265, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+袖子
+  rotate: true
+  xy: 83, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

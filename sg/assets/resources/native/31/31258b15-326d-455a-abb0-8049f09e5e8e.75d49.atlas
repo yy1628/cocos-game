@@ -1,0 +1,111 @@
+
+tongyong_buff.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00000
+  rotate: false
+  xy: 2, 158
+  size: 77, 76
+  orig: 200, 200
+  offset: 63, 62
+  index: -1
+00002
+  rotate: false
+  xy: 2, 80
+  size: 77, 76
+  orig: 200, 200
+  offset: 63, 62
+  index: -1
+00004
+  rotate: false
+  xy: 81, 158
+  size: 77, 76
+  orig: 200, 200
+  offset: 63, 62
+  index: -1
+00006
+  rotate: false
+  xy: 2, 2
+  size: 77, 76
+  orig: 200, 200
+  offset: 63, 62
+  index: -1
+00008
+  rotate: false
+  xy: 81, 80
+  size: 77, 76
+  orig: 200, 200
+  offset: 63, 62
+  index: -1
+00010
+  rotate: false
+  xy: 160, 158
+  size: 77, 76
+  orig: 200, 200
+  offset: 63, 62
+  index: -1
+00012
+  rotate: false
+  xy: 81, 2
+  size: 77, 76
+  orig: 200, 200
+  offset: 63, 62
+  index: -1
+00014
+  rotate: false
+  xy: 160, 80
+  size: 77, 76
+  orig: 200, 200
+  offset: 63, 62
+  index: -1
+00016
+  rotate: false
+  xy: 239, 158
+  size: 77, 76
+  orig: 200, 200
+  offset: 63, 62
+  index: -1
+00018
+  rotate: false
+  xy: 160, 2
+  size: 77, 76
+  orig: 200, 200
+  offset: 63, 62
+  index: -1
+00020
+  rotate: false
+  xy: 239, 80
+  size: 77, 76
+  orig: 200, 200
+  offset: 63, 62
+  index: -1
+00022
+  rotate: false
+  xy: 318, 158
+  size: 77, 76
+  orig: 200, 200
+  offset: 63, 62
+  index: -1
+00024
+  rotate: false
+  xy: 239, 2
+  size: 77, 76
+  orig: 200, 200
+  offset: 63, 62
+  index: -1
+00026
+  rotate: false
+  xy: 318, 80
+  size: 77, 76
+  orig: 200, 200
+  offset: 63, 62
+  index: -1
+00028
+  rotate: false
+  xy: 397, 158
+  size: 77, 76
+  orig: 200, 200
+  offset: 63, 62
+  index: -1

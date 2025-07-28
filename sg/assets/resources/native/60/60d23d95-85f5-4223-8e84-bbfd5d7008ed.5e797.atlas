@@ -1,0 +1,55 @@
+
+panzhang_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/sf/00000
+  rotate: false
+  xy: 2, 312
+  size: 187, 149
+  orig: 250, 250
+  offset: 29, 50
+  index: -1
+sk1/sf/00002
+  rotate: false
+  xy: 191, 311
+  size: 185, 150
+  orig: 250, 250
+  offset: 21, 53
+  index: -1
+sk1/sf/00004
+  rotate: false
+  xy: 2, 2
+  size: 166, 151
+  orig: 250, 250
+  offset: 39, 51
+  index: -1
+sk1/sf/00006
+  rotate: false
+  xy: 2, 155
+  size: 183, 155
+  orig: 250, 250
+  offset: 46, 48
+  index: -1
+sk1/sf/00008
+  rotate: false
+  xy: 187, 150
+  size: 172, 159
+  orig: 250, 250
+  offset: 47, 45
+  index: -1
+sk1/sf/00010
+  rotate: false
+  xy: 361, 141
+  size: 137, 158
+  orig: 250, 250
+  offset: 58, 44
+  index: -1
+sk1/sf/00012
+  rotate: false
+  xy: 378, 301
+  size: 117, 160
+  orig: 250, 250
+  offset: 78, 43
+  index: -1

@@ -1,0 +1,62 @@
+
+yanliang_skill03_cx_up.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill3/sk3 (1)
+  rotate: false
+  xy: 2, 2
+  size: 119, 101
+  orig: 195, 195
+  offset: 38, 47
+  index: -1
+skill3/sk3 (11)
+  rotate: false
+  xy: 244, 2
+  size: 119, 101
+  orig: 195, 195
+  offset: 38, 47
+  index: -1
+skill3/sk3 (13)
+  rotate: false
+  xy: 365, 105
+  size: 119, 101
+  orig: 195, 195
+  offset: 38, 47
+  index: -1
+skill3/sk3 (15)
+  rotate: false
+  xy: 365, 2
+  size: 119, 101
+  orig: 195, 195
+  offset: 38, 47
+  index: -1
+skill3/sk3 (3)
+  rotate: false
+  xy: 123, 105
+  size: 119, 101
+  orig: 195, 195
+  offset: 38, 47
+  index: -1
+skill3/sk3 (5)
+  rotate: false
+  xy: 123, 2
+  size: 119, 101
+  orig: 195, 195
+  offset: 38, 47
+  index: -1
+skill3/sk3 (7)
+  rotate: false
+  xy: 244, 105
+  size: 119, 101
+  orig: 195, 195
+  offset: 38, 47
+  index: -1
+skill3/sk3 (9)
+  rotate: false
+  xy: 2, 105
+  size: 119, 101
+  orig: 195, 195
+  offset: 38, 47
+  index: -1

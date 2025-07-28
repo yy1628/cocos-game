@@ -1,0 +1,48 @@
+
+seenstarawakening.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_57_b
+  rotate: false
+  xy: 2, 127
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+glow__02
+  rotate: false
+  xy: 2, 12
+  size: 110, 113
+  orig: 128, 128
+  offset: 9, 7
+  index: -1
+gy_02
+  rotate: false
+  xy: 114, 41
+  size: 82, 84
+  orig: 128, 128
+  offset: 23, 22
+  index: -1
+icon_qxsytb02
+  rotate: true
+  xy: 114, 2
+  size: 37, 35
+  orig: 41, 40
+  offset: 2, 2
+  index: -1
+xadaw
+  rotate: false
+  xy: 130, 195
+  size: 58, 58
+  orig: 64, 64
+  offset: 4, 3
+  index: -1
+图层 4517
+  rotate: true
+  xy: 2, 4
+  size: 6, 64
+  orig: 7, 79
+  offset: 0, 2
+  index: -1

@@ -1,0 +1,118 @@
+
+xushu_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/shifa/sf (1)
+  rotate: true
+  xy: 139, 220
+  size: 137, 122
+  orig: 338, 338
+  offset: 100, 112
+  index: -1
+skill1/shifa/sf (11)
+  rotate: false
+  xy: 2, 344
+  size: 126, 139
+  orig: 338, 338
+  offset: 101, 97
+  index: -1
+skill1/shifa/sf (13)
+  rotate: true
+  xy: 260, 365
+  size: 118, 129
+  orig: 338, 338
+  offset: 106, 103
+  index: -1
+skill1/shifa/sf (15)
+  rotate: true
+  xy: 270, 36
+  size: 99, 108
+  orig: 338, 338
+  offset: 117, 114
+  index: -1
+skill1/shifa/sf (17)
+  rotate: false
+  xy: 2, 216
+  size: 135, 126
+  orig: 338, 338
+  offset: 107, 103
+  index: -1
+skill1/shifa/sf (19)
+  rotate: false
+  xy: 2, 93
+  size: 112, 121
+  orig: 338, 338
+  offset: 118, 115
+  index: -1
+skill1/shifa/sf (21)
+  rotate: true
+  xy: 116, 15
+  size: 88, 89
+  orig: 338, 338
+  offset: 131, 139
+  index: -1
+skill1/shifa/sf (23)
+  rotate: true
+  xy: 2, 2
+  size: 89, 88
+  orig: 338, 338
+  offset: 129, 142
+  index: -1
+skill1/shifa/sf (25)
+  rotate: false
+  xy: 385, 271
+  size: 93, 92
+  orig: 338, 338
+  offset: 127, 140
+  index: -1
+skill1/shifa/sf (27)
+  rotate: false
+  xy: 378, 158
+  size: 94, 93
+  orig: 338, 338
+  offset: 127, 140
+  index: -1
+skill1/shifa/sf (29)
+  rotate: false
+  xy: 391, 397
+  size: 90, 86
+  orig: 338, 338
+  offset: 130, 146
+  index: -1
+skill1/shifa/sf (3)
+  rotate: false
+  xy: 139, 105
+  size: 129, 113
+  orig: 338, 338
+  offset: 103, 117
+  index: -1
+skill1/shifa/sf (31)
+  rotate: true
+  xy: 380, 76
+  size: 80, 76
+  orig: 338, 338
+  offset: 136, 148
+  index: -1
+skill1/shifa/sf (5)
+  rotate: false
+  xy: 263, 253
+  size: 120, 110
+  orig: 338, 338
+  offset: 104, 111
+  index: -1
+skill1/shifa/sf (7)
+  rotate: true
+  xy: 130, 359
+  size: 124, 128
+  orig: 338, 338
+  offset: 112, 106
+  index: -1
+skill1/shifa/sf (9)
+  rotate: false
+  xy: 270, 137
+  size: 106, 114
+  orig: 338, 338
+  offset: 121, 112
+  index: -1

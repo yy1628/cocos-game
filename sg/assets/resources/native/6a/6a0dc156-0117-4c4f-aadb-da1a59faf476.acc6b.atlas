@@ -1,0 +1,48 @@
+
+molvbu_skill01_buff_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff2/0000
+  rotate: false
+  xy: 286, 2
+  size: 140, 140
+  orig: 200, 200
+  offset: 29, 39
+  index: -1
+buff2/0002
+  rotate: false
+  xy: 2, 6
+  size: 141, 137
+  orig: 200, 200
+  offset: 29, 40
+  index: -1
+buff2/0004
+  rotate: false
+  xy: 2, 145
+  size: 141, 129
+  orig: 200, 200
+  offset: 31, 45
+  index: -1
+buff2/0006
+  rotate: false
+  xy: 288, 144
+  size: 143, 130
+  orig: 200, 200
+  offset: 29, 40
+  index: -1
+buff2/0008
+  rotate: false
+  xy: 145, 145
+  size: 141, 129
+  orig: 200, 200
+  offset: 31, 41
+  index: -1
+buff2/0010
+  rotate: false
+  xy: 145, 5
+  size: 139, 138
+  orig: 200, 200
+  offset: 31, 38
+  index: -1

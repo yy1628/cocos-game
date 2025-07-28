@@ -1,0 +1,13 @@
+
+haozhao_skill01_buff_up.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0000
+  rotate: false
+  xy: 2, 2
+  size: 145, 134
+  orig: 200, 200
+  offset: 27, 36
+  index: -1

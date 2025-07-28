@@ -1,0 +1,132 @@
+
+zhanghe_skill01_sf_up.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dandao/0000
+  rotate: false
+  xy: 267, 39
+  size: 115, 25
+  orig: 200, 100
+  offset: 53, 39
+  index: -1
+dandao/0002
+  rotate: false
+  xy: 268, 66
+  size: 129, 26
+  orig: 200, 100
+  offset: 39, 39
+  index: -1
+dandao/0004
+  rotate: false
+  xy: 129, 41
+  size: 136, 26
+  orig: 200, 100
+  offset: 32, 39
+  index: -1
+dandao/0006
+  rotate: false
+  xy: 113, 14
+  size: 136, 25
+  orig: 200, 100
+  offset: 32, 39
+  index: -1
+dandao/0008
+  rotate: false
+  xy: 129, 69
+  size: 137, 27
+  orig: 200, 100
+  offset: 31, 38
+  index: -1
+shifa/0000
+  rotate: true
+  xy: 399, 55
+  size: 37, 26
+  orig: 200, 200
+  offset: 85, 9
+  index: -1
+shifa/0002
+  rotate: false
+  xy: 59, 2
+  size: 52, 40
+  orig: 200, 200
+  offset: 77, 8
+  index: -1
+shifa/0004
+  rotate: true
+  xy: 384, 2
+  size: 51, 64
+  orig: 200, 200
+  offset: 78, 8
+  index: -1
+shifa/0006
+  rotate: false
+  xy: 2, 15
+  size: 55, 98
+  orig: 200, 200
+  offset: 71, 8
+  index: -1
+shifa/0008
+  rotate: false
+  xy: 449, 141
+  size: 52, 113
+  orig: 200, 200
+  offset: 66, 9
+  index: -1
+shifa/0010
+  rotate: true
+  xy: 177, 179
+  size: 75, 140
+  orig: 200, 200
+  offset: 64, 9
+  index: -1
+shifa/0012
+  rotate: false
+  xy: 2, 115
+  size: 82, 139
+  orig: 200, 200
+  offset: 65, 18
+  index: -1
+shifa/0014
+  rotate: false
+  xy: 86, 123
+  size: 89, 131
+  orig: 200, 200
+  offset: 63, 34
+  index: -1
+shifa/0016
+  rotate: true
+  xy: 319, 168
+  size: 86, 128
+  orig: 200, 200
+  offset: 69, 50
+  index: -1
+shifa/0018
+  rotate: true
+  xy: 177, 98
+  size: 79, 125
+  orig: 200, 200
+  offset: 77, 56
+  index: -1
+shifa/0020
+  rotate: true
+  xy: 304, 94
+  size: 72, 123
+  orig: 200, 200
+  offset: 80, 59
+  index: -1
+shifa/0022
+  rotate: false
+  xy: 59, 44
+  size: 68, 69
+  orig: 200, 200
+  offset: 78, 114
+  index: -1
+shifa/0024
+  rotate: true
+  xy: 429, 74
+  size: 65, 67
+  orig: 200, 200
+  offset: 76, 116
+  index: -1

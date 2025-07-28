@@ -1,0 +1,251 @@
+
+guanyulihua.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1
+  rotate: true
+  xy: 921, 268
+  size: 148, 98
+  orig: 148, 98
+  offset: 0, 0
+  index: -1
+arm1-1
+  rotate: false
+  xy: 689, 565
+  size: 167, 122
+  orig: 167, 122
+  offset: 0, 0
+  index: -1
+arm1-2
+  rotate: false
+  xy: 474, 532
+  size: 49, 11
+  orig: 49, 11
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: true
+  xy: 178, 135
+  size: 142, 112
+  orig: 144, 112
+  offset: 2, 0
+  index: -1
+body
+  rotate: false
+  xy: 594, 350
+  size: 178, 193
+  orig: 178, 193
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 110, 30
+  size: 111, 103
+  orig: 112, 103
+  offset: 1, 0
+  index: -1
+fx1
+  rotate: true
+  xy: 525, 200
+  size: 90, 37
+  orig: 96, 37
+  offset: 6, 0
+  index: -1
+fx2
+  rotate: true
+  xy: 647, 719
+  size: 52, 42
+  orig: 56, 44
+  offset: 0, 1
+  index: -1
+fx3
+  rotate: false
+  xy: 561, 72
+  size: 218, 101
+  orig: 240, 104
+  offset: 2, 3
+  index: -1
+fx4
+  rotate: true
+  xy: 647, 561
+  size: 95, 39
+  orig: 101, 47
+  offset: 6, 4
+  index: -1
+fx5
+  rotate: true
+  xy: 2, 279
+  size: 492, 353
+  orig: 581, 420
+  offset: 85, 2
+  index: -1
+huzi1
+  rotate: true
+  xy: 525, 116
+  size: 82, 34
+  orig: 82, 34
+  offset: 0, 0
+  index: -1
+huzi2
+  rotate: true
+  xy: 327, 2
+  size: 73, 87
+  orig: 73, 87
+  offset: 0, 0
+  index: -1
+huzi3
+  rotate: true
+  xy: 921, 170
+  size: 96, 92
+  orig: 96, 92
+  offset: 0, 0
+  index: -1
+huzi4
+  rotate: true
+  xy: 945, 756
+  size: 117, 74
+  orig: 117, 74
+  offset: 0, 0
+  index: -1
+huzi5
+  rotate: false
+  xy: 416, 2
+  size: 75, 73
+  orig: 79, 77
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 357, 77
+  size: 166, 213
+  orig: 166, 213
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 474, 545
+  size: 226, 171
+  orig: 226, 171
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: true
+  xy: 357, 519
+  size: 252, 115
+  orig: 252, 115
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 647, 658
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 945, 692
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+shou3
+  rotate: false
+  xy: 945, 722
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+shou4
+  rotate: false
+  xy: 2, 41
+  size: 106, 118
+  orig: 106, 126
+  offset: 0, 0
+  index: -1
+skirt1
+  rotate: false
+  xy: 594, 175
+  size: 211, 173
+  orig: 211, 173
+  offset: 0, 0
+  index: -1
+skirt2
+  rotate: true
+  xy: 807, 162
+  size: 191, 112
+  orig: 191, 126
+  offset: 0, 0
+  index: -1
+skirt3
+  rotate: false
+  xy: 774, 418
+  size: 220, 145
+  orig: 225, 148
+  offset: 0, 0
+  index: -1
+skirt4
+  rotate: false
+  xy: 2, 161
+  size: 174, 116
+  orig: 174, 116
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 357, 292
+  size: 235, 225
+  orig: 235, 264
+  offset: 0, 39
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 773
+  size: 700, 230
+  orig: 700, 266
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 704, 689
+  size: 314, 239
+  orig: 314, 239
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 945, 875
+  size: 128, 75
+  orig: 128, 75
+  offset: 0, 0
+  index: -1
+yan3
+  rotate: false
+  xy: 781, 53
+  size: 207, 107
+  orig: 208, 107
+  offset: 1, 0
+  index: -1
+yan4
+  rotate: false
+  xy: 223, 27
+  size: 102, 106
+  orig: 102, 106
+  offset: 0, 0
+  index: -1
+yan5
+  rotate: true
+  xy: 858, 569
+  size: 118, 148
+  orig: 118, 148
+  offset: 0, 0
+  index: -1
+yan6
+  rotate: false
+  xy: 774, 355
+  size: 105, 61
+  orig: 105, 61
+  offset: 0, 0
+  index: -1

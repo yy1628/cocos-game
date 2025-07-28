@@ -1,0 +1,34 @@
+
+xushu_attack_dd_up.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/dandao/dd (1)
+  rotate: false
+  xy: 179, 92
+  size: 161, 88
+  orig: 750, 750
+  offset: 277, 332
+  index: -1
+attack/dandao/dd (3)
+  rotate: false
+  xy: 2, 92
+  size: 175, 88
+  orig: 750, 750
+  offset: 263, 332
+  index: -1
+attack/dandao/dd (5)
+  rotate: false
+  xy: 2, 2
+  size: 175, 88
+  orig: 750, 750
+  offset: 263, 332
+  index: -1
+attack/dandao/dd (7)
+  rotate: false
+  xy: 179, 2
+  size: 151, 88
+  orig: 750, 750
+  offset: 287, 332
+  index: -1

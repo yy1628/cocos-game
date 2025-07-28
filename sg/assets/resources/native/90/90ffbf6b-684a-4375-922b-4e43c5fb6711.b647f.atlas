@@ -1,0 +1,132 @@
+
+zhangxiu_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shifa/chongji/chongji (1)
+  rotate: false
+  xy: 320, 108
+  size: 93, 89
+  orig: 360, 360
+  offset: 140, 165
+  index: -1
+shifa/chongji/chongji (11)
+  rotate: false
+  xy: 209, 10
+  size: 89, 95
+  orig: 360, 360
+  offset: 140, 164
+  index: -1
+shifa/chongji/chongji (13)
+  rotate: false
+  xy: 224, 300
+  size: 14, 12
+  orig: 360, 360
+  offset: 207, 167
+  index: -1
+shifa/chongji/chongji (3)
+  rotate: true
+  xy: 2, 202
+  size: 110, 104
+  orig: 360, 360
+  offset: 139, 154
+  index: -1
+shifa/chongji/chongji (5)
+  rotate: false
+  xy: 108, 207
+  size: 114, 105
+  orig: 360, 360
+  offset: 137, 154
+  index: -1
+shifa/chongji/chongji (7)
+  rotate: true
+  xy: 107, 2
+  size: 103, 100
+  orig: 360, 360
+  offset: 141, 158
+  index: -1
+shifa/chongji/chongji (9)
+  rotate: false
+  xy: 123, 107
+  size: 105, 98
+  orig: 360, 360
+  offset: 140, 161
+  index: -1
+shifa/juqi/juqi (1)
+  rotate: false
+  xy: 421, 139
+  size: 89, 136
+  orig: 360, 360
+  offset: 185, 197
+  index: -1
+shifa/juqi/juqi (11)
+  rotate: true
+  xy: 230, 107
+  size: 90, 88
+  orig: 360, 360
+  offset: 160, 166
+  index: -1
+shifa/juqi/juqi (3)
+  rotate: false
+  xy: 2, 314
+  size: 244, 184
+  orig: 360, 360
+  offset: 46, 148
+  index: -1
+shifa/juqi/juqi (5)
+  rotate: false
+  xy: 248, 326
+  size: 217, 172
+  orig: 360, 360
+  offset: 67, 149
+  index: -1
+shifa/juqi/juqi (7)
+  rotate: false
+  xy: 248, 199
+  size: 171, 125
+  orig: 360, 360
+  offset: 94, 161
+  index: -1
+shifa/juqi/juqi (9)
+  rotate: true
+  xy: 2, 2
+  size: 135, 103
+  orig: 360, 360
+  offset: 124, 163
+  index: -1
+shifa/yanwu/smoke (1)
+  rotate: true
+  xy: 467, 336
+  size: 79, 41
+  orig: 360, 360
+  offset: 112, 156
+  index: -1
+shifa/yanwu/smoke (3)
+  rotate: true
+  xy: 467, 417
+  size: 81, 43
+  orig: 360, 360
+  offset: 110, 155
+  index: -1
+shifa/yanwu/smoke (5)
+  rotate: false
+  xy: 38, 152
+  size: 83, 45
+  orig: 360, 360
+  offset: 107, 154
+  index: -1
+shifa/yanwu/smoke (7)
+  rotate: true
+  xy: 467, 277
+  size: 57, 39
+  orig: 360, 360
+  offset: 105, 154
+  index: -1
+shifa/yanwu/smoke (9)
+  rotate: true
+  xy: 2, 149
+  size: 48, 34
+  orig: 360, 360
+  offset: 105, 154
+  index: -1

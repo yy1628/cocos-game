@@ -1,0 +1,55 @@
+
+huangyueying_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shifa/you/1
+  rotate: false
+  xy: 2, 340
+  size: 167, 168
+  orig: 282, 282
+  offset: 56, 71
+  index: -1
+shifa/you/11
+  rotate: true
+  xy: 172, 2
+  size: 167, 168
+  orig: 282, 282
+  offset: 56, 71
+  index: -1
+shifa/you/13
+  rotate: false
+  xy: 341, 340
+  size: 167, 168
+  orig: 282, 282
+  offset: 56, 71
+  index: -1
+shifa/you/3
+  rotate: true
+  xy: 2, 171
+  size: 167, 168
+  orig: 282, 282
+  offset: 56, 71
+  index: -1
+shifa/you/5
+  rotate: true
+  xy: 171, 341
+  size: 167, 168
+  orig: 282, 282
+  offset: 56, 71
+  index: -1
+shifa/you/7
+  rotate: false
+  xy: 172, 171
+  size: 167, 168
+  orig: 282, 282
+  offset: 56, 71
+  index: -1
+shifa/you/9
+  rotate: true
+  xy: 2, 2
+  size: 167, 168
+  orig: 282, 282
+  offset: 56, 71
+  index: -1

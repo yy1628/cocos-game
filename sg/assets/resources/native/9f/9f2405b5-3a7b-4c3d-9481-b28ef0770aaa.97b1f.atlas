@@ -1,0 +1,41 @@
+
+simayi_skill03_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mingquan/shouji/00000
+  rotate: true
+  xy: 247, 2
+  size: 148, 177
+  orig: 280, 315
+  offset: 59, 29
+  index: -1
+mingquan/shouji/00002
+  rotate: false
+  xy: 2, 212
+  size: 198, 280
+  orig: 280, 315
+  offset: 38, 26
+  index: -1
+mingquan/shouji/00004
+  rotate: true
+  xy: 2, 7
+  size: 203, 243
+  orig: 280, 315
+  offset: 52, 28
+  index: -1
+mingquan/shouji/00006
+  rotate: false
+  xy: 247, 317
+  size: 189, 175
+  orig: 280, 315
+  offset: 45, 34
+  index: -1
+mingquan/shouji/00008
+  rotate: false
+  xy: 247, 152
+  size: 180, 163
+  orig: 280, 315
+  offset: 57, 45
+  index: -1

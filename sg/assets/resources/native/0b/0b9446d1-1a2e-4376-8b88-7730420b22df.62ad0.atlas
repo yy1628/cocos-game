@@ -1,0 +1,62 @@
+
+sunquan_skill01_buff_up.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diyunbuff/00000
+  rotate: false
+  xy: 188, 2
+  size: 94, 94
+  orig: 200, 200
+  offset: 53, 53
+  index: -1
+diyunbuff/00002
+  rotate: true
+  xy: 2, 14
+  size: 88, 90
+  orig: 200, 200
+  offset: 58, 57
+  index: -1
+diyunbuff/00004
+  rotate: true
+  xy: 2, 104
+  size: 75, 85
+  orig: 200, 200
+  offset: 64, 59
+  index: -1
+diyunbuff/00006
+  rotate: true
+  xy: 176, 99
+  size: 80, 86
+  orig: 200, 200
+  offset: 59, 57
+  index: -1
+diyunbuff/00008
+  rotate: true
+  xy: 264, 98
+  size: 81, 83
+  orig: 200, 200
+  offset: 59, 58
+  index: -1
+diyunbuff/00010
+  rotate: true
+  xy: 89, 104
+  size: 75, 85
+  orig: 200, 200
+  offset: 61, 57
+  index: -1
+diyunbuff/00012
+  rotate: true
+  xy: 349, 97
+  size: 82, 86
+  orig: 200, 200
+  offset: 61, 55
+  index: -1
+diyunbuff/00014
+  rotate: false
+  xy: 94, 5
+  size: 92, 92
+  orig: 200, 200
+  offset: 55, 53
+  index: -1

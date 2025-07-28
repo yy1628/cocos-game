@@ -1,0 +1,62 @@
+
+treasureawakening.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 234, 285
+  size: 226, 61
+  orig: 256, 129
+  offset: 17, 34
+  index: -1
+爆炸/激活_00000
+  rotate: false
+  xy: 2, 344
+  size: 230, 156
+  orig: 400, 400
+  offset: 92, 106
+  index: -1
+爆炸/激活_00001
+  rotate: false
+  xy: 2, 189
+  size: 224, 153
+  orig: 400, 400
+  offset: 89, 108
+  index: -1
+爆炸/激活_00002
+  rotate: false
+  xy: 234, 348
+  size: 215, 152
+  orig: 400, 400
+  offset: 94, 109
+  index: -1
+爆炸/激活_00003
+  rotate: false
+  xy: 2, 37
+  size: 206, 150
+  orig: 400, 400
+  offset: 98, 110
+  index: -1
+爆炸/激活_00004
+  rotate: false
+  xy: 228, 138
+  size: 198, 145
+  orig: 400, 400
+  offset: 102, 113
+  index: -1
+爆炸/激活_00005
+  rotate: false
+  xy: 210, 2
+  size: 197, 134
+  orig: 400, 400
+  offset: 103, 118
+  index: -1
+爆炸/激活_00006
+  rotate: false
+  xy: 409, 25
+  size: 100, 111
+  orig: 400, 400
+  offset: 150, 129
+  index: -1

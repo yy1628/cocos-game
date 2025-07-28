@@ -1,0 +1,48 @@
+
+jaxu_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dandao/0000
+  rotate: false
+  xy: 152, 30
+  size: 177, 143
+  orig: 250, 250
+  offset: 36, 45
+  index: -1
+dandao/0001
+  rotate: false
+  xy: 336, 189
+  size: 167, 145
+  orig: 250, 250
+  offset: 40, 44
+  index: -1
+dandao/0002
+  rotate: true
+  xy: 331, 2
+  size: 171, 147
+  orig: 250, 250
+  offset: 37, 43
+  index: -1
+dandao/0003
+  rotate: false
+  xy: 2, 188
+  size: 181, 146
+  orig: 250, 250
+  offset: 34, 43
+  index: -1
+dandao/0004
+  rotate: true
+  xy: 2, 17
+  size: 169, 148
+  orig: 250, 250
+  offset: 35, 41
+  index: -1
+dandao/0005
+  rotate: true
+  xy: 185, 175
+  size: 159, 149
+  orig: 250, 250
+  offset: 43, 40
+  index: -1

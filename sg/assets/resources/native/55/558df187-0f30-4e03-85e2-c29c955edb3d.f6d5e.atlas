@@ -1,0 +1,27 @@
+
+xiahoudun_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yuanyuehengsao/daoguang/00009
+  rotate: false
+  xy: 2, 218
+  size: 291, 242
+  orig: 400, 400
+  offset: 65, 142
+  index: -1
+yuanyuehengsao/daoguang/00011
+  rotate: false
+  xy: 295, 146
+  size: 215, 314
+  orig: 400, 400
+  offset: 152, 40
+  index: -1
+yuanyuehengsao/daoguang/00013
+  rotate: true
+  xy: 2, 2
+  size: 214, 283
+  orig: 400, 400
+  offset: 150, 38
+  index: -1

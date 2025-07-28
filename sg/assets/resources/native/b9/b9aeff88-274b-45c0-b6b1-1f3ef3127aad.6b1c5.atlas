@@ -1,0 +1,83 @@
+
+masterlevelupgrade.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 449
+  size: 572, 573
+  orig: 626, 609
+  offset: 26, 16
+  index: -1
+dcb
+  rotate: true
+  xy: 281, 13
+  size: 84, 136
+  orig: 84, 136
+  offset: 0, 0
+  index: -1
+g1
+  rotate: false
+  xy: 269, 185
+  size: 121, 75
+  orig: 141, 86
+  offset: 9, 5
+  index: -1
+g1 - 副本
+  rotate: false
+  xy: 392, 185
+  size: 121, 75
+  orig: 141, 86
+  offset: 9, 5
+  index: -1
+wadwq
+  rotate: false
+  xy: 419, 28
+  size: 65, 69
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+xcb01
+  rotate: true
+  xy: 486, 57
+  size: 40, 88
+  orig: 40, 90
+  offset: 0, 0
+  index: -1
+图层 1036
+  rotate: false
+  xy: 281, 99
+  size: 249, 84
+  orig: 249, 84
+  offset: 0, 0
+  index: -1
+图层 1293
+  rotate: false
+  xy: 2, 177
+  size: 265, 270
+  orig: 267, 272
+  offset: 1, 2
+  index: -1
+图层 1299
+  rotate: false
+  xy: 269, 262
+  size: 183, 185
+  orig: 183, 185
+  offset: 0, 0
+  index: -1
+图层 1309
+  rotate: false
+  xy: 2, 2
+  size: 277, 173
+  orig: 280, 176
+  offset: 1, 1
+  index: -1
+等级提升  
+  rotate: false
+  xy: 419, 2
+  size: 95, 24
+  orig: 95, 24
+  offset: 0, 0
+  index: -1

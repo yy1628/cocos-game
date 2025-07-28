@@ -1,0 +1,55 @@
+
+ganning_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sf/0018
+  rotate: true
+  xy: 362, 157
+  size: 147, 148
+  orig: 280, 280
+  offset: 24, 110
+  index: -1
+sf/0020
+  rotate: true
+  xy: 2, 77
+  size: 224, 184
+  orig: 280, 280
+  offset: 48, 80
+  index: -1
+sf/0022
+  rotate: false
+  xy: 2, 303
+  size: 216, 200
+  orig: 280, 280
+  offset: 64, 53
+  index: -1
+sf/0024
+  rotate: true
+  xy: 220, 306
+  size: 197, 203
+  orig: 280, 280
+  offset: 83, 36
+  index: -1
+sf/0026
+  rotate: false
+  xy: 188, 116
+  size: 172, 185
+  orig: 280, 280
+  offset: 104, 35
+  index: -1
+sf/0028
+  rotate: true
+  xy: 188, 2
+  size: 112, 152
+  orig: 280, 280
+  offset: 153, 41
+  index: -1
+sf/0030
+  rotate: true
+  xy: 425, 467
+  size: 36, 85
+  orig: 280, 280
+  offset: 193, 74
+  index: -1

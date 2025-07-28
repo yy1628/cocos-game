@@ -1,0 +1,69 @@
+
+cacao_skill03_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jianxiong/0002
+  rotate: false
+  xy: 291, 169
+  size: 142, 162
+  orig: 350, 350
+  offset: 70, 101
+  index: -1
+jianxiong/0004
+  rotate: false
+  xy: 147, 168
+  size: 142, 163
+  orig: 350, 350
+  offset: 33, 84
+  index: -1
+jianxiong/0006
+  rotate: false
+  xy: 292, 333
+  size: 142, 163
+  orig: 350, 350
+  offset: 33, 48
+  index: -1
+jianxiong/0008
+  rotate: false
+  xy: 147, 3
+  size: 142, 163
+  orig: 350, 350
+  offset: 70, 30
+  index: -1
+jianxiong/0010
+  rotate: false
+  xy: 2, 332
+  size: 143, 164
+  orig: 350, 350
+  offset: 111, 25
+  index: -1
+jianxiong/0012
+  rotate: false
+  xy: 2, 167
+  size: 143, 163
+  orig: 350, 350
+  offset: 152, 30
+  index: -1
+jianxiong/0014
+  rotate: false
+  xy: 147, 333
+  size: 143, 163
+  orig: 350, 350
+  offset: 189, 48
+  index: -1
+jianxiong/0016
+  rotate: false
+  xy: 2, 2
+  size: 143, 163
+  orig: 350, 350
+  offset: 189, 84
+  index: -1
+jianxiong/0018
+  rotate: false
+  xy: 291, 18
+  size: 134, 149
+  orig: 350, 350
+  offset: 158, 102
+  index: -1

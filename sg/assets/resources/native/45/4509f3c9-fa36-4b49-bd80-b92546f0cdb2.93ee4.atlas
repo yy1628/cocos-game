@@ -1,0 +1,41 @@
+
+cacao_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jzsh/hit2/0001
+  rotate: false
+  xy: 198, 2
+  size: 153, 150
+  orig: 210, 210
+  offset: 36, 25
+  index: -1
+jzsh/hit2/0003
+  rotate: false
+  xy: 2, 292
+  size: 197, 195
+  orig: 210, 210
+  offset: 13, 2
+  index: -1
+jzsh/hit2/0005
+  rotate: false
+  xy: 2, 100
+  size: 194, 190
+  orig: 210, 210
+  offset: 15, 5
+  index: -1
+jzsh/hit2/0007
+  rotate: false
+  xy: 201, 313
+  size: 178, 174
+  orig: 210, 210
+  offset: 24, 14
+  index: -1
+jzsh/hit2/0009
+  rotate: false
+  xy: 201, 154
+  size: 162, 157
+  orig: 210, 210
+  offset: 35, 25
+  index: -1

@@ -1,0 +1,20 @@
+
+treasurechestrotation.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhuanguang 拷贝
+  rotate: true
+  xy: 126, 43
+  size: 81, 77
+  orig: 85, 81
+  offset: 2, 2
+  index: -1
+图层 7
+  rotate: false
+  xy: 2, 2
+  size: 122, 122
+  orig: 124, 124
+  offset: 1, 1
+  index: -1

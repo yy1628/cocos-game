@@ -1,0 +1,62 @@
+
+sunce_skill01_dd_up.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/dd/00000
+  rotate: false
+  xy: 223, 3
+  size: 103, 52
+  orig: 150, 150
+  offset: 24, 50
+  index: -1
+skill1/dd/00002
+  rotate: false
+  xy: 328, 2
+  size: 97, 52
+  orig: 150, 150
+  offset: 30, 50
+  index: -1
+skill1/dd/00004
+  rotate: false
+  xy: 332, 56
+  size: 102, 52
+  orig: 150, 150
+  offset: 25, 50
+  index: -1
+skill1/dd/00006
+  rotate: false
+  xy: 224, 57
+  size: 106, 51
+  orig: 150, 150
+  offset: 21, 51
+  index: -1
+skill1/dd/00008
+  rotate: false
+  xy: 2, 2
+  size: 109, 51
+  orig: 150, 150
+  offset: 18, 51
+  index: -1
+skill1/dd/00010
+  rotate: false
+  xy: 113, 57
+  size: 109, 51
+  orig: 150, 150
+  offset: 18, 51
+  index: -1
+skill1/dd/00012
+  rotate: false
+  xy: 113, 4
+  size: 108, 51
+  orig: 150, 150
+  offset: 19, 51
+  index: -1
+skill1/dd/00014
+  rotate: false
+  xy: 2, 55
+  size: 109, 53
+  orig: 150, 150
+  offset: 18, 50
+  index: -1

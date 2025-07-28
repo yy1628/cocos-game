@@ -1,0 +1,48 @@
+
+tongyong_sj01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00000
+  rotate: false
+  xy: 173, 406
+  size: 92, 92
+  orig: 200, 200
+  offset: 54, 54
+  index: -1
+00002
+  rotate: false
+  xy: 2, 328
+  size: 169, 170
+  orig: 200, 200
+  offset: 15, 15
+  index: -1
+00004
+  rotate: true
+  xy: 2, 156
+  size: 170, 168
+  orig: 200, 200
+  offset: 15, 18
+  index: -1
+00006
+  rotate: true
+  xy: 2, 2
+  size: 152, 145
+  orig: 200, 200
+  offset: 24, 23
+  index: -1
+00008
+  rotate: true
+  xy: 149, 37
+  size: 117, 112
+  orig: 200, 200
+  offset: 42, 49
+  index: -1
+00010
+  rotate: true
+  xy: 172, 212
+  size: 114, 111
+  orig: 200, 200
+  offset: 42, 50
+  index: -1

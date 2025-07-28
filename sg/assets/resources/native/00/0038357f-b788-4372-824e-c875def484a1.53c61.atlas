@@ -1,0 +1,76 @@
+
+victoryinbattle.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+944
+  rotate: false
+  xy: 2, 169
+  size: 321, 281
+  orig: 330, 311
+  offset: 4, 15
+  index: -1
+qi
+  rotate: true
+  xy: 834, 59
+  size: 157, 126
+  orig: 160, 129
+  offset: 0, 3
+  index: -1
+qi2
+  rotate: true
+  xy: 170, 16
+  size: 151, 129
+  orig: 154, 132
+  offset: 0, 3
+  index: -1
+sl01
+  rotate: true
+  xy: 718, 218
+  size: 232, 228
+  orig: 232, 228
+  offset: 0, 0
+  index: -1
+sl02
+  rotate: false
+  xy: 678, 62
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+wewfw
+  rotate: true
+  xy: 2, 2
+  size: 165, 166
+  orig: 256, 202
+  offset: 55, 26
+  index: -1
+星光
+  rotate: true
+  xy: 638, 176
+  size: 41, 38
+  orig: 44, 41
+  offset: 1, 1
+  index: -1
+流光/流光_00014
+  rotate: false
+  xy: 325, 219
+  size: 391, 231
+  orig: 512, 512
+  offset: 62, 155
+  index: -1
+组 20
+  rotate: false
+  xy: 301, 14
+  size: 196, 109
+  orig: 199, 111
+  offset: 2, 2
+  index: -1
+组 35 拷贝 6
+  rotate: false
+  xy: 325, 125
+  size: 311, 92
+  orig: 311, 92
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+staranimation.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yellow
+  rotate: true
+  xy: 79, 25
+  size: 51, 49
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+yellow-fx
+  rotate: false
+  xy: 2, 2
+  size: 75, 74
+  orig: 80, 79
+  offset: 2, 3
+  index: -1

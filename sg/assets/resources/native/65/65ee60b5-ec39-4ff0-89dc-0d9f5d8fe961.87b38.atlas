@@ -1,0 +1,118 @@
+
+enemymatchinganimation.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 534, 30
+  size: 74, 79
+  orig: 102, 81
+  offset: 3, 0
+  index: -1
+2-1
+  rotate: false
+  xy: 669, 88
+  size: 53, 60
+  orig: 57, 63
+  offset: 3, 0
+  index: -1
+3
+  rotate: false
+  xy: 268, 250
+  size: 26, 27
+  orig: 29, 28
+  offset: 1, 0
+  index: -1
+4
+  rotate: true
+  xy: 224, 246
+  size: 31, 20
+  orig: 35, 22
+  offset: 0, 1
+  index: -1
+5
+  rotate: false
+  xy: 202, 229
+  size: 19, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 202, 245
+  size: 20, 32
+  orig: 32, 34
+  offset: 3, 0
+  index: -1
+7
+  rotate: false
+  xy: 402, 12
+  size: 130, 97
+  orig: 144, 99
+  offset: 7, 1
+  index: -1
+8
+  rotate: true
+  xy: 246, 247
+  size: 30, 20
+  orig: 32, 22
+  offset: 2, 1
+  index: -1
+csd01
+  rotate: true
+  xy: 2, 226
+  size: 284, 98
+  orig: 284, 98
+  offset: 0, 0
+  index: -1
+csd02
+  rotate: true
+  xy: 102, 226
+  size: 284, 98
+  orig: 284, 98
+  offset: 0, 0
+  index: -1
+res.00854
+  rotate: true
+  xy: 223, 37
+  size: 206, 177
+  orig: 210, 210
+  offset: 2, 16
+  index: -1
+对战
+  rotate: true
+  xy: 610, 32
+  size: 116, 57
+  orig: 116, 57
+  offset: 0, 0
+  index: -1
+底光
+  rotate: false
+  xy: 402, 111
+  size: 166, 166
+  orig: 184, 184
+  offset: 9, 9
+  index: -1
+底模底
+  rotate: false
+  xy: 202, 279
+  size: 525, 231
+  orig: 525, 241
+  offset: 0, 6
+  index: -1
+放射光
+  rotate: true
+  xy: 2, 2
+  size: 222, 219
+  orig: 258, 260
+  offset: 15, 24
+  index: -1
+龙纹样
+  rotate: false
+  xy: 570, 150
+  size: 118, 127
+  orig: 118, 127
+  offset: 0, 0
+  index: -1

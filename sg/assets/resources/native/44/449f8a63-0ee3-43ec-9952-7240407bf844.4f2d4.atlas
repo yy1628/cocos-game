@@ -1,0 +1,272 @@
+
+yanliang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_body
+  rotate: true
+  xy: 549, 3
+  size: 97, 103
+  orig: 97, 103
+  offset: 0, 0
+  index: -1
+f_hair
+  rotate: true
+  xy: 295, 155
+  size: 146, 116
+  orig: 146, 116
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: false
+  xy: 161, 139
+  size: 132, 161
+  orig: 132, 161
+  offset: 0, 0
+  index: -1
+f_house_body
+  rotate: true
+  xy: 2, 77
+  size: 223, 157
+  orig: 223, 157
+  offset: 0, 0
+  index: -1
+f_house_neck
+  rotate: true
+  xy: 585, 403
+  size: 105, 133
+  orig: 105, 133
+  offset: 0, 0
+  index: -1
+f_housetail
+  rotate: false
+  xy: 429, 3
+  size: 118, 96
+  orig: 118, 96
+  offset: 0, 0
+  index: -1
+f_l_arm1
+  rotate: false
+  xy: 334, 6
+  size: 93, 85
+  orig: 93, 85
+  offset: 0, 0
+  index: -1
+f_l_arm2
+  rotate: true
+  xy: 219, 2
+  size: 82, 113
+  orig: 82, 113
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: false
+  xy: 331, 93
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1
+f_l_house_foreleg01
+  rotate: true
+  xy: 405, 101
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+f_l_house_foreleg02
+  rotate: false
+  xy: 698, 268
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+f_l_house_foreleg03
+  rotate: false
+  xy: 722, 318
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+f_l_house_foreleg04
+  rotate: true
+  xy: 681, 316
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+f_l_house_rearleg01
+  rotate: true
+  xy: 453, 310
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+f_l_house_rearleg02
+  rotate: true
+  xy: 642, 202
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+f_l_house_rearleg04
+  rotate: true
+  xy: 720, 416
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+f_l_shoulder
+  rotate: false
+  xy: 532, 196
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+f_m_head02
+  rotate: false
+  xy: 481, 102
+  size: 81, 73
+  orig: 81, 73
+  offset: 0, 0
+  index: -1
+f_m_horse_head
+  rotate: true
+  xy: 2, 302
+  size: 206, 191
+  orig: 206, 191
+  offset: 0, 0
+  index: -1
+f_m_neck01
+  rotate: true
+  xy: 2, 5
+  size: 70, 97
+  orig: 70, 97
+  offset: 0, 0
+  index: -1
+f_r_arm1
+  rotate: false
+  xy: 522, 310
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+f_r_arm2
+  rotate: false
+  xy: 599, 316
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+f_r_hand
+  rotate: true
+  xy: 642, 255
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+f_r_house_foreleg01
+  rotate: false
+  xy: 564, 119
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+f_r_house_foreleg02
+  rotate: false
+  xy: 641, 135
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+f_r_house_foreleg04
+  rotate: false
+  xy: 681, 354
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+f_r_house_rearleg01
+  rotate: true
+  xy: 369, 306
+  size: 66, 82
+  orig: 66, 82
+  offset: 0, 0
+  index: -1
+f_r_house_rearleg03
+  rotate: false
+  xy: 720, 462
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+f_r_house_rearleg04
+  rotate: false
+  xy: 692, 205
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+f_r_leg
+  rotate: true
+  xy: 260, 88
+  size: 49, 69
+  orig: 49, 69
+  offset: 0, 0
+  index: -1
+f_r_shoulder
+  rotate: false
+  xy: 466, 387
+  size: 117, 121
+  orig: 117, 121
+  offset: 0, 0
+  index: -1
+f_saddle
+  rotate: true
+  xy: 195, 371
+  size: 137, 134
+  orig: 137, 134
+  offset: 0, 0
+  index: -1
+f_skirt
+  rotate: false
+  xy: 101, 19
+  size: 116, 56
+  orig: 116, 56
+  offset: 0, 0
+  index: -1
+f_wq1
+  rotate: true
+  xy: 331, 374
+  size: 134, 133
+  orig: 134, 133
+  offset: 0, 0
+  index: -1
+f_wq2
+  rotate: false
+  xy: 284, 303
+  size: 83, 66
+  orig: 83, 66
+  offset: 0, 0
+  index: -1
+f_wq3
+  rotate: false
+  xy: 195, 305
+  size: 87, 64
+  orig: 87, 64
+  offset: 0, 0
+  index: -1
+f_wq4
+  rotate: false
+  xy: 161, 86
+  size: 97, 51
+  orig: 97, 51
+  offset: 0, 0
+  index: -1
+f_wq5
+  rotate: false
+  xy: 413, 177
+  size: 117, 127
+  orig: 117, 127
+  offset: 0, 0
+  index: -1

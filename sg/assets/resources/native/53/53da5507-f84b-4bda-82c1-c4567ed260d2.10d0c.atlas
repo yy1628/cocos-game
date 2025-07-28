@@ -1,0 +1,41 @@
+
+xiahoudun_skill04_sf_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xueyue/dilie/00000
+  rotate: true
+  xy: 385, 33
+  size: 170, 96
+  orig: 280, 280
+  offset: 29, 72
+  index: -1
+xueyue/dilie/00002
+  rotate: false
+  xy: 182, 90
+  size: 201, 113
+  orig: 280, 280
+  offset: 26, 67
+  index: -1
+xueyue/dilie/00004
+  rotate: true
+  xy: 2, 2
+  size: 219, 178
+  orig: 280, 280
+  offset: 15, 46
+  index: -1
+xueyue/dilie/00006
+  rotate: true
+  xy: 228, 205
+  size: 218, 205
+  orig: 280, 280
+  offset: 20, 47
+  index: -1
+xueyue/dilie/00008
+  rotate: false
+  xy: 2, 223
+  size: 224, 200
+  orig: 280, 280
+  offset: 17, 47
+  index: -1

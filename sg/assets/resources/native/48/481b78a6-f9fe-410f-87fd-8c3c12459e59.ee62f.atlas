@@ -1,0 +1,111 @@
+
+shenzhugeliang_skill01_buff_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/buff/s/0000
+  rotate: false
+  xy: 2, 198
+  size: 169, 203
+  orig: 320, 320
+  offset: 61, 74
+  index: -1
+sk1/buff/s/0010
+  rotate: false
+  xy: 2, 198
+  size: 169, 203
+  orig: 320, 320
+  offset: 61, 74
+  index: -1
+sk1/buff/s/0020
+  rotate: false
+  xy: 2, 198
+  size: 169, 203
+  orig: 320, 320
+  offset: 61, 74
+  index: -1
+sk1/buff/s/0002
+  rotate: false
+  xy: 347, 198
+  size: 155, 203
+  orig: 320, 320
+  offset: 75, 74
+  index: -1
+sk1/buff/s/0012
+  rotate: false
+  xy: 347, 198
+  size: 155, 203
+  orig: 320, 320
+  offset: 75, 74
+  index: -1
+sk1/buff/s/0022
+  rotate: false
+  xy: 347, 198
+  size: 155, 203
+  orig: 320, 320
+  offset: 75, 74
+  index: -1
+sk1/buff/s/0004
+  rotate: false
+  xy: 179, 6
+  size: 166, 199
+  orig: 320, 320
+  offset: 77, 78
+  index: -1
+sk1/buff/s/0014
+  rotate: false
+  xy: 179, 6
+  size: 166, 199
+  orig: 320, 320
+  offset: 77, 78
+  index: -1
+sk1/buff/s/0024
+  rotate: false
+  xy: 179, 6
+  size: 166, 199
+  orig: 320, 320
+  offset: 77, 78
+  index: -1
+sk1/buff/s/0006
+  rotate: false
+  xy: 173, 207
+  size: 172, 194
+  orig: 320, 320
+  offset: 73, 74
+  index: -1
+sk1/buff/s/0016
+  rotate: false
+  xy: 173, 207
+  size: 172, 194
+  orig: 320, 320
+  offset: 73, 74
+  index: -1
+sk1/buff/s/0026
+  rotate: false
+  xy: 173, 207
+  size: 172, 194
+  orig: 320, 320
+  offset: 73, 74
+  index: -1
+sk1/buff/s/0008
+  rotate: false
+  xy: 2, 2
+  size: 175, 194
+  orig: 320, 320
+  offset: 60, 74
+  index: -1
+sk1/buff/s/0018
+  rotate: false
+  xy: 2, 2
+  size: 175, 194
+  orig: 320, 320
+  offset: 60, 74
+  index: -1
+sk1/buff/s/0028
+  rotate: false
+  xy: 2, 2
+  size: 175, 194
+  orig: 320, 320
+  offset: 60, 74
+  index: -1

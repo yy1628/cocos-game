@@ -1,0 +1,55 @@
+
+huangzhong_skill04_dd_up.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill4/dandao/dd (1)
+  rotate: false
+  xy: 276, 82
+  size: 132, 38
+  orig: 750, 750
+  offset: 308, 354
+  index: -1
+skill4/dandao/dd (11)
+  rotate: false
+  xy: 141, 82
+  size: 133, 38
+  orig: 750, 750
+  offset: 307, 354
+  index: -1
+skill4/dandao/dd (13)
+  rotate: false
+  xy: 283, 2
+  size: 132, 38
+  orig: 750, 750
+  offset: 308, 354
+  index: -1
+skill4/dandao/dd (3)
+  rotate: false
+  xy: 283, 42
+  size: 132, 38
+  orig: 750, 750
+  offset: 308, 354
+  index: -1
+skill4/dandao/dd (5)
+  rotate: false
+  xy: 2, 74
+  size: 137, 46
+  orig: 750, 750
+  offset: 308, 354
+  index: -1
+skill4/dandao/dd (7)
+  rotate: false
+  xy: 140, 33
+  size: 141, 39
+  orig: 750, 750
+  offset: 303, 354
+  index: -1
+skill4/dandao/dd (9)
+  rotate: false
+  xy: 2, 29
+  size: 136, 43
+  orig: 750, 750
+  offset: 304, 352
+  index: -1

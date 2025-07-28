@@ -1,0 +1,69 @@
+
+guojia_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sf/qiu/00000
+  rotate: true
+  xy: 2, 260
+  size: 116, 117
+  orig: 140, 140
+  offset: 12, 12
+  index: -1
+sf/qiu/00002
+  rotate: true
+  xy: 346, 369
+  size: 112, 113
+  orig: 140, 140
+  offset: 14, 14
+  index: -1
+sf/qiu/00004
+  rotate: true
+  xy: 233, 371
+  size: 110, 111
+  orig: 140, 140
+  offset: 15, 15
+  index: -1
+sf/qiu/00006
+  rotate: true
+  xy: 124, 375
+  size: 106, 107
+  orig: 140, 140
+  offset: 17, 17
+  index: -1
+sf/zhua/00000
+  rotate: false
+  xy: 121, 242
+  size: 185, 127
+  orig: 280, 280
+  offset: 55, 99
+  index: -1
+sf/zhua/00002
+  rotate: false
+  xy: 204, 2
+  size: 220, 208
+  orig: 280, 280
+  offset: 31, 31
+  index: -1
+sf/zhua/00004
+  rotate: false
+  xy: 2, 42
+  size: 200, 198
+  orig: 280, 280
+  offset: 44, 33
+  index: -1
+sf/zhua/00006
+  rotate: false
+  xy: 308, 212
+  size: 157, 155
+  orig: 280, 280
+  offset: 78, 45
+  index: -1
+sf/zhua/00008
+  rotate: false
+  xy: 2, 378
+  size: 120, 103
+  orig: 280, 280
+  offset: 99, 69
+  index: -1

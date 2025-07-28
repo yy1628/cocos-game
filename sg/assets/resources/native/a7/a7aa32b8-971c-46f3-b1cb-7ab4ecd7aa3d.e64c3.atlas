@@ -1,0 +1,48 @@
+
+displayofartifactinbattle.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+101
+  rotate: true
+  xy: 2, 2
+  size: 76, 88
+  orig: 104, 104
+  offset: 16, 6
+  index: -1
+102
+  rotate: true
+  xy: 92, 10
+  size: 66, 87
+  orig: 104, 104
+  offset: 17, 8
+  index: -1
+103
+  rotate: false
+  xy: 2, 159
+  size: 102, 93
+  orig: 106, 104
+  offset: 4, 5
+  index: -1
+104
+  rotate: false
+  xy: 106, 78
+  size: 95, 84
+  orig: 104, 104
+  offset: 4, 11
+  index: -1
+105
+  rotate: true
+  xy: 2, 80
+  size: 77, 94
+  orig: 104, 104
+  offset: 10, 6
+  index: -1
+106
+  rotate: true
+  xy: 106, 164
+  size: 88, 93
+  orig: 104, 104
+  offset: 11, 7
+  index: -1

@@ -1,0 +1,41 @@
+
+zhangji_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dandao/dandao (1)
+  rotate: true
+  xy: 95, 173
+  size: 83, 338
+  orig: 300, 400
+  offset: 110, 26
+  index: -1
+dandao/dandao (3)
+  rotate: true
+  xy: 95, 2
+  size: 83, 332
+  orig: 300, 400
+  offset: 110, 32
+  index: -1
+dandao/dandao (5)
+  rotate: true
+  xy: 95, 87
+  size: 84, 334
+  orig: 300, 400
+  offset: 109, 30
+  index: -1
+dandao/dandao (7)
+  rotate: false
+  xy: 2, 4
+  size: 91, 338
+  orig: 300, 400
+  offset: 101, 26
+  index: -1
+dandao/dandao (9)
+  rotate: true
+  xy: 95, 258
+  size: 84, 342
+  orig: 300, 400
+  offset: 110, 22
+  index: -1

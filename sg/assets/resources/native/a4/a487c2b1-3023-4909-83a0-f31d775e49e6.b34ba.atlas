@@ -1,0 +1,48 @@
+
+wangping_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dg/youxia/dg (1)
+  rotate: false
+  xy: 2, 2
+  size: 160, 140
+  orig: 525, 525
+  offset: 204, 202
+  index: -1
+dg/youxia/dg (11)
+  rotate: false
+  xy: 184, 197
+  size: 183, 157
+  orig: 525, 525
+  offset: 188, 147
+  index: -1
+dg/youxia/dg (3)
+  rotate: true
+  xy: 176, 47
+  size: 148, 179
+  orig: 525, 525
+  offset: 216, 159
+  index: -1
+dg/youxia/dg (5)
+  rotate: false
+  xy: 2, 144
+  size: 172, 184
+  orig: 525, 525
+  offset: 195, 156
+  index: -1
+dg/youxia/dg (7)
+  rotate: false
+  xy: 2, 330
+  size: 180, 177
+  orig: 525, 525
+  offset: 189, 153
+  index: -1
+dg/youxia/dg (9)
+  rotate: false
+  xy: 184, 356
+  size: 190, 151
+  orig: 525, 525
+  offset: 186, 152
+  index: -1

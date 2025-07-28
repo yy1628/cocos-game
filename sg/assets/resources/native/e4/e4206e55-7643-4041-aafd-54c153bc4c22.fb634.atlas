@@ -1,0 +1,118 @@
+
+xiaoqiao_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sf/s/00007
+  rotate: true
+  xy: 167, 331
+  size: 151, 120
+  orig: 175, 175
+  offset: 12, 21
+  index: -1
+sf/s/00009
+  rotate: false
+  xy: 117, 143
+  size: 159, 109
+  orig: 175, 175
+  offset: 12, 28
+  index: -1
+sf/s/00011
+  rotate: false
+  xy: 2, 369
+  size: 163, 113
+  orig: 175, 175
+  offset: 8, 26
+  index: -1
+sf/s/00013
+  rotate: false
+  xy: 289, 378
+  size: 161, 104
+  orig: 175, 175
+  offset: 6, 32
+  index: -1
+sf/s/00015
+  rotate: true
+  xy: 2, 211
+  size: 156, 113
+  orig: 175, 175
+  offset: 7, 26
+  index: -1
+sf/s/00017
+  rotate: true
+  xy: 2, 57
+  size: 152, 109
+  orig: 175, 175
+  offset: 11, 28
+  index: -1
+sf/s/00019
+  rotate: true
+  xy: 278, 122
+  size: 133, 102
+  orig: 175, 175
+  offset: 21, 29
+  index: -1
+sf/s/00021
+  rotate: true
+  xy: 113, 2
+  size: 139, 97
+  orig: 175, 175
+  offset: 14, 34
+  index: -1
+sf/s/00023
+  rotate: false
+  xy: 212, 34
+  size: 135, 86
+  orig: 175, 175
+  offset: 14, 44
+  index: -1
+sf/s/00025
+  rotate: false
+  xy: 349, 42
+  size: 115, 78
+  orig: 175, 175
+  offset: 23, 51
+  index: -1
+sf/s/00027
+  rotate: true
+  xy: 117, 254
+  size: 113, 46
+  orig: 175, 175
+  offset: 31, 66
+  index: -1
+sf/x/00019
+  rotate: false
+  xy: 165, 266
+  size: 58, 18
+  orig: 175, 175
+  offset: 58, 61
+  index: -1
+sf/x/00021
+  rotate: false
+  xy: 276, 257
+  size: 92, 29
+  orig: 175, 175
+  offset: 41, 52
+  index: -1
+sf/x/00023
+  rotate: false
+  xy: 289, 335
+  size: 102, 41
+  orig: 175, 175
+  offset: 36, 42
+  index: -1
+sf/x/00025
+  rotate: false
+  xy: 165, 286
+  size: 109, 43
+  orig: 175, 175
+  offset: 32, 41
+  index: -1
+sf/x/00027
+  rotate: false
+  xy: 276, 288
+  size: 110, 41
+  orig: 175, 175
+  offset: 32, 40
+  index: -1

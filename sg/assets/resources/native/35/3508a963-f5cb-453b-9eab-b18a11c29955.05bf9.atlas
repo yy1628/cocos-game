@@ -1,0 +1,195 @@
+
+wangping.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_b_r_horse_leg1
+  rotate: false
+  xy: 447, 156
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+f_b_r_horse_leg2
+  rotate: false
+  xy: 529, 240
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+f_b_r_horse_leg3
+  rotate: false
+  xy: 541, 157
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+f_body
+  rotate: true
+  xy: 2, 2
+  size: 148, 146
+  orig: 148, 146
+  offset: 0, 0
+  index: -1
+f_f_l_horse_leg2
+  rotate: true
+  xy: 592, 378
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+f_f_l_horse_leg3
+  rotate: true
+  xy: 581, 209
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+f_f_r_horse_leg3
+  rotate: true
+  xy: 581, 209
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+f_f_r_horse_leg1
+  rotate: true
+  xy: 529, 110
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+f_f_r_horse_leg2
+  rotate: false
+  xy: 477, 84
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+f_fur
+  rotate: true
+  xy: 529, 201
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+f_hair
+  rotate: false
+  xy: 424, 302
+  size: 98, 73
+  orig: 98, 73
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: false
+  xy: 313, 12
+  size: 162, 141
+  orig: 162, 141
+  offset: 0, 0
+  index: -1
+f_horse_body
+  rotate: true
+  xy: 270, 299
+  size: 209, 152
+  orig: 209, 152
+  offset: 0, 0
+  index: -1
+f_horse_head
+  rotate: true
+  xy: 270, 155
+  size: 142, 175
+  orig: 142, 175
+  offset: 0, 0
+  index: -1
+f_horse_trail
+  rotate: false
+  xy: 424, 377
+  size: 119, 131
+  orig: 119, 131
+  offset: 0, 0
+  index: -1
+f_l_arm1
+  rotate: false
+  xy: 477, 14
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+f_l_arm2
+  rotate: false
+  xy: 497, 157
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: false
+  xy: 529, 68
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+f_l_shoulder
+  rotate: true
+  xy: 524, 302
+  size: 73, 71
+  orig: 73, 71
+  offset: 0, 0
+  index: -1
+f_r_arm1
+  rotate: true
+  xy: 545, 430
+  size: 78, 72
+  orig: 78, 72
+  offset: 0, 0
+  index: -1
+f_r_arm2
+  rotate: false
+  xy: 545, 377
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+f_r_foot
+  rotate: true
+  xy: 579, 251
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+f_r_hand
+  rotate: true
+  xy: 597, 331
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+f_r_leg
+  rotate: true
+  xy: 619, 431
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+f_r_shoulder
+  rotate: true
+  xy: 447, 201
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+f_saddle
+  rotate: false
+  xy: 150, 6
+  size: 161, 144
+  orig: 161, 144
+  offset: 0, 0
+  index: -1
+f_wq
+  rotate: true
+  xy: 2, 152
+  size: 356, 266
+  orig: 356, 266
+  offset: 0, 0
+  index: -1

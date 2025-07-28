@@ -1,0 +1,48 @@
+
+shenguanyu_skill03_buff_up.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff/0000
+  rotate: false
+  xy: 98, 10
+  size: 92, 66
+  orig: 200, 200
+  offset: 42, 64
+  index: -1
+buff/0002
+  rotate: false
+  xy: 2, 2
+  size: 94, 74
+  orig: 200, 200
+  offset: 52, 70
+  index: -1
+buff/0004
+  rotate: true
+  xy: 2, 78
+  size: 95, 78
+  orig: 200, 200
+  offset: 61, 64
+  index: -1
+buff/0006
+  rotate: false
+  xy: 2, 175
+  size: 109, 75
+  orig: 200, 200
+  offset: 49, 61
+  index: -1
+buff/0008
+  rotate: false
+  xy: 82, 78
+  size: 108, 75
+  orig: 200, 200
+  offset: 41, 61
+  index: -1
+buff/0010
+  rotate: true
+  xy: 113, 155
+  size: 95, 80
+  orig: 200, 200
+  offset: 42, 62
+  index: -1

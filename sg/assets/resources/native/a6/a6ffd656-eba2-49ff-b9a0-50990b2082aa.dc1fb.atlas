@@ -1,0 +1,111 @@
+
+zhaoyun_skill01_buff_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/Buff/bf (1)
+  rotate: false
+  xy: 372, 257
+  size: 115, 124
+  orig: 525, 525
+  offset: 201, 222
+  index: -1
+sk1/Buff/bf (11)
+  rotate: true
+  xy: 127, 131
+  size: 121, 127
+  orig: 525, 525
+  offset: 205, 224
+  index: -1
+sk1/Buff/bf (13)
+  rotate: false
+  xy: 130, 254
+  size: 121, 126
+  orig: 525, 525
+  offset: 205, 225
+  index: -1
+sk1/Buff/bf (15)
+  rotate: false
+  xy: 2, 126
+  size: 123, 126
+  orig: 525, 525
+  offset: 202, 225
+  index: -1
+sk1/Buff/bf (17)
+  rotate: false
+  xy: 2, 254
+  size: 126, 126
+  orig: 525, 525
+  offset: 200, 225
+  index: -1
+sk1/Buff/bf (19)
+  rotate: false
+  xy: 2, 382
+  size: 127, 127
+  orig: 525, 525
+  offset: 199, 225
+  index: -1
+sk1/Buff/bf (21)
+  rotate: true
+  xy: 2, 2
+  size: 122, 127
+  orig: 525, 525
+  offset: 199, 225
+  index: -1
+sk1/Buff/bf (23)
+  rotate: false
+  xy: 131, 2
+  size: 116, 127
+  orig: 525, 525
+  offset: 200, 224
+  index: -1
+sk1/Buff/bf (25)
+  rotate: false
+  xy: 370, 383
+  size: 117, 126
+  orig: 525, 525
+  offset: 200, 223
+  index: -1
+sk1/Buff/bf (27)
+  rotate: false
+  xy: 249, 5
+  size: 118, 124
+  orig: 525, 525
+  offset: 199, 223
+  index: -1
+sk1/Buff/bf (29)
+  rotate: false
+  xy: 369, 11
+  size: 115, 123
+  orig: 525, 525
+  offset: 200, 223
+  index: -1
+sk1/Buff/bf (3)
+  rotate: true
+  xy: 256, 136
+  size: 117, 123
+  orig: 525, 525
+  offset: 202, 223
+  index: -1
+sk1/Buff/bf (5)
+  rotate: false
+  xy: 251, 383
+  size: 117, 126
+  orig: 525, 525
+  offset: 203, 223
+  index: -1
+sk1/Buff/bf (7)
+  rotate: false
+  xy: 253, 255
+  size: 117, 126
+  orig: 525, 525
+  offset: 205, 223
+  index: -1
+sk1/Buff/bf (9)
+  rotate: false
+  xy: 131, 383
+  size: 118, 126
+  orig: 525, 525
+  offset: 206, 224
+  index: -1

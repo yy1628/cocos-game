@@ -1,0 +1,146 @@
+
+zhouyu_skill01_buff_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff/s/00000
+  rotate: false
+  xy: 126, 251
+  size: 130, 120
+  orig: 238, 238
+  offset: 53, 65
+  index: -1
+buff/s/00002
+  rotate: true
+  xy: 2, 152
+  size: 130, 121
+  orig: 238, 238
+  offset: 53, 64
+  index: -1
+buff/s/00004
+  rotate: false
+  xy: 125, 128
+  size: 130, 121
+  orig: 238, 238
+  offset: 53, 64
+  index: -1
+buff/s/00006
+  rotate: false
+  xy: 257, 125
+  size: 130, 121
+  orig: 238, 238
+  offset: 53, 64
+  index: -1
+buff/s/00008
+  rotate: true
+  xy: 389, 106
+  size: 130, 121
+  orig: 238, 238
+  offset: 53, 64
+  index: -1
+buff/s/00010
+  rotate: true
+  xy: 2, 20
+  size: 130, 121
+  orig: 238, 238
+  offset: 53, 64
+  index: -1
+buff/s/00012
+  rotate: false
+  xy: 125, 5
+  size: 130, 121
+  orig: 238, 238
+  offset: 53, 64
+  index: -1
+buff/s/00014
+  rotate: false
+  xy: 257, 2
+  size: 130, 121
+  orig: 238, 238
+  offset: 53, 64
+  index: -1
+buff/s/00016
+  rotate: false
+  xy: 258, 248
+  size: 130, 120
+  orig: 238, 238
+  offset: 53, 65
+  index: -1
+buff/s/00018
+  rotate: true
+  xy: 390, 238
+  size: 130, 120
+  orig: 238, 238
+  offset: 53, 65
+  index: -1
+buff/x/00000
+  rotate: false
+  xy: 2, 380
+  size: 96, 79
+  orig: 238, 238
+  offset: 71, 52
+  index: -1
+buff/x/00010
+  rotate: false
+  xy: 2, 380
+  size: 96, 79
+  orig: 238, 238
+  offset: 71, 52
+  index: -1
+buff/x/00002
+  rotate: false
+  xy: 100, 377
+  size: 98, 82
+  orig: 238, 238
+  offset: 70, 52
+  index: -1
+buff/x/00012
+  rotate: false
+  xy: 100, 377
+  size: 98, 82
+  orig: 238, 238
+  offset: 70, 52
+  index: -1
+buff/x/00004
+  rotate: false
+  xy: 200, 373
+  size: 106, 86
+  orig: 238, 238
+  offset: 66, 51
+  index: -1
+buff/x/00014
+  rotate: false
+  xy: 200, 373
+  size: 106, 86
+  orig: 238, 238
+  offset: 66, 51
+  index: -1
+buff/x/00006
+  rotate: false
+  xy: 308, 370
+  size: 114, 89
+  orig: 238, 238
+  offset: 62, 50
+  index: -1
+buff/x/00016
+  rotate: false
+  xy: 308, 370
+  size: 114, 89
+  orig: 238, 238
+  offset: 62, 50
+  index: -1
+buff/x/00018
+  rotate: false
+  xy: 2, 284
+  size: 122, 91
+  orig: 238, 238
+  offset: 58, 49
+  index: -1
+buff/x/00008
+  rotate: false
+  xy: 2, 284
+  size: 122, 91
+  orig: 238, 238
+  offset: 58, 49
+  index: -1

@@ -1,0 +1,48 @@
+
+WJ-yl-shifa-you.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/shifa/you_shang/dg1 (1)
+  rotate: false
+  xy: 2, 330
+  size: 212, 179
+  orig: 325, 325
+  offset: 82, 79
+  index: -1
+skill1/shifa/you_shang/dg1 (11)
+  rotate: true
+  xy: 353, 2
+  size: 161, 135
+  orig: 325, 325
+  offset: 109, 57
+  index: -1
+skill1/shifa/you_shang/dg1 (3)
+  rotate: true
+  xy: 216, 341
+  size: 168, 188
+  orig: 325, 325
+  offset: 126, 55
+  index: -1
+skill1/shifa/you_shang/dg1 (5)
+  rotate: true
+  xy: 216, 165
+  size: 174, 179
+  orig: 325, 325
+  offset: 120, 54
+  index: -1
+skill1/shifa/you_shang/dg1 (7)
+  rotate: false
+  xy: 2, 160
+  size: 174, 168
+  orig: 325, 325
+  offset: 117, 54
+  index: -1
+skill1/shifa/you_shang/dg1 (9)
+  rotate: false
+  xy: 178, 7
+  size: 173, 156
+  orig: 325, 325
+  offset: 112, 55
+  index: -1

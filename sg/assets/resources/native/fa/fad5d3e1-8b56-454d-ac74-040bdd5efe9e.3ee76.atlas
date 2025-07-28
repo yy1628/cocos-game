@@ -1,0 +1,216 @@
+
+mosimazhao.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_body
+  rotate: false
+  xy: 351, 135
+  size: 96, 100
+  orig: 97, 100
+  offset: 1, 0
+  index: -1
+f_cap
+  rotate: true
+  xy: 365, 421
+  size: 89, 74
+  orig: 89, 74
+  offset: 0, 0
+  index: -1
+f_foot1
+  rotate: false
+  xy: 326, 10
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+f_foot2
+  rotate: true
+  xy: 410, 242
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+f_hair1
+  rotate: true
+  xy: 351, 111
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+f_hair2
+  rotate: true
+  xy: 263, 108
+  size: 121, 86
+  orig: 121, 86
+  offset: 0, 0
+  index: -1
+f_hair3
+  rotate: true
+  xy: 450, 359
+  size: 77, 59
+  orig: 77, 59
+  offset: 0, 0
+  index: -1
+f_hair4
+  rotate: true
+  xy: 2, 2
+  size: 41, 97
+  orig: 41, 97
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: true
+  xy: 211, 356
+  size: 154, 152
+  orig: 154, 152
+  offset: 0, 0
+  index: -1
+f_hip
+  rotate: false
+  xy: 157, 7
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+f_l_arm1
+  rotate: true
+  xy: 449, 139
+  size: 69, 51
+  orig: 69, 51
+  offset: 0, 0
+  index: -1
+f_larm2
+  rotate: true
+  xy: 478, 3
+  size: 63, 105
+  orig: 63, 105
+  offset: 0, 0
+  index: -1
+f_leg1
+  rotate: true
+  xy: 263, 48
+  size: 58, 79
+  orig: 58, 79
+  offset: 0, 0
+  index: -1
+f_leg2
+  rotate: true
+  xy: 354, 5
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+f_lhand
+  rotate: true
+  xy: 296, 11
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+f_lshoulder
+  rotate: false
+  xy: 441, 438
+  size: 68, 72
+  orig: 68, 72
+  offset: 0, 0
+  index: -1
+f_rarm1
+  rotate: false
+  xy: 344, 52
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+f_rarm2
+  rotate: true
+  xy: 410, 277
+  size: 77, 62
+  orig: 77, 62
+  offset: 0, 0
+  index: -1
+f_rarm3
+  rotate: true
+  xy: 424, 68
+  size: 65, 113
+  orig: 65, 113
+  offset: 0, 0
+  index: -1
+f_rhand2
+  rotate: true
+  xy: 255, 2
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+f_rshoulder1
+  rotate: true
+  xy: 323, 237
+  size: 117, 85
+  orig: 117, 85
+  offset: 0, 0
+  index: -1
+f_rshoulder1-1
+  rotate: false
+  xy: 101, 4
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+f_rshoulder3
+  rotate: true
+  xy: 211, 231
+  size: 123, 110
+  orig: 123, 110
+  offset: 0, 0
+  index: -1
+f_skirt1
+  rotate: false
+  xy: 421, 2
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+f_skirt2
+  rotate: true
+  xy: 449, 210
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+f_skirt3
+  rotate: false
+  xy: 365, 356
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+f_skirt4
+  rotate: false
+  xy: 502, 155
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+f_skirt5
+  rotate: false
+  xy: 208, 7
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+f_wq1
+  rotate: true
+  xy: 2, 229
+  size: 281, 207
+  orig: 281, 207
+  offset: 0, 0
+  index: -1
+f_wq2
+  rotate: false
+  xy: 2, 45
+  size: 259, 182
+  orig: 259, 182
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+jiangqin.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_body
+  rotate: true
+  xy: 163, 134
+  size: 120, 92
+  orig: 120, 92
+  offset: 0, 0
+  index: -1
+f_book_1
+  rotate: false
+  xy: 262, 81
+  size: 66, 77
+  orig: 66, 77
+  offset: 0, 0
+  index: -1
+f_book_2
+  rotate: false
+  xy: 323, 168
+  size: 57, 86
+  orig: 57, 86
+  offset: 0, 0
+  index: -1
+f_book_3
+  rotate: true
+  xy: 344, 42
+  size: 38, 96
+  orig: 38, 96
+  offset: 0, 0
+  index: -1
+f_book_4
+  rotate: false
+  xy: 382, 177
+  size: 50, 77
+  orig: 50, 77
+  offset: 0, 0
+  index: -1
+f_book_5
+  rotate: true
+  xy: 257, 160
+  size: 94, 64
+  orig: 94, 64
+  offset: 0, 0
+  index: -1
+f_book_6
+  rotate: true
+  xy: 344, 2
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+f_clock
+  rotate: false
+  xy: 384, 122
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+f_foot
+  rotate: true
+  xy: 163, 30
+  size: 102, 97
+  orig: 102, 97
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: true
+  xy: 2, 41
+  size: 213, 159
+  orig: 213, 159
+  offset: 0, 0
+  index: -1
+f_l_arm
+  rotate: true
+  xy: 262, 20
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: false
+  xy: 2, 3
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+f_r_arm
+  rotate: false
+  xy: 330, 82
+  size: 52, 84
+  orig: 52, 84
+  offset: 0, 0
+  index: -1
+f_r_hand
+  rotate: true
+  xy: 46, 7
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1

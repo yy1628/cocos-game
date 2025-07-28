@@ -1,0 +1,650 @@
+
+xiahouyuan.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_arm01
+  rotate: false
+  xy: 223, 82
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+b_arm02
+  rotate: false
+  xy: 58, 190
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+b_arrow01
+  rotate: true
+  xy: 259, 233
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+b_arrow02
+  rotate: true
+  xy: 89, 204
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+b_b_skirt
+  rotate: false
+  xy: 215, 56
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+b_body
+  rotate: true
+  xy: 153, 217
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+b_cloak01
+  rotate: true
+  xy: 174, 122
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+b_cloak02
+  rotate: true
+  xy: 2, 78
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+b_crossbow01
+  rotate: true
+  xy: 119, 212
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+b_crossbow02
+  rotate: true
+  xy: 106, 33
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+b_crossbow03
+  rotate: true
+  xy: 200, 104
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+b_crossbow04
+  rotate: true
+  xy: 244, 232
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+b_crossbow05
+  rotate: true
+  xy: 230, 117
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+b_hair
+  rotate: false
+  xy: 155, 155
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+b_hand
+  rotate: false
+  xy: 230, 104
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+b_head
+  rotate: false
+  xy: 2, 27
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+b_hip
+  rotate: true
+  xy: 209, 78
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+b_l_arm01
+  rotate: false
+  xy: 210, 22
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+b_l_arm02
+  rotate: true
+  xy: 240, 138
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+b_l_foot
+  rotate: false
+  xy: 47, 78
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+b_l_hand
+  rotate: true
+  xy: 98, 78
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+b_l_leg01
+  rotate: false
+  xy: 240, 155
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+b_l_leg02
+  rotate: false
+  xy: 230, 197
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+b_l_max_blade01
+  rotate: false
+  xy: 188, 78
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+b_l_max_blade02
+  rotate: false
+  xy: 219, 138
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+b_l_scapula
+  rotate: false
+  xy: 165, 190
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+b_l_skirt
+  rotate: false
+  xy: 123, 190
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+b_max_arrow01
+  rotate: true
+  xy: 184, 158
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+b_max_arrow02
+  rotate: true
+  xy: 108, 146
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+b_max_crossbow01
+  rotate: false
+  xy: 103, 3
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+b_max_crossbow02
+  rotate: true
+  xy: 111, 104
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+b_max_crossbow03
+  rotate: true
+  xy: 39, 136
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+b_max_crossbow04
+  rotate: true
+  xy: 169, 43
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+b_max_crossbow05
+  rotate: true
+  xy: 2, 2
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+b_max_crossbow06-1
+  rotate: true
+  xy: 147, 190
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+b_max_crossbow07
+  rotate: false
+  xy: 25, 2
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+b_max_part02
+  rotate: true
+  xy: 92, 190
+  size: 12, 29
+  orig: 12, 29
+  offset: 0, 0
+  index: -1
+b_r_foot
+  rotate: false
+  xy: 59, 78
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+b_r_leg01
+  rotate: false
+  xy: 249, 121
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+b_r_leg02
+  rotate: false
+  xy: 155, 104
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+b_r_max_blade03
+  rotate: true
+  xy: 208, 162
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+b_r_max_blade04
+  rotate: true
+  xy: 199, 45
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+b_r_scapula
+  rotate: false
+  xy: 112, 78
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+b_r_skirt
+  rotate: false
+  xy: 249, 105
+  size: 12, 14
+  orig: 12, 16
+  offset: 0, 1
+  index: -1
+f_arrow01
+  rotate: true
+  xy: 86, 2
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+f_arrow02
+  rotate: true
+  xy: 174, 9
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+f_body
+  rotate: true
+  xy: 135, 40
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+f_cloak
+  rotate: false
+  xy: 40, 203
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+f_crossbow01
+  rotate: true
+  xy: 47, 88
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+f_crossbow02
+  rotate: true
+  xy: 2, 190
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+f_crossbow03
+  rotate: false
+  xy: 164, 78
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+f_crossbow04
+  rotate: false
+  xy: 257, 164
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+f_f_skirt
+  rotate: false
+  xy: 232, 62
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+f_hair
+  rotate: true
+  xy: 144, 114
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+f_hand
+  rotate: false
+  xy: 2, 133
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+f_hip
+  rotate: true
+  xy: 216, 197
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+f_l_arm01
+  rotate: false
+  xy: 225, 35
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+f_l_arm02
+  rotate: true
+  xy: 75, 190
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+f_l_arm02-2
+  rotate: false
+  xy: 256, 139
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+f_l_f_r_scapula
+  rotate: false
+  xy: 138, 78
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+f_l_foot
+  rotate: false
+  xy: 71, 78
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+f_l_hand02
+  rotate: false
+  xy: 225, 162
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+f_l_head
+  rotate: true
+  xy: 225, 22
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+f_l_leg01
+  rotate: true
+  xy: 246, 179
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+f_l_leg02
+  rotate: false
+  xy: 165, 104
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+f_l_max_blade01
+  rotate: true
+  xy: 251, 209
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+f_l_max_blade02
+  rotate: false
+  xy: 220, 232
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+f_l_skirt
+  rotate: true
+  xy: 40, 190
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+f_max_arrow01
+  rotate: true
+  xy: 135, 3
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+f_max_arrow02
+  rotate: true
+  xy: 76, 30
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+f_max_crossbow01
+  rotate: true
+  xy: 78, 91
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+f_max_crossbow02
+  rotate: true
+  xy: 42, 30
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+f_max_crossbow03
+  rotate: true
+  xy: 76, 143
+  size: 45, 30
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+f_max_crossbow04
+  rotate: true
+  xy: 225, 173
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+f_max_crossbow05
+  rotate: false
+  xy: 175, 104
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+f_max_crossbow05-2
+  rotate: false
+  xy: 175, 104
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+f_max_crossbow06
+  rotate: false
+  xy: 187, 222
+  size: 31, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+f_max_crossbow07
+  rotate: false
+  xy: 65, 2
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+f_max_part01
+  rotate: true
+  xy: 139, 150
+  size: 38, 14
+  orig: 38, 14
+  offset: 0, 0
+  index: -1
+f_max_part01-1
+  rotate: true
+  xy: 198, 9
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1
+f_max_part01-2
+  rotate: false
+  xy: 76, 137
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+f_max_part02
+  rotate: false
+  xy: 43, 2
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+f_r_arm01
+  rotate: false
+  xy: 210, 2
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+f_r_arm02
+  rotate: true
+  xy: 229, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+f_r_foot
+  rotate: false
+  xy: 241, 197
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+f_r_head
+  rotate: false
+  xy: 82, 78
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+f_r_leg01
+  rotate: false
+  xy: 238, 86
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+f_r_leg02
+  rotate: false
+  xy: 144, 104
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+f_r_max_blade01
+  rotate: true
+  xy: 195, 191
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+f_r_max_blade02
+  rotate: true
+  xy: 155, 3
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+f_r_scapula
+  rotate: true
+  xy: 192, 128
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+f_r_skirt
+  rotate: true
+  xy: 230, 208
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1

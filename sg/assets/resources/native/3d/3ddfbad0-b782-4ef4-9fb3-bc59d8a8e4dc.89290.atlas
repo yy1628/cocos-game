@@ -1,0 +1,181 @@
+
+liaohua.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 375, 6
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 2
+  size: 14, 46
+  orig: 14, 46
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 428, 4
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 730, 128
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+f_body
+  rotate: false
+  xy: 464, 108
+  size: 130, 146
+  orig: 130, 146
+  offset: 0, 0
+  index: -1
+f_dun
+  rotate: true
+  xy: 291, 108
+  size: 146, 171
+  orig: 146, 171
+  offset: 0, 0
+  index: -1
+f_hand
+  rotate: true
+  xy: 2, 85
+  size: 169, 287
+  orig: 169, 287
+  offset: 0, 0
+  index: -1
+f_l_arm1
+  rotate: false
+  xy: 241, 10
+  size: 68, 73
+  orig: 68, 73
+  offset: 0, 0
+  index: -1
+f_l_arm2
+  rotate: true
+  xy: 700, 208
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+f_l_foot
+  rotate: false
+  xy: 696, 112
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: false
+  xy: 621, 3
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+f_l_leg1
+  rotate: false
+  xy: 375, 32
+  size: 77, 54
+  orig: 77, 54
+  offset: 0, 0
+  index: -1
+f_l_leg2
+  rotate: false
+  xy: 700, 166
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+f_l_wq
+  rotate: true
+  xy: 2, 18
+  size: 65, 152
+  orig: 65, 152
+  offset: 0, 0
+  index: -1
+f_r_arm2
+  rotate: true
+  xy: 683, 61
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+f_r_arn1
+  rotate: false
+  xy: 311, 8
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+f_r_foot
+  rotate: false
+  xy: 736, 171
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+f_r_hand
+  rotate: true
+  xy: 724, 9
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+f_r_leg1
+  rotate: true
+  xy: 156, 15
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+f_r_leg2
+  rotate: true
+  xy: 678, 2
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+f_r_sholder
+  rotate: false
+  xy: 596, 141
+  size: 102, 113
+  orig: 102, 113
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 460, 21
+  size: 159, 85
+  orig: 244, 159
+  offset: 43, 34
+  index: -1
+wq1
+  rotate: false
+  xy: 621, 41
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+wq2
+  rotate: true
+  xy: 596, 112
+  size: 27, 98
+  orig: 27, 98
+  offset: 0, 0
+  index: -1
+wq3
+  rotate: true
+  xy: 291, 88
+  size: 18, 167
+  orig: 18, 167
+  offset: 0, 0
+  index: -1

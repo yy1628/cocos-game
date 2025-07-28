@@ -1,0 +1,83 @@
+
+zhenjunnuhou_xia.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/zhenhou/zhenhou3_0
+  rotate: false
+  xy: 2, 338
+  size: 166, 110
+  orig: 166, 110
+  offset: 0, 0
+  index: -1
+effect/zhenhou/zhenhou3_10
+  rotate: false
+  xy: 338, 338
+  size: 166, 110
+  orig: 166, 110
+  offset: 0, 0
+  index: -1
+effect/zhenhou/zhenhou3_12
+  rotate: false
+  xy: 2, 2
+  size: 166, 110
+  orig: 166, 110
+  offset: 0, 0
+  index: -1
+effect/zhenhou/zhenhou3_14
+  rotate: false
+  xy: 170, 114
+  size: 166, 110
+  orig: 166, 110
+  offset: 0, 0
+  index: -1
+effect/zhenhou/zhenhou3_16
+  rotate: false
+  xy: 338, 226
+  size: 166, 110
+  orig: 166, 110
+  offset: 0, 0
+  index: -1
+effect/zhenhou/zhenhou3_18
+  rotate: false
+  xy: 170, 2
+  size: 166, 110
+  orig: 166, 110
+  offset: 0, 0
+  index: -1
+effect/zhenhou/zhenhou3_2
+  rotate: false
+  xy: 2, 226
+  size: 166, 110
+  orig: 166, 110
+  offset: 0, 0
+  index: -1
+effect/zhenhou/zhenhou3_20
+  rotate: false
+  xy: 338, 114
+  size: 166, 110
+  orig: 166, 110
+  offset: 0, 0
+  index: -1
+effect/zhenhou/zhenhou3_4
+  rotate: false
+  xy: 170, 338
+  size: 166, 110
+  orig: 166, 110
+  offset: 0, 0
+  index: -1
+effect/zhenhou/zhenhou3_6
+  rotate: false
+  xy: 2, 114
+  size: 166, 110
+  orig: 166, 110
+  offset: 0, 0
+  index: -1
+effect/zhenhou/zhenhou3_8
+  rotate: false
+  xy: 170, 226
+  size: 166, 110
+  orig: 166, 110
+  offset: 0, 0
+  index: -1

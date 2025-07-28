@@ -1,0 +1,132 @@
+
+shenzhugeliang_skill01_sf_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/sf/x/0002
+  rotate: false
+  xy: 454, 295
+  size: 53, 40
+  orig: 222, 222
+  offset: 87, 63
+  index: -1
+sk1/sf/x/0004
+  rotate: false
+  xy: 2, 2
+  size: 112, 90
+  orig: 222, 222
+  offset: 59, 30
+  index: -1
+sk1/sf/x/0006
+  rotate: true
+  xy: 408, 124
+  size: 126, 93
+  orig: 222, 222
+  offset: 51, 28
+  index: -1
+sk1/sf/x/0008
+  rotate: false
+  xy: 258, 4
+  size: 137, 104
+  orig: 222, 222
+  offset: 47, 19
+  index: -1
+sk1/sf/x/0010
+  rotate: true
+  xy: 211, 110
+  size: 140, 109
+  orig: 222, 222
+  offset: 45, 15
+  index: -1
+sk1/sf/x/0012
+  rotate: true
+  xy: 2, 94
+  size: 142, 111
+  orig: 222, 222
+  offset: 44, 14
+  index: -1
+sk1/sf/x/0014
+  rotate: false
+  xy: 2, 238
+  size: 143, 94
+  orig: 222, 222
+  offset: 44, 31
+  index: -1
+sk1/sf/x/0016
+  rotate: true
+  xy: 115, 95
+  size: 141, 94
+  orig: 222, 222
+  offset: 44, 31
+  index: -1
+sk1/sf/x/0018
+  rotate: true
+  xy: 322, 111
+  size: 139, 84
+  orig: 222, 222
+  offset: 45, 41
+  index: -1
+sk1/sf/x/0020
+  rotate: false
+  xy: 309, 252
+  size: 143, 83
+  orig: 222, 222
+  offset: 43, 42
+  index: -1
+sk1/sf/x/0022
+  rotate: false
+  xy: 159, 252
+  size: 148, 84
+  orig: 222, 222
+  offset: 40, 41
+  index: -1
+sk1/sf/x/0024
+  rotate: false
+  xy: 159, 338
+  size: 152, 83
+  orig: 222, 222
+  offset: 37, 41
+  index: -1
+sk1/sf/x/0026
+  rotate: false
+  xy: 333, 337
+  size: 156, 85
+  orig: 222, 222
+  offset: 35, 40
+  index: -1
+sk1/sf/x/0028
+  rotate: false
+  xy: 333, 424
+  size: 161, 85
+  orig: 222, 222
+  offset: 32, 40
+  index: -1
+sk1/sf/x/0030
+  rotate: false
+  xy: 168, 423
+  size: 163, 86
+  orig: 222, 222
+  offset: 30, 40
+  index: -1
+sk1/sf/x/0032
+  rotate: false
+  xy: 2, 423
+  size: 164, 86
+  orig: 222, 222
+  offset: 29, 40
+  index: -1
+sk1/sf/x/0034
+  rotate: false
+  xy: 2, 334
+  size: 155, 87
+  orig: 222, 222
+  offset: 38, 40
+  index: -1
+sk1/sf/x/0036
+  rotate: false
+  xy: 116, 7
+  size: 140, 86
+  orig: 222, 222
+  offset: 44, 40
+  index: -1

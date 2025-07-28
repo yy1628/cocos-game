@@ -1,0 +1,62 @@
+
+shenzhangfei_skill03_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk3/00000
+  rotate: false
+  xy: 2, 310
+  size: 221, 199
+  orig: 320, 320
+  offset: 50, 44
+  index: -1
+sk3/00002
+  rotate: false
+  xy: 2, 121
+  size: 221, 187
+  orig: 320, 320
+  offset: 50, 53
+  index: -1
+sk3/00004
+  rotate: false
+  xy: 225, 330
+  size: 215, 179
+  orig: 320, 320
+  offset: 51, 59
+  index: -1
+sk3/00006
+  rotate: false
+  xy: 225, 174
+  size: 188, 154
+  orig: 320, 320
+  offset: 62, 73
+  index: -1
+sk3/00008
+  rotate: false
+  xy: 225, 37
+  size: 163, 135
+  orig: 320, 320
+  offset: 74, 83
+  index: -1
+sk3/00010
+  rotate: false
+  xy: 2, 2
+  size: 148, 117
+  orig: 320, 320
+  offset: 83, 93
+  index: -1
+sk3/00012
+  rotate: true
+  xy: 390, 38
+  size: 134, 102
+  orig: 320, 320
+  offset: 88, 101
+  index: -1
+sk3/00014
+  rotate: true
+  xy: 152, 35
+  size: 84, 63
+  orig: 320, 320
+  offset: 121, 126
+  index: -1

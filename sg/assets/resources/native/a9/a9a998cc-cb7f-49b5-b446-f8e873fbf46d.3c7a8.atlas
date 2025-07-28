@@ -1,0 +1,139 @@
+
+ganning.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_belt01
+  rotate: true
+  xy: 508, 2
+  size: 84, 25
+  orig: 84, 25
+  offset: 0, 0
+  index: -1
+f_belt02
+  rotate: false
+  xy: 532, 125
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+f_body
+  rotate: true
+  xy: 372, 3
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+f_hair01
+  rotate: true
+  xy: 212, 7
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+f_hair02
+  rotate: true
+  xy: 321, 86
+  size: 168, 155
+  orig: 168, 155
+  offset: 0, 0
+  index: -1
+f_l_arm01
+  rotate: true
+  xy: 585, 189
+  size: 65, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+f_l_arm02
+  rotate: false
+  xy: 601, 122
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: true
+  xy: 609, 77
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+f_l_leg01
+  rotate: true
+  xy: 532, 177
+  size: 77, 51
+  orig: 77, 51
+  offset: 0, 0
+  index: -1
+f_l_leg02
+  rotate: true
+  xy: 525, 89
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+f_r_arm02
+  rotate: false
+  xy: 460, 5
+  size: 46, 79
+  orig: 46, 79
+  offset: 0, 0
+  index: -1
+f_r_leg01
+  rotate: false
+  xy: 2, 2
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+f_r_leg02
+  rotate: true
+  xy: 478, 88
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+f_r_shoulder
+  rotate: false
+  xy: 71, 6
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+f_ribbon01
+  rotate: false
+  xy: 535, 2
+  size: 72, 85
+  orig: 72, 85
+  offset: 0, 0
+  index: -1
+f_ribbon02
+  rotate: false
+  xy: 478, 119
+  size: 52, 135
+  orig: 52, 135
+  offset: 0, 0
+  index: -1
+f_skirt
+  rotate: false
+  xy: 258, 8
+  size: 112, 58
+  orig: 112, 58
+  offset: 0, 0
+  index: -1
+f_weapon
+  rotate: false
+  xy: 2, 68
+  size: 317, 186
+  orig: 318, 186
+  offset: 1, 0
+  index: -1
+shoubi
+  rotate: true
+  xy: 153, 7
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1

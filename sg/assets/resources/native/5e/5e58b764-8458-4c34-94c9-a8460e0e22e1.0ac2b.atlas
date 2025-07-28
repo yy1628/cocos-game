@@ -1,0 +1,48 @@
+
+liuefeng_attack_buff_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Buff/b (1)
+  rotate: false
+  xy: 146, 15
+  size: 143, 160
+  orig: 750, 750
+  offset: 302, 324
+  index: -1
+Buff/b (11)
+  rotate: false
+  xy: 291, 21
+  size: 141, 162
+  orig: 750, 750
+  offset: 303, 325
+  index: -1
+Buff/b (3)
+  rotate: false
+  xy: 291, 185
+  size: 144, 164
+  orig: 750, 750
+  offset: 301, 324
+  index: -1
+Buff/b (5)
+  rotate: false
+  xy: 2, 177
+  size: 144, 172
+  orig: 750, 750
+  offset: 301, 324
+  index: -1
+Buff/b (7)
+  rotate: false
+  xy: 2, 2
+  size: 142, 173
+  orig: 750, 750
+  offset: 302, 326
+  index: -1
+Buff/b (9)
+  rotate: false
+  xy: 148, 177
+  size: 141, 172
+  orig: 750, 750
+  offset: 302, 325
+  index: -1

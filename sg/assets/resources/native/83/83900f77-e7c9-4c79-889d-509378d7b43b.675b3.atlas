@@ -1,0 +1,104 @@
+
+smog01.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: true
+  xy: 535, 53
+  size: 89, 74
+  orig: 89, 74
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 184, 2
+  size: 129, 108
+  orig: 129, 108
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 184, 112
+  size: 142, 124
+  orig: 142, 124
+  offset: 0, 0
+  index: -1
+FX1
+  rotate: true
+  xy: 2, 42
+  size: 212, 180
+  orig: 214, 183
+  offset: 1, 2
+  index: -1
+pose1
+  rotate: false
+  xy: 535, 2
+  size: 55, 49
+  orig: 57, 56
+  offset: 2, 0
+  index: -1
+pose2
+  rotate: true
+  xy: 592, 2
+  size: 49, 53
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: true
+  xy: 611, 71
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+新建文件夹/Sparks 076 Impact Explosion Radial_00000
+  rotate: false
+  xy: 2, 10
+  size: 30, 30
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+新建文件夹/Sparks 076 Impact Explosion Radial_00001
+  rotate: true
+  xy: 611, 123
+  size: 53, 47
+  orig: 74, 59
+  offset: 15, 8
+  index: -1
+新建文件夹/Sparks 076 Impact Explosion Radial_00002
+  rotate: false
+  xy: 551, 178
+  size: 76, 76
+  orig: 84, 85
+  offset: 2, 5
+  index: -1
+新建文件夹/Sparks 076 Impact Explosion Radial_00003
+  rotate: false
+  xy: 431, 36
+  size: 102, 106
+  orig: 126, 124
+  offset: 13, 10
+  index: -1
+新建文件夹/Sparks 076 Impact Explosion Radial_00005
+  rotate: false
+  xy: 427, 144
+  size: 122, 110
+  orig: 136, 126
+  offset: 11, 10
+  index: -1
+新建文件夹/Sparks 076 Impact Explosion Radial_00006
+  rotate: true
+  xy: 315, 9
+  size: 122, 114
+  orig: 126, 122
+  offset: 2, 2
+  index: -1
+新建文件夹/Sparks 076 Impact Explosion Radial_00007
+  rotate: true
+  xy: 310, 133
+  size: 121, 115
+  orig: 160, 160
+  offset: 38, 38
+  index: -1

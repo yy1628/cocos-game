@@ -1,0 +1,20 @@
+
+risingstaraperture.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 318, 3
+  size: 314, 311
+  orig: 396, 396
+  offset: 41, 42
+  index: -1
+JO8N9W52TUBBF
+  rotate: false
+  xy: 2, 2
+  size: 314, 315
+  orig: 384, 384
+  offset: 36, 33
+  index: -1

@@ -1,0 +1,97 @@
+
+diaochan_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/hit/sk1 (1)
+  rotate: true
+  xy: 126, 13
+  size: 100, 94
+  orig: 275, 331
+  offset: 90, 201
+  index: -1
+skill1/hit/sk1 (11)
+  rotate: true
+  xy: 141, 353
+  size: 136, 126
+  orig: 275, 331
+  offset: 78, 94
+  index: -1
+skill1/hit/sk1 (13)
+  rotate: false
+  xy: 2, 231
+  size: 124, 130
+  orig: 275, 331
+  offset: 77, 92
+  index: -1
+skill1/hit/sk1 (15)
+  rotate: false
+  xy: 2, 98
+  size: 122, 131
+  orig: 275, 331
+  offset: 76, 92
+  index: -1
+skill1/hit/sk1 (17)
+  rotate: false
+  xy: 255, 221
+  size: 121, 130
+  orig: 275, 331
+  offset: 76, 93
+  index: -1
+skill1/hit/sk1 (19)
+  rotate: false
+  xy: 269, 370
+  size: 120, 119
+  orig: 275, 331
+  offset: 77, 103
+  index: -1
+skill1/hit/sk1 (21)
+  rotate: true
+  xy: 232, 117
+  size: 102, 112
+  orig: 275, 331
+  offset: 93, 102
+  index: -1
+skill1/hit/sk1 (23)
+  rotate: false
+  xy: 346, 109
+  size: 101, 110
+  orig: 275, 331
+  offset: 94, 102
+  index: -1
+skill1/hit/sk1 (25)
+  rotate: false
+  xy: 232, 11
+  size: 98, 104
+  orig: 275, 331
+  offset: 96, 103
+  index: -1
+skill1/hit/sk1 (3)
+  rotate: false
+  xy: 2, 2
+  size: 100, 94
+  orig: 275, 331
+  offset: 90, 160
+  index: -1
+skill1/hit/sk1 (5)
+  rotate: true
+  xy: 126, 115
+  size: 110, 104
+  orig: 275, 331
+  offset: 87, 107
+  index: -1
+skill1/hit/sk1 (7)
+  rotate: false
+  xy: 128, 227
+  size: 125, 124
+  orig: 275, 331
+  offset: 79, 97
+  index: -1
+skill1/hit/sk1 (9)
+  rotate: false
+  xy: 2, 363
+  size: 137, 126
+  orig: 275, 331
+  offset: 77, 96
+  index: -1

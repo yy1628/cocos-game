@@ -1,0 +1,139 @@
+
+unlockanimation.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Energy 096 Impact Explosion Radial MIX/Energy 096 Impact Explosion Radial MIX_00000
+  rotate: false
+  xy: 283, 13
+  size: 106, 113
+  orig: 250, 250
+  offset: 81, 57
+  index: -1
+Energy 096 Impact Explosion Radial MIX/Energy 096 Impact Explosion Radial MIX_00001
+  rotate: false
+  xy: 429, 235
+  size: 199, 197
+  orig: 250, 250
+  offset: 25, 29
+  index: -1
+Energy 096 Impact Explosion Radial MIX/Energy 096 Impact Explosion Radial MIX_00002
+  rotate: true
+  xy: 429, 434
+  size: 208, 209
+  orig: 250, 250
+  offset: 20, 21
+  index: -1
+Energy 096 Impact Explosion Radial MIX/Energy 096 Impact Explosion Radial MIX_00003
+  rotate: false
+  xy: 2, 432
+  size: 213, 210
+  orig: 250, 250
+  offset: 19, 21
+  index: -1
+Energy 096 Impact Explosion Radial MIX/Energy 096 Impact Explosion Radial MIX_00004
+  rotate: true
+  xy: 217, 433
+  size: 209, 210
+  orig: 250, 250
+  offset: 20, 21
+  index: -1
+Energy 096 Impact Explosion Radial MIX/Energy 096 Impact Explosion Radial MIX_00005
+  rotate: false
+  xy: 640, 441
+  size: 202, 201
+  orig: 250, 250
+  offset: 23, 24
+  index: -1
+Energy 096 Impact Explosion Radial MIX/Energy 096 Impact Explosion Radial MIX_00006
+  rotate: false
+  xy: 217, 242
+  size: 202, 189
+  orig: 250, 250
+  offset: 21, 27
+  index: -1
+Energy 096 Impact Explosion Radial MIX/Energy 096 Impact Explosion Radial MIX_00007
+  rotate: true
+  xy: 640, 233
+  size: 206, 193
+  orig: 250, 250
+  offset: 17, 25
+  index: -1
+Energy 096 Impact Explosion Radial MIX/Energy 096 Impact Explosion Radial MIX_00008
+  rotate: true
+  xy: 835, 142
+  size: 185, 186
+  orig: 250, 250
+  offset: 24, 28
+  index: -1
+Energy 096 Impact Explosion Radial MIX/Energy 096 Impact Explosion Radial MIX_00009
+  rotate: false
+  xy: 844, 483
+  size: 159, 159
+  orig: 250, 250
+  offset: 45, 46
+  index: -1
+Energy 096 Impact Explosion Radial MIX/Energy 096 Impact Explosion Radial MIX_00010
+  rotate: false
+  xy: 844, 329
+  size: 154, 152
+  orig: 250, 250
+  offset: 48, 49
+  index: -1
+Energy 096 Impact Explosion Radial MIX/Energy 096 Impact Explosion Radial MIX_00011
+  rotate: false
+  xy: 2, 130
+  size: 149, 148
+  orig: 250, 250
+  offset: 51, 51
+  index: -1
+Energy 096 Impact Explosion Radial MIX/Energy 096 Impact Explosion Radial MIX_00012
+  rotate: false
+  xy: 2, 280
+  size: 150, 150
+  orig: 250, 250
+  offset: 50, 50
+  index: -1
+glow
+  rotate: false
+  xy: 283, 128
+  size: 112, 112
+  orig: 116, 116
+  offset: 2, 2
+  index: -1
+glow_57_a
+  rotate: false
+  xy: 153, 112
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow_57_b
+  rotate: false
+  xy: 2, 2
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+glow__02
+  rotate: true
+  xy: 397, 123
+  size: 110, 113
+  orig: 128, 128
+  offset: 9, 7
+  index: -1
+icon_suo01
+  rotate: true
+  xy: 1000, 452
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 154, 380
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1

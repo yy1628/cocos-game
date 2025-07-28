@@ -1,0 +1,132 @@
+
+panzhang.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_body
+  rotate: true
+  xy: 544, 139
+  size: 115, 109
+  orig: 115, 109
+  offset: 0, 0
+  index: -1
+f_cloak
+  rotate: false
+  xy: 723, 119
+  size: 46, 46
+  orig: 222, 175
+  offset: 88, 64
+  index: -1
+f_head
+  rotate: false
+  xy: 131, 75
+  size: 145, 179
+  orig: 145, 179
+  offset: 0, 0
+  index: -1
+f_l_arm01
+  rotate: true
+  xy: 259, 20
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+f_l_arm02
+  rotate: true
+  xy: 655, 167
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+f_l_frisbee
+  rotate: false
+  xy: 417, 102
+  size: 125, 152
+  orig: 125, 152
+  offset: 0, 0
+  index: -1
+f_l_leg01
+  rotate: false
+  xy: 729, 72
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+f_l_leg02
+  rotate: true
+  xy: 722, 4
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+f_l_shoulder
+  rotate: true
+  xy: 335, 5
+  size: 79, 97
+  orig: 79, 97
+  offset: 0, 0
+  index: -1
+f_r_arm01
+  rotate: true
+  xy: 655, 108
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+f_r_arm02
+  rotate: false
+  xy: 566, 14
+  size: 107, 86
+  orig: 107, 86
+  offset: 0, 0
+  index: -1
+f_r_frisbee
+  rotate: false
+  xy: 278, 86
+  size: 137, 168
+  orig: 137, 168
+  offset: 0, 0
+  index: -1
+f_r_leg01
+  rotate: true
+  xy: 675, 44
+  size: 62, 52
+  orig: 62, 52
+  offset: 0, 0
+  index: -1
+f_r_leg02
+  rotate: true
+  xy: 675, 2
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+f_r_shoulder
+  rotate: false
+  xy: 434, 3
+  size: 130, 97
+  orig: 130, 97
+  offset: 0, 0
+  index: -1
+f_skirt01
+  rotate: true
+  xy: 544, 102
+  size: 35, 67
+  orig: 35, 67
+  offset: 0, 0
+  index: -1
+f_skirt02
+  rotate: false
+  xy: 131, 9
+  size: 126, 64
+  orig: 126, 64
+  offset: 0, 0
+  index: -1
+gezi
+  rotate: true
+  xy: 2, 4
+  size: 250, 127
+  orig: 255, 153
+  offset: 0, 15
+  index: -1

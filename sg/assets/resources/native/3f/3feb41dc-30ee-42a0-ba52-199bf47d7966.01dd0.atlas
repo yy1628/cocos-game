@@ -1,0 +1,223 @@
+
+zhaoyunpf01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f2_body
+  rotate: false
+  xy: 157, 4
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+f2_cap
+  rotate: true
+  xy: 201, 143
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+f2_h_body
+  rotate: true
+  xy: 285, 360
+  size: 147, 151
+  orig: 147, 151
+  offset: 0, 0
+  index: -1
+f2_h_head
+  rotate: false
+  xy: 285, 239
+  size: 131, 119
+  orig: 131, 119
+  offset: 0, 0
+  index: -1
+f2_h_l1_leg2
+  rotate: true
+  xy: 79, 3
+  size: 40, 76
+  orig: 40, 76
+  offset: 0, 0
+  index: -1
+f2_h_l2_leg2
+  rotate: false
+  xy: 361, 180
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+f2_h_zhuanshi1
+  rotate: true
+  xy: 2, 45
+  size: 79, 90
+  orig: 79, 90
+  offset: 0, 0
+  index: -1
+f2_h_zhuanshi2
+  rotate: false
+  xy: 222, 5
+  size: 83, 73
+  orig: 83, 73
+  offset: 0, 0
+  index: -1
+f2_hair2
+  rotate: true
+  xy: 438, 305
+  size: 75, 55
+  orig: 75, 55
+  offset: 0, 0
+  index: -1
+f2_hair3
+  rotate: true
+  xy: 2, 126
+  size: 112, 93
+  orig: 112, 93
+  offset: 0, 0
+  index: -1
+f2_head
+  rotate: false
+  xy: 418, 191
+  size: 91, 108
+  orig: 91, 108
+  offset: 0, 0
+  index: -1
+f2_hip
+  rotate: true
+  xy: 418, 325
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+f2_l_arm1
+  rotate: false
+  xy: 383, 40
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+f2_l_arm2
+  rotate: false
+  xy: 383, 8
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+f2_l_hand
+  rotate: true
+  xy: 418, 301
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+f2_l_shoulder
+  rotate: false
+  xy: 2, 2
+  size: 75, 41
+  orig: 75, 41
+  offset: 0, 0
+  index: -1
+f2_leg1
+  rotate: false
+  xy: 383, 74
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+f2_leg2
+  rotate: false
+  xy: 94, 45
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+f2_pifeng
+  rotate: true
+  xy: 97, 150
+  size: 88, 102
+  orig: 88, 102
+  offset: 0, 0
+  index: -1
+f2_r_arm1
+  rotate: true
+  xy: 391, 143
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+f2_r_arm2
+  rotate: false
+  xy: 351, 117
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+f2_r_hand
+  rotate: true
+  xy: 414, 10
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+f2_r_mao
+  rotate: true
+  xy: 438, 444
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+f2_r_shoulder
+  rotate: true
+  xy: 197, 80
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+f2_skirt
+  rotate: false
+  xy: 309, 116
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+f2_tall
+  rotate: false
+  xy: 438, 382
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1
+f2_wq
+  rotate: false
+  xy: 2, 240
+  size: 281, 267
+  orig: 281, 267
+  offset: 0, 0
+  index: -1
+ma_zs
+  rotate: true
+  xy: 97, 70
+  size: 78, 98
+  orig: 78, 98
+  offset: 0, 0
+  index: -1
+maohou
+  rotate: false
+  xy: 285, 160
+  size: 74, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1
+youmao
+  rotate: true
+  xy: 244, 103
+  size: 38, 63
+  orig: 38, 63
+  offset: 0, 0
+  index: -1
+zuomao
+  rotate: false
+  xy: 307, 24
+  size: 74, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1

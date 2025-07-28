@@ -1,0 +1,34 @@
+
+shenzhugeliang_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/sj/s/00000
+  rotate: false
+  xy: 241, 2
+  size: 262, 221
+  orig: 375, 375
+  offset: 55, 57
+  index: -1
+sk1/sj/s/00002
+  rotate: false
+  xy: 2, 3
+  size: 237, 220
+  orig: 375, 375
+  offset: 62, 65
+  index: -1
+sk1/sj/s/00004
+  rotate: false
+  xy: 137, 225
+  size: 216, 150
+  orig: 375, 375
+  offset: 87, 117
+  index: -1
+sk1/sj/s/00006
+  rotate: true
+  xy: 2, 243
+  size: 132, 133
+  orig: 375, 375
+  offset: 120, 135
+  index: -1

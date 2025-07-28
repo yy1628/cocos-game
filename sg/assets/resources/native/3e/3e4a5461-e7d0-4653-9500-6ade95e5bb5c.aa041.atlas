@@ -1,0 +1,69 @@
+
+xuchu_skill01_sf_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuiji/shifa/dilie/0000
+  rotate: false
+  xy: 2, 2
+  size: 186, 132
+  orig: 280, 210
+  offset: 61, 42
+  index: -1
+chuiji/shifa/dilie/0002
+  rotate: true
+  xy: 2, 136
+  size: 197, 141
+  orig: 280, 210
+  offset: 50, 40
+  index: -1
+chuiji/shifa/dilie/0004
+  rotate: false
+  xy: 2, 335
+  size: 194, 146
+  orig: 280, 210
+  offset: 53, 36
+  index: -1
+chuiji/shifa/dilie/0006
+  rotate: false
+  xy: 198, 348
+  size: 195, 133
+  orig: 280, 210
+  offset: 52, 41
+  index: -1
+chuiji/shifa/dilie/0008
+  rotate: true
+  xy: 145, 142
+  size: 191, 125
+  orig: 280, 210
+  offset: 56, 43
+  index: -1
+chuiji/shifa/dilie/0010
+  rotate: true
+  xy: 382, 109
+  size: 186, 124
+  orig: 280, 210
+  offset: 61, 43
+  index: -1
+chuiji/shifa/dilie/0012
+  rotate: true
+  xy: 395, 297
+  size: 184, 115
+  orig: 280, 210
+  offset: 63, 48
+  index: -1
+chuiji/shifa/dilie/0014
+  rotate: true
+  xy: 272, 163
+  size: 183, 108
+  orig: 280, 210
+  offset: 64, 49
+  index: -1
+chuiji/shifa/dilie/0016
+  rotate: false
+  xy: 190, 35
+  size: 176, 105
+  orig: 280, 210
+  offset: 66, 51
+  index: -1

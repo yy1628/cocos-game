@@ -1,0 +1,132 @@
+
+caiwenji_skill01_buff_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff/buff_0
+  rotate: true
+  xy: 2, 306
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+buff/buff_1
+  rotate: true
+  xy: 100, 414
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+buff/buff_10
+  rotate: false
+  xy: 316, 296
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+buff/buff_11
+  rotate: false
+  xy: 316, 188
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+buff/buff_12
+  rotate: true
+  xy: 2, 110
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+buff/buff_13
+  rotate: false
+  xy: 110, 100
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+buff/buff_14
+  rotate: false
+  xy: 2, 2
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+buff/buff_15
+  rotate: false
+  xy: 208, 100
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+buff/buff_16
+  rotate: true
+  xy: 306, 90
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+buff/buff_17
+  rotate: true
+  xy: 100, 2
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+buff/buff_2
+  rotate: false
+  xy: 110, 306
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+buff/buff_3
+  rotate: true
+  xy: 2, 208
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+buff/buff_4
+  rotate: true
+  xy: 110, 208
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+buff/buff_5
+  rotate: true
+  xy: 208, 414
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+buff/buff_6
+  rotate: true
+  xy: 208, 316
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+buff/buff_7
+  rotate: false
+  xy: 218, 208
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+buff/buff_8
+  rotate: false
+  xy: 316, 404
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+buff/buff_9
+  rotate: false
+  xy: 2, 404
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1

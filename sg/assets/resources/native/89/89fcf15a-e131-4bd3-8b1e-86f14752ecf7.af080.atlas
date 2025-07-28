@@ -1,0 +1,83 @@
+
+chengong_skill01_sf_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuimo/0020
+  rotate: false
+  xy: 2, 320
+  size: 159, 98
+  orig: 199, 143
+  offset: 21, 22
+  index: -1
+shuimo/0022
+  rotate: false
+  xy: 330, 316
+  size: 160, 102
+  orig: 199, 143
+  offset: 21, 21
+  index: -1
+shuimo/0024
+  rotate: false
+  xy: 2, 107
+  size: 166, 103
+  orig: 199, 143
+  offset: 21, 21
+  index: -1
+shuimo/0026
+  rotate: false
+  xy: 170, 107
+  size: 166, 103
+  orig: 199, 143
+  offset: 21, 21
+  index: -1
+shuimo/0028
+  rotate: false
+  xy: 338, 107
+  size: 166, 103
+  orig: 199, 143
+  offset: 21, 21
+  index: -1
+shuimo/0030
+  rotate: false
+  xy: 2, 2
+  size: 166, 103
+  orig: 199, 143
+  offset: 21, 21
+  index: -1
+shuimo/0032
+  rotate: false
+  xy: 170, 2
+  size: 166, 103
+  orig: 199, 143
+  offset: 21, 21
+  index: -1
+shuimo/0034
+  rotate: false
+  xy: 2, 212
+  size: 166, 102
+  orig: 199, 143
+  offset: 21, 22
+  index: -1
+shuimo/0036
+  rotate: false
+  xy: 170, 212
+  size: 166, 102
+  orig: 199, 143
+  offset: 21, 22
+  index: -1
+shuimo/0038
+  rotate: false
+  xy: 338, 212
+  size: 166, 102
+  orig: 199, 143
+  offset: 21, 22
+  index: -1
+shuimo/0040
+  rotate: false
+  xy: 163, 316
+  size: 165, 102
+  orig: 199, 143
+  offset: 21, 22
+  index: -1

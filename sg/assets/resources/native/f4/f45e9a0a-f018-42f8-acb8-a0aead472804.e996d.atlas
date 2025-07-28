@@ -1,0 +1,76 @@
+
+lejin_skill01_dd_up.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dandao/0000
+  rotate: true
+  xy: 400, 80
+  size: 174, 56
+  orig: 300, 200
+  offset: 70, 78
+  index: -1
+dandao/0002
+  rotate: true
+  xy: 174, 59
+  size: 195, 54
+  orig: 300, 200
+  offset: 49, 78
+  index: -1
+dandao/0004
+  rotate: true
+  xy: 230, 60
+  size: 194, 54
+  orig: 300, 200
+  offset: 50, 78
+  index: -1
+dandao/0006
+  rotate: true
+  xy: 117, 57
+  size: 197, 55
+  orig: 300, 200
+  offset: 48, 78
+  index: -1
+dandao/0008
+  rotate: false
+  xy: 199, 2
+  size: 185, 55
+  orig: 300, 200
+  offset: 59, 78
+  index: -1
+dandao/0010
+  rotate: true
+  xy: 286, 60
+  size: 194, 54
+  orig: 300, 200
+  offset: 51, 78
+  index: -1
+dandao/0012
+  rotate: true
+  xy: 2, 56
+  size: 198, 56
+  orig: 300, 200
+  offset: 46, 77
+  index: -1
+dandao/0014
+  rotate: true
+  xy: 342, 76
+  size: 178, 56
+  orig: 300, 200
+  offset: 66, 78
+  index: -1
+dandao/0016
+  rotate: false
+  xy: 2, 2
+  size: 195, 52
+  orig: 300, 200
+  offset: 49, 79
+  index: -1
+dandao/0018
+  rotate: true
+  xy: 60, 56
+  size: 198, 55
+  orig: 300, 200
+  offset: 46, 78
+  index: -1

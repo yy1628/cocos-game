@@ -1,0 +1,41 @@
+
+guanyu_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sj/hit (1)
+  rotate: false
+  xy: 2, 237
+  size: 128, 126
+  orig: 675, 675
+  offset: 274, 274
+  index: -1
+sj/hit (3)
+  rotate: false
+  xy: 185, 2
+  size: 188, 188
+  orig: 675, 675
+  offset: 245, 245
+  index: -1
+sj/hit (5)
+  rotate: false
+  xy: 2, 25
+  size: 181, 177
+  orig: 675, 675
+  offset: 247, 249
+  index: -1
+sj/hit (7)
+  rotate: false
+  xy: 294, 192
+  size: 174, 171
+  orig: 675, 675
+  offset: 252, 252
+  index: -1
+sj/hit (9)
+  rotate: true
+  xy: 132, 204
+  size: 159, 160
+  orig: 675, 675
+  offset: 260, 256
+  index: -1

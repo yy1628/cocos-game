@@ -1,0 +1,76 @@
+
+zhanghong_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd/00000
+  rotate: false
+  xy: 308, 113
+  size: 146, 110
+  orig: 210, 210
+  offset: 33, 52
+  index: -1
+dd/00002
+  rotate: false
+  xy: 316, 225
+  size: 140, 109
+  orig: 210, 210
+  offset: 39, 53
+  index: -1
+dd/00004
+  rotate: false
+  xy: 2, 116
+  size: 144, 109
+  orig: 210, 210
+  offset: 35, 53
+  index: -1
+dd/00006
+  rotate: false
+  xy: 2, 227
+  size: 150, 108
+  orig: 210, 210
+  offset: 29, 53
+  index: -1
+dd/00008
+  rotate: false
+  xy: 165, 336
+  size: 155, 107
+  orig: 210, 210
+  offset: 24, 54
+  index: -1
+dd/00010
+  rotate: false
+  xy: 148, 115
+  size: 158, 109
+  orig: 210, 210
+  offset: 21, 53
+  index: -1
+dd/00012
+  rotate: false
+  xy: 154, 226
+  size: 160, 108
+  orig: 210, 210
+  offset: 19, 54
+  index: -1
+dd/00014
+  rotate: false
+  xy: 2, 337
+  size: 161, 106
+  orig: 210, 210
+  offset: 18, 54
+  index: -1
+dd/00016
+  rotate: false
+  xy: 322, 336
+  size: 157, 107
+  orig: 210, 210
+  offset: 22, 54
+  index: -1
+dd/00018
+  rotate: false
+  xy: 2, 2
+  size: 154, 111
+  orig: 210, 210
+  offset: 25, 53
+  index: -1

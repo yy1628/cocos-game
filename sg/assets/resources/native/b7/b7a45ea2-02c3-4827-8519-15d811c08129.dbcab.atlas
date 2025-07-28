@@ -1,0 +1,342 @@
+
+gongsunzan.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_b_l_foot1
+  rotate: true
+  xy: 318, 62
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+b_b_l_foot2
+  rotate: true
+  xy: 444, 45
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+b_b_l_foot3
+  rotate: true
+  xy: 464, 24
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+b_b_l_foot4
+  rotate: false
+  xy: 130, 2
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+b_body
+  rotate: true
+  xy: 367, 23
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+b_f_l_hand1
+  rotate: true
+  xy: 378, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+b_f_l_hand2
+  rotate: false
+  xy: 444, 108
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+b_f_l_hand3
+  rotate: false
+  xy: 136, 35
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+b_fur
+  rotate: true
+  xy: 130, 12
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+b_head
+  rotate: true
+  xy: 226, 11
+  size: 44, 66
+  orig: 44, 66
+  offset: 0, 0
+  index: -1
+b_l_arm1
+  rotate: true
+  xy: 404, 2
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+b_l_arm2
+  rotate: false
+  xy: 442, 87
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+b_l_foot
+  rotate: false
+  xy: 464, 9
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+b_l_hand
+  rotate: true
+  xy: 457, 55
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+b_l_leg
+  rotate: true
+  xy: 405, 42
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+b_l_shoulder
+  rotate: false
+  xy: 398, 66
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+f_r_shoulder
+  rotate: false
+  xy: 398, 66
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+b_r_arm1
+  rotate: true
+  xy: 405, 24
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+b_r_arm2
+  rotate: true
+  xy: 446, 28
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+b_r_hand
+  rotate: false
+  xy: 462, 40
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+b_r_shoulder
+  rotate: false
+  xy: 346, 63
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+f_l_shoulder
+  rotate: false
+  xy: 346, 63
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+b_saddle
+  rotate: true
+  xy: 318, 85
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+b_tail
+  rotate: true
+  xy: 294, 12
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+b_tiger_body
+  rotate: true
+  xy: 215, 57
+  size: 69, 55
+  orig: 69, 55
+  offset: 0, 0
+  index: -1
+b_tiger_head
+  rotate: true
+  xy: 179, 2
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+b_wq
+  rotate: false
+  xy: 80, 91
+  size: 133, 35
+  orig: 133, 35
+  offset: 0, 0
+  index: -1
+f_b_r_foot1
+  rotate: true
+  xy: 329, 2
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+f_b_r_foot2
+  rotate: true
+  xy: 450, 11
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+f_b_r_foot3
+  rotate: false
+  xy: 429, 2
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+f_body
+  rotate: true
+  xy: 355, 88
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+f_f_r_hand1
+  rotate: false
+  xy: 392, 96
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+f_f_r_hand2
+  rotate: true
+  xy: 356, 2
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+f_f_r_hand3
+  rotate: false
+  xy: 425, 25
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: false
+  xy: 272, 62
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+f_l_arm1
+  rotate: false
+  xy: 426, 83
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+f_l_arm2
+  rotate: false
+  xy: 427, 49
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: false
+  xy: 446, 71
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+f_r_arm1
+  rotate: true
+  xy: 372, 64
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+f_r_arm2
+  rotate: true
+  xy: 426, 66
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+f_r_foot
+  rotate: false
+  xy: 460, 113
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+f_r_hand
+  rotate: true
+  xy: 460, 98
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+f_r_leg
+  rotate: false
+  xy: 421, 105
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+f_saddle
+  rotate: false
+  xy: 80, 4
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+f_tail
+  rotate: true
+  xy: 329, 21
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+f_tiger_body
+  rotate: false
+  xy: 136, 46
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+f_tiger_head
+  rotate: true
+  xy: 80, 34
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+f_wq
+  rotate: true
+  xy: 2, 10
+  size: 116, 76
+  orig: 116, 76
+  offset: 0, 0
+  index: -1

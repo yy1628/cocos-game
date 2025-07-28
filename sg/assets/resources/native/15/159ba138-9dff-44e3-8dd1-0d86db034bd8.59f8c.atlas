@@ -1,0 +1,48 @@
+
+xushu_skill01_cx_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/hit/hit (1)
+  rotate: false
+  xy: 2, 172
+  size: 181, 165
+  orig: 713, 713
+  offset: 267, 289
+  index: -1
+skill1/hit/hit (11)
+  rotate: false
+  xy: 2, 5
+  size: 181, 165
+  orig: 713, 713
+  offset: 266, 289
+  index: -1
+skill1/hit/hit (3)
+  rotate: false
+  xy: 2, 345
+  size: 167, 159
+  orig: 713, 713
+  offset: 275, 294
+  index: -1
+skill1/hit/hit (5)
+  rotate: false
+  xy: 185, 172
+  size: 179, 165
+  orig: 713, 713
+  offset: 266, 288
+  index: -1
+skill1/hit/hit (7)
+  rotate: false
+  xy: 185, 2
+  size: 189, 168
+  orig: 713, 713
+  offset: 260, 286
+  index: -1
+skill1/hit/hit (9)
+  rotate: false
+  xy: 171, 339
+  size: 189, 165
+  orig: 713, 713
+  offset: 260, 287
+  index: -1

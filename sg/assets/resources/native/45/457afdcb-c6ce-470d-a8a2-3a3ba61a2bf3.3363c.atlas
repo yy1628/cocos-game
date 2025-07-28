@@ -1,0 +1,27 @@
+
+newfunctionopening.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g
+  rotate: false
+  xy: 100, 20
+  size: 29, 29
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+x
+  rotate: false
+  xy: 51, 2
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 2, 2
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1

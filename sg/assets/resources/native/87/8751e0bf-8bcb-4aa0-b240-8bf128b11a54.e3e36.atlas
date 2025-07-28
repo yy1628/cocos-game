@@ -1,0 +1,34 @@
+
+xushu_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/dandao/dandao (1)
+  rotate: false
+  xy: 2, 177
+  size: 254, 174
+  orig: 750, 750
+  offset: 224, 288
+  index: -1
+skill1/dandao/dandao (3)
+  rotate: false
+  xy: 2, 3
+  size: 253, 172
+  orig: 750, 750
+  offset: 225, 289
+  index: -1
+skill1/dandao/dandao (5)
+  rotate: false
+  xy: 257, 2
+  size: 252, 173
+  orig: 750, 750
+  offset: 226, 289
+  index: -1
+skill1/dandao/dandao (7)
+  rotate: false
+  xy: 258, 177
+  size: 252, 174
+  orig: 750, 750
+  offset: 226, 288
+  index: -1

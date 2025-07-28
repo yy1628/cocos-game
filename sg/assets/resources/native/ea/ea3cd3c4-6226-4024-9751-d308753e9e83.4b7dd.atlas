@@ -1,0 +1,41 @@
+
+caopi_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dandao/0000
+  rotate: false
+  xy: 2, 252
+  size: 284, 122
+  orig: 320, 200
+  offset: 22, 44
+  index: -1
+dandao/0002
+  rotate: false
+  xy: 2, 2
+  size: 298, 124
+  orig: 320, 200
+  offset: 10, 44
+  index: -1
+dandao/0004
+  rotate: true
+  xy: 288, 233
+  size: 265, 122
+  orig: 320, 200
+  offset: 41, 44
+  index: -1
+dandao/0006
+  rotate: false
+  xy: 2, 128
+  size: 265, 122
+  orig: 320, 200
+  offset: 43, 45
+  index: -1
+dandao/0008
+  rotate: false
+  xy: 2, 376
+  size: 270, 122
+  orig: 320, 200
+  offset: 36, 44
+  index: -1

@@ -1,0 +1,426 @@
+
+caoren.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7
+  rotate: false
+  xy: 2, 2
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 136, 59
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 49, 10
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+b_body
+  rotate: false
+  xy: 153, 23
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+b_body2
+  rotate: false
+  xy: 169, 92
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+b_head
+  rotate: false
+  xy: 95, 82
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+b_l_arm1
+  rotate: true
+  xy: 224, 34
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+b_l_arm2
+  rotate: false
+  xy: 258, 107
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+b_l_foot
+  rotate: true
+  xy: 294, 18
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+b_l_hand
+  rotate: false
+  xy: 280, 37
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+b_l_leg1
+  rotate: false
+  xy: 262, 22
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+b_l_leg2
+  rotate: false
+  xy: 314, 8
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+b_l_shoulder
+  rotate: true
+  xy: 242, 8
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+b_lianzi
+  rotate: true
+  xy: 52, 59
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+b_r_arm1
+  rotate: true
+  xy: 239, 104
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+b_r_arm2
+  rotate: false
+  xy: 262, 4
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+b_r_foot
+  rotate: false
+  xy: 255, 92
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+b_r_hand
+  rotate: false
+  xy: 303, 94
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+b_r_leg1
+  rotate: true
+  xy: 279, 107
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+b_r_leg2
+  rotate: false
+  xy: 304, 19
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+b_r_sholder
+  rotate: true
+  xy: 164, 59
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+b_shield
+  rotate: false
+  xy: 2, 59
+  size: 48, 67
+  orig: 48, 67
+  offset: 0, 0
+  index: -1
+b_skill1
+  rotate: false
+  xy: 85, 59
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+b_skill12
+  rotate: false
+  xy: 164, 2
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+b_skill2
+  rotate: true
+  xy: 282, 58
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+b_skill22
+  rotate: true
+  xy: 294, 76
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+b_skill3
+  rotate: false
+  xy: 268, 92
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+b_skill32
+  rotate: false
+  xy: 286, 92
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+b_wq
+  rotate: false
+  xy: 136, 88
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+b_wq2
+  rotate: true
+  xy: 88, 17
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+f_body
+  rotate: true
+  xy: 204, 92
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+f_body2
+  rotate: false
+  xy: 189, 25
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: false
+  xy: 52, 81
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+f_l_arm1
+  rotate: false
+  xy: 111, 59
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+f_l_arm2
+  rotate: true
+  xy: 265, 53
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+f_l_foot
+  rotate: true
+  xy: 296, 62
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: false
+  xy: 280, 22
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+f_l_hand2
+  rotate: false
+  xy: 280, 8
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+f_l_leg1
+  rotate: true
+  xy: 244, 42
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+f_l_leg2
+  rotate: true
+  xy: 294, 31
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+f_l_sholder
+  rotate: true
+  xy: 184, 60
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+f_l_sholder2
+  rotate: true
+  xy: 211, 60
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+f_r_arm1
+  rotate: true
+  xy: 238, 66
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+f_r_arm2
+  rotate: false
+  xy: 256, 71
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+f_r_foot
+  rotate: true
+  xy: 304, 7
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+f_r_hand
+  rotate: false
+  xy: 294, 44
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+f_r_leg1
+  rotate: false
+  xy: 144, 2
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+f_r_leg2
+  rotate: true
+  xy: 305, 32
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+f_skill1
+  rotate: false
+  xy: 277, 74
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+f_skill12
+  rotate: false
+  xy: 297, 110
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+f_skill2
+  rotate: false
+  xy: 190, 3
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+f_skill22
+  rotate: false
+  xy: 216, 4
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+f_skill3
+  rotate: false
+  xy: 239, 92
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+f_skill32
+  rotate: false
+  xy: 265, 42
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+f_wq
+  rotate: false
+  xy: 118, 19
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+lian1
+  rotate: true
+  xy: 88, 2
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+lian2
+  rotate: true
+  xy: 119, 2
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+lianzi1
+  rotate: false
+  xy: 49, 3
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+lianzi2
+  rotate: true
+  xy: 294, 5
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+lianzi3
+  rotate: true
+  xy: 294, 5
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1

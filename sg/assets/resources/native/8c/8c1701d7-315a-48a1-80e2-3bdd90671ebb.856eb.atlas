@@ -1,0 +1,62 @@
+
+xunyu_skill03_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill3/shang/0000
+  rotate: false
+  xy: 384, 168
+  size: 107, 143
+  orig: 255, 298
+  offset: 81, 54
+  index: -1
+skill3/shang/0002
+  rotate: true
+  xy: 158, 26
+  size: 116, 183
+  orig: 255, 298
+  offset: 75, 54
+  index: -1
+skill3/shang/0004
+  rotate: true
+  xy: 197, 313
+  size: 136, 218
+  orig: 255, 298
+  offset: 61, 53
+  index: -1
+skill3/shang/0006
+  rotate: false
+  xy: 2, 24
+  size: 154, 216
+  orig: 255, 298
+  offset: 51, 54
+  index: -1
+skill3/shang/0008
+  rotate: false
+  xy: 2, 242
+  size: 193, 207
+  orig: 255, 298
+  offset: 30, 53
+  index: -1
+skill3/shang/0010
+  rotate: false
+  xy: 197, 144
+  size: 185, 167
+  orig: 255, 298
+  offset: 32, 55
+  index: -1
+skill3/shang/0012
+  rotate: false
+  xy: 343, 2
+  size: 162, 140
+  orig: 255, 298
+  offset: 44, 60
+  index: -1
+skill3/shang/0014
+  rotate: false
+  xy: 417, 388
+  size: 74, 61
+  orig: 255, 298
+  offset: 90, 64
+  index: -1

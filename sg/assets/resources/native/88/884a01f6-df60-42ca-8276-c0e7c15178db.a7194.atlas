@@ -1,0 +1,41 @@
+
+zhaoyun_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/dandao/dd (1)
+  rotate: false
+  xy: 2, 232
+  size: 240, 120
+  orig: 750, 750
+  offset: 231, 303
+  index: -1
+sk1/dandao/dd (3)
+  rotate: false
+  xy: 244, 117
+  size: 243, 115
+  orig: 750, 750
+  offset: 228, 307
+  index: -1
+sk1/dandao/dd (5)
+  rotate: false
+  xy: 244, 2
+  size: 244, 113
+  orig: 750, 750
+  offset: 226, 307
+  index: -1
+sk1/dandao/dd (7)
+  rotate: false
+  xy: 244, 234
+  size: 243, 118
+  orig: 750, 750
+  offset: 229, 305
+  index: -1
+sk1/dandao/dd (9)
+  rotate: false
+  xy: 2, 114
+  size: 240, 116
+  orig: 750, 750
+  offset: 230, 306
+  index: -1

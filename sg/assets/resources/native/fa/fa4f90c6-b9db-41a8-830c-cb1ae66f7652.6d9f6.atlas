@@ -1,0 +1,104 @@
+
+zhangxingcai_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit/hit (1)
+  rotate: false
+  xy: 319, 276
+  size: 129, 75
+  orig: 750, 750
+  offset: 323, 310
+  index: -1
+hit/hit (11)
+  rotate: true
+  xy: 179, 347
+  size: 147, 127
+  orig: 750, 750
+  offset: 295, 308
+  index: -1
+hit/hit (13)
+  rotate: false
+  xy: 174, 233
+  size: 143, 112
+  orig: 750, 750
+  offset: 300, 309
+  index: -1
+hit/hit (15)
+  rotate: false
+  xy: 308, 384
+  size: 140, 110
+  orig: 750, 750
+  offset: 303, 309
+  index: -1
+hit/hit (17)
+  rotate: true
+  xy: 305, 91
+  size: 140, 106
+  orig: 750, 750
+  offset: 302, 309
+  index: -1
+hit/hit (19)
+  rotate: false
+  xy: 128, 2
+  size: 140, 95
+  orig: 750, 750
+  offset: 301, 310
+  index: -1
+hit/hit (21)
+  rotate: false
+  xy: 281, 41
+  size: 137, 48
+  orig: 750, 750
+  offset: 301, 310
+  index: -1
+hit/hit (23)
+  rotate: true
+  xy: 130, 224
+  size: 138, 42
+  orig: 750, 750
+  offset: 300, 315
+  index: -1
+hit/hit (25)
+  rotate: false
+  xy: 308, 353
+  size: 136, 29
+  orig: 750, 750
+  offset: 303, 321
+  index: -1
+hit/hit (27)
+  rotate: false
+  xy: 270, 69
+  size: 9, 28
+  orig: 750, 750
+  offset: 306, 322
+  index: -1
+hit/hit (3)
+  rotate: true
+  xy: 2, 44
+  size: 154, 124
+  orig: 750, 750
+  offset: 301, 305
+  index: -1
+hit/hit (5)
+  rotate: false
+  xy: 130, 99
+  size: 173, 123
+  orig: 750, 750
+  offset: 279, 306
+  index: -1
+hit/hit (7)
+  rotate: false
+  xy: 2, 364
+  size: 175, 130
+  orig: 750, 750
+  offset: 279, 309
+  index: -1
+hit/hit (9)
+  rotate: true
+  xy: 2, 200
+  size: 162, 126
+  orig: 750, 750
+  offset: 289, 309
+  index: -1

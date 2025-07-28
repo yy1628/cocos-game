@@ -1,0 +1,97 @@
+
+bulianshi_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sf/0008
+  rotate: true
+  xy: 404, 49
+  size: 86, 31
+  orig: 260, 195
+  offset: 83, 65
+  index: -1
+sf/0010
+  rotate: true
+  xy: 358, 26
+  size: 99, 44
+  orig: 260, 195
+  offset: 77, 61
+  index: -1
+sf/0012
+  rotate: true
+  xy: 395, 217
+  size: 147, 79
+  orig: 260, 195
+  offset: 58, 39
+  index: -1
+sf/0014
+  rotate: false
+  xy: 2, 2
+  size: 173, 108
+  orig: 260, 195
+  offset: 49, 29
+  index: -1
+sf/0016
+  rotate: false
+  xy: 204, 383
+  size: 192, 125
+  orig: 260, 195
+  offset: 40, 26
+  index: -1
+sf/0018
+  rotate: false
+  xy: 204, 255
+  size: 189, 126
+  orig: 260, 195
+  offset: 39, 25
+  index: -1
+sf/0020
+  rotate: false
+  xy: 2, 379
+  size: 200, 129
+  orig: 260, 195
+  offset: 31, 24
+  index: -1
+sf/0022
+  rotate: false
+  xy: 2, 248
+  size: 197, 129
+  orig: 260, 195
+  offset: 29, 24
+  index: -1
+sf/0024
+  rotate: false
+  xy: 2, 112
+  size: 186, 134
+  orig: 260, 195
+  offset: 29, 23
+  index: -1
+sf/0026
+  rotate: false
+  xy: 201, 127
+  size: 180, 126
+  orig: 260, 195
+  offset: 29, 27
+  index: -1
+sf/0028
+  rotate: false
+  xy: 190, 2
+  size: 166, 123
+  orig: 260, 195
+  offset: 36, 31
+  index: -1
+sf/0030
+  rotate: true
+  xy: 398, 366
+  size: 142, 96
+  orig: 260, 195
+  offset: 47, 44
+  index: -1
+sf/0032
+  rotate: false
+  xy: 383, 137
+  size: 99, 78
+  orig: 260, 195
+  offset: 64, 56
+  index: -1

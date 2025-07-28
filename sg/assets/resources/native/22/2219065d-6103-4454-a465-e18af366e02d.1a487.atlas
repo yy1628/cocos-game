@@ -1,0 +1,41 @@
+
+chapteranimation.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7BFA92C8
+  rotate: false
+  xy: 2, 96
+  size: 256, 125
+  orig: 260, 129
+  offset: 2, 2
+  index: -1
+bg_copy_countdown
+  rotate: false
+  xy: 2, 26
+  size: 302, 68
+  orig: 303, 70
+  offset: 0, 0
+  index: -1
+wadwq
+  rotate: false
+  xy: 260, 176
+  size: 42, 45
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+图层 7
+  rotate: false
+  xy: 2, 2
+  size: 51, 10
+  orig: 51, 10
+  offset: 0, 0
+  index: -1
+组 2
+  rotate: false
+  xy: 2, 14
+  size: 188, 10
+  orig: 194, 10
+  offset: 4, 0
+  index: -1

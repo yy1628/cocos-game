@@ -1,0 +1,76 @@
+
+zhangjiao_skill01_sj_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/hit/xia/x (1)
+  rotate: true
+  xy: 2, 2
+  size: 125, 108
+  orig: 221, 400
+  offset: 45, 68
+  index: -1
+skill1/hit/xia/x (11)
+  rotate: false
+  xy: 2, 314
+  size: 189, 145
+  orig: 221, 400
+  offset: 19, 45
+  index: -1
+skill1/hit/xia/x (13)
+  rotate: true
+  xy: 193, 275
+  size: 184, 150
+  orig: 221, 400
+  offset: 24, 39
+  index: -1
+skill1/hit/xia/x (15)
+  rotate: true
+  xy: 144, 7
+  size: 133, 90
+  orig: 221, 400
+  offset: 43, 78
+  index: -1
+skill1/hit/xia/x (17)
+  rotate: true
+  xy: 236, 28
+  size: 112, 80
+  orig: 221, 400
+  offset: 53, 82
+  index: -1
+skill1/hit/xia/x (19)
+  rotate: false
+  xy: 318, 33
+  size: 108, 76
+  orig: 221, 400
+  offset: 54, 83
+  index: -1
+skill1/hit/xia/x (3)
+  rotate: true
+  xy: 345, 305
+  size: 154, 119
+  orig: 221, 400
+  offset: 31, 63
+  index: -1
+skill1/hit/xia/x (5)
+  rotate: false
+  xy: 144, 142
+  size: 173, 131
+  orig: 221, 400
+  offset: 23, 54
+  index: -1
+skill1/hit/xia/x (7)
+  rotate: true
+  xy: 2, 129
+  size: 183, 140
+  orig: 221, 400
+  offset: 20, 50
+  index: -1
+skill1/hit/xia/x (9)
+  rotate: true
+  xy: 319, 111
+  size: 162, 121
+  orig: 221, 400
+  offset: 26, 63
+  index: -1

@@ -1,0 +1,111 @@
+
+chengong_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit2/shang/0001
+  rotate: true
+  xy: 281, 393
+  size: 103, 152
+  orig: 240, 240
+  offset: 82, 45
+  index: -1
+hit2/shang/0003
+  rotate: true
+  xy: 2, 200
+  size: 126, 155
+  orig: 240, 240
+  offset: 59, 42
+  index: -1
+hit2/shang/0005
+  rotate: true
+  xy: 117, 372
+  size: 124, 162
+  orig: 240, 240
+  offset: 61, 39
+  index: -1
+hit2/shang/0007
+  rotate: true
+  xy: 159, 77
+  size: 123, 165
+  orig: 240, 240
+  offset: 60, 38
+  index: -1
+hit2/shang/0009
+  rotate: true
+  xy: 254, 260
+  size: 110, 166
+  orig: 240, 240
+  offset: 70, 38
+  index: -1
+hit2/shang/0011
+  rotate: false
+  xy: 2, 328
+  size: 113, 168
+  orig: 240, 240
+  offset: 69, 38
+  index: -1
+hit2/shang/0013
+  rotate: false
+  xy: 326, 90
+  size: 90, 168
+  orig: 240, 240
+  offset: 67, 38
+  index: -1
+hit2/shang/0015
+  rotate: false
+  xy: 2, 30
+  size: 92, 168
+  orig: 240, 240
+  offset: 65, 38
+  index: -1
+hit2/shang/0017
+  rotate: false
+  xy: 159, 202
+  size: 93, 168
+  orig: 240, 240
+  offset: 64, 38
+  index: -1
+hit2/shang/0019
+  rotate: true
+  xy: 326, 14
+  size: 74, 167
+  orig: 240, 240
+  offset: 82, 38
+  index: -1
+hit2/shang/0021
+  rotate: false
+  xy: 418, 95
+  size: 74, 163
+  orig: 240, 240
+  offset: 82, 40
+  index: -1
+hit2/shang/0023
+  rotate: true
+  xy: 96, 2
+  size: 73, 159
+  orig: 240, 240
+  offset: 83, 42
+  index: -1
+hit2/shang/0025
+  rotate: false
+  xy: 422, 264
+  size: 70, 127
+  orig: 240, 240
+  offset: 85, 47
+  index: -1
+hit2/shang/0027
+  rotate: false
+  xy: 117, 369
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hit2/shang/0029
+  rotate: false
+  xy: 117, 369
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

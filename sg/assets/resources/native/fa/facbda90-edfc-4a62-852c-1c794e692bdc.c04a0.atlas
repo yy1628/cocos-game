@@ -1,0 +1,62 @@
+
+zhangliao_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paohong/dandao/00000
+  rotate: true
+  xy: 162, 164
+  size: 160, 164
+  orig: 200, 200
+  offset: 20, 19
+  index: -1
+paohong/dandao/00002
+  rotate: false
+  xy: 313, 326
+  size: 160, 150
+  orig: 200, 200
+  offset: 20, 26
+  index: -1
+paohong/dandao/00004
+  rotate: true
+  xy: 328, 164
+  size: 160, 164
+  orig: 200, 200
+  offset: 20, 19
+  index: -1
+paohong/dandao/00006
+  rotate: true
+  xy: 164, 332
+  size: 144, 147
+  orig: 200, 200
+  offset: 28, 27
+  index: -1
+paohong/dandao/00008
+  rotate: true
+  xy: 2, 2
+  size: 160, 165
+  orig: 200, 200
+  offset: 20, 18
+  index: -1
+paohong/dandao/00010
+  rotate: false
+  xy: 2, 179
+  size: 158, 151
+  orig: 200, 200
+  offset: 21, 25
+  index: -1
+paohong/dandao/00012
+  rotate: true
+  xy: 169, 2
+  size: 160, 164
+  orig: 200, 200
+  offset: 20, 19
+  index: -1
+paohong/dandao/00014
+  rotate: false
+  xy: 2, 332
+  size: 160, 144
+  orig: 200, 200
+  offset: 20, 30
+  index: -1

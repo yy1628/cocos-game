@@ -1,0 +1,41 @@
+
+guojia_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sj/00000
+  rotate: true
+  xy: 177, 7
+  size: 164, 166
+  orig: 340, 340
+  offset: 79, 82
+  index: -1
+sj/00002
+  rotate: true
+  xy: 237, 173
+  size: 223, 189
+  orig: 340, 340
+  offset: 56, 74
+  index: -1
+sj/00004
+  rotate: false
+  xy: 2, 197
+  size: 233, 199
+  orig: 340, 340
+  offset: 61, 83
+  index: -1
+sj/00006
+  rotate: true
+  xy: 2, 2
+  size: 193, 173
+  orig: 340, 340
+  offset: 87, 104
+  index: -1
+sj/00008
+  rotate: true
+  xy: 345, 4
+  size: 167, 143
+  orig: 340, 340
+  offset: 92, 120
+  index: -1

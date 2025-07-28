@@ -1,0 +1,146 @@
+
+lvbu_skill01_sj_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/hit/cj3/0022
+  rotate: false
+  xy: 162, 132
+  size: 126, 78
+  orig: 158, 115
+  offset: 20, 15
+  index: -1
+skill1/hit/cj3/0024
+  rotate: true
+  xy: 81, 3
+  size: 126, 78
+  orig: 158, 115
+  offset: 20, 15
+  index: -1
+skill1/hit/cj3/0026
+  rotate: false
+  xy: 85, 260
+  size: 129, 79
+  orig: 158, 115
+  offset: 17, 14
+  index: -1
+skill1/hit/cj3/0028
+  rotate: false
+  xy: 2, 389
+  size: 130, 79
+  orig: 158, 115
+  offset: 16, 14
+  index: -1
+skill1/hit/cj3/0030
+  rotate: true
+  xy: 2, 131
+  size: 127, 78
+  orig: 158, 115
+  offset: 19, 16
+  index: -1
+skill1/hit/cj3/0032
+  rotate: false
+  xy: 217, 389
+  size: 127, 79
+  orig: 158, 115
+  offset: 19, 16
+  index: -1
+skill1/hit/cj3/0034
+  rotate: true
+  xy: 134, 341
+  size: 127, 81
+  orig: 158, 115
+  offset: 19, 15
+  index: -1
+skill1/hit/cj3/0036
+  rotate: true
+  xy: 2, 260
+  size: 127, 81
+  orig: 158, 115
+  offset: 19, 15
+  index: -1
+skill1/hit/cj3/0038
+  rotate: true
+  xy: 216, 212
+  size: 127, 80
+  orig: 158, 115
+  offset: 19, 16
+  index: -1
+skill1/hit/cj3/0040
+  rotate: true
+  xy: 82, 131
+  size: 127, 78
+  orig: 158, 115
+  offset: 19, 16
+  index: -1
+skill1/hit/cj3/0042
+  rotate: true
+  xy: 290, 83
+  size: 127, 77
+  orig: 158, 115
+  offset: 19, 16
+  index: -1
+skill1/hit/cj3/0044
+  rotate: true
+  xy: 290, 83
+  size: 127, 77
+  orig: 158, 115
+  offset: 19, 16
+  index: -1
+skill1/hit/cj3/0046
+  rotate: true
+  xy: 162, 3
+  size: 127, 77
+  orig: 158, 115
+  offset: 19, 16
+  index: -1
+skill1/hit/cj3/0048
+  rotate: true
+  xy: 2, 2
+  size: 127, 77
+  orig: 158, 115
+  offset: 19, 16
+  index: -1
+skill1/hit/cj3/0050
+  rotate: false
+  xy: 298, 310
+  size: 127, 77
+  orig: 158, 115
+  offset: 19, 16
+  index: -1
+skill1/hit/cj3/0052
+  rotate: false
+  xy: 346, 391
+  size: 127, 77
+  orig: 158, 115
+  offset: 19, 16
+  index: -1
+skill1/hit/cj3/0054
+  rotate: false
+  xy: 298, 231
+  size: 126, 77
+  orig: 158, 115
+  offset: 20, 16
+  index: -1
+skill1/hit/cj3/0056
+  rotate: false
+  xy: 241, 7
+  size: 124, 74
+  orig: 158, 115
+  offset: 22, 18
+  index: -1
+skill1/hit/cj3/0058
+  rotate: false
+  xy: 367, 7
+  size: 124, 74
+  orig: 158, 115
+  offset: 22, 18
+  index: -1
+skill1/hit/cj3/0060
+  rotate: true
+  xy: 369, 107
+  size: 122, 72
+  orig: 158, 115
+  offset: 23, 19
+  index: -1

@@ -1,0 +1,300 @@
+
+zhanghe.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_body
+  rotate: false
+  xy: 426, 3
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+b_body2
+  rotate: false
+  xy: 441, 41
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+b_hair2
+  rotate: false
+  xy: 2, 8
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+b_head
+  rotate: true
+  xy: 285, 18
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+b_l_arm1
+  rotate: false
+  xy: 116, 2
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+b_l_arm2
+  rotate: true
+  xy: 430, 26
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+b_l_hand
+  rotate: false
+  xy: 152, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+b_l_leg1
+  rotate: true
+  xy: 441, 26
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+b_l_leg2
+  rotate: true
+  xy: 136, 2
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+b_l_wq
+  rotate: false
+  xy: 205, 16
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+b_r_arm1
+  rotate: false
+  xy: 299, 3
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+b_r_arm2
+  rotate: false
+  xy: 452, 28
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+b_r_hand
+  rotate: false
+  xy: 464, 51
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+b_r_leg1
+  rotate: false
+  xy: 225, 2
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+b_r_leg2
+  rotate: true
+  xy: 191, 2
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+b_r_shoulder
+  rotate: true
+  xy: 241, 2
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+b_r_wq
+  rotate: false
+  xy: 95, 14
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+b_skirt
+  rotate: true
+  xy: 333, 2
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+b_skirt2
+  rotate: true
+  xy: 356, 3
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+b_weijing
+  rotate: true
+  xy: 385, 26
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+f_body
+  rotate: false
+  xy: 402, 2
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+f_body2
+  rotate: false
+  xy: 417, 40
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+f_hair1
+  rotate: false
+  xy: 51, 8
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+f_hair2
+  rotate: false
+  xy: 329, 22
+  size: 16, 40
+  orig: 16, 40
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: false
+  xy: 347, 23
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+f_hip
+  rotate: false
+  xy: 257, 2
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+f_l_arm1
+  rotate: false
+  xy: 316, 3
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+f_l_arm2
+  rotate: true
+  xy: 417, 26
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: true
+  xy: 164, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+f_l_leg1
+  rotate: false
+  xy: 273, 2
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+f_l_leg2
+  rotate: true
+  xy: 208, 2
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+f_l_wq
+  rotate: false
+  xy: 137, 14
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+f_r_arm1
+  rotate: false
+  xy: 95, 2
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+f_r_arm2
+  rotate: false
+  xy: 464, 41
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+f_r_hand
+  rotate: false
+  xy: 477, 51
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+f_r_leg1
+  rotate: true
+  xy: 289, 2
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+f_r_leg2
+  rotate: true
+  xy: 175, 3
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+f_r_shoulder
+  rotate: false
+  xy: 465, 28
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+f_r_wq
+  rotate: false
+  xy: 245, 16
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+f_skirt
+  rotate: true
+  xy: 379, 4
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+f_skirt2
+  rotate: false
+  xy: 449, 3
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 179, 15
+  size: 47, 24
+  orig: 71, 46
+  offset: 12, 10
+  index: -1

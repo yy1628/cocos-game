@@ -1,0 +1,90 @@
+
+molvbu_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/dd/0000
+  rotate: false
+  xy: 158, 2
+  size: 146, 110
+  orig: 255, 255
+  offset: 64, 82
+  index: -1
+sk1/dd/0002
+  rotate: false
+  xy: 2, 115
+  size: 139, 109
+  orig: 255, 255
+  offset: 71, 83
+  index: -1
+sk1/dd/0004
+  rotate: false
+  xy: 2, 226
+  size: 141, 108
+  orig: 255, 255
+  offset: 69, 84
+  index: -1
+sk1/dd/0006
+  rotate: false
+  xy: 145, 225
+  size: 146, 108
+  orig: 255, 255
+  offset: 64, 83
+  index: -1
+sk1/dd/0008
+  rotate: false
+  xy: 159, 335
+  size: 150, 107
+  orig: 255, 255
+  offset: 60, 84
+  index: -1
+sk1/dd/0010
+  rotate: false
+  xy: 293, 225
+  size: 154, 108
+  orig: 255, 255
+  offset: 56, 84
+  index: -1
+sk1/dd/0012
+  rotate: false
+  xy: 302, 114
+  size: 158, 109
+  orig: 255, 255
+  offset: 52, 84
+  index: -1
+sk1/dd/0014
+  rotate: false
+  xy: 143, 115
+  size: 157, 108
+  orig: 255, 255
+  offset: 53, 83
+  index: -1
+sk1/dd/0016
+  rotate: false
+  xy: 2, 336
+  size: 155, 106
+  orig: 255, 255
+  offset: 55, 84
+  index: -1
+sk1/dd/0018
+  rotate: false
+  xy: 311, 335
+  size: 153, 107
+  orig: 255, 255
+  offset: 57, 84
+  index: -1
+sk1/dd/0020
+  rotate: false
+  xy: 306, 2
+  size: 154, 110
+  orig: 255, 255
+  offset: 56, 84
+  index: -1
+sk1/dd/0022
+  rotate: false
+  xy: 2, 3
+  size: 154, 110
+  orig: 255, 255
+  offset: 56, 83
+  index: -1

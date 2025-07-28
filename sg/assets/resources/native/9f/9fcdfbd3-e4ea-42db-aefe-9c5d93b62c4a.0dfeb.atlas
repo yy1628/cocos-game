@@ -1,0 +1,97 @@
+
+daqiao_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/sj/0000
+  rotate: false
+  xy: 332, 2
+  size: 85, 104
+  orig: 210, 210
+  offset: 67, 45
+  index: -1
+sk1/sj/0002
+  rotate: false
+  xy: 241, 73
+  size: 89, 111
+  orig: 210, 210
+  offset: 63, 45
+  index: -1
+sk1/sj/0004
+  rotate: false
+  xy: 353, 322
+  size: 105, 115
+  orig: 210, 210
+  offset: 56, 45
+  index: -1
+sk1/sj/0006
+  rotate: false
+  xy: 238, 186
+  size: 110, 123
+  orig: 210, 210
+  offset: 54, 44
+  index: -1
+sk1/sj/0008
+  rotate: false
+  xy: 124, 311
+  size: 113, 126
+  orig: 210, 210
+  offset: 53, 43
+  index: -1
+sk1/sj/0010
+  rotate: false
+  xy: 121, 4
+  size: 118, 141
+  orig: 210, 210
+  offset: 50, 35
+  index: -1
+sk1/sj/0012
+  rotate: false
+  xy: 2, 293
+  size: 120, 144
+  orig: 210, 210
+  offset: 49, 32
+  index: -1
+sk1/sj/0014
+  rotate: false
+  xy: 2, 2
+  size: 117, 143
+  orig: 210, 210
+  offset: 49, 34
+  index: -1
+sk1/sj/0016
+  rotate: false
+  xy: 2, 147
+  size: 118, 144
+  orig: 210, 210
+  offset: 49, 33
+  index: -1
+sk1/sj/0018
+  rotate: false
+  xy: 122, 151
+  size: 114, 140
+  orig: 210, 210
+  offset: 57, 36
+  index: -1
+sk1/sj/0020
+  rotate: true
+  xy: 239, 322
+  size: 115, 112
+  orig: 210, 210
+  offset: 56, 62
+  index: -1
+sk1/sj/0022
+  rotate: false
+  xy: 350, 212
+  size: 113, 108
+  orig: 210, 210
+  offset: 52, 64
+  index: -1
+sk1/sj/0024
+  rotate: false
+  xy: 350, 108
+  size: 105, 102
+  orig: 210, 210
+  offset: 57, 69
+  index: -1

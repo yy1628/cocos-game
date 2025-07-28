@@ -1,0 +1,76 @@
+
+wenchou_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd/00000
+  rotate: true
+  xy: 112, 14
+  size: 145, 110
+  orig: 240, 240
+  offset: 48, 67
+  index: -1
+dd/00002
+  rotate: true
+  xy: 224, 28
+  size: 138, 109
+  orig: 240, 240
+  offset: 55, 68
+  index: -1
+dd/00004
+  rotate: true
+  xy: 330, 175
+  size: 140, 108
+  orig: 240, 240
+  offset: 53, 69
+  index: -1
+dd/00006
+  rotate: true
+  xy: 221, 168
+  size: 145, 107
+  orig: 240, 240
+  offset: 48, 69
+  index: -1
+dd/00008
+  rotate: true
+  xy: 112, 161
+  size: 150, 107
+  orig: 240, 240
+  offset: 43, 69
+  index: -1
+dd/00010
+  rotate: false
+  xy: 157, 315
+  size: 154, 108
+  orig: 240, 240
+  offset: 39, 69
+  index: -1
+dd/00012
+  rotate: true
+  xy: 2, 156
+  size: 155, 108
+  orig: 240, 240
+  offset: 38, 69
+  index: -1
+dd/00014
+  rotate: false
+  xy: 313, 317
+  size: 153, 106
+  orig: 240, 240
+  offset: 40, 69
+  index: -1
+dd/00016
+  rotate: true
+  xy: 2, 2
+  size: 152, 108
+  orig: 240, 240
+  offset: 41, 69
+  index: -1
+dd/00018
+  rotate: false
+  xy: 2, 313
+  size: 153, 110
+  orig: 240, 240
+  offset: 40, 69
+  index: -1

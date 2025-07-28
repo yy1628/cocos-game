@@ -1,0 +1,69 @@
+
+caopi_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shifa/0003
+  rotate: false
+  xy: 2, 290
+  size: 168, 177
+  orig: 210, 210
+  offset: 32, 10
+  index: -1
+shifa/0005
+  rotate: true
+  xy: 2, 127
+  size: 161, 173
+  orig: 210, 210
+  offset: 35, 18
+  index: -1
+shifa/0007
+  rotate: false
+  xy: 172, 309
+  size: 161, 158
+  orig: 210, 210
+  offset: 29, 26
+  index: -1
+shifa/0009
+  rotate: true
+  xy: 177, 154
+  size: 153, 149
+  orig: 210, 210
+  offset: 32, 32
+  index: -1
+shifa/0011
+  rotate: true
+  xy: 177, 11
+  size: 141, 144
+  orig: 210, 210
+  offset: 40, 38
+  index: -1
+shifa/0013
+  rotate: false
+  xy: 2, 2
+  size: 125, 123
+  orig: 210, 210
+  offset: 44, 52
+  index: -1
+shifa/0015
+  rotate: false
+  xy: 323, 33
+  size: 116, 119
+  orig: 210, 210
+  offset: 46, 51
+  index: -1
+shifa/0017
+  rotate: true
+  xy: 328, 205
+  size: 102, 106
+  orig: 210, 210
+  offset: 53, 57
+  index: -1
+shifa/0019
+  rotate: false
+  xy: 335, 384
+  size: 87, 83
+  orig: 210, 210
+  offset: 60, 60
+  index: -1

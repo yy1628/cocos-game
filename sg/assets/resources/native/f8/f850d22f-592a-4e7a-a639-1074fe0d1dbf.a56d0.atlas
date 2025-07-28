@@ -1,0 +1,76 @@
+
+zhenji_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shifa/1/00000
+  rotate: true
+  xy: 73, 415
+  size: 67, 68
+  orig: 120, 120
+  offset: 27, 26
+  index: -1
+shifa/1/00001
+  rotate: false
+  xy: 143, 415
+  size: 67, 67
+  orig: 120, 120
+  offset: 27, 27
+  index: -1
+shifa/1/00002
+  rotate: true
+  xy: 212, 415
+  size: 67, 68
+  orig: 120, 120
+  offset: 26, 27
+  index: -1
+shifa/1/00003
+  rotate: false
+  xy: 2, 417
+  size: 69, 65
+  orig: 120, 120
+  offset: 25, 28
+  index: -1
+shifa/juqi/00000
+  rotate: true
+  xy: 196, 2
+  size: 197, 207
+  orig: 240, 240
+  offset: 9, 25
+  index: -1
+shifa/juqi/00002
+  rotate: true
+  xy: 2, 19
+  size: 187, 192
+  orig: 240, 240
+  offset: 18, 26
+  index: -1
+shifa/juqi/00004
+  rotate: true
+  xy: 321, 201
+  size: 169, 174
+  orig: 240, 240
+  offset: 26, 32
+  index: -1
+shifa/juqi/00006
+  rotate: true
+  xy: 150, 208
+  size: 162, 169
+  orig: 240, 240
+  offset: 30, 30
+  index: -1
+shifa/juqi/00008
+  rotate: false
+  xy: 2, 270
+  size: 146, 143
+  orig: 240, 240
+  offset: 45, 39
+  index: -1
+shifa/juqi/00010
+  rotate: false
+  xy: 282, 372
+  size: 113, 110
+  orig: 240, 240
+  offset: 65, 56
+  index: -1

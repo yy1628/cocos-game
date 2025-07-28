@@ -1,0 +1,104 @@
+
+zhangji_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit/hit (1)
+  rotate: true
+  xy: 213, 277
+  size: 108, 118
+  orig: 280, 280
+  offset: 87, 85
+  index: -1
+hit/hit (11)
+  rotate: true
+  xy: 122, 151
+  size: 124, 141
+  orig: 280, 280
+  offset: 85, 73
+  index: -1
+hit/hit (13)
+  rotate: false
+  xy: 2, 168
+  size: 118, 115
+  orig: 280, 280
+  offset: 88, 95
+  index: -1
+hit/hit (15)
+  rotate: true
+  xy: 333, 276
+  size: 109, 112
+  orig: 280, 280
+  offset: 91, 97
+  index: -1
+hit/hit (17)
+  rotate: false
+  xy: 106, 388
+  size: 99, 97
+  orig: 280, 280
+  offset: 100, 108
+  index: -1
+hit/hit (19)
+  rotate: false
+  xy: 207, 387
+  size: 100, 98
+  orig: 280, 280
+  offset: 99, 107
+  index: -1
+hit/hit (21)
+  rotate: false
+  xy: 110, 285
+  size: 101, 100
+  orig: 280, 280
+  offset: 98, 105
+  index: -1
+hit/hit (23)
+  rotate: true
+  xy: 2, 389
+  size: 96, 102
+  orig: 280, 280
+  offset: 103, 103
+  index: -1
+hit/hit (25)
+  rotate: true
+  xy: 309, 387
+  size: 98, 104
+  orig: 280, 280
+  offset: 101, 101
+  index: -1
+hit/hit (27)
+  rotate: true
+  xy: 2, 288
+  size: 98, 106
+  orig: 280, 280
+  offset: 101, 99
+  index: -1
+hit/hit (3)
+  rotate: true
+  xy: 265, 145
+  size: 129, 148
+  orig: 280, 280
+  offset: 81, 74
+  index: -1
+hit/hit (5)
+  rotate: false
+  xy: 2, 16
+  size: 133, 133
+  orig: 280, 280
+  offset: 79, 81
+  index: -1
+hit/hit (7)
+  rotate: true
+  xy: 295, 2
+  size: 141, 163
+  orig: 280, 280
+  offset: 76, 70
+  index: -1
+hit/hit (9)
+  rotate: true
+  xy: 137, 9
+  size: 134, 156
+  orig: 280, 280
+  offset: 80, 72
+  index: -1

@@ -1,0 +1,34 @@
+
+shenzhugeliang_skill01_sj_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/sj/x/00000
+  rotate: false
+  xy: 2, 180
+  size: 286, 229
+  orig: 425, 425
+  offset: 71, 42
+  index: -1
+sk1/sj/x/00002
+  rotate: true
+  xy: 290, 139
+  size: 270, 209
+  orig: 425, 425
+  offset: 76, 59
+  index: -1
+sk1/sj/x/00004
+  rotate: false
+  xy: 2, 36
+  size: 202, 142
+  orig: 425, 425
+  offset: 114, 97
+  index: -1
+sk1/sj/x/00006
+  rotate: false
+  xy: 206, 2
+  size: 196, 135
+  orig: 425, 425
+  offset: 118, 103
+  index: -1

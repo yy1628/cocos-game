@@ -1,0 +1,153 @@
+
+lingtong.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_belt01
+  rotate: true
+  xy: 384, 19
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+f_belt02
+  rotate: true
+  xy: 98, 17
+  size: 51, 100
+  orig: 51, 100
+  offset: 0, 0
+  index: -1
+f_body
+  rotate: true
+  xy: 303, 12
+  size: 89, 79
+  orig: 89, 79
+  offset: 0, 0
+  index: -1
+f_f_skirt
+  rotate: false
+  xy: 370, 184
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+f_hair01
+  rotate: false
+  xy: 291, 154
+  size: 77, 100
+  orig: 77, 100
+  offset: 0, 0
+  index: -1
+f_hair02
+  rotate: false
+  xy: 338, 106
+  size: 46, 46
+  orig: 126, 120
+  offset: 40, 37
+  index: -1
+f_head
+  rotate: false
+  xy: 144, 98
+  size: 145, 156
+  orig: 145, 156
+  offset: 0, 0
+  index: -1
+f_l_arm01
+  rotate: false
+  xy: 501, 208
+  size: 46, 46
+  orig: 47, 54
+  offset: 1, 4
+  index: -1
+f_l_arm02
+  rotate: false
+  xy: 446, 126
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: false
+  xy: 506, 79
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+f_l_leg01
+  rotate: false
+  xy: 443, 45
+  size: 61, 65
+  orig: 61, 65
+  offset: 0, 0
+  index: -1
+f_l_leg02
+  rotate: false
+  xy: 505, 162
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+f_l_shoulder
+  rotate: false
+  xy: 2, 4
+  size: 94, 64
+  orig: 94, 64
+  offset: 0, 0
+  index: -1
+f_r_arm01
+  rotate: true
+  xy: 443, 2
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+f_r_arm02
+  rotate: false
+  xy: 386, 112
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+f_r_hand
+  rotate: true
+  xy: 505, 121
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+f_r_leg01
+  rotate: false
+  xy: 439, 187
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+f_r_leg02
+  rotate: true
+  xy: 491, 3
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+f_r_shoulder
+  rotate: false
+  xy: 200, 6
+  size: 101, 90
+  orig: 101, 90
+  offset: 0, 0
+  index: -1
+f_r_skirt
+  rotate: false
+  xy: 291, 103
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+f_weapon
+  rotate: false
+  xy: 2, 70
+  size: 140, 184
+  orig: 140, 184
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+liaohua_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shifa/shifa (1)
+  rotate: false
+  xy: 342, 130
+  size: 149, 133
+  orig: 375, 375
+  offset: 111, 187
+  index: -1
+shifa/shifa (11)
+  rotate: false
+  xy: 178, 245
+  size: 162, 161
+  orig: 375, 375
+  offset: 115, 175
+  index: -1
+shifa/shifa (13)
+  rotate: false
+  xy: 304, 2
+  size: 135, 126
+  orig: 375, 375
+  offset: 118, 189
+  index: -1
+shifa/shifa (3)
+  rotate: false
+  xy: 342, 265
+  size: 151, 141
+  orig: 375, 375
+  offset: 115, 179
+  index: -1
+shifa/shifa (5)
+  rotate: false
+  xy: 2, 253
+  size: 174, 153
+  orig: 375, 375
+  offset: 85, 173
+  index: -1
+shifa/shifa (7)
+  rotate: true
+  xy: 2, 109
+  size: 142, 152
+  orig: 375, 375
+  offset: 103, 161
+  index: -1
+shifa/shifa (9)
+  rotate: true
+  xy: 156, 111
+  size: 132, 146
+  orig: 375, 375
+  offset: 114, 174
+  index: -1

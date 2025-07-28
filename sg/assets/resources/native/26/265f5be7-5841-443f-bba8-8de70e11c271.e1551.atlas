@@ -1,0 +1,132 @@
+
+diaochan_skill03_sj_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill3/hit/xia/00021
+  rotate: true
+  xy: 2, 126
+  size: 122, 95
+  orig: 180, 240
+  offset: 26, 34
+  index: -1
+skill3/hit/xia/00023
+  rotate: false
+  xy: 250, 250
+  size: 122, 96
+  orig: 180, 240
+  offset: 26, 33
+  index: -1
+skill3/hit/xia/00025
+  rotate: false
+  xy: 374, 250
+  size: 122, 96
+  orig: 180, 240
+  offset: 26, 33
+  index: -1
+skill3/hit/xia/00027
+  rotate: false
+  xy: 2, 349
+  size: 123, 96
+  orig: 180, 240
+  offset: 26, 33
+  index: -1
+skill3/hit/xia/00029
+  rotate: false
+  xy: 127, 349
+  size: 123, 96
+  orig: 180, 240
+  offset: 26, 33
+  index: -1
+skill3/hit/xia/00031
+  rotate: true
+  xy: 2, 2
+  size: 122, 95
+  orig: 180, 240
+  offset: 27, 34
+  index: -1
+skill3/hit/xia/00033
+  rotate: false
+  xy: 252, 348
+  size: 122, 97
+  orig: 180, 240
+  offset: 27, 33
+  index: -1
+skill3/hit/xia/00035
+  rotate: false
+  xy: 376, 348
+  size: 122, 97
+  orig: 180, 240
+  offset: 26, 32
+  index: -1
+skill3/hit/xia/00037
+  rotate: false
+  xy: 2, 250
+  size: 122, 97
+  orig: 180, 240
+  offset: 26, 32
+  index: -1
+skill3/hit/xia/00039
+  rotate: false
+  xy: 126, 250
+  size: 122, 97
+  orig: 180, 240
+  offset: 25, 32
+  index: -1
+skill3/hit/xia/00041
+  rotate: true
+  xy: 99, 127
+  size: 121, 96
+  orig: 180, 240
+  offset: 25, 32
+  index: -1
+skill3/hit/xia/00043
+  rotate: true
+  xy: 99, 5
+  size: 120, 95
+  orig: 180, 240
+  offset: 25, 32
+  index: -1
+skill3/hit/xia/00045
+  rotate: true
+  xy: 197, 130
+  size: 118, 93
+  orig: 180, 240
+  offset: 26, 32
+  index: -1
+skill3/hit/xia/00047
+  rotate: true
+  xy: 196, 7
+  size: 118, 94
+  orig: 180, 240
+  offset: 27, 31
+  index: -1
+skill3/hit/xia/00049
+  rotate: false
+  xy: 292, 155
+  size: 118, 93
+  orig: 180, 240
+  offset: 28, 31
+  index: -1
+skill3/hit/xia/00051
+  rotate: true
+  xy: 412, 140
+  size: 108, 89
+  orig: 180, 240
+  offset: 31, 32
+  index: -1
+skill3/hit/xia/00053
+  rotate: false
+  xy: 292, 67
+  size: 103, 86
+  orig: 180, 240
+  offset: 33, 35
+  index: -1
+skill3/hit/xia/00055
+  rotate: false
+  xy: 397, 64
+  size: 101, 74
+  orig: 180, 240
+  offset: 32, 47
+  index: -1

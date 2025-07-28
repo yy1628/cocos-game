@@ -1,0 +1,55 @@
+
+molvbu_skill04_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk4/dd/00000
+  rotate: false
+  xy: 2, 361
+  size: 214, 146
+  orig: 238, 212
+  offset: 11, 24
+  index: -1
+sk4/dd/00002
+  rotate: true
+  xy: 149, 2
+  size: 209, 142
+  orig: 238, 212
+  offset: 16, 28
+  index: -1
+sk4/dd/00004
+  rotate: false
+  xy: 2, 213
+  size: 206, 146
+  orig: 238, 212
+  offset: 13, 24
+  index: -1
+sk4/dd/00006
+  rotate: false
+  xy: 218, 213
+  size: 210, 147
+  orig: 238, 212
+  offset: 11, 26
+  index: -1
+sk4/dd/00008
+  rotate: false
+  xy: 218, 362
+  size: 215, 145
+  orig: 238, 212
+  offset: 11, 25
+  index: -1
+sk4/dd/00010
+  rotate: true
+  xy: 293, 13
+  size: 198, 141
+  orig: 238, 212
+  offset: 28, 26
+  index: -1
+sk4/dd/00012
+  rotate: true
+  xy: 2, 5
+  size: 206, 145
+  orig: 238, 212
+  offset: 11, 25
+  index: -1

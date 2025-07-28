@@ -1,0 +1,83 @@
+
+successofrisingstar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JO8N9W52TUBBF
+  rotate: false
+  xy: 2, 170
+  size: 314, 315
+  orig: 384, 384
+  offset: 36, 33
+  index: -1
+icon_gxhd_lang
+  rotate: true
+  xy: 397, 292
+  size: 193, 76
+  orig: 198, 80
+  offset: 2, 2
+  index: -1
+icon_rmcg_lang
+  rotate: false
+  xy: 342, 12
+  size: 196, 77
+  orig: 200, 80
+  offset: 2, 1
+  index: -1
+icon_sl_lang
+  rotate: true
+  xy: 475, 368
+  size: 117, 73
+  orig: 119, 77
+  offset: 1, 2
+  index: -1
+icon_sxcg_lang
+  rotate: true
+  xy: 318, 291
+  size: 194, 77
+  orig: 199, 81
+  offset: 3, 2
+  index: -1
+icon_tgjl_lang
+  rotate: false
+  xy: 142, 91
+  size: 199, 77
+  orig: 202, 80
+  offset: 2, 1
+  index: -1
+res.00901
+  rotate: false
+  xy: 2, 2
+  size: 138, 166
+  orig: 166, 166
+  offset: 13, 0
+  index: -1
+txt_dzcg_lang
+  rotate: false
+  xy: 142, 12
+  size: 198, 77
+  orig: 202, 82
+  offset: 2, 2
+  index: -1
+txt_ghjs_lang
+  rotate: false
+  xy: 343, 135
+  size: 194, 76
+  orig: 198, 78
+  offset: 2, 0
+  index: -1
+txt_jxcg_lang
+  rotate: false
+  xy: 318, 213
+  size: 195, 76
+  orig: 199, 80
+  offset: 2, 2
+  index: -1
+xingxing
+  rotate: false
+  xy: 475, 321
+  size: 44, 45
+  orig: 47, 47
+  offset: 2, 1
+  index: -1

@@ -1,0 +1,76 @@
+
+liushan_skill01_buff_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BUFF/sk11 (1)
+  rotate: false
+  xy: 2, 2
+  size: 134, 132
+  orig: 413, 413
+  offset: 140, 153
+  index: -1
+BUFF/sk11 (11)
+  rotate: false
+  xy: 283, 275
+  size: 132, 125
+  orig: 413, 413
+  offset: 141, 155
+  index: -1
+BUFF/sk11 (13)
+  rotate: false
+  xy: 2, 136
+  size: 140, 130
+  orig: 413, 413
+  offset: 140, 156
+  index: -1
+BUFF/sk11 (15)
+  rotate: false
+  xy: 144, 269
+  size: 137, 131
+  orig: 413, 413
+  offset: 139, 156
+  index: -1
+BUFF/sk11 (17)
+  rotate: false
+  xy: 2, 268
+  size: 140, 132
+  orig: 413, 413
+  offset: 138, 155
+  index: -1
+BUFF/sk11 (19)
+  rotate: false
+  xy: 144, 138
+  size: 136, 129
+  orig: 413, 413
+  offset: 140, 156
+  index: -1
+BUFF/sk11 (3)
+  rotate: true
+  xy: 138, 2
+  size: 132, 121
+  orig: 413, 413
+  offset: 141, 156
+  index: -1
+BUFF/sk11 (5)
+  rotate: true
+  xy: 261, 4
+  size: 132, 121
+  orig: 413, 413
+  offset: 141, 156
+  index: -1
+BUFF/sk11 (7)
+  rotate: false
+  xy: 283, 152
+  size: 132, 121
+  orig: 413, 413
+  offset: 141, 156
+  index: -1
+BUFF/sk11 (9)
+  rotate: true
+  xy: 384, 18
+  size: 132, 122
+  orig: 413, 413
+  offset: 141, 155
+  index: -1

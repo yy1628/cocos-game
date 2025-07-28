@@ -1,0 +1,69 @@
+
+juedifanji_shang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/juedi/juedi2_0
+  rotate: false
+  xy: 2, 246
+  size: 162, 120
+  orig: 162, 120
+  offset: 0, 0
+  index: -1
+effect/juedi/juedi2_10
+  rotate: false
+  xy: 330, 124
+  size: 162, 120
+  orig: 162, 120
+  offset: 0, 0
+  index: -1
+effect/juedi/juedi2_12
+  rotate: false
+  xy: 2, 2
+  size: 162, 120
+  orig: 162, 120
+  offset: 0, 0
+  index: -1
+effect/juedi/juedi2_14
+  rotate: false
+  xy: 166, 2
+  size: 162, 120
+  orig: 162, 120
+  offset: 0, 0
+  index: -1
+effect/juedi/juedi2_16
+  rotate: false
+  xy: 330, 2
+  size: 162, 120
+  orig: 162, 120
+  offset: 0, 0
+  index: -1
+effect/juedi/juedi2_2
+  rotate: false
+  xy: 166, 246
+  size: 162, 120
+  orig: 162, 120
+  offset: 0, 0
+  index: -1
+effect/juedi/juedi2_4
+  rotate: false
+  xy: 330, 246
+  size: 162, 120
+  orig: 162, 120
+  offset: 0, 0
+  index: -1
+effect/juedi/juedi2_6
+  rotate: false
+  xy: 2, 124
+  size: 162, 120
+  orig: 162, 120
+  offset: 0, 0
+  index: -1
+effect/juedi/juedi2_8
+  rotate: false
+  xy: 166, 124
+  size: 162, 120
+  orig: 162, 120
+  offset: 0, 0
+  index: -1

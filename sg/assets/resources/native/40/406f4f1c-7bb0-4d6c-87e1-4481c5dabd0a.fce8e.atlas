@@ -1,0 +1,111 @@
+
+purple_idle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0000
+  rotate: true
+  xy: 1001, 1003
+  size: 330, 497
+  orig: 480, 560
+  offset: 75, 33
+  index: -1
+0002
+  rotate: true
+  xy: 2, 1667
+  size: 330, 498
+  orig: 480, 560
+  offset: 75, 33
+  index: -1
+0004
+  rotate: true
+  xy: 502, 1667
+  size: 330, 497
+  orig: 480, 560
+  offset: 75, 33
+  index: -1
+0006
+  rotate: true
+  xy: 1001, 1667
+  size: 330, 497
+  orig: 480, 560
+  offset: 75, 33
+  index: -1
+0008
+  rotate: true
+  xy: 501, 669
+  size: 332, 497
+  orig: 480, 560
+  offset: 75, 33
+  index: -1
+0010
+  rotate: true
+  xy: 1500, 1667
+  size: 330, 497
+  orig: 480, 560
+  offset: 75, 33
+  index: -1
+0012
+  rotate: true
+  xy: 2, 1335
+  size: 330, 497
+  orig: 480, 560
+  offset: 75, 33
+  index: -1
+0014
+  rotate: true
+  xy: 501, 1335
+  size: 330, 497
+  orig: 480, 560
+  offset: 75, 33
+  index: -1
+0016
+  rotate: true
+  xy: 1000, 1335
+  size: 330, 497
+  orig: 480, 560
+  offset: 75, 33
+  index: -1
+0018
+  rotate: true
+  xy: 1499, 1335
+  size: 330, 497
+  orig: 480, 560
+  offset: 75, 33
+  index: -1
+0020
+  rotate: true
+  xy: 2, 1003
+  size: 330, 497
+  orig: 480, 560
+  offset: 75, 33
+  index: -1
+0022
+  rotate: true
+  xy: 501, 1003
+  size: 330, 498
+  orig: 480, 560
+  offset: 75, 33
+  index: -1
+0024
+  rotate: true
+  xy: 1000, 669
+  size: 332, 497
+  orig: 480, 560
+  offset: 73, 33
+  index: -1
+0026
+  rotate: true
+  xy: 1500, 1002
+  size: 331, 497
+  orig: 480, 560
+  offset: 74, 33
+  index: -1
+0028
+  rotate: true
+  xy: 2, 670
+  size: 331, 497
+  orig: 480, 560
+  offset: 74, 33
+  index: -1

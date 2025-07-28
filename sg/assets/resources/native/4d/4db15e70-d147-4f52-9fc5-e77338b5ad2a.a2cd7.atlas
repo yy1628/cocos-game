@@ -1,0 +1,153 @@
+
+lingtong_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sj/s/0000
+  rotate: false
+  xy: 217, 248
+  size: 84, 83
+  orig: 180, 180
+  offset: 47, 27
+  index: -1
+sj/s/0002
+  rotate: true
+  xy: 303, 234
+  size: 96, 128
+  orig: 180, 180
+  offset: 39, 9
+  index: -1
+sj/s/0004
+  rotate: true
+  xy: 2, 173
+  size: 97, 131
+  orig: 180, 180
+  offset: 39, 9
+  index: -1
+sj/s/0006
+  rotate: true
+  xy: 135, 136
+  size: 110, 139
+  orig: 180, 180
+  offset: 35, 9
+  index: -1
+sj/s/0008
+  rotate: true
+  xy: 118, 19
+  size: 115, 140
+  orig: 180, 180
+  offset: 33, 10
+  index: -1
+sj/s/0010
+  rotate: true
+  xy: 260, 2
+  size: 118, 140
+  orig: 180, 180
+  offset: 31, 13
+  index: -1
+sj/s/0012
+  rotate: false
+  xy: 2, 37
+  size: 114, 134
+  orig: 180, 180
+  offset: 31, 20
+  index: -1
+sj/s/0014
+  rotate: true
+  xy: 276, 122
+  size: 110, 134
+  orig: 180, 180
+  offset: 32, 21
+  index: -1
+sj/s/0016
+  rotate: true
+  xy: 393, 402
+  size: 64, 105
+  orig: 180, 180
+  offset: 62, 49
+  index: -1
+sj/s/0018
+  rotate: true
+  xy: 193, 348
+  size: 66, 105
+  orig: 180, 180
+  offset: 61, 48
+  index: -1
+sj/s/0020
+  rotate: true
+  xy: 300, 333
+  size: 67, 104
+  orig: 180, 180
+  offset: 61, 49
+  index: -1
+sj/s/0022
+  rotate: true
+  xy: 406, 332
+  size: 68, 102
+  orig: 180, 180
+  offset: 61, 49
+  index: -1
+sj/x/0000
+  rotate: false
+  xy: 156, 416
+  size: 75, 50
+  orig: 180, 180
+  offset: 50, 22
+  index: -1
+sj/x/0002
+  rotate: false
+  xy: 100, 349
+  size: 91, 65
+  orig: 180, 180
+  offset: 42, 13
+  index: -1
+sj/x/0004
+  rotate: false
+  xy: 110, 272
+  size: 105, 74
+  orig: 180, 180
+  offset: 35, 7
+  index: -1
+sj/x/0006
+  rotate: false
+  xy: 2, 274
+  size: 106, 73
+  orig: 180, 180
+  offset: 34, 8
+  index: -1
+sj/x/0008
+  rotate: false
+  xy: 2, 352
+  size: 96, 64
+  orig: 180, 180
+  offset: 37, 15
+  index: -1
+sj/x/0010
+  rotate: false
+  xy: 310, 412
+  size: 81, 54
+  orig: 180, 180
+  offset: 45, 20
+  index: -1
+sj/x/0012
+  rotate: false
+  xy: 233, 416
+  size: 75, 50
+  orig: 180, 180
+  offset: 50, 22
+  index: -1
+sj/x/0014
+  rotate: false
+  xy: 79, 418
+  size: 75, 48
+  orig: 180, 180
+  offset: 50, 23
+  index: -1
+sj/x/0016
+  rotate: false
+  xy: 2, 420
+  size: 75, 46
+  orig: 180, 180
+  offset: 50, 23
+  index: -1

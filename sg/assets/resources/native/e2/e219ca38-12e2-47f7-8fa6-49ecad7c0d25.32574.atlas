@@ -1,0 +1,48 @@
+
+xiahouyuan_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoyandanmu/dandao/00000
+  rotate: false
+  xy: 2, 238
+  size: 207, 111
+  orig: 350, 200
+  offset: 80, 45
+  index: -1
+huoyandanmu/dandao/00002
+  rotate: false
+  xy: 211, 236
+  size: 205, 113
+  orig: 350, 200
+  offset: 82, 45
+  index: -1
+huoyandanmu/dandao/00004
+  rotate: false
+  xy: 195, 2
+  size: 205, 115
+  orig: 350, 200
+  offset: 82, 43
+  index: -1
+huoyandanmu/dandao/00006
+  rotate: false
+  xy: 2, 122
+  size: 197, 114
+  orig: 350, 200
+  offset: 90, 42
+  index: -1
+huoyandanmu/dandao/00008
+  rotate: false
+  xy: 2, 4
+  size: 191, 116
+  orig: 350, 200
+  offset: 96, 42
+  index: -1
+huoyandanmu/dandao/00010
+  rotate: false
+  xy: 201, 119
+  size: 199, 115
+  orig: 350, 200
+  offset: 88, 42
+  index: -1

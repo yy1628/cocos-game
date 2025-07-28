@@ -1,0 +1,265 @@
+
+jiangwei.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S1
+  rotate: true
+  xy: 87, 84
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+S2
+  rotate: false
+  xy: 87, 115
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 257, 99
+  size: 94, 119
+  orig: 139, 135
+  offset: 0, 16
+  index: -1
+cap
+  rotate: false
+  xy: 87, 147
+  size: 41, 37
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+daizi
+  rotate: true
+  xy: 378, 154
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+feng1
+  rotate: true
+  xy: 751, 480
+  size: 156, 200
+  orig: 158, 202
+  offset: 2, 1
+  index: -1
+ffx1
+  rotate: false
+  xy: 540, 454
+  size: 209, 182
+  orig: 209, 182
+  offset: 0, 0
+  index: -1
+fx12
+  rotate: true
+  xy: 751, 308
+  size: 170, 173
+  orig: 179, 182
+  offset: 4, 5
+  index: -1
+fx6
+  rotate: true
+  xy: 407, 150
+  size: 34, 37
+  orig: 39, 42
+  offset: 2, 3
+  index: -1
+hair1
+  rotate: true
+  xy: 953, 446
+  size: 92, 68
+  orig: 92, 68
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 476, 180
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 2, 221
+  size: 132, 118
+  orig: 132, 118
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: true
+  xy: 678, 242
+  size: 116, 43
+  orig: 116, 43
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 136, 119
+  size: 119, 111
+  orig: 125, 111
+  offset: 6, 0
+  index: -1
+hip
+  rotate: true
+  xy: 482, 383
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+larm1
+  rotate: true
+  xy: 136, 232
+  size: 107, 144
+  orig: 107, 144
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 926, 115
+  size: 95, 216
+  orig: 95, 216
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 132, 20
+  size: 97, 106
+  orig: 97, 106
+  offset: 0, 0
+  index: -1
+lhand
+  rotate: true
+  xy: 678, 360
+  size: 92, 62
+  orig: 92, 62
+  offset: 0, 0
+  index: -1
+lshoulder
+  rotate: true
+  xy: 953, 540
+  size: 96, 69
+  orig: 96, 69
+  offset: 0, 0
+  index: -1
+mao1
+  rotate: true
+  xy: 482, 248
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+mao2
+  rotate: true
+  xy: 926, 428
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+rarm1
+  rotate: false
+  xy: 2, 2
+  size: 121, 78
+  orig: 121, 78
+  offset: 0, 0
+  index: -1
+rhand
+  rotate: true
+  xy: 411, 186
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+rshoulder
+  rotate: true
+  xy: 514, 168
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+rshoulder2
+  rotate: false
+  xy: 87, 186
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+skirt1
+  rotate: true
+  xy: 411, 229
+  size: 75, 63
+  orig: 75, 63
+  offset: 0, 0
+  index: -1
+skirt2
+  rotate: true
+  xy: 482, 310
+  size: 71, 35
+  orig: 71, 35
+  offset: 0, 0
+  index: -1
+skirt3
+  rotate: false
+  xy: 723, 153
+  size: 178, 153
+  orig: 178, 153
+  offset: 0, 0
+  index: -1
+skirt4
+  rotate: true
+  xy: 953, 333
+  size: 111, 55
+  orig: 111, 55
+  offset: 0, 0
+  index: -1
+skirt5
+  rotate: true
+  xy: 2, 82
+  size: 137, 83
+  orig: 137, 83
+  offset: 0, 0
+  index: -1
+skirt5-1
+  rotate: true
+  xy: 282, 195
+  size: 109, 127
+  orig: 109, 127
+  offset: 0, 0
+  index: -1
+wind_00000
+  rotate: true
+  xy: 303, 449
+  size: 187, 235
+  orig: 280, 280
+  offset: 62, 18
+  index: -1
+wind_00002
+  rotate: false
+  xy: 540, 242
+  size: 136, 210
+  orig: 280, 280
+  offset: 102, 30
+  index: -1
+wq
+  rotate: false
+  xy: 2, 341
+  size: 299, 295
+  orig: 299, 295
+  offset: 0, 0
+  index: -1
+zhuangshi
+  rotate: true
+  xy: 926, 375
+  size: 51, 20
+  orig: 51, 20
+  offset: 0, 0
+  index: -1
+图层 5_00000
+  rotate: false
+  xy: 303, 306
+  size: 177, 141
+  orig: 237, 201
+  offset: 27, 46
+  index: -1

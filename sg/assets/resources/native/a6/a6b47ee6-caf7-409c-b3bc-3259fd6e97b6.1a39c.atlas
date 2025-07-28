@@ -1,0 +1,48 @@
+
+xiahoudun_skill04_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xueyue/dd/00002
+  rotate: false
+  xy: 2, 259
+  size: 189, 241
+  orig: 280, 280
+  offset: 41, 31
+  index: -1
+xueyue/dd/00004
+  rotate: true
+  xy: 2, 76
+  size: 181, 234
+  orig: 280, 280
+  offset: 49, 31
+  index: -1
+xueyue/dd/00006
+  rotate: true
+  xy: 193, 333
+  size: 167, 222
+  orig: 280, 280
+  offset: 63, 31
+  index: -1
+xueyue/dd/00008
+  rotate: false
+  xy: 238, 124
+  size: 146, 207
+  orig: 280, 280
+  offset: 83, 32
+  index: -1
+xueyue/dd/00010
+  rotate: true
+  xy: 238, 2
+  size: 120, 188
+  orig: 280, 280
+  offset: 104, 34
+  index: -1
+xueyue/dd/00012
+  rotate: false
+  xy: 386, 175
+  size: 95, 156
+  orig: 280, 280
+  offset: 119, 48
+  index: -1

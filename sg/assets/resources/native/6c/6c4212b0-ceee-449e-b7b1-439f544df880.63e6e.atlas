@@ -1,0 +1,62 @@
+
+lvmeng_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sf/b/00020
+  rotate: true
+  xy: 114, 369
+  size: 124, 147
+  orig: 260, 260
+  offset: 77, 58
+  index: -1
+sf/b/00021
+  rotate: true
+  xy: 263, 366
+  size: 127, 137
+  orig: 260, 260
+  offset: 77, 58
+  index: -1
+sf/j/00007
+  rotate: false
+  xy: 190, 2
+  size: 200, 200
+  orig: 260, 260
+  offset: 38, 33
+  index: -1
+sf/j/00009
+  rotate: true
+  xy: 2, 24
+  size: 182, 186
+  orig: 260, 260
+  offset: 38, 42
+  index: -1
+sf/j/00011
+  rotate: true
+  xy: 302, 204
+  size: 160, 162
+  orig: 260, 260
+  offset: 45, 54
+  index: -1
+sf/j/00013
+  rotate: true
+  xy: 141, 208
+  size: 156, 159
+  orig: 260, 260
+  offset: 43, 51
+  index: -1
+sf/j/00015
+  rotate: false
+  xy: 2, 233
+  size: 137, 134
+  orig: 260, 260
+  offset: 59, 55
+  index: -1
+sf/j/00017
+  rotate: false
+  xy: 2, 389
+  size: 110, 104
+  orig: 260, 260
+  offset: 78, 67
+  index: -1

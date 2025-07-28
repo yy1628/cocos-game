@@ -1,0 +1,48 @@
+
+muludawang_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dandao/dandao (1)
+  rotate: false
+  xy: 2, 164
+  size: 241, 160
+  orig: 750, 750
+  offset: 241, 295
+  index: -1
+dandao/dandao (11)
+  rotate: false
+  xy: 240, 2
+  size: 233, 160
+  orig: 750, 750
+  offset: 249, 295
+  index: -1
+dandao/dandao (3)
+  rotate: false
+  xy: 2, 2
+  size: 236, 160
+  orig: 750, 750
+  offset: 246, 295
+  index: -1
+dandao/dandao (5)
+  rotate: false
+  xy: 245, 164
+  size: 235, 160
+  orig: 750, 750
+  offset: 247, 295
+  index: -1
+dandao/dandao (7)
+  rotate: false
+  xy: 246, 326
+  size: 237, 160
+  orig: 750, 750
+  offset: 245, 295
+  index: -1
+dandao/dandao (9)
+  rotate: false
+  xy: 2, 326
+  size: 242, 160
+  orig: 750, 750
+  offset: 240, 295
+  index: -1

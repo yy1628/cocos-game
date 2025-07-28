@@ -1,0 +1,76 @@
+
+zhugejin_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd/00000
+  rotate: false
+  xy: 129, 256
+  size: 132, 121
+  orig: 165, 165
+  offset: 12, 32
+  index: -1
+dd/00002
+  rotate: false
+  xy: 2, 2
+  size: 128, 127
+  orig: 165, 165
+  offset: 12, 31
+  index: -1
+dd/00004
+  rotate: false
+  xy: 269, 127
+  size: 128, 124
+  orig: 165, 165
+  offset: 13, 30
+  index: -1
+dd/00006
+  rotate: false
+  xy: 263, 253
+  size: 133, 123
+  orig: 165, 165
+  offset: 11, 30
+  index: -1
+dd/00008
+  rotate: false
+  xy: 263, 378
+  size: 131, 120
+  orig: 165, 165
+  offset: 10, 30
+  index: -1
+dd/00010
+  rotate: false
+  xy: 2, 131
+  size: 136, 123
+  orig: 165, 165
+  offset: 9, 31
+  index: -1
+dd/00012
+  rotate: true
+  xy: 140, 128
+  size: 123, 127
+  orig: 165, 165
+  offset: 15, 31
+  index: -1
+dd/00014
+  rotate: true
+  xy: 2, 257
+  size: 121, 125
+  orig: 165, 165
+  offset: 17, 30
+  index: -1
+dd/00016
+  rotate: false
+  xy: 131, 379
+  size: 130, 119
+  orig: 165, 165
+  offset: 14, 31
+  index: -1
+dd/00018
+  rotate: false
+  xy: 2, 380
+  size: 127, 118
+  orig: 165, 165
+  offset: 14, 34
+  index: -1

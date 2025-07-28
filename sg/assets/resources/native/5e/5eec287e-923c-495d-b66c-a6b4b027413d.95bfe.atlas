@@ -1,0 +1,41 @@
+
+soulstonerisingstar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/glow__02
+  rotate: true
+  xy: 120, 340
+  size: 133, 136
+  orig: 154, 154
+  offset: 11, 9
+  index: -1
+images/icon_wpwj_kuang 拷贝
+  rotate: false
+  xy: 2, 429
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+images/juqixian_01
+  rotate: true
+  xy: 2, 2
+  size: 335, 402
+  orig: 529, 508
+  offset: 149, 77
+  index: -1
+images/wadwq
+  rotate: true
+  xy: 48, 405
+  size: 68, 70
+  orig: 77, 77
+  offset: 6, 4
+  index: -1
+images/zhuanguang
+  rotate: false
+  xy: 258, 339
+  size: 140, 134
+  orig: 149, 141
+  offset: 4, 3
+  index: -1

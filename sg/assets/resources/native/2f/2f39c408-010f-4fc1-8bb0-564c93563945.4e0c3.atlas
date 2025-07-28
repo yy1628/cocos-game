@@ -1,0 +1,20 @@
+
+lianshendonghua.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+连胜a
+  rotate: false
+  xy: 95, 2
+  size: 73, 73
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+连胜b
+  rotate: false
+  xy: 2, 16
+  size: 91, 59
+  orig: 95, 62
+  offset: 2, 1
+  index: -1

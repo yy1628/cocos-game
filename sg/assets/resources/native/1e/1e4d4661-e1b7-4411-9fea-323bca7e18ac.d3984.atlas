@@ -1,0 +1,146 @@
+
+haozhao.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_body
+  rotate: false
+  xy: 159, 137
+  size: 180, 117
+  orig: 180, 117
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: false
+  xy: 2, 96
+  size: 155, 158
+  orig: 155, 158
+  offset: 0, 0
+  index: -1
+f_l_arm1
+  rotate: false
+  xy: 470, 116
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+f_l_arm2
+  rotate: false
+  xy: 407, 2
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+f_l_foot
+  rotate: false
+  xy: 265, 101
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: false
+  xy: 517, 15
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+f_l_leg1
+  rotate: true
+  xy: 448, 183
+  size: 71, 59
+  orig: 71, 59
+  offset: 0, 0
+  index: -1
+f_l_leg2
+  rotate: false
+  xy: 354, 104
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+f_l_shoulder
+  rotate: false
+  xy: 337, 24
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+f_r_arm1
+  rotate: true
+  xy: 509, 188
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+f_r_arm2
+  rotate: false
+  xy: 462, 3
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+f_r_foot
+  rotate: false
+  xy: 217, 100
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+f_r_hand
+  rotate: false
+  xy: 470, 62
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+f_r_leg1
+  rotate: true
+  xy: 407, 55
+  size: 81, 61
+  orig: 81, 61
+  offset: 0, 0
+  index: -1
+f_r_leg2
+  rotate: false
+  xy: 311, 102
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+f_r_shoulder
+  rotate: false
+  xy: 178, 16
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+f_shield
+  rotate: true
+  xy: 341, 138
+  size: 116, 105
+  orig: 116, 105
+  offset: 0, 0
+  index: -1
+f_skirt1
+  rotate: false
+  xy: 2, 10
+  size: 174, 84
+  orig: 174, 84
+  offset: 0, 0
+  index: -1
+f_skirt2
+  rotate: false
+  xy: 159, 98
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+f_weapon
+  rotate: false
+  xy: 260, 15
+  size: 75, 83
+  orig: 75, 83
+  offset: 0, 0
+  index: -1

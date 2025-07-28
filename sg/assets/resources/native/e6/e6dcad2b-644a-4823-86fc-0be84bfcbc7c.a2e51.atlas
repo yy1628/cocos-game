@@ -1,0 +1,111 @@
+
+panzhang_skill01_cx_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/x/00013
+  rotate: false
+  xy: 111, 271
+  size: 106, 93
+  orig: 195, 195
+  offset: 44, 32
+  index: -1
+sk1/x/00015
+  rotate: false
+  xy: 2, 179
+  size: 106, 93
+  orig: 195, 195
+  offset: 44, 32
+  index: -1
+sk1/x/00017
+  rotate: false
+  xy: 2, 274
+  size: 107, 90
+  orig: 195, 195
+  offset: 43, 33
+  index: -1
+sk1/x/00019
+  rotate: false
+  xy: 109, 93
+  size: 104, 84
+  orig: 195, 195
+  offset: 45, 36
+  index: -1
+sk1/x/00021
+  rotate: false
+  xy: 2, 3
+  size: 103, 84
+  orig: 195, 195
+  offset: 45, 37
+  index: -1
+sk1/x/00023
+  rotate: false
+  xy: 325, 88
+  size: 105, 88
+  orig: 195, 195
+  offset: 44, 34
+  index: -1
+sk1/x/00025
+  rotate: false
+  xy: 110, 179
+  size: 106, 90
+  orig: 195, 195
+  offset: 44, 33
+  index: -1
+sk1/x/00027
+  rotate: false
+  xy: 218, 175
+  size: 105, 94
+  orig: 195, 195
+  offset: 45, 31
+  index: -1
+sk1/x/00029
+  rotate: false
+  xy: 219, 271
+  size: 106, 93
+  orig: 195, 195
+  offset: 44, 32
+  index: -1
+sk1/x/00031
+  rotate: false
+  xy: 327, 178
+  size: 106, 92
+  orig: 195, 195
+  offset: 44, 32
+  index: -1
+sk1/x/00033
+  rotate: false
+  xy: 215, 89
+  size: 104, 84
+  orig: 195, 195
+  offset: 45, 36
+  index: -1
+sk1/x/00035
+  rotate: false
+  xy: 214, 2
+  size: 102, 85
+  orig: 195, 195
+  offset: 46, 36
+  index: -1
+sk1/x/00037
+  rotate: false
+  xy: 109, 6
+  size: 103, 85
+  orig: 195, 195
+  offset: 45, 36
+  index: -1
+sk1/x/00039
+  rotate: false
+  xy: 2, 89
+  size: 105, 88
+  orig: 195, 195
+  offset: 44, 34
+  index: -1
+sk1/x/00041
+  rotate: false
+  xy: 327, 272
+  size: 106, 92
+  orig: 195, 195
+  offset: 44, 32
+  index: -1

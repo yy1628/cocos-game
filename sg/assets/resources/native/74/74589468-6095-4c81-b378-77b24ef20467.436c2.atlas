@@ -1,0 +1,111 @@
+
+cangtian_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s/00000
+  rotate: false
+  xy: 143, 261
+  size: 40, 92
+  orig: 221, 208
+  offset: 90, 107
+  index: -1
+s/00002
+  rotate: false
+  xy: 143, 261
+  size: 40, 92
+  orig: 221, 208
+  offset: 90, 107
+  index: -1
+s/00004
+  rotate: false
+  xy: 143, 125
+  size: 177, 134
+  orig: 221, 208
+  offset: 21, 10
+  index: -1
+s/00006
+  rotate: false
+  xy: 2, 355
+  size: 191, 150
+  orig: 221, 208
+  offset: 17, 15
+  index: -1
+s/00008
+  rotate: true
+  xy: 195, 323
+  size: 182, 154
+  orig: 221, 208
+  offset: 21, 19
+  index: -1
+s/00010
+  rotate: false
+  xy: 2, 200
+  size: 139, 153
+  orig: 221, 208
+  offset: 46, 21
+  index: -1
+s/00012
+  rotate: false
+  xy: 2, 53
+  size: 139, 145
+  orig: 221, 208
+  offset: 45, 21
+  index: -1
+s/00014
+  rotate: true
+  xy: 322, 183
+  size: 138, 124
+  orig: 221, 208
+  offset: 45, 21
+  index: -1
+s/00016
+  rotate: true
+  xy: 351, 375
+  size: 130, 113
+  orig: 221, 208
+  offset: 50, 21
+  index: -1
+s/00018
+  rotate: false
+  xy: 322, 82
+  size: 126, 99
+  orig: 221, 208
+  offset: 52, 22
+  index: -1
+s/00020
+  rotate: true
+  xy: 143, 43
+  size: 80, 87
+  orig: 221, 208
+  offset: 70, 23
+  index: -1
+s/00022
+  rotate: false
+  xy: 232, 39
+  size: 80, 84
+  orig: 221, 208
+  offset: 70, 25
+  index: -1
+s/00024
+  rotate: false
+  xy: 314, 2
+  size: 80, 78
+  orig: 221, 208
+  offset: 70, 28
+  index: -1
+s/00026
+  rotate: false
+  xy: 396, 9
+  size: 80, 71
+  orig: 221, 208
+  offset: 70, 29
+  index: -1
+s/00028
+  rotate: false
+  xy: 185, 289
+  size: 79, 32
+  orig: 221, 208
+  offset: 71, 30
+  index: -1

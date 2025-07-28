@@ -1,0 +1,55 @@
+
+zhugeliang_skill04_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill4/shifa/shang/s (1)
+  rotate: false
+  xy: 2, 282
+  size: 58, 57
+  orig: 675, 675
+  offset: 315, 324
+  index: -1
+skill4/shifa/shang/s (11)
+  rotate: false
+  xy: 167, 22
+  size: 165, 165
+  orig: 675, 675
+  offset: 261, 264
+  index: -1
+skill4/shifa/shang/s (13)
+  rotate: true
+  xy: 334, 2
+  size: 170, 171
+  orig: 675, 675
+  offset: 259, 261
+  index: -1
+skill4/shifa/shang/s (3)
+  rotate: true
+  xy: 62, 212
+  size: 127, 132
+  orig: 675, 675
+  offset: 281, 282
+  index: -1
+skill4/shifa/shang/s (5)
+  rotate: true
+  xy: 196, 189
+  size: 150, 153
+  orig: 675, 675
+  offset: 271, 273
+  index: -1
+skill4/shifa/shang/s (7)
+  rotate: false
+  xy: 351, 174
+  size: 158, 165
+  orig: 675, 675
+  offset: 266, 270
+  index: -1
+skill4/shifa/shang/s (9)
+  rotate: false
+  xy: 2, 47
+  size: 163, 163
+  orig: 675, 675
+  offset: 264, 267
+  index: -1

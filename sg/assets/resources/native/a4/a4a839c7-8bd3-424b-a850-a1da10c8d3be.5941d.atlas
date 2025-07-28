@@ -1,0 +1,55 @@
+
+xushu_attack_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/hit/hit (1)
+  rotate: false
+  xy: 211, 322
+  size: 189, 187
+  orig: 525, 525
+  offset: 169, 171
+  index: -1
+attack/hit/hit (11)
+  rotate: false
+  xy: 333, 16
+  size: 121, 121
+  orig: 525, 525
+  offset: 233, 175
+  index: -1
+attack/hit/hit (13)
+  rotate: false
+  xy: 2, 2
+  size: 92, 93
+  orig: 525, 525
+  offset: 253, 191
+  index: -1
+attack/hit/hit (3)
+  rotate: false
+  xy: 2, 301
+  size: 207, 208
+  orig: 525, 525
+  offset: 160, 160
+  index: -1
+attack/hit/hit (5)
+  rotate: false
+  xy: 2, 97
+  size: 196, 202
+  orig: 525, 525
+  offset: 167, 161
+  index: -1
+attack/hit/hit (7)
+  rotate: true
+  xy: 211, 139
+  size: 181, 194
+  orig: 525, 525
+  offset: 180, 163
+  index: -1
+attack/hit/hit (9)
+  rotate: true
+  xy: 200, 7
+  size: 130, 131
+  orig: 525, 525
+  offset: 225, 171
+  index: -1

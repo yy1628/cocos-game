@@ -1,0 +1,286 @@
+
+panfeng.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_b
+  rotate: true
+  xy: 228, 95
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+cow_l
+  rotate: false
+  xy: 48, 37
+  size: 17, 50
+  orig: 17, 50
+  offset: 0, 0
+  index: -1
+cow_r
+  rotate: false
+  xy: 159, 38
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+gezi
+  rotate: false
+  xy: 2, 89
+  size: 73, 37
+  orig: 74, 44
+  offset: 0, 4
+  index: -1
+head
+  rotate: true
+  xy: 129, 84
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+head_b
+  rotate: false
+  xy: 67, 38
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: false
+  xy: 96, 10
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+l_arm_b
+  rotate: false
+  xy: 173, 4
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: false
+  xy: 61, 2
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 229, 26
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+l_hend_b
+  rotate: false
+  xy: 242, 26
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 125, 4
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+l_shield
+  rotate: true
+  xy: 77, 85
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: false
+  xy: 80, 11
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+l_toe
+  rotate: false
+  xy: 187, 3
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+l_top_b
+  rotate: false
+  xy: 188, 12
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+l_wrist
+  rotate: true
+  xy: 188, 24
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+l_wrist_b
+  rotate: false
+  xy: 80, 24
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+loop_f_l
+  rotate: true
+  xy: 73, 2
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+loop_f_r
+  rotate: true
+  xy: 111, 2
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: false
+  xy: 215, 26
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+r_arm_b
+  rotate: false
+  xy: 237, 15
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: true
+  xy: 225, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 201, 12
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 96, 23
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+r_loop
+  rotate: true
+  xy: 144, 28
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+r_shield
+  rotate: true
+  xy: 111, 44
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 61, 12
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+r_toe
+  rotate: false
+  xy: 199, 3
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+r_top_b
+  rotate: false
+  xy: 225, 14
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+r_wrist
+  rotate: false
+  xy: 201, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+r_wrist_b
+  rotate: true
+  xy: 213, 12
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+shield_attack
+  rotate: false
+  xy: 2, 37
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+shield_b_l
+  rotate: true
+  xy: 2, 7
+  size: 28, 57
+  orig: 28, 57
+  offset: 0, 0
+  index: -1
+shield_b_r
+  rotate: true
+  xy: 178, 86
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+shield_f_l
+  rotate: false
+  xy: 236, 38
+  size: 13, 55
+  orig: 13, 55
+  offset: 0, 0
+  index: -1
+shield_f_r
+  rotate: false
+  xy: 197, 39
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+thorax
+  rotate: false
+  xy: 111, 18
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 159, 20
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+waist_b
+  rotate: false
+  xy: 144, 2
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1

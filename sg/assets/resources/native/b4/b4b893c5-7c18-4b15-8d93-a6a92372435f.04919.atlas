@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d
+  rotate: true
+  xy: 2, 2
+  size: 300, 680
+  orig: 300, 680
+  offset: 0, 0
+  index: -1
+dwa
+  rotate: false
+  xy: 588, 308
+  size: 342, 498
+  orig: 385, 617
+  offset: 29, 6
+  index: -1
+mid2 (5) 拷贝
+  rotate: false
+  xy: 61, 914
+  size: 266, 63
+  orig: 267, 63
+  offset: 1, 0
+  index: -1
+图层 34
+  rotate: false
+  xy: 2, 586
+  size: 584, 220
+  orig: 586, 222
+  offset: 0, 1
+  index: -1
+墨-军队 拷贝 2
+  rotate: false
+  xy: 329, 808
+  size: 461, 169
+  orig: 461, 173
+  offset: 0, 0
+  index: -1
+矩形 1
+  rotate: false
+  xy: 2, 920
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+组 7
+  rotate: true
+  xy: 2, 304
+  size: 280, 561
+  orig: 342, 578
+  offset: 61, 17
+  index: -1

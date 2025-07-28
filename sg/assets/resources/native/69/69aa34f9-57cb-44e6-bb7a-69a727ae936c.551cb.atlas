@@ -1,0 +1,62 @@
+
+huaxiong_skill04_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk4/hit/hit (1)
+  rotate: false
+  xy: 2, 114
+  size: 184, 179
+  orig: 330, 397
+  offset: 75, 109
+  index: -1
+sk4/hit/hit (11)
+  rotate: false
+  xy: 2, 15
+  size: 113, 97
+  orig: 330, 397
+  offset: 111, 148
+  index: -1
+sk4/hit/hit (13)
+  rotate: false
+  xy: 353, 21
+  size: 142, 143
+  orig: 330, 397
+  offset: 98, 136
+  index: -1
+sk4/hit/hit (15)
+  rotate: false
+  xy: 375, 378
+  size: 135, 104
+  orig: 330, 397
+  offset: 98, 168
+  index: -1
+sk4/hit/hit (3)
+  rotate: false
+  xy: 2, 295
+  size: 192, 187
+  orig: 330, 397
+  offset: 69, 107
+  index: -1
+sk4/hit/hit (5)
+  rotate: false
+  xy: 188, 2
+  size: 163, 162
+  orig: 330, 397
+  offset: 82, 120
+  index: -1
+sk4/hit/hit (7)
+  rotate: false
+  xy: 196, 317
+  size: 177, 165
+  orig: 330, 397
+  offset: 76, 109
+  index: -1
+sk4/hit/hit (9)
+  rotate: true
+  xy: 196, 166
+  size: 149, 168
+  orig: 330, 397
+  offset: 98, 121
+  index: -1

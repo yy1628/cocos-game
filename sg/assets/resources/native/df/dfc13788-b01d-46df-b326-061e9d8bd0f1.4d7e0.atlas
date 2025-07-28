@@ -1,0 +1,41 @@
+
+shenzhugeliang_skill01_dd_up.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/1/0000
+  rotate: false
+  xy: 401, 6
+  size: 91, 53
+  orig: 200, 200
+  offset: 61, 74
+  index: -1
+attack/1/0002
+  rotate: false
+  xy: 302, 5
+  size: 97, 54
+  orig: 200, 200
+  offset: 55, 74
+  index: -1
+attack/1/0004
+  rotate: false
+  xy: 104, 3
+  size: 97, 56
+  orig: 200, 200
+  offset: 55, 73
+  index: -1
+attack/1/0006
+  rotate: false
+  xy: 203, 2
+  size: 97, 57
+  orig: 200, 200
+  offset: 55, 72
+  index: -1
+attack/1/0008
+  rotate: false
+  xy: 2, 3
+  size: 100, 56
+  orig: 200, 200
+  offset: 51, 72
+  index: -1

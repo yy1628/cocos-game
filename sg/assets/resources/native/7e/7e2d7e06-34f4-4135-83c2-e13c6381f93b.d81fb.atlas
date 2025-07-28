@@ -1,0 +1,76 @@
+
+molvbu_skill03_buff_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff1/0000
+  rotate: true
+  xy: 276, 171
+  size: 114, 152
+  orig: 135, 180
+  offset: 11, 15
+  index: -1
+buff1/0002
+  rotate: true
+  xy: 2, 160
+  size: 119, 156
+  orig: 135, 180
+  offset: 10, 11
+  index: -1
+buff1/0004
+  rotate: false
+  xy: 2, 281
+  size: 117, 158
+  orig: 135, 180
+  offset: 10, 11
+  index: -1
+buff1/0006
+  rotate: false
+  xy: 2, 2
+  size: 115, 156
+  orig: 135, 180
+  offset: 11, 9
+  index: -1
+buff1/0008
+  rotate: false
+  xy: 160, 161
+  size: 114, 157
+  orig: 135, 180
+  offset: 11, 7
+  index: -1
+buff1/0010
+  rotate: false
+  xy: 276, 287
+  size: 115, 152
+  orig: 135, 180
+  offset: 11, 10
+  index: -1
+buff1/0012
+  rotate: true
+  xy: 160, 41
+  size: 118, 149
+  orig: 135, 180
+  offset: 10, 14
+  index: -1
+buff1/0014
+  rotate: true
+  xy: 121, 320
+  size: 119, 153
+  orig: 135, 180
+  offset: 9, 13
+  index: -1
+buff1/0016
+  rotate: false
+  xy: 311, 21
+  size: 113, 148
+  orig: 135, 180
+  offset: 12, 14
+  index: -1
+buff1/0018
+  rotate: false
+  xy: 393, 290
+  size: 112, 149
+  orig: 135, 180
+  offset: 12, 13
+  index: -1

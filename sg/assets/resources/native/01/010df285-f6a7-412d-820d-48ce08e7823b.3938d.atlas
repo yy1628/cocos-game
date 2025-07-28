@@ -1,0 +1,62 @@
+
+huaxiong_skill04_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk4/dg/00003
+  rotate: true
+  xy: 390, 187
+  size: 119, 106
+  orig: 220, 220
+  offset: 8, 62
+  index: -1
+sk4/dg/00005
+  rotate: false
+  xy: 2, 299
+  size: 210, 159
+  orig: 220, 220
+  offset: 7, 3
+  index: -1
+sk4/dg/00007
+  rotate: false
+  xy: 2, 149
+  size: 210, 148
+  orig: 220, 220
+  offset: 10, 3
+  index: -1
+sk4/dg/00009
+  rotate: false
+  xy: 214, 308
+  size: 208, 150
+  orig: 220, 220
+  offset: 12, 9
+  index: -1
+sk4/dg/00011
+  rotate: false
+  xy: 2, 2
+  size: 191, 145
+  orig: 220, 220
+  offset: 29, 18
+  index: -1
+sk4/dg/00013
+  rotate: false
+  xy: 214, 161
+  size: 174, 145
+  orig: 220, 220
+  offset: 46, 20
+  index: -1
+sk4/dg/00015
+  rotate: false
+  xy: 214, 20
+  size: 169, 139
+  orig: 220, 220
+  offset: 48, 26
+  index: -1
+sk4/dg/00017
+  rotate: false
+  xy: 424, 366
+  size: 72, 92
+  orig: 220, 220
+  offset: 130, 68
+  index: -1

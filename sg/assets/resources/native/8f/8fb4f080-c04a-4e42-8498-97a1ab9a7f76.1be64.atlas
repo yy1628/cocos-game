@@ -1,0 +1,160 @@
+
+qiangnubing.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a-body
+  rotate: true
+  xy: 192, 7
+  size: 85, 83
+  orig: 85, 83
+  offset: 0, 0
+  index: -1
+a-head
+  rotate: false
+  xy: 148, 94
+  size: 131, 159
+  orig: 131, 160
+  offset: 0, 1
+  index: -1
+a-jian
+  rotate: false
+  xy: 2, 34
+  size: 188, 31
+  orig: 188, 31
+  offset: 0, 0
+  index: -1
+a-larm1
+  rotate: true
+  xy: 435, 122
+  size: 40, 34
+  orig: 40, 37
+  offset: 0, 3
+  index: -1
+a-larm2
+  rotate: false
+  xy: 2, 4
+  size: 33, 28
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+a-lhand
+  rotate: false
+  xy: 86, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+a-lleg1
+  rotate: false
+  xy: 389, 16
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+a-lleg2
+  rotate: false
+  xy: 330, 56
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+a-neck
+  rotate: false
+  xy: 412, 76
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+a-rarm1
+  rotate: true
+  xy: 385, 159
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+a-rarm2
+  rotate: false
+  xy: 385, 209
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+a-rarm3
+  rotate: true
+  xy: 385, 119
+  size: 38, 48
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+a-rhand
+  rotate: false
+  xy: 118, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+a-rleg1
+  rotate: true
+  xy: 468, 218
+  size: 35, 40
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+a-rleg2
+  rotate: true
+  xy: 330, 17
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+a-shoulder1
+  rotate: true
+  xy: 370, 64
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+a-shoulder2
+  rotate: true
+  xy: 427, 164
+  size: 43, 40
+  orig: 46, 40
+  offset: 3, 0
+  index: -1
+a-skirt1
+  rotate: true
+  xy: 277, 29
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+a-skirt2
+  rotate: false
+  xy: 431, 209
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+a-skirt3
+  rotate: true
+  xy: 37, 13
+  size: 19, 47
+  orig: 19, 47
+  offset: 0, 0
+  index: -1
+a-wq
+  rotate: false
+  xy: 2, 67
+  size: 144, 186
+  orig: 144, 186
+  offset: 0, 0
+  index: -1
+a-wq2
+  rotate: true
+  xy: 281, 118
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1

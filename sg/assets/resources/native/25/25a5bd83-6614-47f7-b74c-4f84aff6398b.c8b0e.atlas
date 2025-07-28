@@ -1,0 +1,125 @@
+
+shenlvmeng_skill01_sf_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/x/00005
+  rotate: true
+  xy: 437, 46
+  size: 65, 55
+  orig: 220, 220
+  offset: 78, 79
+  index: -1
+sk1/x/00007
+  rotate: true
+  xy: 137, 372
+  size: 129, 109
+  orig: 220, 220
+  offset: 46, 49
+  index: -1
+sk1/x/00009
+  rotate: true
+  xy: 2, 263
+  size: 129, 108
+  orig: 220, 220
+  offset: 46, 50
+  index: -1
+sk1/x/00011
+  rotate: true
+  xy: 247, 242
+  size: 128, 106
+  orig: 220, 220
+  offset: 47, 51
+  index: -1
+sk1/x/00013
+  rotate: false
+  xy: 248, 395
+  size: 126, 106
+  orig: 220, 220
+  offset: 48, 51
+  index: -1
+sk1/x/00015
+  rotate: false
+  xy: 218, 136
+  size: 126, 104
+  orig: 220, 220
+  offset: 49, 52
+  index: -1
+sk1/x/00017
+  rotate: true
+  xy: 346, 113
+  size: 127, 103
+  orig: 220, 220
+  offset: 50, 53
+  index: -1
+sk1/x/00019
+  rotate: true
+  xy: 108, 2
+  size: 128, 102
+  orig: 220, 220
+  offset: 50, 54
+  index: -1
+sk1/x/00021
+  rotate: true
+  xy: 218, 5
+  size: 129, 102
+  orig: 220, 220
+  offset: 51, 54
+  index: -1
+sk1/x/00023
+  rotate: true
+  xy: 2, 130
+  size: 131, 104
+  orig: 220, 220
+  offset: 49, 52
+  index: -1
+sk1/x/00025
+  rotate: true
+  xy: 112, 132
+  size: 132, 104
+  orig: 220, 220
+  offset: 48, 52
+  index: -1
+sk1/x/00027
+  rotate: false
+  xy: 112, 266
+  size: 133, 104
+  orig: 220, 220
+  offset: 47, 52
+  index: -1
+sk1/x/00029
+  rotate: false
+  xy: 2, 394
+  size: 133, 107
+  orig: 220, 220
+  offset: 47, 49
+  index: -1
+sk1/x/00031
+  rotate: true
+  xy: 2, 7
+  size: 121, 102
+  orig: 220, 220
+  offset: 47, 54
+  index: -1
+sk1/x/00033
+  rotate: false
+  xy: 355, 292
+  size: 121, 101
+  orig: 220, 220
+  offset: 47, 54
+  index: -1
+sk1/x/00035
+  rotate: false
+  xy: 376, 401
+  size: 120, 100
+  orig: 220, 220
+  offset: 47, 54
+  index: -1
+sk1/x/00037
+  rotate: false
+  xy: 322, 19
+  size: 113, 92
+  orig: 220, 220
+  offset: 51, 58
+  index: -1

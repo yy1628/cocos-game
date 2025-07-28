@@ -1,0 +1,90 @@
+
+zhugeliang_skill01_sf_down.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/shifa/xia/1_x (1)
+  rotate: false
+  xy: 170, 4
+  size: 96, 74
+  orig: 300, 300
+  offset: 102, 106
+  index: -1
+skill1/shifa/xia/1_x (11)
+  rotate: true
+  xy: 2, 152
+  size: 100, 74
+  orig: 300, 300
+  offset: 100, 108
+  index: -1
+skill1/shifa/xia/1_x (13)
+  rotate: true
+  xy: 78, 153
+  size: 99, 74
+  orig: 300, 300
+  offset: 101, 109
+  index: -1
+skill1/shifa/xia/1_x (15)
+  rotate: false
+  xy: 154, 80
+  size: 99, 72
+  orig: 300, 300
+  offset: 101, 110
+  index: -1
+skill1/shifa/xia/1_x (17)
+  rotate: false
+  xy: 255, 100
+  size: 93, 57
+  orig: 300, 300
+  offset: 103, 110
+  index: -1
+skill1/shifa/xia/1_x (19)
+  rotate: false
+  xy: 84, 2
+  size: 84, 50
+  orig: 300, 300
+  offset: 106, 114
+  index: -1
+skill1/shifa/xia/1_x (21)
+  rotate: false
+  xy: 2, 16
+  size: 80, 33
+  orig: 300, 300
+  offset: 109, 114
+  index: -1
+skill1/shifa/xia/1_x (23)
+  rotate: true
+  xy: 307, 168
+  size: 84, 53
+  orig: 300, 300
+  offset: 107, 112
+  index: -1
+skill1/shifa/xia/1_x (3)
+  rotate: true
+  xy: 229, 159
+  size: 93, 76
+  orig: 300, 300
+  offset: 104, 108
+  index: -1
+skill1/shifa/xia/1_x (5)
+  rotate: true
+  xy: 78, 54
+  size: 97, 74
+  orig: 300, 300
+  offset: 102, 109
+  index: -1
+skill1/shifa/xia/1_x (7)
+  rotate: true
+  xy: 154, 154
+  size: 98, 73
+  orig: 300, 300
+  offset: 102, 109
+  index: -1
+skill1/shifa/xia/1_x (9)
+  rotate: true
+  xy: 2, 51
+  size: 99, 74
+  orig: 300, 300
+  offset: 101, 108
+  index: -1

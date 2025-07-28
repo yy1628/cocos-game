@@ -1,0 +1,48 @@
+
+zhenji_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dandao/00000
+  rotate: false
+  xy: 2, 241
+  size: 211, 111
+  orig: 300, 200
+  offset: 70, 55
+  index: -1
+dandao/00002
+  rotate: false
+  xy: 215, 239
+  size: 232, 113
+  orig: 300, 200
+  offset: 49, 54
+  index: -1
+dandao/00004
+  rotate: false
+  xy: 2, 3
+  size: 243, 117
+  orig: 300, 200
+  offset: 38, 53
+  index: -1
+dandao/00006
+  rotate: false
+  xy: 247, 2
+  size: 242, 118
+  orig: 300, 200
+  offset: 39, 52
+  index: -1
+dandao/00008
+  rotate: false
+  xy: 243, 122
+  size: 250, 115
+  orig: 300, 200
+  offset: 31, 52
+  index: -1
+dandao/00010
+  rotate: false
+  xy: 2, 122
+  size: 239, 115
+  orig: 300, 200
+  offset: 42, 53
+  index: -1

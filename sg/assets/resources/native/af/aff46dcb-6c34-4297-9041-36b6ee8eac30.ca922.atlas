@@ -1,0 +1,55 @@
+
+smokefromthefief.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 4
+  size: 63, 98
+  orig: 63, 100
+  offset: 0, 1
+  index: -1
+2
+  rotate: false
+  xy: 67, 2
+  size: 59, 100
+  orig: 63, 100
+  offset: 2, 0
+  index: -1
+3
+  rotate: false
+  xy: 128, 5
+  size: 59, 97
+  orig: 63, 100
+  offset: 2, 3
+  index: -1
+4
+  rotate: false
+  xy: 189, 5
+  size: 59, 97
+  orig: 63, 100
+  offset: 2, 1
+  index: -1
+5
+  rotate: false
+  xy: 383, 16
+  size: 60, 86
+  orig: 63, 100
+  offset: 2, 0
+  index: -1
+6
+  rotate: false
+  xy: 250, 8
+  size: 60, 94
+  orig: 63, 100
+  offset: 2, 1
+  index: -1
+yz_city_2
+  rotate: true
+  xy: 312, 24
+  size: 78, 69
+  orig: 87, 82
+  offset: 4, 3
+  index: -1

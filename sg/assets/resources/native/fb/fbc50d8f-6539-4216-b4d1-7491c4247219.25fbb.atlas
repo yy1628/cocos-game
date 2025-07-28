@@ -1,0 +1,111 @@
+
+guanhai_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit/hit (1)
+  rotate: true
+  xy: 167, 155
+  size: 169, 69
+  orig: 319, 143
+  offset: 66, 39
+  index: -1
+hit/hit (11)
+  rotate: true
+  xy: 338, 23
+  size: 150, 34
+  orig: 319, 143
+  offset: 101, 57
+  index: -1
+hit/hit (13)
+  rotate: true
+  xy: 465, 374
+  size: 132, 27
+  orig: 319, 143
+  offset: 116, 61
+  index: -1
+hit/hit (3)
+  rotate: true
+  xy: 238, 166
+  size: 182, 82
+  orig: 319, 143
+  offset: 88, 36
+  index: -1
+hit/hit (5)
+  rotate: true
+  xy: 322, 175
+  size: 173, 79
+  orig: 319, 143
+  offset: 93, 35
+  index: -1
+hit/hit (7)
+  rotate: true
+  xy: 403, 211
+  size: 161, 79
+  orig: 319, 143
+  offset: 96, 34
+  index: -1
+hit/hit (9)
+  rotate: true
+  xy: 258, 5
+  size: 159, 78
+  orig: 319, 143
+  offset: 98, 35
+  index: -1
+shifa/0000
+  rotate: false
+  xy: 2, 326
+  size: 173, 180
+  orig: 240, 240
+  offset: 24, 38
+  index: -1
+shifa/0002
+  rotate: false
+  xy: 2, 155
+  size: 163, 169
+  orig: 240, 240
+  offset: 30, 40
+  index: -1
+shifa/0004
+  rotate: false
+  xy: 177, 350
+  size: 151, 156
+  orig: 240, 240
+  offset: 36, 43
+  index: -1
+shifa/0006
+  rotate: false
+  xy: 2, 2
+  size: 143, 151
+  orig: 240, 240
+  offset: 41, 42
+  index: -1
+shifa/0008
+  rotate: false
+  xy: 330, 374
+  size: 133, 132
+  orig: 240, 240
+  offset: 51, 49
+  index: -1
+shifa/0010
+  rotate: true
+  xy: 147, 38
+  size: 115, 109
+  orig: 240, 240
+  offset: 64, 58
+  index: -1
+shifa/0012
+  rotate: false
+  xy: 403, 129
+  size: 80, 80
+  orig: 240, 240
+  offset: 80, 83
+  index: -1
+shifa/0014
+  rotate: false
+  xy: 374, 52
+  size: 75, 75
+  orig: 240, 240
+  offset: 83, 85
+  index: -1

@@ -1,0 +1,90 @@
+
+zhenji_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouji/00000
+  rotate: true
+  xy: 111, 2
+  size: 83, 73
+  orig: 210, 210
+  offset: 66, 69
+  index: -1
+shouji/00002
+  rotate: false
+  xy: 308, 342
+  size: 147, 145
+  orig: 210, 210
+  offset: 32, 34
+  index: -1
+shouji/00004
+  rotate: false
+  xy: 2, 336
+  size: 153, 151
+  orig: 210, 210
+  offset: 29, 31
+  index: -1
+shouji/00006
+  rotate: true
+  xy: 157, 339
+  size: 148, 149
+  orig: 210, 210
+  offset: 31, 31
+  index: -1
+shouji/00008
+  rotate: false
+  xy: 308, 212
+  size: 132, 128
+  orig: 210, 210
+  offset: 41, 39
+  index: -1
+shouji/00010
+  rotate: false
+  xy: 157, 212
+  size: 132, 125
+  orig: 210, 210
+  offset: 40, 41
+  index: -1
+shouji/00012
+  rotate: false
+  xy: 2, 212
+  size: 123, 122
+  orig: 210, 210
+  offset: 39, 43
+  index: -1
+shouji/00014
+  rotate: true
+  xy: 2, 87
+  size: 123, 122
+  orig: 210, 210
+  offset: 39, 43
+  index: -1
+shouji/00016
+  rotate: false
+  xy: 126, 89
+  size: 121, 121
+  orig: 210, 210
+  offset: 39, 42
+  index: -1
+shouji/00018
+  rotate: true
+  xy: 249, 90
+  size: 120, 117
+  orig: 210, 210
+  offset: 41, 42
+  index: -1
+shouji/00020
+  rotate: true
+  xy: 368, 98
+  size: 112, 114
+  orig: 210, 210
+  offset: 47, 43
+  index: -1
+shouji/00022
+  rotate: false
+  xy: 2, 3
+  size: 107, 82
+  orig: 210, 210
+  offset: 48, 45
+  index: -1

@@ -1,0 +1,76 @@
+
+chenqun_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dandao/0000
+  rotate: false
+  xy: 2, 260
+  size: 169, 121
+  orig: 315, 180
+  offset: 69, 33
+  index: -1
+dandao/0002
+  rotate: false
+  xy: 344, 378
+  size: 166, 122
+  orig: 315, 180
+  offset: 70, 32
+  index: -1
+dandao/0004
+  rotate: false
+  xy: 330, 121
+  size: 154, 128
+  orig: 315, 180
+  offset: 79, 29
+  index: -1
+dandao/0006
+  rotate: false
+  xy: 339, 251
+  size: 165, 125
+  orig: 315, 180
+  offset: 70, 31
+  index: -1
+dandao/0008
+  rotate: false
+  xy: 2, 383
+  size: 169, 117
+  orig: 315, 180
+  offset: 68, 37
+  index: -1
+dandao/0010
+  rotate: false
+  xy: 2, 2
+  size: 155, 128
+  orig: 315, 180
+  offset: 79, 29
+  index: -1
+dandao/0012
+  rotate: false
+  xy: 2, 132
+  size: 163, 126
+  orig: 315, 180
+  offset: 72, 30
+  index: -1
+dandao/0014
+  rotate: false
+  xy: 173, 380
+  size: 169, 120
+  orig: 315, 180
+  offset: 68, 34
+  index: -1
+dandao/0016
+  rotate: false
+  xy: 173, 254
+  size: 164, 124
+  orig: 315, 180
+  offset: 72, 29
+  index: -1
+dandao/0018
+  rotate: false
+  xy: 167, 124
+  size: 161, 128
+  orig: 315, 180
+  offset: 74, 29
+  index: -1

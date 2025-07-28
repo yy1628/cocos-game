@@ -1,0 +1,55 @@
+
+lineupofreferees.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dsaw
+  rotate: true
+  xy: 2, 47
+  size: 124, 135
+  orig: 150, 150
+  offset: 14, 10
+  index: -1
+dwav
+  rotate: true
+  xy: 2, 173
+  size: 264, 266
+  orig: 300, 300
+  offset: 25, 17
+  index: -1
+icon_zb_qiu
+  rotate: true
+  xy: 270, 42
+  size: 148, 147
+  orig: 151, 151
+  offset: 1, 2
+  index: -1
+wadwq
+  rotate: false
+  xy: 139, 54
+  size: 116, 117
+  orig: 128, 128
+  offset: 8, 6
+  index: -1
+waxwav
+  rotate: false
+  xy: 270, 192
+  size: 245, 245
+  orig: 256, 256
+  offset: 7, 5
+  index: -1
+图层 1
+  rotate: false
+  xy: 517, 2
+  size: 210, 435
+  orig: 232, 435
+  offset: 11, 0
+  index: -1
+图层 2
+  rotate: false
+  xy: 419, 97
+  size: 93, 93
+  orig: 95, 95
+  offset: 1, 1
+  index: -1

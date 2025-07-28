@@ -1,0 +1,118 @@
+
+caiwenji_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/dandao/dandao_0
+  rotate: false
+  xy: 2, 198
+  size: 135, 96
+  orig: 135, 96
+  offset: 0, 0
+  index: -1
+skill1/dandao/dandao_12
+  rotate: false
+  xy: 2, 2
+  size: 135, 96
+  orig: 135, 96
+  offset: 0, 0
+  index: -1
+skill1/dandao/dandao_16
+  rotate: true
+  xy: 139, 159
+  size: 135, 96
+  orig: 135, 96
+  offset: 0, 0
+  index: -1
+skill1/dandao/dandao_20
+  rotate: true
+  xy: 139, 22
+  size: 135, 96
+  orig: 135, 96
+  offset: 0, 0
+  index: -1
+skill1/dandao/dandao_24
+  rotate: false
+  xy: 161, 312
+  size: 135, 96
+  orig: 135, 96
+  offset: 0, 0
+  index: -1
+skill1/dandao/dandao_4
+  rotate: false
+  xy: 301, 410
+  size: 135, 96
+  orig: 135, 96
+  offset: 0, 0
+  index: -1
+skill1/dandao/dandao_8
+  rotate: false
+  xy: 2, 100
+  size: 135, 96
+  orig: 135, 96
+  offset: 0, 0
+  index: -1
+skill1/hit_shang/hit_shang_0
+  rotate: false
+  xy: 161, 410
+  size: 138, 96
+  orig: 170, 135
+  offset: 16, 10
+  index: -1
+skill1/hit_shang/hit_shang_2
+  rotate: false
+  xy: 2, 404
+  size: 157, 102
+  orig: 170, 135
+  offset: 4, 10
+  index: -1
+skill1/hit_shang/hit_shang_4
+  rotate: false
+  xy: 2, 296
+  size: 151, 106
+  orig: 170, 135
+  offset: 15, 18
+  index: -1
+skill1/hit_shang/hit_shang_6
+  rotate: false
+  xy: 364, 103
+  size: 93, 93
+  orig: 170, 135
+  offset: 37, 31
+  index: -1
+skill1/hit_xia/hitxia_0
+  rotate: false
+  xy: 237, 221
+  size: 132, 87
+  orig: 143, 113
+  offset: 7, 6
+  index: -1
+skill1/hit_xia/hitxia_2
+  rotate: false
+  xy: 298, 310
+  size: 133, 98
+  orig: 143, 113
+  offset: 5, 4
+  index: -1
+skill1/hit_xia/hitxia_4
+  rotate: false
+  xy: 237, 132
+  size: 125, 87
+  orig: 143, 113
+  offset: 11, 15
+  index: -1
+skill1/hit_xia/hitxia_6
+  rotate: false
+  xy: 237, 46
+  size: 121, 84
+  orig: 143, 113
+  offset: 13, 18
+  index: -1
+skill1/hit_xia/hitxia_8
+  rotate: true
+  xy: 371, 198
+  size: 110, 76
+  orig: 143, 113
+  offset: 20, 21
+  index: -1

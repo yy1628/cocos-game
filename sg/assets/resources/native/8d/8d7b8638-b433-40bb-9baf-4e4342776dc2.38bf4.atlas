@@ -1,0 +1,48 @@
+
+zhangxingcai_skill01_dd_up.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dandao/dandao (1)
+  rotate: false
+  xy: 182, 72
+  size: 171, 63
+  orig: 750, 750
+  offset: 293, 339
+  index: -1
+dandao/dandao (11)
+  rotate: false
+  xy: 182, 137
+  size: 178, 61
+  orig: 750, 750
+  offset: 285, 341
+  index: -1
+dandao/dandao (3)
+  rotate: false
+  xy: 180, 6
+  size: 166, 64
+  orig: 750, 750
+  offset: 298, 339
+  index: -1
+dandao/dandao (5)
+  rotate: false
+  xy: 2, 132
+  size: 178, 66
+  orig: 750, 750
+  offset: 284, 338
+  index: -1
+dandao/dandao (7)
+  rotate: false
+  xy: 2, 2
+  size: 175, 62
+  orig: 750, 750
+  offset: 285, 340
+  index: -1
+dandao/dandao (9)
+  rotate: false
+  xy: 2, 66
+  size: 176, 64
+  orig: 750, 750
+  offset: 285, 339
+  index: -1

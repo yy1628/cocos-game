@@ -1,0 +1,13 @@
+
+soulstonesyntheticline.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g1 - 副本
+  rotate: false
+  xy: 2, 2
+  size: 108, 66
+  orig: 127, 77
+  offset: 9, 5
+  index: -1

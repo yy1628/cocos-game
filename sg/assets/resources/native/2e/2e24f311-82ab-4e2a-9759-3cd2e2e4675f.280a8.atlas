@@ -1,0 +1,55 @@
+
+caohong_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dg/0018
+  rotate: false
+  xy: 2, 284
+  size: 182, 222
+  orig: 280, 315
+  offset: 39, 80
+  index: -1
+dg/0020
+  rotate: true
+  xy: 2, 114
+  size: 168, 207
+  orig: 280, 315
+  offset: 53, 80
+  index: -1
+dg/0022
+  rotate: true
+  xy: 186, 356
+  size: 150, 183
+  orig: 280, 315
+  offset: 71, 80
+  index: -1
+dg/0024
+  rotate: false
+  xy: 211, 211
+  size: 135, 143
+  orig: 280, 315
+  offset: 83, 83
+  index: -1
+dg/0026
+  rotate: false
+  xy: 211, 81
+  size: 128, 128
+  orig: 280, 315
+  offset: 88, 86
+  index: -1
+dg/0028
+  rotate: false
+  xy: 2, 2
+  size: 117, 110
+  orig: 280, 315
+  offset: 94, 91
+  index: -1
+dg/0030
+  rotate: true
+  xy: 121, 21
+  size: 91, 83
+  orig: 280, 315
+  offset: 106, 99
+  index: -1

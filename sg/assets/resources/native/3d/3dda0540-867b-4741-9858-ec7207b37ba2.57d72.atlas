@@ -1,0 +1,62 @@
+
+xunyu_skill03_sf_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill3/xia/0000
+  rotate: false
+  xy: 154, 36
+  size: 151, 117
+  orig: 255, 298
+  offset: 55, 35
+  index: -1
+skill3/xia/0002
+  rotate: true
+  xy: 364, 331
+  size: 168, 131
+  orig: 255, 298
+  offset: 47, 29
+  index: -1
+skill3/xia/0004
+  rotate: true
+  xy: 356, 112
+  size: 186, 141
+  orig: 255, 298
+  offset: 38, 22
+  index: -1
+skill3/xia/0006
+  rotate: true
+  xy: 212, 300
+  size: 199, 150
+  orig: 255, 298
+  offset: 31, 19
+  index: -1
+skill3/xia/0008
+  rotate: true
+  xy: 2, 146
+  size: 199, 150
+  orig: 255, 298
+  offset: 31, 19
+  index: -1
+skill3/xia/0010
+  rotate: false
+  xy: 2, 347
+  size: 208, 152
+  orig: 255, 298
+  offset: 27, 14
+  index: -1
+skill3/xia/0012
+  rotate: false
+  xy: 154, 155
+  size: 200, 143
+  orig: 255, 298
+  offset: 35, 15
+  index: -1
+skill3/xia/0015
+  rotate: false
+  xy: 307, 2
+  size: 154, 108
+  orig: 255, 298
+  offset: 56, 32
+  index: -1

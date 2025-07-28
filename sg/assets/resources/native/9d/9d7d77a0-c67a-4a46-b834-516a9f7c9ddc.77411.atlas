@@ -1,0 +1,104 @@
+
+huatuo_skill04_sf_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk4/x/00003
+  rotate: false
+  xy: 2, 44
+  size: 105, 52
+  orig: 210, 280
+  offset: 57, 29
+  index: -1
+sk4/x/00005
+  rotate: false
+  xy: 276, 247
+  size: 123, 121
+  orig: 210, 280
+  offset: 47, 28
+  index: -1
+sk4/x/00007
+  rotate: true
+  xy: 143, 364
+  size: 137, 131
+  orig: 210, 280
+  offset: 39, 26
+  index: -1
+sk4/x/00009
+  rotate: false
+  xy: 2, 371
+  size: 139, 130
+  orig: 210, 280
+  offset: 39, 26
+  index: -1
+sk4/x/00011
+  rotate: false
+  xy: 135, 233
+  size: 139, 129
+  orig: 210, 280
+  offset: 39, 26
+  index: -1
+sk4/x/00013
+  rotate: false
+  xy: 134, 102
+  size: 139, 129
+  orig: 210, 280
+  offset: 38, 26
+  index: -1
+sk4/x/00015
+  rotate: true
+  xy: 275, 94
+  size: 137, 129
+  orig: 210, 280
+  offset: 38, 26
+  index: -1
+sk4/x/00017
+  rotate: true
+  xy: 2, 98
+  size: 136, 130
+  orig: 210, 280
+  offset: 39, 25
+  index: -1
+sk4/x/00019
+  rotate: true
+  xy: 2, 236
+  size: 133, 131
+  orig: 210, 280
+  offset: 42, 25
+  index: -1
+sk4/x/00021
+  rotate: true
+  xy: 276, 370
+  size: 131, 124
+  orig: 210, 280
+  offset: 42, 26
+  index: -1
+sk4/x/00023
+  rotate: false
+  xy: 134, 2
+  size: 113, 98
+  orig: 210, 280
+  offset: 54, 28
+  index: -1
+sk4/x/00025
+  rotate: false
+  xy: 135, 368
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sk4/x/00027
+  rotate: false
+  xy: 135, 368
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sk4/x/00029
+  rotate: false
+  xy: 135, 368
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

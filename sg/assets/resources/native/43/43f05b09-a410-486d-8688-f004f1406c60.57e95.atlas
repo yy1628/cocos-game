@@ -1,0 +1,69 @@
+
+xuchu_skill03_sj_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fenli/hitxia/0000
+  rotate: true
+  xy: 182, 33
+  size: 141, 116
+  orig: 240, 240
+  offset: 57, 60
+  index: -1
+fenli/hitxia/0002
+  rotate: true
+  xy: 2, 163
+  size: 192, 148
+  orig: 240, 240
+  offset: 31, 42
+  index: -1
+fenli/hitxia/0004
+  rotate: false
+  xy: 2, 357
+  size: 197, 153
+  orig: 240, 240
+  offset: 29, 39
+  index: -1
+fenli/hitxia/0006
+  rotate: false
+  xy: 201, 357
+  size: 193, 153
+  orig: 240, 240
+  offset: 28, 39
+  index: -1
+fenli/hitxia/0008
+  rotate: false
+  xy: 2, 7
+  size: 178, 154
+  orig: 240, 240
+  offset: 38, 36
+  index: -1
+fenli/hitxia/0010
+  rotate: true
+  xy: 286, 177
+  size: 178, 130
+  orig: 240, 240
+  offset: 39, 60
+  index: -1
+fenli/hitxia/0012
+  rotate: true
+  xy: 152, 176
+  size: 179, 132
+  orig: 240, 240
+  offset: 39, 59
+  index: -1
+fenli/hitxia/0014
+  rotate: true
+  xy: 300, 2
+  size: 173, 131
+  orig: 240, 240
+  offset: 40, 60
+  index: -1
+fenli/hitxia/0016
+  rotate: true
+  xy: 396, 392
+  size: 118, 62
+  orig: 240, 240
+  offset: 64, 105
+  index: -1

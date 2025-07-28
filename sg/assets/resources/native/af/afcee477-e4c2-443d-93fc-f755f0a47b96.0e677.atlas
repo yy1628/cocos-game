@@ -1,0 +1,104 @@
+
+zhenguo_sj_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x/00000
+  rotate: false
+  xy: 109, 11
+  size: 122, 90
+  orig: 291, 395
+  offset: 78, 59
+  index: -1
+x/00002
+  rotate: true
+  xy: 392, 152
+  size: 130, 92
+  orig: 291, 395
+  offset: 74, 58
+  index: -1
+x/00004
+  rotate: false
+  xy: 291, 350
+  size: 154, 104
+  orig: 291, 395
+  offset: 67, 50
+  index: -1
+x/00006
+  rotate: true
+  xy: 286, 117
+  size: 163, 104
+  orig: 291, 395
+  offset: 62, 50
+  index: -1
+x/00008
+  rotate: true
+  xy: 2, 171
+  size: 167, 110
+  orig: 291, 395
+  offset: 61, 46
+  index: -1
+x/00010
+  rotate: false
+  xy: 2, 340
+  size: 172, 114
+  orig: 291, 395
+  offset: 60, 42
+  index: -1
+x/00012
+  rotate: true
+  xy: 176, 282
+  size: 172, 113
+  orig: 291, 395
+  offset: 61, 42
+  index: -1
+x/00014
+  rotate: false
+  xy: 114, 103
+  size: 170, 108
+  orig: 291, 395
+  offset: 62, 44
+  index: -1
+x/00016
+  rotate: true
+  xy: 2, 2
+  size: 167, 105
+  orig: 291, 395
+  offset: 63, 45
+  index: -1
+x/00018
+  rotate: false
+  xy: 286, 32
+  size: 151, 83
+  orig: 291, 395
+  offset: 71, 54
+  index: -1
+x/00020
+  rotate: true
+  xy: 439, 12
+  size: 138, 67
+  orig: 291, 395
+  offset: 77, 65
+  index: -1
+x/00022
+  rotate: false
+  xy: 291, 284
+  size: 132, 64
+  orig: 291, 395
+  offset: 79, 66
+  index: -1
+x/00024
+  rotate: true
+  xy: 114, 213
+  size: 125, 55
+  orig: 291, 395
+  offset: 81, 72
+  index: -1
+x/00026
+  rotate: true
+  xy: 447, 332
+  size: 122, 45
+  orig: 291, 395
+  offset: 82, 81
+  index: -1

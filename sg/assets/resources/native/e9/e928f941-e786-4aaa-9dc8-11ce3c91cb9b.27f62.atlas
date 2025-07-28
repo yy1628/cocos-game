@@ -1,0 +1,419 @@
+
+armyofficershatornaments.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 376, 419
+  size: 97, 109
+  orig: 97, 109
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 71, 2
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 460, 26
+  size: 103, 107
+  orig: 103, 107
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 240, 709
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 2, 698
+  size: 189, 324
+  orig: 189, 333
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 246, 393
+  size: 21, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 480, 716
+  size: 151, 128
+  orig: 151, 128
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 367, 115
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 703, 172
+  size: 47, 39
+  orig: 47, 40
+  offset: 0, 1
+  index: -1
+2
+  rotate: true
+  xy: 436, 526
+  size: 188, 137
+  orig: 188, 137
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 499, 852
+  size: 170, 167
+  orig: 170, 175
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 595, 7
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+22
+  rotate: true
+  xy: 193, 705
+  size: 80, 45
+  orig: 80, 45
+  offset: 0, 0
+  index: -1
+23
+  rotate: true
+  xy: 558, 269
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 694, 122
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 304, 518
+  size: 130, 189
+  orig: 130, 189
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 657, 221
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+27
+  rotate: true
+  xy: 205, 82
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+28
+  rotate: false
+  xy: 391, 399
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+29
+  rotate: true
+  xy: 389, 846
+  size: 176, 108
+  orig: 182, 110
+  offset: 1, 0
+  index: -1
+3
+  rotate: true
+  xy: 611, 273
+  size: 62, 58
+  orig: 63, 60
+  offset: 0, 2
+  index: -1
+30
+  rotate: true
+  xy: 154, 416
+  size: 280, 148
+  orig: 280, 164
+  offset: 0, 16
+  index: -1
+30-1
+  rotate: false
+  xy: 558, 337
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+31
+  rotate: false
+  xy: 193, 391
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+31-x
+  rotate: true
+  xy: 635, 50
+  size: 95, 57
+  orig: 98, 57
+  offset: 0, 0
+  index: -1
+32
+  rotate: false
+  xy: 523, 147
+  size: 132, 104
+  orig: 138, 104
+  offset: 6, 0
+  index: -1
+32-1
+  rotate: true
+  xy: 427, 791
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+32-2
+  rotate: false
+  xy: 639, 2
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+33
+  rotate: true
+  xy: 137, 3
+  size: 77, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+34
+  rotate: true
+  xy: 2, 82
+  size: 305, 201
+  orig: 305, 201
+  offset: 0, 0
+  index: -1
+35
+  rotate: false
+  xy: 565, 41
+  size: 68, 104
+  orig: 68, 105
+  offset: 0, 1
+  index: -1
+36
+  rotate: false
+  xy: 694, 49
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+37
+  rotate: false
+  xy: 240, 698
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+38
+  rotate: false
+  xy: 224, 4
+  size: 234, 109
+  orig: 234, 109
+  offset: 0, 0
+  index: -1
+39-1
+  rotate: false
+  xy: 193, 787
+  size: 194, 235
+  orig: 194, 235
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 694, 79
+  size: 41, 28
+  orig: 43, 28
+  offset: 2, 0
+  index: -1
+41
+  rotate: false
+  xy: 308, 134
+  size: 116, 258
+  orig: 116, 258
+  offset: 0, 0
+  index: -1
+42
+  rotate: false
+  xy: 2, 389
+  size: 150, 307
+  orig: 150, 307
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 205, 115
+  size: 274, 101
+  orig: 274, 101
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 426, 135
+  size: 116, 95
+  orig: 116, 98
+  offset: 0, 3
+  index: -1
+7
+  rotate: false
+  xy: 304, 417
+  size: 70, 99
+  orig: 70, 99
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 2, 2
+  size: 78, 67
+  orig: 78, 68
+  offset: 0, 1
+  index: -1
+9
+  rotate: true
+  xy: 657, 171
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+ayanpi1
+  rotate: true
+  xy: 565, 2
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+ayanpi2
+  rotate: false
+  xy: 281, 394
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+byanbai
+  rotate: false
+  xy: 221, 391
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+byanbai_0
+  rotate: false
+  xy: 308, 115
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+byanpi1
+  rotate: false
+  xy: 154, 390
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+byanpi2
+  rotate: false
+  xy: 411, 402
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+byanqiu
+  rotate: false
+  xy: 386, 116
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+byanzhu
+  rotate: false
+  xy: 347, 115
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 315, 711
+  size: 74, 33
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 426, 253
+  size: 130, 147
+  orig: 130, 147
+  offset: 0, 0
+  index: -1
+yachi
+  rotate: false
+  xy: 356, 397
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+yao1
+  rotate: false
+  xy: 487, 408
+  size: 95, 116
+  orig: 95, 116
+  offset: 0, 0
+  index: -1
+yao2
+  rotate: false
+  xy: 350, 716
+  size: 128, 69
+  orig: 128, 69
+  offset: 0, 0
+  index: -1
+zhuangshi
+  rotate: false
+  xy: 389, 790
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+zuiba1
+  rotate: false
+  xy: 406, 117
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+zuiba2
+  rotate: false
+  xy: 320, 396
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+guanhai.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_hair
+  rotate: false
+  xy: 133, 54
+  size: 129, 99
+  orig: 129, 99
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: true
+  xy: 2, 10
+  size: 143, 129
+  orig: 143, 129
+  offset: 0, 0
+  index: -1
+f_i_body
+  rotate: true
+  xy: 264, 71
+  size: 82, 122
+  orig: 82, 122
+  offset: 0, 0
+  index: -1
+f_i_hip
+  rotate: true
+  xy: 474, 168
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+f_i_l_arm
+  rotate: true
+  xy: 388, 57
+  size: 96, 80
+  orig: 96, 80
+  offset: 0, 0
+  index: -1
+f_i_l_foot
+  rotate: false
+  xy: 345, 9
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+f_i_l_hand
+  rotate: false
+  xy: 345, 37
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+f_i_l_leg1
+  rotate: false
+  xy: 264, 28
+  size: 79, 41
+  orig: 79, 41
+  offset: 0, 0
+  index: -1
+f_i_l_leg2
+  rotate: false
+  xy: 474, 125
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+f_i_r_arm1
+  rotate: false
+  xy: 470, 26
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+f_i_r_arm2
+  rotate: false
+  xy: 419, 31
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+f_i_r_foot
+  rotate: true
+  xy: 449, 2
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+f_i_r_hand
+  rotate: true
+  xy: 385, 25
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+f_i_r_leg1
+  rotate: true
+  xy: 470, 67
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+f_i_r_leg2
+  rotate: true
+  xy: 419, 6
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+f_wq
+  rotate: false
+  xy: 2, 155
+  size: 470, 63
+  orig: 470, 63
+  offset: 0, 0
+  index: -1

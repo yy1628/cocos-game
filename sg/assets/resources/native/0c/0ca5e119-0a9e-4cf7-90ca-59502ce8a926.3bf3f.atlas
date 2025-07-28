@@ -1,0 +1,41 @@
+
+diaochan_skill03_dd_up.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill3/dandao/00000
+  rotate: true
+  xy: 290, 14
+  size: 231, 88
+  orig: 300, 200
+  offset: 31, 61
+  index: -1
+skill3/dandao/00002
+  rotate: true
+  xy: 98, 7
+  size: 238, 94
+  orig: 300, 200
+  offset: 27, 58
+  index: -1
+skill3/dandao/00004
+  rotate: true
+  xy: 2, 2
+  size: 243, 94
+  orig: 300, 200
+  offset: 22, 58
+  index: -1
+skill3/dandao/00006
+  rotate: true
+  xy: 380, 24
+  size: 221, 88
+  orig: 300, 200
+  offset: 40, 61
+  index: -1
+skill3/dandao/00008
+  rotate: true
+  xy: 194, 16
+  size: 229, 94
+  orig: 300, 200
+  offset: 36, 58
+  index: -1

@@ -1,0 +1,62 @@
+
+shenhuang_sj_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x/00014
+  rotate: true
+  xy: 383, 18
+  size: 183, 125
+  orig: 262, 297
+  offset: 50, 36
+  index: -1
+x/00016
+  rotate: true
+  xy: 383, 203
+  size: 183, 127
+  orig: 262, 297
+  offset: 50, 35
+  index: -1
+x/00018
+  rotate: false
+  xy: 2, 256
+  size: 190, 130
+  orig: 262, 297
+  offset: 43, 33
+  index: -1
+x/00020
+  rotate: false
+  xy: 2, 129
+  size: 188, 125
+  orig: 262, 297
+  offset: 45, 36
+  index: -1
+x/00022
+  rotate: false
+  xy: 194, 260
+  size: 187, 126
+  orig: 262, 297
+  offset: 46, 35
+  index: -1
+x/00024
+  rotate: false
+  xy: 2, 2
+  size: 187, 125
+  orig: 262, 297
+  offset: 46, 36
+  index: -1
+x/00026
+  rotate: false
+  xy: 194, 134
+  size: 187, 124
+  orig: 262, 297
+  offset: 46, 36
+  index: -1
+x/00028
+  rotate: false
+  xy: 192, 8
+  size: 185, 124
+  orig: 262, 297
+  offset: 48, 36
+  index: -1

@@ -1,0 +1,62 @@
+
+zhugeliang_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/dandao/dandao1 (1)
+  rotate: false
+  xy: 2, 192
+  size: 97, 68
+  orig: 750, 750
+  offset: 371, 338
+  index: -1
+skill1/dandao/dandao1 (11)
+  rotate: false
+  xy: 2, 113
+  size: 289, 69
+  orig: 750, 750
+  offset: 368, 346
+  index: -1
+skill1/dandao/dandao1 (13)
+  rotate: false
+  xy: 101, 184
+  size: 297, 67
+  orig: 750, 750
+  offset: 369, 346
+  index: -1
+skill1/dandao/dandao1 (15)
+  rotate: false
+  xy: 2, 262
+  size: 184, 55
+  orig: 750, 750
+  offset: 455, 355
+  index: -1
+skill1/dandao/dandao1 (3)
+  rotate: false
+  xy: 293, 92
+  size: 205, 90
+  orig: 750, 750
+  offset: 368, 336
+  index: -1
+skill1/dandao/dandao1 (5)
+  rotate: false
+  xy: 260, 2
+  size: 235, 88
+  orig: 750, 750
+  offset: 366, 332
+  index: -1
+skill1/dandao/dandao1 (7)
+  rotate: false
+  xy: 2, 35
+  size: 256, 76
+  orig: 750, 750
+  offset: 368, 344
+  index: -1
+skill1/dandao/dandao1 (9)
+  rotate: false
+  xy: 188, 253
+  size: 281, 64
+  orig: 750, 750
+  offset: 366, 351
+  index: -1

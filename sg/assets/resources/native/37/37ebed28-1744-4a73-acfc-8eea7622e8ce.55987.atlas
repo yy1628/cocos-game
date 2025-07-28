@@ -1,0 +1,398 @@
+
+mosunquanpf01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f2_belt
+  rotate: false
+  xy: 364, 351
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+f2_body
+  rotate: false
+  xy: 367, 729
+  size: 84, 118
+  orig: 84, 118
+  offset: 0, 0
+  index: -1
+f2_clock
+  rotate: false
+  xy: 222, 849
+  size: 163, 171
+  orig: 163, 171
+  offset: 0, 0
+  index: -1
+f2_head
+  rotate: false
+  xy: 188, 330
+  size: 174, 215
+  orig: 174, 215
+  offset: 0, 0
+  index: -1
+f2_hip
+  rotate: true
+  xy: 386, 202
+  size: 80, 45
+  orig: 80, 45
+  offset: 0, 0
+  index: -1
+f2_horse_body
+  rotate: false
+  xy: 188, 179
+  size: 196, 149
+  orig: 196, 175
+  offset: 0, 26
+  index: -1
+f2_housetail
+  rotate: false
+  xy: 153, 17
+  size: 112, 122
+  orig: 112, 122
+  offset: 0, 0
+  index: -1
+f2_l_arm01
+  rotate: false
+  xy: 434, 565
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+f2_l_arm02
+  rotate: true
+  xy: 478, 520
+  size: 43, 42
+  orig: 43, 50
+  offset: 0, 4
+  index: -1
+f2_l_clothes
+  rotate: true
+  xy: 478, 952
+  size: 68, 129
+  orig: 68, 129
+  offset: 0, 0
+  index: -1
+f2_l_fur
+  rotate: false
+  xy: 222, 582
+  size: 92, 111
+  orig: 92, 111
+  offset: 0, 0
+  index: -1
+f2_l_hand
+  rotate: false
+  xy: 519, 914
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+f2_l_house_foreleg01
+  rotate: false
+  xy: 188, 142
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+f2_l_house_foreleg02
+  rotate: false
+  xy: 468, 151
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1
+f2_l_house_foreleg03
+  rotate: false
+  xy: 468, 623
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+f2_l_house_rearleg01
+  rotate: true
+  xy: 489, 473
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+f2_l_house_rearleg02
+  rotate: true
+  xy: 501, 317
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+f2_l_house_rearleg02_2
+  rotate: true
+  xy: 318, 150
+  size: 27, 34
+  orig: 35, 40
+  offset: 4, 3
+  index: -1
+f2_l_house_rearleg03
+  rotate: true
+  xy: 478, 914
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+f2_l_leg
+  rotate: true
+  xy: 430, 362
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+f2_m_horse_hair
+  rotate: true
+  xy: 364, 486
+  size: 95, 68
+  orig: 95, 68
+  offset: 0, 0
+  index: -1
+f2_m_horse_head001
+  rotate: true
+  xy: 2, 3
+  size: 136, 149
+  orig: 136, 149
+  offset: 0, 0
+  index: -1
+f2_m_horse_head01
+  rotate: false
+  xy: 222, 695
+  size: 143, 152
+  orig: 143, 152
+  offset: 0, 0
+  index: -1
+f2_r_arm01
+  rotate: true
+  xy: 386, 284
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+f2_r_arm02
+  rotate: true
+  xy: 410, 617
+  size: 110, 56
+  orig: 110, 56
+  offset: 0, 0
+  index: -1
+f2_r_clothes
+  rotate: false
+  xy: 267, 27
+  size: 112, 115
+  orig: 112, 115
+  offset: 0, 0
+  index: -1
+f2_r_fur_1
+  rotate: true
+  xy: 381, 31
+  size: 112, 97
+  orig: 112, 97
+  offset: 0, 0
+  index: -1
+f2_r_fur_2
+  rotate: true
+  xy: 447, 305
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+f2_r_hand
+  rotate: false
+  xy: 468, 661
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+f2_r_house_foreleg01
+  rotate: true
+  xy: 504, 379
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+f2_r_house_foreleg02
+  rotate: false
+  xy: 433, 218
+  size: 45, 64
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+f2_r_house_foreleg02_2
+  rotate: false
+  xy: 468, 705
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+f2_r_house_foreleg03
+  rotate: true
+  xy: 479, 585
+  size: 36, 35
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+f2_r_house_rearleg01
+  rotate: true
+  xy: 489, 426
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+f2_r_house_rearleg02
+  rotate: false
+  xy: 480, 244
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+f2_r_house_rearleg02_2
+  rotate: true
+  xy: 282, 147
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+f2_r_house_rearleg03
+  rotate: true
+  xy: 559, 914
+  size: 36, 38
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+f2_saddle
+  rotate: true
+  xy: 316, 583
+  size: 110, 92
+  orig: 112, 92
+  offset: 0, 0
+  index: -1
+f2_weapon
+  rotate: true
+  xy: 2, 141
+  size: 404, 184
+  orig: 404, 184
+  offset: 0, 0
+  index: -1
+houmamao
+  rotate: true
+  xy: 387, 914
+  size: 106, 89
+  orig: 106, 89
+  offset: 0, 0
+  index: -1
+houmatui1
+  rotate: true
+  xy: 234, 144
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+houshouzs1
+  rotate: false
+  xy: 387, 851
+  size: 105, 61
+  orig: 105, 61
+  offset: 0, 0
+  index: -1
+houtoufa
+  rotate: true
+  xy: 432, 417
+  size: 67, 55
+  orig: 67, 55
+  offset: 0, 0
+  index: -1
+houzs1
+  rotate: true
+  xy: 377, 3
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+houzs2
+  rotate: false
+  xy: 354, 144
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+houzs3
+  rotate: true
+  xy: 267, 2
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+maqianzs
+  rotate: true
+  xy: 364, 417
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+mazs5
+  rotate: false
+  xy: 316, 547
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+qiantoufa
+  rotate: false
+  xy: 402, 149
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+qiantoushi
+  rotate: false
+  xy: 494, 851
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+wq_fx
+  rotate: false
+  xy: 2, 547
+  size: 218, 473
+  orig: 244, 482
+  offset: 10, 9
+  index: -1
+zs1
+  rotate: false
+  xy: 378, 145
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+zs11
+  rotate: true
+  xy: 453, 750
+  size: 99, 62
+  orig: 99, 62
+  offset: 0, 0
+  index: -1
+zs2
+  rotate: true
+  xy: 343, 2
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+zs22
+  rotate: false
+  xy: 434, 513
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+zs3
+  rotate: true
+  xy: 305, 3
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1

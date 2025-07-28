@@ -1,0 +1,76 @@
+
+liaohua_skill01_buff_up.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BUFF/buff (1)
+  rotate: true
+  xy: 179, 10
+  size: 102, 87
+  orig: 450, 450
+  offset: 175, 185
+  index: -1
+BUFF/buff (11)
+  rotate: true
+  xy: 268, 13
+  size: 101, 82
+  orig: 450, 450
+  offset: 173, 188
+  index: -1
+BUFF/buff (13)
+  rotate: true
+  xy: 346, 117
+  size: 100, 83
+  orig: 450, 450
+  offset: 175, 187
+  index: -1
+BUFF/buff (15)
+  rotate: true
+  xy: 261, 116
+  size: 101, 83
+  orig: 450, 450
+  offset: 175, 187
+  index: -1
+BUFF/buff (17)
+  rotate: true
+  xy: 174, 114
+  size: 103, 85
+  orig: 450, 450
+  offset: 174, 185
+  index: -1
+BUFF/buff (19)
+  rotate: true
+  xy: 89, 8
+  size: 103, 88
+  orig: 450, 450
+  offset: 174, 185
+  index: -1
+BUFF/buff (3)
+  rotate: true
+  xy: 87, 113
+  size: 104, 85
+  orig: 450, 450
+  offset: 173, 185
+  index: -1
+BUFF/buff (5)
+  rotate: true
+  xy: 2, 2
+  size: 106, 85
+  orig: 450, 450
+  offset: 172, 187
+  index: -1
+BUFF/buff (7)
+  rotate: true
+  xy: 2, 110
+  size: 107, 83
+  orig: 450, 450
+  offset: 172, 187
+  index: -1
+BUFF/buff (9)
+  rotate: true
+  xy: 352, 17
+  size: 98, 82
+  orig: 450, 450
+  offset: 175, 188
+  index: -1

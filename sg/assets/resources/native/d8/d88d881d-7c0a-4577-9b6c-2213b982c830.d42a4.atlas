@@ -1,0 +1,146 @@
+
+huaxiong_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/hit/s/s (1)
+  rotate: false
+  xy: 64, 2
+  size: 48, 48
+  orig: 220, 264
+  offset: 86, 143
+  index: -1
+sk1/hit/s/s (11)
+  rotate: false
+  xy: 262, 165
+  size: 98, 110
+  orig: 220, 264
+  offset: 60, 130
+  index: -1
+sk1/hit/s/s (13)
+  rotate: true
+  xy: 262, 65
+  size: 98, 100
+  orig: 220, 264
+  offset: 60, 134
+  index: -1
+sk1/hit/s/s (15)
+  rotate: false
+  xy: 389, 318
+  size: 94, 76
+  orig: 220, 264
+  offset: 62, 138
+  index: -1
+sk1/hit/s/s (17)
+  rotate: true
+  xy: 364, 106
+  size: 83, 71
+  orig: 220, 264
+  offset: 69, 142
+  index: -1
+sk1/hit/s/s (19)
+  rotate: true
+  xy: 364, 38
+  size: 66, 69
+  orig: 220, 264
+  offset: 74, 145
+  index: -1
+sk1/hit/s/s (21)
+  rotate: false
+  xy: 203, 17
+  size: 49, 59
+  orig: 220, 264
+  offset: 91, 148
+  index: -1
+sk1/hit/s/s (28)
+  rotate: false
+  xy: 203, 78
+  size: 51, 55
+  orig: 220, 264
+  offset: 63, 124
+  index: -1
+sk1/hit/s/s (3)
+  rotate: true
+  xy: 2, 236
+  size: 123, 133
+  orig: 220, 264
+  offset: 49, 107
+  index: -1
+sk1/hit/s/s (30)
+  rotate: false
+  xy: 113, 52
+  size: 88, 81
+  orig: 220, 264
+  offset: 56, 115
+  index: -1
+sk1/hit/s/s (32)
+  rotate: true
+  xy: 265, 394
+  size: 106, 108
+  orig: 220, 264
+  offset: 50, 97
+  index: -1
+sk1/hit/s/s (34)
+  rotate: false
+  xy: 137, 135
+  size: 123, 111
+  orig: 220, 264
+  offset: 49, 97
+  index: -1
+sk1/hit/s/s (36)
+  rotate: false
+  xy: 132, 387
+  size: 131, 113
+  orig: 220, 264
+  offset: 51, 97
+  index: -1
+sk1/hit/s/s (38)
+  rotate: false
+  xy: 251, 277
+  size: 136, 108
+  orig: 220, 264
+  offset: 49, 93
+  index: -1
+sk1/hit/s/s (40)
+  rotate: true
+  xy: 2, 116
+  size: 118, 109
+  orig: 220, 264
+  offset: 71, 92
+  index: -1
+sk1/hit/s/s (42)
+  rotate: false
+  xy: 362, 191
+  size: 122, 84
+  orig: 220, 264
+  offset: 69, 103
+  index: -1
+sk1/hit/s/s (44)
+  rotate: true
+  xy: 2, 29
+  size: 85, 60
+  orig: 220, 264
+  offset: 85, 116
+  index: -1
+sk1/hit/s/s (5)
+  rotate: false
+  xy: 2, 361
+  size: 128, 139
+  orig: 220, 264
+  offset: 46, 105
+  index: -1
+sk1/hit/s/s (7)
+  rotate: false
+  xy: 137, 248
+  size: 112, 137
+  orig: 220, 264
+  offset: 55, 111
+  index: -1
+sk1/hit/s/s (9)
+  rotate: true
+  xy: 375, 396
+  size: 104, 124
+  orig: 220, 264
+  offset: 59, 116
+  index: -1

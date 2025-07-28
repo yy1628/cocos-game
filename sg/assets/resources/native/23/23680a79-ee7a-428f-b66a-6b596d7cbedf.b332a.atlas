@@ -1,0 +1,139 @@
+
+shenzhoutai_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1/-0006
+  rotate: true
+  xy: 408, 294
+  size: 51, 37
+  orig: 205, 172
+  offset: 129, 102
+  index: -1
+d1/-0007
+  rotate: false
+  xy: 2, 2
+  size: 61, 61
+  orig: 205, 172
+  offset: 129, 79
+  index: -1
+d1/-0008
+  rotate: true
+  xy: 66, 11
+  size: 69, 89
+  orig: 205, 172
+  offset: 125, 51
+  index: -1
+d1/-0009
+  rotate: false
+  xy: 281, 347
+  size: 165, 89
+  orig: 205, 172
+  offset: 30, 37
+  index: -1
+sf/00000
+  rotate: true
+  xy: 281, 236
+  size: 109, 125
+  orig: 212, 212
+  offset: 57, 47
+  index: -1
+sf/00002
+  rotate: true
+  xy: 134, 208
+  size: 113, 120
+  orig: 212, 212
+  offset: 49, 46
+  index: -1
+sf/00004
+  rotate: false
+  xy: 2, 324
+  size: 140, 112
+  orig: 212, 212
+  offset: 46, 51
+  index: -1
+sf/00006
+  rotate: true
+  xy: 2, 181
+  size: 141, 106
+  orig: 212, 212
+  offset: 46, 52
+  index: -1
+sf/00008
+  rotate: false
+  xy: 256, 137
+  size: 133, 97
+  orig: 212, 212
+  offset: 54, 54
+  index: -1
+sf/00010
+  rotate: false
+  xy: 144, 323
+  size: 135, 113
+  orig: 212, 212
+  offset: 54, 54
+  index: -1
+sf/00012
+  rotate: false
+  xy: 66, 82
+  size: 115, 58
+  orig: 212, 212
+  offset: 54, 54
+  index: -1
+sf/00014
+  rotate: true
+  xy: 447, 184
+  size: 123, 62
+  orig: 212, 212
+  offset: 48, 52
+  index: -1
+sf/00016
+  rotate: true
+  xy: 448, 309
+  size: 127, 62
+  orig: 212, 212
+  offset: 43, 52
+  index: -1
+sf/00018
+  rotate: true
+  xy: 442, 57
+  size: 125, 64
+  orig: 212, 212
+  offset: 42, 52
+  index: -1
+sf/00020
+  rotate: true
+  xy: 2, 65
+  size: 114, 62
+  orig: 212, 212
+  offset: 42, 52
+  index: -1
+sf/00022
+  rotate: false
+  xy: 110, 142
+  size: 115, 64
+  orig: 212, 212
+  offset: 42, 52
+  index: -1
+sf/00024
+  rotate: true
+  xy: 183, 27
+  size: 113, 55
+  orig: 212, 212
+  offset: 43, 53
+  index: -1
+sf/00026
+  rotate: true
+  xy: 391, 162
+  size: 72, 49
+  orig: 212, 212
+  offset: 55, 56
+  index: -1
+sf/00028
+  rotate: false
+  xy: 110, 304
+  size: 22, 18
+  orig: 212, 212
+  offset: 99, 90
+  index: -1

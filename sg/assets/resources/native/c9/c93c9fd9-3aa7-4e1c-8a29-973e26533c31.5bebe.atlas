@@ -1,0 +1,76 @@
+
+ganning_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd/0000
+  rotate: false
+  xy: 297, 113
+  size: 146, 110
+  orig: 245, 210
+  offset: 50, 52
+  index: -1
+dd/0002
+  rotate: false
+  xy: 2, 115
+  size: 139, 109
+  orig: 245, 210
+  offset: 57, 53
+  index: -1
+dd/0004
+  rotate: false
+  xy: 158, 335
+  size: 141, 108
+  orig: 245, 210
+  offset: 55, 54
+  index: -1
+dd/0006
+  rotate: false
+  xy: 301, 335
+  size: 145, 108
+  orig: 245, 210
+  offset: 51, 54
+  index: -1
+dd/0008
+  rotate: false
+  xy: 2, 226
+  size: 151, 108
+  orig: 245, 210
+  offset: 45, 54
+  index: -1
+dd/0010
+  rotate: false
+  xy: 155, 225
+  size: 154, 108
+  orig: 245, 210
+  offset: 42, 54
+  index: -1
+dd/0012
+  rotate: false
+  xy: 311, 225
+  size: 155, 108
+  orig: 245, 210
+  offset: 41, 54
+  index: -1
+dd/0014
+  rotate: false
+  xy: 2, 336
+  size: 154, 107
+  orig: 245, 210
+  offset: 42, 54
+  index: -1
+dd/0016
+  rotate: false
+  xy: 143, 115
+  size: 152, 108
+  orig: 245, 210
+  offset: 44, 54
+  index: -1
+dd/0018
+  rotate: false
+  xy: 2, 2
+  size: 153, 111
+  orig: 245, 210
+  offset: 43, 54
+  index: -1

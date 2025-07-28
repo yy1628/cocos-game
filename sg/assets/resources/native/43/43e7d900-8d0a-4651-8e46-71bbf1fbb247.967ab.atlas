@@ -1,0 +1,90 @@
+
+zhanghong_skill01_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sf/00003
+  rotate: false
+  xy: 209, 230
+  size: 104, 102
+  orig: 195, 195
+  offset: 58, 50
+  index: -1
+sf/00005
+  rotate: true
+  xy: 2, 123
+  size: 107, 112
+  orig: 195, 195
+  offset: 57, 40
+  index: -1
+sf/00007
+  rotate: true
+  xy: 116, 121
+  size: 107, 110
+  orig: 195, 195
+  offset: 56, 41
+  index: -1
+sf/00009
+  rotate: false
+  xy: 315, 230
+  size: 103, 102
+  orig: 195, 195
+  offset: 56, 43
+  index: -1
+sf/00011
+  rotate: true
+  xy: 2, 244
+  size: 88, 91
+  orig: 195, 195
+  offset: 57, 49
+  index: -1
+sf/00013
+  rotate: false
+  xy: 349, 120
+  size: 116, 108
+  orig: 195, 195
+  offset: 41, 49
+  index: -1
+sf/00015
+  rotate: false
+  xy: 2, 8
+  size: 121, 111
+  orig: 195, 195
+  offset: 38, 49
+  index: -1
+sf/00017
+  rotate: false
+  xy: 252, 2
+  size: 124, 116
+  orig: 195, 195
+  offset: 37, 46
+  index: -1
+sf/00019
+  rotate: false
+  xy: 125, 4
+  size: 125, 115
+  orig: 195, 195
+  offset: 38, 48
+  index: -1
+sf/00021
+  rotate: false
+  xy: 125, 4
+  size: 125, 115
+  orig: 195, 195
+  offset: 38, 48
+  index: -1
+sf/00023
+  rotate: false
+  xy: 228, 121
+  size: 119, 107
+  orig: 195, 195
+  offset: 44, 55
+  index: -1
+sf/00025
+  rotate: false
+  xy: 95, 232
+  size: 112, 100
+  orig: 195, 195
+  offset: 47, 60
+  index: -1

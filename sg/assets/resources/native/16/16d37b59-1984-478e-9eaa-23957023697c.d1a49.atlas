@@ -1,0 +1,174 @@
+
+shinv.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a-arm1
+  rotate: false
+  xy: 473, 7
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+a-arm2
+  rotate: true
+  xy: 131, 2
+  size: 109, 118
+  orig: 109, 118
+  offset: 0, 0
+  index: -1
+a-body
+  rotate: false
+  xy: 445, 58
+  size: 46, 71
+  orig: 46, 71
+  offset: 0, 0
+  index: -1
+a-daizi1
+  rotate: false
+  xy: 405, 2
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+a-daizi2
+  rotate: true
+  xy: 453, 131
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+a-daizi3
+  rotate: false
+  xy: 514, 207
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+a-daizi4
+  rotate: true
+  xy: 334, 130
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+a-hai2
+  rotate: false
+  xy: 207, 127
+  size: 96, 125
+  orig: 96, 125
+  offset: 0, 0
+  index: -1
+a-hai3
+  rotate: true
+  xy: 386, 167
+  size: 85, 49
+  orig: 85, 49
+  offset: 0, 0
+  index: -1
+a-hai4
+  rotate: false
+  xy: 131, 113
+  size: 74, 139
+  orig: 74, 139
+  offset: 0, 0
+  index: -1
+a-hai5
+  rotate: false
+  xy: 377, 54
+  size: 23, 75
+  orig: 23, 80
+  offset: 0, 0
+  index: -1
+a-hair1
+  rotate: false
+  xy: 437, 175
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+a-hand
+  rotate: true
+  xy: 510, 25
+  size: 48, 19
+  orig: 48, 19
+  offset: 0, 0
+  index: -1
+a-hand_0
+  rotate: false
+  xy: 305, 163
+  size: 79, 89
+  orig: 81, 91
+  offset: 0, 2
+  index: -1
+a-larm2
+  rotate: false
+  xy: 251, 8
+  size: 79, 117
+  orig: 79, 122
+  offset: 0, 0
+  index: -1
+a-lhand
+  rotate: true
+  xy: 491, 136
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+a-lleg
+  rotate: true
+  xy: 332, 7
+  size: 27, 71
+  orig: 27, 77
+  offset: 0, 0
+  index: -1
+a-pijian1
+  rotate: true
+  xy: 402, 56
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+a-pijian1-1
+  rotate: false
+  xy: 514, 179
+  size: 36, 26
+  orig: 68, 39
+  offset: 32, 13
+  index: -1
+a-pijian2
+  rotate: true
+  xy: 305, 127
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+a-rleg
+  rotate: true
+  xy: 366, 131
+  size: 30, 85
+  orig: 30, 85
+  offset: 0, 0
+  index: -1
+a-skirt
+  rotate: false
+  xy: 332, 36
+  size: 43, 89
+  orig: 45, 89
+  offset: 1, 0
+  index: -1
+a-toudai
+  rotate: false
+  xy: 493, 75
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+a-wq
+  rotate: false
+  xy: 2, 4
+  size: 127, 248
+  orig: 127, 248
+  offset: 0, 0
+  index: -1

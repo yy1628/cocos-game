@@ -1,0 +1,55 @@
+
+wangping_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouji/hit (1)
+  rotate: true
+  xy: 157, 25
+  size: 77, 76
+  orig: 525, 525
+  offset: 222, 199
+  index: -1
+shouji/hit (11)
+  rotate: false
+  xy: 2, 275
+  size: 190, 159
+  orig: 525, 525
+  offset: 168, 153
+  index: -1
+shouji/hit (13)
+  rotate: true
+  xy: 194, 245
+  size: 189, 165
+  orig: 525, 525
+  offset: 170, 147
+  index: -1
+shouji/hit (3)
+  rotate: false
+  xy: 157, 104
+  size: 153, 139
+  orig: 525, 525
+  offset: 185, 170
+  index: -1
+shouji/hit (5)
+  rotate: true
+  xy: 312, 82
+  size: 161, 138
+  orig: 525, 525
+  offset: 183, 169
+  index: -1
+shouji/hit (7)
+  rotate: true
+  xy: 2, 2
+  size: 89, 72
+  orig: 525, 525
+  offset: 213, 202
+  index: -1
+shouji/hit (9)
+  rotate: true
+  xy: 2, 93
+  size: 180, 153
+  orig: 525, 525
+  offset: 174, 157
+  index: -1

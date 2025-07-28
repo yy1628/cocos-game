@@ -1,0 +1,76 @@
+
+tongyong_buff.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00000
+  rotate: false
+  xy: 2, 125
+  size: 145, 126
+  orig: 193, 193
+  offset: 31, 30
+  index: -1
+00002
+  rotate: false
+  xy: 150, 255
+  size: 141, 126
+  orig: 193, 193
+  offset: 36, 30
+  index: -1
+00004
+  rotate: false
+  xy: 300, 381
+  size: 138, 129
+  orig: 193, 193
+  offset: 36, 30
+  index: -1
+00006
+  rotate: false
+  xy: 293, 130
+  size: 132, 125
+  orig: 193, 193
+  offset: 30, 36
+  index: -1
+00008
+  rotate: false
+  xy: 149, 2
+  size: 133, 123
+  orig: 193, 193
+  offset: 30, 39
+  index: -1
+00010
+  rotate: false
+  xy: 293, 257
+  size: 140, 122
+  orig: 193, 193
+  offset: 31, 40
+  index: -1
+00012
+  rotate: false
+  xy: 150, 127
+  size: 138, 126
+  orig: 193, 193
+  offset: 31, 36
+  index: -1
+00014
+  rotate: false
+  xy: 153, 383
+  size: 145, 127
+  orig: 193, 193
+  offset: 30, 33
+  index: -1
+00016
+  rotate: false
+  xy: 2, 253
+  size: 146, 128
+  orig: 193, 193
+  offset: 29, 30
+  index: -1
+00018
+  rotate: false
+  xy: 2, 383
+  size: 149, 127
+  orig: 193, 193
+  offset: 27, 30
+  index: -1

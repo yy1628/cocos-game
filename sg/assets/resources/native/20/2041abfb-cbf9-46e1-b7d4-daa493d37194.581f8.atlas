@@ -1,0 +1,62 @@
+
+daqiao_skill01_dd_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/dd/00000
+  rotate: true
+  xy: 376, 192
+  size: 179, 105
+  orig: 300, 200
+  offset: 78, 49
+  index: -1
+sk1/dd/00002
+  rotate: false
+  xy: 193, 269
+  size: 181, 102
+  orig: 300, 200
+  offset: 77, 50
+  index: -1
+sk1/dd/00004
+  rotate: false
+  xy: 188, 57
+  size: 190, 104
+  orig: 300, 200
+  offset: 68, 48
+  index: -1
+sk1/dd/00006
+  rotate: false
+  xy: 2, 271
+  size: 189, 100
+  orig: 300, 200
+  offset: 70, 49
+  index: -1
+sk1/dd/00008
+  rotate: false
+  xy: 2, 61
+  size: 184, 104
+  orig: 300, 200
+  offset: 74, 45
+  index: -1
+sk1/dd/00010
+  rotate: true
+  xy: 380, 2
+  size: 188, 108
+  orig: 300, 200
+  offset: 70, 45
+  index: -1
+sk1/dd/00012
+  rotate: false
+  xy: 2, 167
+  size: 185, 102
+  orig: 300, 200
+  offset: 73, 48
+  index: -1
+sk1/dd/00014
+  rotate: false
+  xy: 189, 163
+  size: 181, 104
+  orig: 300, 200
+  offset: 76, 49
+  index: -1

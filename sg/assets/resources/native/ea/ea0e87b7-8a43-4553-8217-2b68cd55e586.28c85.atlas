@@ -1,0 +1,188 @@
+
+sunjian.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_mud01
+  rotate: true
+  xy: 427, 161
+  size: 93, 25
+  orig: 93, 25
+  offset: 0, 0
+  index: -1
+f_body
+  rotate: true
+  xy: 302, 2
+  size: 95, 100
+  orig: 95, 100
+  offset: 0, 0
+  index: -1
+f_cloak01
+  rotate: true
+  xy: 526, 103
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+f_cloak02
+  rotate: false
+  xy: 332, 135
+  size: 93, 119
+  orig: 93, 119
+  offset: 0, 0
+  index: -1
+f_corselet01
+  rotate: false
+  xy: 473, 17
+  size: 47, 81
+  orig: 47, 81
+  offset: 0, 0
+  index: -1
+f_corselet02
+  rotate: true
+  xy: 653, 37
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+f_corselet03
+  rotate: true
+  xy: 109, 7
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+f_hair
+  rotate: true
+  xy: 409, 101
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+f_head
+  rotate: false
+  xy: 177, 99
+  size: 153, 155
+  orig: 153, 155
+  offset: 0, 0
+  index: -1
+f_l_arm01
+  rotate: true
+  xy: 468, 100
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+f_l_arm02
+  rotate: false
+  xy: 645, 108
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+f_l_foot
+  rotate: true
+  xy: 2, 2
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+f_l_hand
+  rotate: true
+  xy: 376, 100
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+f_l_leg01
+  rotate: false
+  xy: 724, 207
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+f_l_leg02
+  rotate: true
+  xy: 73, 6
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+f_l_shoulder
+  rotate: true
+  xy: 404, 3
+  size: 95, 67
+  orig: 95, 67
+  offset: 0, 0
+  index: -1
+f_r_arm01
+  rotate: false
+  xy: 590, 29
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+f_r_arm02
+  rotate: false
+  xy: 591, 108
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+f_r_foot
+  rotate: false
+  xy: 332, 99
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+f_r_hand
+  rotate: true
+  xy: 162, 7
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+f_r_leg01
+  rotate: true
+  xy: 697, 110
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+f_r_leg02
+  rotate: true
+  xy: 35, 5
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+f_r_shoulder
+  rotate: false
+  xy: 196, 2
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+f_under
+  rotate: true
+  xy: 522, 19
+  size: 79, 66
+  orig: 79, 66
+  offset: 0, 0
+  index: -1
+f_weapon
+  rotate: true
+  xy: 2, 44
+  size: 210, 173
+  orig: 210, 173
+  offset: 0, 0
+  index: -1
+f_weapon02
+  rotate: true
+  xy: 454, 162
+  size: 92, 268
+  orig: 92, 268
+  offset: 0, 0
+  index: -1

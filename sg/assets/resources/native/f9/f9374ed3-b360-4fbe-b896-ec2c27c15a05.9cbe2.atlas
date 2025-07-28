@@ -1,0 +1,27 @@
+
+dungeonwhip.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 1
+  rotate: true
+  xy: 545, 32
+  size: 78, 123
+  orig: 103, 123
+  offset: 16, 0
+  index: -1
+图层 3
+  rotate: false
+  xy: 670, 38
+  size: 103, 72
+  orig: 103, 123
+  offset: 0, 19
+  index: -1
+图层 5 拷贝
+  rotate: false
+  xy: 2, 2
+  size: 541, 108
+  orig: 541, 108
+  offset: 0, 0
+  index: -1

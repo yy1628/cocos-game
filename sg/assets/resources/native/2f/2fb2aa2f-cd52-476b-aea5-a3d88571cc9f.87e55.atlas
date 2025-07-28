@@ -1,0 +1,111 @@
+
+shenliubei_skill01_sf_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00015
+  rotate: true
+  xy: 253, 396
+  size: 113, 135
+  orig: 140, 175
+  offset: 12, 18
+  index: -1
+00017
+  rotate: false
+  xy: 256, 259
+  size: 113, 135
+  orig: 140, 175
+  offset: 12, 18
+  index: -1
+00019
+  rotate: true
+  xy: 369, 8
+  size: 112, 135
+  orig: 140, 175
+  offset: 14, 18
+  index: -1
+00021
+  rotate: true
+  xy: 2, 138
+  size: 111, 134
+  orig: 140, 175
+  offset: 16, 19
+  index: -1
+00023
+  rotate: true
+  xy: 371, 283
+  size: 111, 135
+  orig: 140, 175
+  offset: 16, 19
+  index: -1
+00025
+  rotate: false
+  xy: 256, 120
+  size: 111, 137
+  orig: 140, 175
+  offset: 16, 20
+  index: -1
+00027
+  rotate: false
+  xy: 142, 251
+  size: 112, 140
+  orig: 140, 175
+  offset: 15, 21
+  index: -1
+00029
+  rotate: false
+  xy: 369, 122
+  size: 113, 135
+  orig: 140, 175
+  offset: 15, 23
+  index: -1
+00031
+  rotate: true
+  xy: 117, 393
+  size: 116, 134
+  orig: 140, 175
+  offset: 14, 23
+  index: -1
+00033
+  rotate: true
+  xy: 2, 251
+  size: 116, 138
+  orig: 140, 175
+  offset: 15, 22
+  index: -1
+00035
+  rotate: false
+  xy: 2, 369
+  size: 113, 140
+  orig: 140, 175
+  offset: 17, 22
+  index: -1
+00037
+  rotate: false
+  xy: 138, 116
+  size: 111, 133
+  orig: 140, 175
+  offset: 17, 24
+  index: -1
+00039
+  rotate: false
+  xy: 2, 2
+  size: 105, 134
+  orig: 140, 175
+  offset: 16, 26
+  index: -1
+00041
+  rotate: true
+  xy: 109, 10
+  size: 104, 134
+  orig: 140, 175
+  offset: 16, 29
+  index: -1
+00043
+  rotate: true
+  xy: 245, 16
+  size: 98, 121
+  orig: 140, 175
+  offset: 16, 36
+  index: -1

@@ -1,0 +1,62 @@
+
+xiahouyuan_attack_sj_up.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pingkan/hit/00000
+  rotate: false
+  xy: 398, 151
+  size: 96, 100
+  orig: 200, 200
+  offset: 58, 56
+  index: -1
+pingkan/hit/00002
+  rotate: true
+  xy: 268, 122
+  size: 129, 128
+  orig: 200, 200
+  offset: 41, 44
+  index: -1
+pingkan/hit/00004
+  rotate: true
+  xy: 2, 120
+  size: 131, 132
+  orig: 200, 200
+  offset: 40, 42
+  index: -1
+pingkan/hit/00006
+  rotate: false
+  xy: 136, 123
+  size: 130, 128
+  orig: 200, 200
+  offset: 40, 46
+  index: -1
+pingkan/hit/00008
+  rotate: true
+  xy: 136, 2
+  size: 119, 124
+  orig: 200, 200
+  offset: 46, 45
+  index: -1
+pingkan/hit/00010
+  rotate: false
+  xy: 2, 4
+  size: 117, 114
+  orig: 200, 200
+  offset: 48, 55
+  index: -1
+pingkan/hit/00012
+  rotate: false
+  xy: 262, 7
+  size: 116, 113
+  orig: 200, 200
+  offset: 49, 56
+  index: -1
+pingkan/hit/00014
+  rotate: true
+  xy: 380, 15
+  size: 105, 110
+  orig: 200, 200
+  offset: 52, 58
+  index: -1

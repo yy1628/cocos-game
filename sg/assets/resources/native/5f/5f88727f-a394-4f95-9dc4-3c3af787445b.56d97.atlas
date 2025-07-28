@@ -1,0 +1,104 @@
+
+molvbu_skill01_sf_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1/sf/x/0018
+  rotate: false
+  xy: 79, 393
+  size: 133, 52
+  orig: 244, 231
+  offset: 60, 52
+  index: -1
+sk1/sf/x/0020
+  rotate: true
+  xy: 391, 109
+  size: 127, 116
+  orig: 244, 231
+  offset: 63, 18
+  index: -1
+sk1/sf/x/0022
+  rotate: false
+  xy: 141, 2
+  size: 131, 118
+  orig: 244, 231
+  offset: 61, 18
+  index: -1
+sk1/sf/x/0024
+  rotate: false
+  xy: 2, 8
+  size: 137, 115
+  orig: 244, 231
+  offset: 58, 21
+  index: -1
+sk1/sf/x/0026
+  rotate: false
+  xy: 251, 122
+  size: 138, 114
+  orig: 244, 231
+  offset: 58, 22
+  index: -1
+sk1/sf/x/0028
+  rotate: false
+  xy: 115, 125
+  size: 134, 111
+  orig: 244, 231
+  offset: 58, 25
+  index: -1
+sk1/sf/x/0030
+  rotate: true
+  xy: 2, 156
+  size: 129, 111
+  orig: 244, 231
+  offset: 61, 25
+  index: -1
+sk1/sf/x/0032
+  rotate: false
+  xy: 242, 238
+  size: 123, 110
+  orig: 244, 231
+  offset: 64, 25
+  index: -1
+sk1/sf/x/0034
+  rotate: false
+  xy: 367, 238
+  size: 124, 110
+  orig: 244, 231
+  offset: 63, 24
+  index: -1
+sk1/sf/x/0036
+  rotate: false
+  xy: 118, 253
+  size: 122, 106
+  orig: 244, 231
+  offset: 64, 27
+  index: -1
+sk1/sf/x/0038
+  rotate: false
+  xy: 2, 287
+  size: 114, 104
+  orig: 244, 231
+  offset: 69, 28
+  index: -1
+sk1/sf/x/0040
+  rotate: false
+  xy: 307, 350
+  size: 104, 95
+  orig: 244, 231
+  offset: 74, 34
+  index: -1
+sk1/sf/x/0042
+  rotate: false
+  xy: 214, 361
+  size: 91, 84
+  orig: 244, 231
+  offset: 82, 40
+  index: -1
+sk1/sf/x/0044
+  rotate: false
+  xy: 2, 393
+  size: 75, 52
+  orig: 244, 231
+  offset: 91, 49
+  index: -1

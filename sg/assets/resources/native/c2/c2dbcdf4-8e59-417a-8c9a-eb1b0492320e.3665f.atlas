@@ -1,0 +1,41 @@
+
+zhanghe_skill01_dd_up.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dandao/0000
+  rotate: true
+  xy: 141, 2
+  size: 115, 25
+  orig: 200, 100
+  offset: 53, 39
+  index: -1
+dandao/0002
+  rotate: false
+  xy: 2, 7
+  size: 129, 26
+  orig: 200, 100
+  offset: 39, 39
+  index: -1
+dandao/0004
+  rotate: false
+  xy: 2, 62
+  size: 136, 26
+  orig: 200, 100
+  offset: 32, 39
+  index: -1
+dandao/0006
+  rotate: false
+  xy: 2, 35
+  size: 136, 25
+  orig: 200, 100
+  offset: 32, 39
+  index: -1
+dandao/0008
+  rotate: false
+  xy: 2, 90
+  size: 137, 27
+  orig: 200, 100
+  offset: 31, 38
+  index: -1

@@ -1,0 +1,111 @@
+
+xuchu_skill03_sf_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fenli/dd/0000
+  rotate: false
+  xy: 2, 299
+  size: 171, 161
+  orig: 210, 210
+  offset: 28, 16
+  index: -1
+fenli/dd/0002
+  rotate: false
+  xy: 175, 302
+  size: 165, 158
+  orig: 210, 210
+  offset: 34, 16
+  index: -1
+fenli/dd/0004
+  rotate: true
+  xy: 342, 313
+  size: 147, 155
+  orig: 210, 210
+  offset: 52, 16
+  index: -1
+fenli/dd/0006
+  rotate: true
+  xy: 342, 185
+  size: 126, 153
+  orig: 210, 210
+  offset: 73, 16
+  index: -1
+fenli/dd/0008
+  rotate: true
+  xy: 175, 204
+  size: 96, 146
+  orig: 210, 210
+  offset: 102, 17
+  index: -1
+fenli/dd/0010
+  rotate: true
+  xy: 2, 230
+  size: 67, 129
+  orig: 210, 210
+  offset: 126, 19
+  index: -1
+fenli/hitshang/0000
+  rotate: false
+  xy: 390, 4
+  size: 89, 87
+  orig: 210, 210
+  offset: 66, 85
+  index: -1
+fenli/hitshang/0002
+  rotate: true
+  xy: 204, 8
+  size: 94, 92
+  orig: 210, 210
+  offset: 62, 84
+  index: -1
+fenli/hitshang/0004
+  rotate: true
+  xy: 298, 8
+  size: 94, 90
+  orig: 210, 210
+  offset: 62, 91
+  index: -1
+fenli/hitshang/0006
+  rotate: false
+  xy: 390, 93
+  size: 94, 90
+  orig: 210, 210
+  offset: 62, 92
+  index: -1
+fenli/hitshang/0008
+  rotate: false
+  xy: 204, 104
+  size: 99, 98
+  orig: 210, 210
+  offset: 61, 87
+  index: -1
+fenli/hitshang/0010
+  rotate: true
+  xy: 2, 2
+  size: 118, 108
+  orig: 210, 210
+  offset: 52, 81
+  index: -1
+fenli/hitshang/0012
+  rotate: false
+  xy: 2, 122
+  size: 126, 106
+  orig: 210, 210
+  offset: 48, 78
+  index: -1
+fenli/hitshang/0014
+  rotate: true
+  xy: 112, 18
+  size: 102, 90
+  orig: 210, 210
+  offset: 42, 89
+  index: -1
+fenli/hitshang/0016
+  rotate: false
+  xy: 133, 249
+  size: 37, 48
+  orig: 210, 210
+  offset: 91, 119
+  index: -1

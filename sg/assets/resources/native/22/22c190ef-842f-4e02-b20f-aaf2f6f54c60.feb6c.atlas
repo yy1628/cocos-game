@@ -1,0 +1,41 @@
+
+pangde_skill01_sj_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouji/sj (1)
+  rotate: false
+  xy: 355, 67
+  size: 154, 172
+  orig: 364, 364
+  offset: 105, 124
+  index: -1
+shouji/sj (3)
+  rotate: false
+  xy: 2, 2
+  size: 173, 215
+  orig: 364, 364
+  offset: 103, 104
+  index: -1
+shouji/sj (5)
+  rotate: false
+  xy: 2, 219
+  size: 181, 217
+  orig: 364, 364
+  offset: 100, 104
+  index: -1
+shouji/sj (7)
+  rotate: false
+  xy: 185, 241
+  size: 178, 195
+  orig: 364, 364
+  offset: 100, 115
+  index: -1
+shouji/sj (9)
+  rotate: false
+  xy: 177, 25
+  size: 176, 192
+  orig: 364, 364
+  offset: 101, 119
+  index: -1

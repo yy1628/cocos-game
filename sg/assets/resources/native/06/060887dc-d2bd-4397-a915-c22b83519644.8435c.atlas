@@ -1,0 +1,279 @@
+
+huangyueying.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a-body
+  rotate: false
+  xy: 567, 3
+  size: 79, 88
+  orig: 79, 88
+  offset: 0, 0
+  index: -1
+a-cap
+  rotate: false
+  xy: 413, 5
+  size: 152, 82
+  orig: 152, 82
+  offset: 0, 0
+  index: -1
+a-hair1
+  rotate: false
+  xy: 572, 326
+  size: 88, 79
+  orig: 88, 79
+  offset: 0, 0
+  index: -1
+a-hair2
+  rotate: true
+  xy: 480, 230
+  size: 89, 144
+  orig: 89, 144
+  offset: 0, 0
+  index: -1
+a-hair3
+  rotate: true
+  xy: 287, 2
+  size: 66, 124
+  orig: 66, 124
+  offset: 0, 0
+  index: -1
+a-hair4
+  rotate: true
+  xy: 662, 356
+  size: 49, 117
+  orig: 49, 117
+  offset: 0, 0
+  index: -1
+a-head
+  rotate: false
+  xy: 362, 89
+  size: 124, 138
+  orig: 124, 138
+  offset: 0, 0
+  index: -1
+a-hip
+  rotate: true
+  xy: 732, 176
+  size: 53, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1
+a-larm1
+  rotate: false
+  xy: 648, 2
+  size: 108, 93
+  orig: 108, 93
+  offset: 0, 0
+  index: -1
+a-larm2
+  rotate: false
+  xy: 841, 464
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+a-lhand
+  rotate: false
+  xy: 712, 331
+  size: 36, 23
+  orig: 36, 24
+  offset: 0, 1
+  index: -1
+a-lleg1
+  rotate: true
+  xy: 662, 328
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+a-lleg2
+  rotate: false
+  xy: 758, 53
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+a-lshoulder
+  rotate: false
+  xy: 242, 46
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+a-lyifu
+  rotate: false
+  xy: 242, 70
+  size: 118, 149
+  orig: 118, 149
+  offset: 0, 0
+  index: -1
+a-rarm1
+  rotate: false
+  xy: 728, 231
+  size: 94, 98
+  orig: 94, 98
+  offset: 0, 0
+  index: -1
+a-rarm2
+  rotate: true
+  xy: 572, 407
+  size: 103, 102
+  orig: 103, 102
+  offset: 0, 0
+  index: -1
+a-rarm3-1
+  rotate: false
+  xy: 676, 410
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+a-rarm4-1
+  rotate: true
+  xy: 488, 93
+  size: 135, 121
+  orig: 135, 121
+  offset: 0, 0
+  index: -1
+a-rhand
+  rotate: false
+  xy: 732, 99
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+a-rhand2
+  rotate: true
+  xy: 796, 22
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+a-rhand4-1
+  rotate: true
+  xy: 795, 60
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+a-rhand4-2
+  rotate: false
+  xy: 839, 410
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+a-rhand_0
+  rotate: true
+  xy: 732, 133
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+a-rleg1
+  rotate: true
+  xy: 783, 415
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+a-rleg2
+  rotate: true
+  xy: 218, 4
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+a-rshoulder
+  rotate: false
+  xy: 772, 101
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+a-ryifu
+  rotate: false
+  xy: 480, 321
+  size: 90, 189
+  orig: 90, 189
+  offset: 0, 0
+  index: -1
+a-skirt
+  rotate: false
+  xy: 781, 346
+  size: 83, 62
+  orig: 83, 62
+  offset: 0, 0
+  index: -1
+a-wq1
+  rotate: false
+  xy: 251, 229
+  size: 227, 281
+  orig: 227, 281
+  offset: 0, 0
+  index: -1
+a-wq2
+  rotate: true
+  xy: 135, 46
+  size: 173, 105
+  orig: 173, 105
+  offset: 0, 0
+  index: -1
+a-yanjing
+  rotate: false
+  xy: 135, 2
+  size: 81, 42
+  orig: 82, 42
+  offset: 1, 0
+  index: -1
+b-larm4
+  rotate: true
+  xy: 611, 97
+  size: 131, 119
+  orig: 131, 119
+  offset: 0, 0
+  index: -1
+b-lhand4-1
+  rotate: false
+  xy: 750, 331
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+b-lhand4-2
+  rotate: true
+  xy: 758, 11
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+b-rarm2-1
+  rotate: false
+  xy: 626, 231
+  size: 100, 93
+  orig: 100, 93
+  offset: 0, 0
+  index: -1
+b-rarm2-2
+  rotate: true
+  xy: 783, 450
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+wq4-1
+  rotate: true
+  xy: 2, 21
+  size: 198, 131
+  orig: 198, 131
+  offset: 0, 0
+  index: -1
+wq4-2
+  rotate: false
+  xy: 2, 221
+  size: 247, 289
+  orig: 247, 289
+  offset: 0, 0
+  index: -1

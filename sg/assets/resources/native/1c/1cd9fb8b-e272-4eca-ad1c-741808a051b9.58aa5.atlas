@@ -1,0 +1,13 @@
+
+shenguanyu_skill01_buff_up.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk1buff/0000
+  rotate: false
+  xy: 2, 2
+  size: 72, 38
+  orig: 152, 129
+  offset: 37, 45
+  index: -1
